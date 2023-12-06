@@ -21,6 +21,7 @@ for i in ${!dirs[@]}; do
     sed -i 's/ghg.scope_2.//g' classes.dot
     sed -i 's/ghg.scope_3.//g' classes.dot
     sed -i '/Meta/d' classes.dot
+    sed -i '/ModelForm/d' classes.dot
     cd $SCRIPT_DIR
 done
 

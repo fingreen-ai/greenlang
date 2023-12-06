@@ -1,9 +1,6 @@
 digraph "classes" {
 rankdir=BT
 charset="utf-8"
-"django.forms.models.ModelForm" [color="black", fontcolor="black", label=<{django.forms.models.ModelForm|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
 "forms.fugitive_emissions.MassBalanceMethodForm" [color="black", fontcolor="black", label=<{forms.fugitive_emissions.MassBalanceMethodForm|acquired : FloatField<br ALIGN="LEFT"/>available : FloatField<br ALIGN="LEFT"/>begin_year_storage : FloatField<br ALIGN="LEFT"/>end_year_storage : FloatField<br ALIGN="LEFT"/>helper : FormHelper<br ALIGN="LEFT"/>method : ModelChoiceField<br ALIGN="LEFT"/>purchased : FloatField<br ALIGN="LEFT"/>year_decrease : FloatField<br ALIGN="LEFT"/>|save(commit)<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
 "forms.fugitive_emissions.ScreeningMethodApproachForm" [color="black", fontcolor="black", label=<{forms.fugitive_emissions.ScreeningMethodApproachForm|gas : ModelChoiceField<br ALIGN="LEFT"/>helper : FormHelper<br ALIGN="LEFT"/>method : ModelChoiceField<br ALIGN="LEFT"/>quantity : FloatField<br ALIGN="LEFT"/>|save(commit)<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
-"forms.fugitive_emissions.MassBalanceMethodForm" -> "django.forms.models.ModelForm" [arrowhead="empty", arrowtail="none"];
-"forms.fugitive_emissions.ScreeningMethodApproachForm" -> "django.forms.models.ModelForm" [arrowhead="empty", arrowtail="none"];
 }
