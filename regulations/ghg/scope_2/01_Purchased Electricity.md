@@ -32,7 +32,7 @@ La méthode basée sur la localisation utilise des facteurs d'émission moyens p
 
 ### implem_path
 
-ghg.calculation.scope_2.purchased_electricity.LocationBasedMethod
+greenlang.calculations.ghg.scope_2.purchased_electricity.LocationBasedMethod
 
 ## [Marked Based Method](#marked-based-method)
 
@@ -50,4 +50,4 @@ La méthode basée sur le marché reflète les émissions de gaz à effet de ser
 
 ### implem_path
 
-ghg.calculation.scope_2.purchased_electricity.MarkedBasedMethod
+greenlang.calculations.ghg.scope_2.purchased_electricity.MarkedBasedMethod

@@ -58,7 +58,7 @@ Méthode basée sur la distance
 
 ### implem_path
 
-ghg.calculation.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod
+greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod
 
 ## [Spend-based method](#spend-based-method)
 
@@ -74,5 +74,5 @@ Méthode basée sur les dépenses
 
 ### implem_path
 
-ghg.calculation.scope_3.downstream_transportation_and_distribution.SpendBasedMethod
+greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.SpendBasedMethod
 

@@ -27,4 +27,4 @@ Méthode générique
 
 ### implem_path
 
-ghg.calculation.scope_1.stationary_combustion.GenericMethod
+greenlang.calculations.ghg.scope_1.stationary_combustion.GenericMethod

@@ -75,7 +75,7 @@ Dans certains cas, des entreprises de traitement des déchets tierces peuvent fo
 
 ### implem_path
 
-ghg.calculation.scope_3.waste_generated_in_operations.SupplierSpecificMethod
+greenlang.calculations.ghg.scope_3.waste_generated_in_operations.SupplierSpecificMethod
 
 
 ## [Average-data method](#average-data-method)
@@ -116,7 +116,7 @@ Les entreprises devraient collecter les données suivantes :
 
 ### implem_path
 
-ghg.calculation.scope_3.waste_generated_in_operations.AverageDataMethod
+greenlang.calculations.ghg.scope_3.waste_generated_in_operations.AverageDataMethod
 
 
 ## [Waste type method](#waste-type-method)
@@ -156,4 +156,4 @@ Les entreprises devraient collecter les données suivantes :
 
 ### implem_path
 
-ghg.calculation.scope_3.waste_generated_in_operations.WasteTypeMethod
+greenlang.calculations.ghg.scope_3.waste_generated_in_operations.WasteTypeMethod

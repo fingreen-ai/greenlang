@@ -32,7 +32,7 @@ Méthode basée sur la consommation de carburant
 
 ### implem_path
 
-ghg.calculation.scope_1.mobile_combustion.FuelAmountMethod
+greenlang.calculations.ghg.scope_1.mobile_combustion.FuelAmountMethod
 
 ## [Vehicule Type Method](#vehicule-type-method)
 
@@ -50,4 +50,4 @@ Méthode basée sur le type de véhicule
 
 ### implem_path
 
-ghg.calculation.scope_1.mobile_combustion.VehiculeTypeMethod
+greenlang.calculations.ghg.scope_1.mobile_combustion.VehiculeTypeMethod

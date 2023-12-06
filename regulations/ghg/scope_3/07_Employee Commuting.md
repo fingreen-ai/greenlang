@@ -96,7 +96,7 @@ La collecte de données de déplacement auprès de tous les employés par le bia
 
 ### implem_path
 
-ghg.calculation.scope_3.employee_commuting.DistanceBasedMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.DistanceBasedMethod
 
 
 ## [Equipment-based method](#equipment-based-method)
@@ -115,7 +115,7 @@ Emissions from teleworking
 
 ### implem_path
 
-ghg.calculation.scope_3.employee_commuting.EquipmentBasedMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
 
 
 ## [Average-data method](#average-data-method)
@@ -164,4 +164,4 @@ Si les données spécifiques à l'entreprise ne sont pas disponibles, les entrep
 
 ### implem_path
 
-ghg.calculation.scope_3.employee_commuting.AverageDataMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.AverageDataMethod

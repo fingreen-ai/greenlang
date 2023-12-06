@@ -32,7 +32,7 @@ Un facteur d'émission basé sur la localisation pour de tels systèmes devrait 
 
 ### implem_path
 
-ghg.calculation.scope_2.purchased_heat_or_steam.LocationBasedMethod
+greenlang.calculations.ghg.scope_2.purchased_heat_or_steam.LocationBasedMethod
 
 ## [Marked Based Method](#marked-based-method)
 
@@ -48,4 +48,4 @@ Méthode basée sur le marché
 
 ### implem_path
 
-ghg.calculation.scope_2.purchased_heat_or_steam.MarkedBasedMethod
+greenlang.calculations.ghg.scope_2.purchased_heat_or_steam.MarkedBasedMethod

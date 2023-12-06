@@ -34,7 +34,7 @@ Méthode spécifique aux batiments loués
 
 ### implem_path
 
-ghg.calculation.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod
+greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod
 
 
 ## [Leased Buildings - Average-data method](#leased-buildings-average-data-method)
@@ -49,7 +49,7 @@ Méthode des données moyennes pour les batiments loués
 
 ### implem_path
 
-ghg.calculation.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod
+greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod
 
 
 ## [Leased Vehicles - Fuel Amount Method](#leased-vehicles-fuel-amount-method)
@@ -64,7 +64,7 @@ Méthode basés sur la quantité de carburant pour les véhicules loués
 
 ### implem_path
 
-ghg.calculation.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod
+greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod
 
 ## [Leased Vehicles - Vehicle Type Method](#leased-vehicles-vehicle-type-method)
 
@@ -78,4 +78,4 @@ Méthode basés sur le type de véhicule pour les véhicules loués
 
 ### implem_path
 
-ghg.calculation.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod
+greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod

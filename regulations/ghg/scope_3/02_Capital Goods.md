@@ -79,7 +79,7 @@ Référence : https://ghgprotocol.org/sites/default/files/2023-03/Scope3_Calcula
 
 ### implem_path
 
-ghg.calculation.scope_3.capital_goods.SupplierSpecificMethod
+greenlang.calculations.ghg.scope_3.capital_goods.SupplierSpecificMethod
 
 
 ## [Average-data method](#average-data-method)
@@ -148,7 +148,7 @@ Référence : https://ghgprotocol.org/sites/default/files/2023-03/Scope3_Calcula
 
 ### implem_path
 
-ghg.calculation.scope_3.capital_goods.AverageDataMethod
+greenlang.calculations.ghg.scope_3.capital_goods.AverageDataMethod
 
 ## [Spend-based method](#spend-based-method)
 
@@ -217,5 +217,5 @@ Référence : https://ghgprotocol.org/sites/default/files/2023-03/Scope3_Calcula
 
 ### implem_path
 
-ghg.calculation.scope_3.capital_goods.SpendBasedMethod
+greenlang.calculations.ghg.scope_3.capital_goods.SpendBasedMethod
 

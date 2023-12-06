@@ -60,4 +60,4 @@ les émissions sont converties à l'aide des facteurs « de la source au réserv
 
 ### implem_path
 
-ghg.calculation.scope_3.fuel_and_energy_related_activities.AutomaticMethod
+greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.AutomaticMethod

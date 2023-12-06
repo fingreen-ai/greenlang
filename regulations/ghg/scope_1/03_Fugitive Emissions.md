@@ -33,7 +33,7 @@ Données d'activité basées sur les dossiers d'achat et les dossiers de service
 
 ### implem_path
 
-ghg.calculation.scope_1.fugitive_emissions.MassBalanceMethod
+greenlang.calculations.ghg.scope_1.fugitive_emissions.MassBalanceMethod
 
 
 ## [Screening method approach](#screening-method-approach)
@@ -52,6 +52,6 @@ Utilisez uniquement si les émissions fugitives sont relativement faibles. Si le
 
 ### implem_path
 
-ghg.calculation.scope_1.fugitive_emissions.ScreeningMethodApproach
+greenlang.calculations.ghg.scope_1.fugitive_emissions.ScreeningMethodApproach
 
 

@@ -46,7 +46,7 @@ Méthode basée sur les dépenses
 
 ### implem_path
 
-ghg.calculation.scope_3.business_travels.SpendBasedMethod
+greenlang.calculations.ghg.scope_3.business_travels.SpendBasedMethod
 
 
 ## [Distance-based method](#distance-based-method)
@@ -63,7 +63,7 @@ Méthode basée sur la distance
 
 ### implem_path
 
-ghg.calculation.scope_3.business_travels.DistanceBasedMethod
+greenlang.calculations.ghg.scope_3.business_travels.DistanceBasedMethod
 
 
 ## [Accomodation location method](#accomodation-location-method)
@@ -80,4 +80,4 @@ Méthode basée sur le lieu d'hébergement
 
 ### implem_path
 
-ghg.calculation.scope_3.business_travels.AccomodationLocationMethod
+greenlang.calculations.ghg.scope_3.business_travels.AccomodationLocationMethod
