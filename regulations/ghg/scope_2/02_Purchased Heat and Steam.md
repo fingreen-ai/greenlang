@@ -48,4 +48,4 @@ Méthode basée sur le marché
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_2.purchased_heat_or_steam.MarkedBasedMethod
+greenlang.calculations.ghg.scope_2.purchased_heat_or_steam.MarketBasedMethod

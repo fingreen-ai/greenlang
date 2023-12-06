@@ -18,7 +18,7 @@ How to contribute ?
 
 lorum ipsum dolor sit amet ...
 
-Licences:
+Licenses
 ---------
 
 .. toctree:: 

@@ -8,7 +8,7 @@ class LocationBasedMethod(BaseCalculationMethod):
     """Location based method"""
 
 
-class MarkedBasedMethod(BaseCalculationMethod):
+class MarketBasedMethod(BaseCalculationMethod):
     """Market based method"""
 
     @property

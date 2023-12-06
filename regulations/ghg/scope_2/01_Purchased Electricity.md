@@ -50,4 +50,4 @@ La méthode basée sur le marché reflète les émissions de gaz à effet de ser
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_2.purchased_electricity.MarkedBasedMethod
+greenlang.calculations.ghg.scope_2.purchased_electricity.MarketBasedMethod
