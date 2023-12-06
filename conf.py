@@ -32,7 +32,7 @@ extensions = [
     "myst_parser",
 ]
 
-templates_path = ["_templates"]
+templates_path = ["templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 source_suffix = {
     ".rst": "restructuredtext",

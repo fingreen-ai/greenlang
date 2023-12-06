@@ -1,6 +1,9 @@
 
+Greenlang
+=========
+
 .. toctree::
-    :caption: Greenlang
+    :caption: Contents
     :maxdepth: 2
 
     intro
