@@ -1,0 +1,1320 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,l,"0,27392",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,kg,"0,36924",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,gj,"8,27",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,l,"0,35178",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,kg,"0,451",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,gj,"10,25",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,l,"0,36333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,kg,"0,40824",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,gj,"10,97",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,l,"0,46351",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"0,5208",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,gj,14,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,l,"0,34252",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"0,38486",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,gj,"10,35",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,l,"0,41584",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,kg,"0,52373",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,gj,"19,54",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,l,"0,55701",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,gj,"11,37",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,l,"0,55701",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,gj,"11,37",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,l,"0,24578",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,kg,"0,4773",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,gj,"10,29",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,l,"0,41584",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,kg,"0,52373",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,gj,"19,54",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,l,"0,36333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,kg,"0,40824",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,gj,"10,97",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,l,"0,45725",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,kg,"0,51284",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,gj,"18,28",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,tonne,"157,83",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Biogas,,kwh,"0,02841",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,tonne,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,gj,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biogas,Landfill gas,,kwh,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,tj,"0,019",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,tonne,"0,00052",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biodiesels,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,tj,"0,014",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,tonne,"0,00037",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Biogasoline,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,tj,13327,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Charcoal,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,tonne,"68,65",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,gj,"0,01604",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Grass/straw,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,tj,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,tonne,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,m3,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Landfill gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,tj,3132,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,tonne,"157,83",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other biogas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other liquid biofuels,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Other primary solid biomass fuels,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Peat,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,tj,3132,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,tonne,"157,83",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sludge gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Sulphite lyes (Black liqour),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,tonne,"30,4",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,gj,"0,00792",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood chips,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,tonne,"52,14",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,gj,"0,01277",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood logs,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,tj,3342,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,tonne,"52,14",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood or Wood waste,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,tonne,177,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,gj,"0,03744",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biomass,Wood pellets,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,tj,14724,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Anthracite,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Blast furnace gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Brown coal briquettes,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coal tar,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven coke,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coke oven gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,tj,16595,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,tonne,"467,96718",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Coking coal,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas coke,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Gas works gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,tj,33037,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,tj,13941,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Lignite coke,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oil shale and tar sands,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,tj,15238,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Other bituminous coal,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Oxygen steel furnace gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Patent fuel,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,tj,20801,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Coal products,Sub bituminous coal,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,tonne,"342,14737",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,l,"0,19686",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,kwh_net_cv,"0,02719",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,kwh_gross_cv,"0,02509",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Butane,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,tonne,"537,6183",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,l,"0,0941",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,kwh_net_cv,"0,04282",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,kwh_gross_cv,"0,03865",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,tonne,"885,6871",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,l,"0,4008",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,kwh_net_cv,"0,07055",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,kwh_gross_cv,"0,06367",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,tonne,"347,0093",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,l,"0,18383",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,kwh_net_cv,"0,02719",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,kwh_gross_cv,"0,02532",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,tonne,"432,58645",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,l,"0,3434",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,kwh_net_cv,"0,03446",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,kwh_gross_cv,"0,0311",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,tonne,"432,58645",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,l,"0,3434",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,kwh_net_cv,"0,03446",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,kwh_gross_cv,"0,0311",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Natural gas (100% mineral blend),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,tonne,"304,5097",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,l,"0,11154",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,kwh_net_cv,"0,02352",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,kwh_gross_cv,"0,02164",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Other petroleum gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,tonne,"350,4556",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,l,"0,1805",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,kwh_net_cv,"0,02719",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,kwh_gross_cv,"0,02503",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,tonne,"815,3101",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,l,"0,5951",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,kwh_net_cv,"0,06552",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,kwh_gross_cv,"0,06224",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,tonne,"658,5702",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,l,"0,5269",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,kwh_net_cv,"0,054",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,kwh_gross_cv,"0,0513",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,tonne,"657,97242",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,l,"0,52807",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,kwh_net_cv,"0,054",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,kwh_gross_cv,"0,0513",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Burning oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonne,"745,6813",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,l,"0,6287",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,kwh_net_cv,"0,06264",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,kwh_gross_cv,"0,05888",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tonne,"720,7286",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,l,"0,6099",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,kwh_net_cv,"0,06109",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,kwh_gross_cv,"0,0575",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,tonne,"709,0808",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,l,"0,6972",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,kwh_net_cv,"0,06264",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,kwh_gross_cv,"0,05888",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,tonne,"740,6972",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,l,"0,6325",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,kwh_net_cv,"0,06264",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,kwh_gross_cv,"0,05888",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,tonne,"824,0484",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,kg,"0,0728",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,kwh_net_cv,"0,06843",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Lubricants,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,tonne,"709,0808",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,l,"0,6972",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,kwh_net_cv,"0,06264",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,kwh_gross_cv,"0,05888",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,tonne,"740,6972",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,l,"0,63253",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,kwh_net_cv,"0,06264",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,kwh_gross_cv,"0,05888",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,tonne,"640,80918",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,kg,"0,05076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,kwh_net_cv,"0,04822",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Naphtha,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonne,"812,6105",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,l,"0,6028",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,kwh_net_cv,"0,06552",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,kwh_gross_cv,"0,06224",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tonne,"824,1216",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,l,"0,61328",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,kwh_net_cv,"0,06774",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,kwh_gross_cv,"0,06425",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonne,"828,96368",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,l,"0,70791",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,kwh_net_cv,"0,0701",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,kwh_gross_cv,"0,0659",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonne,"835,81882",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,l,"0,82185",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,kwh_net_cv,"0,07384",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,kwh_gross_cv,"0,06941",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,tonne,"346,79114",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,kg,"0,03058",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,kwh_net_cv,"0,02905",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Refinery miscellaneous,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,tonne,"824,0484",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,kg,"0,07029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,kwh_net_cv,"0,06563",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Waste oils,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,tj,9012,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,tonne,"432,58645",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,m3,"0,30281",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Natural gas,Natural gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,tj,18404,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,tonne,"815,31014",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,l,"0,57887",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Aviation gasoline,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Bitumen,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,l,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Crude oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,tj,6563,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,tonne,"304,5097",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,m3,"0,39586",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Ethane,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,tj,17341,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,tonne,"745,68125",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,l,"0,62637",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Gas/Diesel oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,tj,14866,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,tonne,"658,57016",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,l,"0,46758",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet gasoline,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,tj,14920,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,tonne,"657,97242",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,l,"0,5198",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Jet kerosene,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,tj,7336,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,tonne,"347,0093",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,l,"0,18739",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Liquified Petroleum Gases,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,tj,20499,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,tonne,"824,0484",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,l,"0,82405",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Lubricants,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,tj,18343,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,tonne,"812,61052",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,l,"0,60133",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Motor gasoline,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,tj,14400,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,tonne,"640,80918",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,l,"0,49342",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Naphtha,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Natural Gas Liquids,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Orimulsion,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,tj,15022,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,tonne,"657,97242",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,l,"0,52638",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other kerosene,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Other petroleum products,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Paraffin waxes,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,tj,12285,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,tonne,"399,24907",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Petroleum coke,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery feedstocks,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Refinery gas,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,tj,20689,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,tonne,"835,81882",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,l,"0,78567",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Residual fuel oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,l,0,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,Shale oil,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Oil products,White Spirit/SBP,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Industrial wastes,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,tonne,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,tj,20499,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,tonne,"824,0484",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,kg,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,kwh_net_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Other wastes,Waste oils,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,tonne,"442,7895",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,kg,"0,05571",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,kwh_net_cv,"0,05292",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (domestic),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,tonne,"371,69625",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,kg,"0,05571",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,kwh_net_cv,"0,05292",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation - home produced coal only),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,tonne,"372,27789",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,kg,"0,05571",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,kwh_net_cv,"0,05292",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (electricity generation),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,tonne,"393,14029",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,kg,"0,05571",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,kwh_net_cv,"0,05292",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coal (industrial),,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,tonne,"467,96718",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,kg,"0,05571",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,kwh_net_cv,"0,05292",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Coking coal,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,tj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,tonne,"399,24907",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,l,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,m3,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,kg,"0,04231",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,kwh_net_cv,"0,04019",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,kwh_gross_cv,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,gj,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,kwh,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,tonnes,"537,6183",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,litres,"0,09408",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,tonnes,"885,68706",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,litres,"0,40076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,tonnes,"347,0093",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,litres,"0,18383",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,tonnes,"350,45558",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,litres,"0,18046",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,tonnes,"815,31014",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,litres,"0,59512",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,tonnes,"658,57016",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,litres,"0,52686",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tonnes,"720,72857",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,litres,"0,60986",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonnes,"745,68125",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,litres,"0,62874",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,tonnes,"709,08076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,litres,"0,69723",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,tonnes,"740,69721",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,litres,"0,63253",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tonnes,"824,12",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,litres,"0,61328",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonnes,"812,61052",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,litres,"0,60283",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonnes,"835,81882",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,litres,"0,82185",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonnes,"828,96368",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,litres,"0,70791",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,tonnes,"740,69721",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,litres,"0,63253",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,tonnes,"709,08076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,litres,"0,69723",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,litres,"0,41584",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,kg,"0,52373",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,litres,"0,36333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,kg,"0,40824",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,litres,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,kg,"0,55701",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,litres,"0,34252",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"0,38486",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,litres,"0,46351",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"0,5208",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,litres,"0,35178",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,kg,"0,451",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,litres,"0,24578",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,kg,"0,4773",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,litres,"0,27392",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,kg,"0,36924",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,litres,"0,45725",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,kg,"0,51284",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,litres,"0,36333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,kg,"0,40824",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,litres,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,kg,"0,55701",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,litres,"0,41584",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,kg,"0,52373",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,02573",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,0381",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,03798",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,01144",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,04141",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,06132",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,06112",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,01841",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,03176",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,04238",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,04079",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,01493",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,01202",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,05112",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,0682",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,06564",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,02402",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,01934",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,03479",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,04904",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,04192",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,02441",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,01369",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,05599",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,07892",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,06746",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,03928",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,02203",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,03885",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,05709",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,04276",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,02544",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,01011",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,06252",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,09188",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,06882",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,04094",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,01627",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,04241",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,06267",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,04724",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,0257200",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,01333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,06825",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,10086",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,07602",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,04139",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,02147",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,05171",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,09149",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,07055",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,03248",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,01558",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,08322",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,14724",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,11354",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,05228",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,02508",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,0406",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,06808",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,0637",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,02618",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,01946",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,06533",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,10957",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,10251",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,04213",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,03133",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,04974",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,06074",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,05265",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,02932",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,01775",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,08005",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,09776",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,08474",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,04719",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,02857",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,04266",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,05462",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,04585",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,02385",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,01799",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Diesel,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",mile,"0,06866",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Petrol,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",mile,"0,0879",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Unknow fuel,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",mile,"0,07379",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Plug-in hybrid,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",mile,"0,0384",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by market segment)|Battery,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",mile,"0,02895",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,03344",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,04186",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,03904",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,01493",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,01189",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,02808",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,05381",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,06737",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,06283",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,02403",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,01914",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,04519",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,04018",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,05266",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,04599",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,02498",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,01368",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|CNG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,0335",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|LPG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,02114",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,02857",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,06467",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,08475",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,07402",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,04021",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,02202",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|CNG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,05392",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|LPG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,03402",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,04597",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,05059",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,07833",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,05783",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,02875",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,0158",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|CNG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,0502",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|LPG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,03144",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,03864",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,08142",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,12606",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,09307",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,04627",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,02542",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|CNG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,08078",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|LPG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,0506",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,06219",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Average car,Unknown engine size.,km,"0,04104",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Average car,Unknown engine size.,km,"0,04885",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Average car,Unknown engine size.,km,"0,04508",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Average car,Unknown engine size.,km,"0,02657",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Average car,Unknown engine size.,km,"0,01426",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|CNG,Average car,Unknown engine size.,km,"0,03718",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|LPG,Average car,Unknown engine size.,km,"0,02339",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Average car,Unknown engine size.,km,"0,03132",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Diesel,Average car,Unknown engine size.,mile,"0,06604",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Petrol,Average car,Unknown engine size.,mile,"0,07862",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Unknow fuel,Average car,Unknown engine size.,mile,"0,07255",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Plug-in hybrid,Average car,Unknown engine size.,mile,"0,04276",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Battery,Average car,Unknown engine size.,mile,"0,02295",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|CNG,Average car,Unknown engine size.,mile,"0,05984",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|LPG,Average car,Unknown engine size.,mile,"0,03764",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Cars (by size)|Hybrid,Average car,Unknown engine size.,mile,"0,0504",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Small,Mopeds/scooters up to 125cc.,km,"0,02277",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Small,Mopeds/scooters up to 125cc.,mile,"0,03665",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Medium,125cc to 500cc,km,"0,02765",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Medium,125cc to 500cc,mile,"0,04449",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Large,500cc +,km,"0,03678",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Large,500cc +,mile,"0,05919",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Average,Unknown engine size,km,"0,03134",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Motorbike|Petrol,Average,Unknown engine size,mile,"0,05043",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,03568",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05603",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,0103",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,05743",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09018",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,01658",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,04467",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05556",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,01422",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,0719",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,08941",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,02288",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,06491",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,08788",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,01995",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,10446",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,14142",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,03211",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05896",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05901",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Unknow fuel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05896",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,01423",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|CNG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,04964",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|LPG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,03185",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Diesel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09489",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Petrol,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09497",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Unknow fuel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09489",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|Battery,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,0229",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|CNG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,07989",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,Vans|LPG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,05126",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,1166",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,18765",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,1422",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,22884",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,23228",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,37382",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,19479",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,31349",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,18579",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,29899",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,22106",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,35577",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,21962",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,35344",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,20889",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,33618",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,1391",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,22385",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,16963",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,27299",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,27709",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,44594",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,23237",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,37397",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,21539",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,34663",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,25628",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,41244",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,25461",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,40975",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,24521",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicule,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,39462",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,location,,District heat and steam,,kwh,"0,03153",https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2022,2022
+fuel-and-energy-related-activities,automatic-method,location,,Austria,,kwh,"0,02",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641,2020
+fuel-and-energy-related-activities,automatic-method,location,,Belgium,,kwh,"0,032",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1642,2020
+fuel-and-energy-related-activities,automatic-method,location,,Bulgaria,,kwh,"0,026",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1643,2020
+fuel-and-energy-related-activities,automatic-method,location,,Croatia,,kwh,"0,031",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1644,2020
+fuel-and-energy-related-activities,automatic-method,location,,Cyprus,,kwh,"0,101",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1645,2020
+fuel-and-energy-related-activities,automatic-method,location,,Czech Republic,,kwh,"0,036",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1646,2020
+fuel-and-energy-related-activities,automatic-method,location,,Denmark,,kwh,"0,015",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1647,2020
+fuel-and-energy-related-activities,automatic-method,location,,Estonia,,kwh,"0,019",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1648,2020
+fuel-and-energy-related-activities,automatic-method,location,,Finland,,kwh,"0,01",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1649,2020
+fuel-and-energy-related-activities,automatic-method,location,,France,,kwh,"0,012",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1650,2020
+fuel-and-energy-related-activities,automatic-method,location,,Germany,,kwh,"0,042",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1651,2020
+fuel-and-energy-related-activities,automatic-method,location,,Greece,,kwh,"0,048",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1652,2020
+fuel-and-energy-related-activities,automatic-method,location,,Hungary,,kwh,"0,025",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1653,2020
+fuel-and-energy-related-activities,automatic-method,location,,Ireland,,kwh,"0,055",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1654,2020
+fuel-and-energy-related-activities,automatic-method,location,,Italy,,kwh,"0,075",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1655,2020
+fuel-and-energy-related-activities,automatic-method,location,,Latvia,,kwh,"0,022",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1656,2020
+fuel-and-energy-related-activities,automatic-method,location,,Lithuania,,kwh,"0,014",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1657,2020
+fuel-and-energy-related-activities,automatic-method,location,,Luxembourg,,kwh,"0,005",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1658,2020
+fuel-and-energy-related-activities,automatic-method,location,,Malta,,kwh,"0,068",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1659,2020
+fuel-and-energy-related-activities,automatic-method,location,,Netherlands,,kwh,"0,063",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1660,2020
+fuel-and-energy-related-activities,automatic-method,location,,Poland,,kwh,"0,071",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1661,2020
+fuel-and-energy-related-activities,automatic-method,location,,Portugal,,kwh,"0,047",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1662,2020
+fuel-and-energy-related-activities,automatic-method,location,,Romania,,kwh,"0,027",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1663,2020
+fuel-and-energy-related-activities,automatic-method,location,,Slovak Republic,,kwh,"0,026",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1664,2020
+fuel-and-energy-related-activities,automatic-method,location,,Slovenia,,kwh,"0,014",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1665,2020
+fuel-and-energy-related-activities,automatic-method,location,,Spain,,kwh,"0,034",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1666,2020
+fuel-and-energy-related-activities,automatic-method,location,,Sweden,,kwh,"0,005",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1667,2020
+fuel-and-energy-related-activities,automatic-method,location,,United Kingdom,,kwh,"0,05048",https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2022,2022
+fuel-and-energy-related-activities,automatic-method,location,,EU-27,,kwh,"0,038",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1670,2020

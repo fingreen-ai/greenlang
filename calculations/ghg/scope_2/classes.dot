@@ -1,0 +1,13 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"ghg.base.base.BaseCalculationMethod" [color="black", fontcolor="black", label=<{ghg.base.base.BaseCalculationMethod|form_class<br ALIGN="LEFT"/>|amount(collection_item)<br ALIGN="LEFT"/>compute(collection_item)<br ALIGN="LEFT"/>explain(collection_item)<br ALIGN="LEFT"/>total_co2(factor_value)<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
+"purchased_electricity.LocationBasedMethod" [color="black", fontcolor="black", label=<{purchased_electricity.LocationBasedMethod|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"purchased_electricity.MarkedBasedMethod" [color="black", fontcolor="black", label=<{purchased_electricity.MarkedBasedMethod|form_class<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"purchased_heat_or_steam.LocationBasedMethod" [color="black", fontcolor="black", label=<{purchased_heat_or_steam.LocationBasedMethod|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"purchased_heat_or_steam.MarkedBasedMethod" [color="black", fontcolor="black", label=<{purchased_heat_or_steam.MarkedBasedMethod|form_class<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"purchased_electricity.LocationBasedMethod" -> "ghg.base.base.BaseCalculationMethod" [arrowhead="empty", arrowtail="none"];
+"purchased_electricity.MarkedBasedMethod" -> "ghg.base.base.BaseCalculationMethod" [arrowhead="empty", arrowtail="none"];
+"purchased_heat_or_steam.LocationBasedMethod" -> "ghg.base.base.BaseCalculationMethod" [arrowhead="empty", arrowtail="none"];
+"purchased_heat_or_steam.MarkedBasedMethod" -> "ghg.base.base.BaseCalculationMethod" [arrowhead="empty", arrowtail="none"];
+}

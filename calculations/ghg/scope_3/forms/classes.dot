@@ -1,0 +1,16 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"django.forms.models.ModelForm" [color="black", fontcolor="black", label=<{django.forms.models.ModelForm|<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"ghg.base.forms.CustomAverageDataMethodForm" [color="black", fontcolor="black", label=<{ghg.base.forms.CustomAverageDataMethodForm|factor_type : str<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"ghg.base.forms.PredefinedFactorCalculationMethodForm" [color="black", fontcolor="black", label=<{ghg.base.forms.PredefinedFactorCalculationMethodForm|helper : FormHelper<br ALIGN="LEFT"/>method : ModelChoiceField<br ALIGN="LEFT"/>|get_fields()<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
+"forms.fuel_and_energy_related_activities.AutomaticMethodForm" [color="black", fontcolor="black", label=<{forms.fuel_and_energy_related_activities.AutomaticMethodForm|helper : FormHelper<br ALIGN="LEFT"/>method : ModelChoiceField<br ALIGN="LEFT"/>|save(commit)<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
+"forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm" [color="black", fontcolor="black", label=<{forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm|helper : FormHelper<br ALIGN="LEFT"/>leased_floor_space : FloatField<br ALIGN="LEFT"/>leased_month_count : IntegerField<br ALIGN="LEFT"/>method : ModelChoiceField<br ALIGN="LEFT"/>scope1_emissions : FloatField<br ALIGN="LEFT"/>scope2_emissions : FloatField<br ALIGN="LEFT"/>total_floor_space : FloatField<br ALIGN="LEFT"/>|save(commit)<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
+"forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm" [color="black", fontcolor="black", label=<{forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm|leased_month_count : IntegerField<br ALIGN="LEFT"/>|get_fields()<br ALIGN="LEFT"/>save(commit)<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
+"forms.waste_generated_in_operations.WasteTreatmentForm" [color="black", fontcolor="black", label=<{forms.waste_generated_in_operations.WasteTreatmentForm|factor_type : str<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"ghg.base.forms.PredefinedFactorCalculationMethodForm" -> "django.forms.models.ModelForm" [arrowhead="empty", arrowtail="none"];
+"forms.fuel_and_energy_related_activities.AutomaticMethodForm" -> "django.forms.models.ModelForm" [arrowhead="empty", arrowtail="none"];
+"forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm" -> "django.forms.models.ModelForm" [arrowhead="empty", arrowtail="none"];
+"forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm" -> "ghg.base.forms.PredefinedFactorCalculationMethodForm" [arrowhead="empty", arrowtail="none"];
+"forms.waste_generated_in_operations.WasteTreatmentForm" -> "ghg.base.forms.CustomAverageDataMethodForm" [arrowhead="empty", arrowtail="none"];
+}

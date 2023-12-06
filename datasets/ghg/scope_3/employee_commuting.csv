@@ -1,0 +1,188 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Mini,,km,"0,108294",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Mini,,miles,"0,17429",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Supermini,,km,"0,132764",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Supermini,,miles,"0,21368",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Lower medium,,km,"0,144614",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Lower medium,,miles,"0,23274",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Upper medium,,km,"0,161974",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Upper medium,,miles,"0,26068",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Executive,,km,"0,174684",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Executive,,miles,"0,28114",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Luxury,,km,"0,212434",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Luxury,,miles,"0,34189",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Sports,,km,"0,170414",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Sports,,miles,"0,27426",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Dual purpose 4X4,,km,"0,202964",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,Dual purpose 4X5,,miles,"0,32665",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,MPV,,km,"0,177844",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Diesel,MPV,,miles,"0,28621",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Mini,,km,"0,13421",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Mini,,miles,"0,21598",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Supermini,,km,"0,14802",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Supermini,,miles,"0,23821",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Lower medium,,km,"0,17162",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Lower medium,,miles,"0,2762",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Upper medium,,km,"0,19923",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Upper medium,,miles,"0,32063",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Executive,,km,"0,21999",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Executive,,miles,"0,35404",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Luxury,,km,"0,32708",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Luxury,,miles,"0,52638",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Sports,,km,"0,24145",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Sports,,miles,"0,38857",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Dual purpose 4X4,,km,"0,2106",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,Dual purpose 4X5,,miles,"0,33892",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,MPV,,km,"0,19118",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Petrol,MPV,,miles,"0,30767",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Mini,,km,"0,134",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Mini,,miles,"0,21566",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Supermini,,km,"0,14601",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Supermini,,miles,"0,23498",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Lower medium,,km,"0,15893",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Lower medium,,miles,"0,25577",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Upper medium,,km,"0,17031",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Upper medium,,miles,"0,27407",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Executive,,km,"0,18547",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Executive,,miles,"0,29849",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Luxury,,km,"0,26458",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Luxury,,miles,"0,42581",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Sports,,km,"0,23006",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Sports,,miles,"0,37025",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown,Dual purpose 4X4,,km,"0,20518",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,Dual purpose 4X5,,miles,"0,3302",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,MPV,,km,"0,18146",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Unknown fuel,MPV,,miles,"0,29203",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Supermini,,km,"0,05255",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Supermini,,miles,"0,08458",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Lower medium,,km,"0,08342",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Lower medium,,miles,"0,13425",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Upper medium,,km,"0,0882",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Upper medium,,miles,"0,14195",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Executive,,km,"0,08975",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Executive,,miles,"0,14443",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Luxury,,km,"0,11492",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Luxury,,miles,"0,18494",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Sports,,km,"0,09359",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Sports,,miles,"0,15061",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X4,,km,"0,10371",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X5,,miles,"0,16691",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,MPV,,km,"0,09035",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Plug-in hybrid,MPV,,miles,"0,1454",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Mini,,km,"0,04045",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Mini,,miles,"0,06511",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Supermini,,km,"0,04476",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Supermini,,miles,"0,07205",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Lower medium,,km,"0,04878",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Lower medium,,miles,"0,0785",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Upper medium,,km,"0,04797",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Upper medium,,miles,"0,07719",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Executive,,km,"0,04646",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Executive,,miles,"0,07478",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Luxury,,km,"0,05477",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Luxury,,miles,"0,08813",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Sports,,km,"0,0782",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Sports,,miles,"0,12585",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Dual purpose 4X4,,km,"0,06018",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,Dual purpose 4X5,,miles,"0,09685",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,MPV,,km,"0,06881",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by market segment)|Battery,MPV,,miles,"0,11075",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Small car,,km,"0,139894",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Small car,,miles,"0,22514",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Medium car,,km,"0,168004",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Medium car,,miles,"0,27039",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Large car,,km,"0,209534",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Large car,,miles,"0,33722",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Average car,,km,"0,170824",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Diesel,Average car,,miles,"0,27492",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Small car,,km,"0,14652",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Small car,,miles,"0,2358",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Medium car,,km,"0,1847",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Medium car,,miles,"0,29724",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Large car,,km,"0,27639",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Large car,,miles,"0,4448",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Average car,,km,"0,17048",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Petrol,Average car,,miles,"0,27436",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Small car,,km,"0,10332",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Small car,,miles,"0,16628",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Medium car,,km,"0,10999",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Medium car,,miles,"0,17702",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Large car,,km,"0,15491",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Large car,,miles,"0,24929",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Average car,,km,"0,12004",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Hybrid,Average car,,miles,"0,19318",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|CNG,Medium car,,km,"0,15803",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|CNG,Medium car,,miles,"0,25433",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|CNG,Large car,,km,"0,23578",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|CNG,Large car,,miles,"0,37944",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|CNG,Average car,,km,"0,17517",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|CNG,Average car,,miles,"0,2819",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|LPG,Medium car,,km,"0,17823",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|LPG,Medium car,,miles,"0,28682",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|LPG,Large car,,km,"0,2668",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|LPG,Large car,,miles,"0,42936",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|LPG,Average car,,km,"0,19775",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|LPG,Average car,,miles,"0,31823",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Small car,,km,"0,1444",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Small car,,miles,"0,23239",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Medium car,,km,"0,17588",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Medium car,,miles,"0,28306",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Large car,,km,"0,22733",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Large car,,miles,"0,36584",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Average car,,km,"0,17067",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Unknown fuel,Average car,,miles,"0,27465",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Small car,,km,"0,05255",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Small car,,miles,"0,08458",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Medium car,,km,"0,08597",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Medium car,,miles,"0,13834",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Large car,,km,"0,10148",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Large car,,miles,"0,16332",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Average car,,km,"0,09349",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Plug-in hybrid,Average car,,miles,"0,15046",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Small car,,km,"0,04416",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Small car,,miles,"0,07107",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Medium car,,km,"0,04878",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Medium car,,miles,"0,0785",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Large car,,km,"0,0555",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Large car,,miles,"0,08932",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Average car,,km,"0,0514",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Cars (by size)|Battery,Average car,,miles,"0,08272",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Small,,km,"0,08306",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Small,,miles,"0,13369",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Medium,,km,"0,1009",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Medium,,miles,"0,16237",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Large,,km,"0,13245",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Large,,miles,"0,21315",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Average,,km,"0,11355",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Motorbike,Average,,miles,"0,18274",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Taxis,Regular taxi,,passenger.km,"0,14876",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Taxis,Regular taxi,,km,"0,20826",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Taxis,Black cab,,passenger.km,"0,20416",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Taxis,Black cab,,km,"0,30624",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Bus,Local London bus,,passenger.km,"0,07936",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Bus,Average local bus,,passenger.km,"0,0965",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Bus,Coach,,passenger.km,"0,02733",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Rail,National rail,,passenger.km,"0,03549",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Rail,International rail,,passenger.km,"0,00446",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Rail,Light rail and tram,,passenger.km,"0,02861",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Rail,Underground,,passenger.km,"0,02781",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Ferry,Foot passenger,,passenger.km,"0,01874",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Ferry,Car passenger,,passenger.km,"0,12952",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Ferry,Average (all passenger),,passenger.km,"0,11286",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Domestic - Average passenger,,passenger.km,"0,13003",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Short-haul - Average passenger,,passenger.km,"0,08117",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Short-haul - Economy class,,passenger.km,"0,07984",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Short-haul - Business class,,passenger.km,"0,11976",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Long-haul - Average passenger,,passenger.km,"0,10208",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Long-haul - Economy class,,passenger.km,"0,07818",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Long-haul - Premium economy class,,passenger.km,"0,12508",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Long-haul - Business class,,passenger.km,"0,22671",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,Long-haul - First class,,passenger.km,"0,3127",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,International - Average passenger,,passenger.km,"0,09708",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,International - Economy class,,passenger.km,"0,074345",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,International - Premium economy class,,passenger.km,"0,11895",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,International - Business class,,passenger.km,"0,2156",DEFRA,2022
+employee-commuting,distance-based-method,vehicule,Flights,International - First class,,passenger.km,"0,29739",DEFRA,2022
+employee-commuting,equipment-based-method,equipments,,Office Equipment,,fte_hour,"0,03168",US EPA,2021
+employee-commuting,equipment-based-method,equipments,,Heating,,fte_hour,"0,30907",US EPA,2021
+employee-commuting,equipment-based-method,equipments,,Homeworking (office equipment + heating),,fte_hour,"0,34075",US EPA,2021

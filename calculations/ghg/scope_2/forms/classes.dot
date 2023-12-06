@@ -1,0 +1,9 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"ghg.base.forms.SupplierSpecificMethodForm" [color="black", fontcolor="black", label=<{ghg.base.forms.SupplierSpecificMethodForm|factor_type : str<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"forms.purchased_electricity.EnergySupplierForm" [color="black", fontcolor="black", label=<{forms.purchased_electricity.EnergySupplierForm|factor_type : str<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"forms.purchased_heat_or_steam.EnergySupplierForm" [color="black", fontcolor="black", label=<{forms.purchased_heat_or_steam.EnergySupplierForm|factor_type : str<br ALIGN="LEFT"/>|}>, shape="record", style="solid"];
+"forms.purchased_electricity.EnergySupplierForm" -> "ghg.base.forms.SupplierSpecificMethodForm" [arrowhead="empty", arrowtail="none"];
+"forms.purchased_heat_or_steam.EnergySupplierForm" -> "ghg.base.forms.SupplierSpecificMethodForm" [arrowhead="empty", arrowtail="none"];
+}
