@@ -39,7 +39,8 @@ class BaseCalculationMethod:
         Returns:
             The total co2 value, as float number, for the given GHG emission factor value.
             If the GHG emission factor value is a goods or services, the total co2 value is updated
-            with an inflaction rate. For the moment, the inflaction rate is hard-coded : 7% per year.
+            with an inflaction rate. For the moment, the inflaction rate is hard-coded :
+            7% per year.
         """
 
         current_year = datetime.now().year

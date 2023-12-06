@@ -183,4 +183,3 @@ class LeasedBuildingsAverageDataMethodForm(PredefinedFactorCalculationMethodForm
             "value_float",
             "ghg_unit",
         ]
-

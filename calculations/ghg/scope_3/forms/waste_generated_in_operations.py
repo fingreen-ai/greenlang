@@ -21,4 +21,3 @@ class WasteTreatmentForm(CustomAverageDataMethodForm):
             ]
         )
         self.factor_type = "waste_treatment"
-
