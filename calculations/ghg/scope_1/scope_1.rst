@@ -6,13 +6,29 @@ Calculation method implementations
 
 .. graphviz:: classes.dot
 
-.. automodule:: greenlang.calculations.ghg.scope_1.stationary_combustion
+Category 1: Stationary Combustion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. autoclass:: greenlang.calculations.ghg.scope_1.stationary_combustion.GenericMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_1.mobile_combustion
+Category 2: Mobile Combustion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. autoclass:: greenlang.calculations.ghg.scope_1.mobile_combustion.FuelAmountMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_1.fugitive_emissions
+.. autoclass:: greenlang.calculations.ghg.scope_1.mobile_combustion.VehiculeTypeMethod
+    :members:
+
+
+Category 3: Fugitive Emissions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. autoclass:: greenlang.calculations.ghg.scope_1.fugitive_emissions.MassBalanceMethod
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.scope_1.fugitive_emissions.ScreeningMethodApproach
     :members:
 
 Forms
@@ -20,5 +36,11 @@ Forms
 
 .. graphviz:: forms/classes.dot
 
-.. automodule:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions
+Category 3: Fugitive Emissions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. autoclass:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions.MassBalanceMethodForm
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions.ScreeningMethodApproachForm
     :members:
