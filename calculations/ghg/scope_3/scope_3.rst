@@ -60,49 +60,49 @@ Category 5: Waste generated in operations
 Category 6: Business travels
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.business_travels.SpendBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.business_travels.SpendBasedMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.business_travels.DistanceBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.business_travels.DistanceBasedMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.business_travels.AccomodationLocationMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.business_travels.AccomodationLocationMethod
     :members:
 
 Category 7: Employee commuting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.employee_commuting.DistanceBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.DistanceBasedMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.employee_commuting.AverageDataMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.AverageDataMethod
     :members:
 
 Category 8: Upstream leased assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod
     :members:
 
 Category 9: Downstream transportation and distribution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.SpendBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.SpendBasedMethod
     :members:
 
-.. automodule:: greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod
     :members:
 
 Forms
@@ -113,17 +113,17 @@ Forms
 Category 3: Fuel- and energy-related activities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities
     :members:
 
 Category 5: Waste generated in operations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations
     :members:
 
 Category 8: Upstream leased assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. automodule:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets
     :members:
