@@ -13,12 +13,9 @@ release = "0.0.1"
 
 import os
 import sys
-import django
 
-sys.path.insert(0, os.path.abspath("../.."))
 sys.path.insert(0, os.path.abspath(".."))
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "fingreen.settings")
-django.setup()
+sys.path.insert(0, os.path.abspath("."))
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -39,6 +36,7 @@ source_suffix = {
     ".md": "markdown",
 }
 suppress_warnings = ["myst.xref_missing", "myst.header"]
+autodoc_mock_imports = ["django", "fingreen_web", "crispy_forms", ]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
