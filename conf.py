@@ -39,6 +39,8 @@ source_suffix = {
 suppress_warnings = ["myst.xref_missing", "myst.header"]
 autodoc_mock_imports = ["django", "fingreen_web", "crispy_forms", ]
 
+html_baseurl = "https://greenlang.fingreen.ai/"
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
