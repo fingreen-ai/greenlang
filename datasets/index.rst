@@ -4,6 +4,9 @@ Datasets
 GHG emission factors
 --------------------
 
+For the moment, the GHG emission factors are gathered according to the category in which they are involved. Thus, 
+same emission factors can be found in different files.
+
 +-------+--------------------------------+-----------------------------------------------------------------------------------+
 | Scope | Category                       | File                                                                              |
 +=======+================================+===================================================================================+
