@@ -1,7 +1,9 @@
 Common
 ======
 
-.. graphviz:: classes.dot
+.. image:: classes.png
+    :align: center
+    :width: 100%
 
 
 Generic calculation implementations

@@ -4,7 +4,9 @@ Scope 1
 Calculation method implementations
 ----------------------------------
 
-.. graphviz:: classes.dot
+.. image:: classes.png
+    :align: center
+    :width: 100%
 
 Category 1: Stationary Combustion
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -34,7 +36,9 @@ Category 3: Fugitive Emissions
 Forms
 -----
 
-.. graphviz:: forms/classes.dot
+.. image:: forms/classes.png
+    :align: center
+    :width: 100%
 
 Category 3: Fugitive Emissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

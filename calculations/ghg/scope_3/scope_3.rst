@@ -4,7 +4,9 @@ Scope 3
 Calculation implementations
 ----------------------------
 
-.. graphviz:: classes.dot
+.. image:: classes.png
+    :align: center
+    :width: 100%
 
 Category 1: Purchased goods and services
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -108,7 +110,9 @@ Category 9: Downstream transportation and distribution
 Forms
 -----
 
-.. graphviz:: forms/classes.dot
+.. image:: forms/classes.png
+    :align: center
+    :width: 100%
 
 Category 3: Fuel- and energy-related activities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

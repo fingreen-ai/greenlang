@@ -4,7 +4,9 @@ Scope 2
 Calculation implementations
 ----------------------------
 
-.. graphviz:: classes.dot
+.. image:: classes.png
+    :align: center
+    :width: 100%
 
 Category 1: Purchased Electricity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -27,7 +29,9 @@ Category 2: Purchased Heat or Steam
 Forms
 -----
 
-.. graphviz:: forms/classes.dot
+.. image:: forms/classes.png
+    :align: center
+    :width: 100%
 
 Category 1: Purchased Electricity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
