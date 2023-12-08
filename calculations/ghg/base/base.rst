@@ -9,11 +9,21 @@ Common
 Generic calculation implementations
 -----------------------------------
 
-.. automodule:: greenlang.calculations.ghg.base.base
+.. autoclass:: greenlang.calculations.ghg.base.base.BaseCalculationMethod
     :members:
 
 Generic forms
 -------------
 
-.. automodule:: greenlang.calculations.ghg.base.forms
+.. autoclass:: greenlang.calculations.ghg.base.forms.PredefinedFactorCalculationMethodForm()
+    :members:
+
+
+.. autoclass:: greenlang.calculations.ghg.base.forms.CustomFactorCalculationMethodForm()
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.base.forms.SupplierSpecificMethodForm()
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.base.forms.CustomAverageDataMethodForm()
     :members:

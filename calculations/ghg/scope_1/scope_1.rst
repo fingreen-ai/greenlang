@@ -43,8 +43,8 @@ Forms
 Category 3: Fugitive Emissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions.MassBalanceMethodForm
+.. autoclass:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions.MassBalanceMethodForm()
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions.ScreeningMethodApproachForm
+.. autoclass:: greenlang.calculations.ghg.scope_1.forms.fugitive_emissions.ScreeningMethodApproachForm()
     :members:

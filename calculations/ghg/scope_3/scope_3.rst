@@ -117,17 +117,20 @@ Forms
 Category 3: Fuel- and energy-related activities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.AutomaticMethodForm()
     :members:
 
 Category 5: Waste generated in operations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations.WasteTreatmentForm()
     :members:
 
 Category 8: Upstream leased assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm()
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm()
     :members:

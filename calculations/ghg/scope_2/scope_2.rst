@@ -36,13 +36,13 @@ Forms
 Category 1: Purchased Electricity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_2.forms.purchased_electricity.EnergySupplierForm
+.. autoclass:: greenlang.calculations.ghg.scope_2.forms.purchased_electricity.EnergySupplierForm()
     :members:
 
 Category 2: Purchased Heat or Steam
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_2.forms.purchased_heat_or_steam.EnergySupplierForm
+.. autoclass:: greenlang.calculations.ghg.scope_2.forms.purchased_heat_or_steam.EnergySupplierForm()
     :members:
 
 
