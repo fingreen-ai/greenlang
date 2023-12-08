@@ -149,7 +149,7 @@ class LeasedBuildingsAverageDataMethodForm(PredefinedFactorCalculationMethodForm
 
     leased_month_count = forms.IntegerField(required=True)
 
-    def get_fields(self):
+    def get_extra_fields(self):
         """Return fields."""
         return [
             Column(

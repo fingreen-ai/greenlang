@@ -15,7 +15,21 @@ from fingreen_web.models import (CollectionItem, GhgEmissionFactor,
 
 
 class PredefinedFactorCalculationMethodForm(forms.ModelForm):
-    """ PredefinedFactorCalculationMethodForm.
+    """ 
+    This form provides the inputs for category using a predefined factor.
+    It exposes the following fields:
+
+    - description_user: a description of the item
+    - ghg_factor: the GHG emission factor to use, prefilled with the factors related to selected calculation method
+    - value_float: the amount value
+    - ghg_unit: the GHG emission unit to use, prefilled with the units related to selected GHG emission factor
+
+    As hidden fields, the form exposes:
+
+    - method: the selected GHG emission source computation method
+    - collection: the selected collection
+    - item_type: the selected item type, must be 'ghg'
+    - ghg_scope: the selected GHG scope
     """
     method = forms.ModelChoiceField(
         queryset=GhgEmissionSourceComputationMethod.objects.all(),
@@ -89,7 +103,7 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
                     id="custom_units",
                     css_class='col'
                 ),
-                *self.get_fields(),
+                *self.get_extra_fields(),
                 Column(
                     Submit('submit', _('Add'), css_class='btn btn-light-primary'),
                     css_class='col'
@@ -97,8 +111,12 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
             ),
         )
 
-    def get_fields(self):
-        """ Return fields.
+    def get_extra_fields(self):
+        """ 
+        Return extra fields to add to the form.
+        This method is meant to be overriden by subclasses.
+        Return:
+            A list of extra fields to add to the form. Empty list by default.
         """
         return []
 
