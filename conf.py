@@ -31,7 +31,7 @@ extensions = [
 ]
 
 templates_path = ["templates"]
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "README.md"]
 source_suffix = {
     ".rst": "restructuredtext",
     ".md": "markdown",
