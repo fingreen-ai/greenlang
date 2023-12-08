@@ -13,19 +13,32 @@ from .forms import PredefinedFactorCalculationMethodForm
 logger = logging.getLogger(__name__)
 
 class BaseCalculationMethod:
-    """ Base class for calculation methods.
+    """ 
+    This is the base class for all calculation methods.
+    All lot of categories are using this class because they are using a predefined factor.
+    In term of form, the user has to select a GHG emission factor, a GHG emission unit and a amount.
     """
 
     @property
     def form_class(self):
         """ 
         Return form class to use for this calculation method.
-        All displayed fields must be in the form.
+        The form is responsible both of the displayed inputs both of the validation and the saving, if so.
+
+        Returns:
+            The form class to use for this calculation method.
         """
         return PredefinedFactorCalculationMethodForm
 
     def amount(self, collection_item):
-        """ Return amount.
+        """ 
+        Return the amount value of the related ghg emission factor. 
+
+        Args:
+            collection_item: the collection item where the amount value is stored.
+
+        Returns:
+            The amount value, as float number, of the related ghg emission factor.
         """
         return collection_item.value_float
 
@@ -66,7 +79,14 @@ class BaseCalculationMethod:
         return self.amount(collection_item) * self.total_co2(factor_value) / 1000
 
     def explain(self, collection_item):
-        """ Return formula html.
+        """ Return calculation explanation in human readable format.
+        Basically, it's displaying the amount, the GHG emission factor value and the total co2 value.
+        It's also mentionning the data source and the data source year.
+        args:
+            collection_item: the collection item where informations are stored.
+        returns:
+            Calculation explanation in human readable format.
+
         """
         factor_value = GhgEmissionFactorValue.objects.get(
             factor=collection_item.ghg_factor,
