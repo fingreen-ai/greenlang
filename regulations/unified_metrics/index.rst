@@ -1,3 +1,10 @@
+.. important:: Document format:
+    
+    - Each document is a markdown file (.md)
+    - Each document has a title, which is the first line of the file, prefixed with a hash (#). This title is a in fact a link to the document with category name as text and category slugified name as target.
+    - Attributes are a third level heading (###) with attribute name as text and attribute value as paragraph below. 
+
+
 Environment
 -----------
 

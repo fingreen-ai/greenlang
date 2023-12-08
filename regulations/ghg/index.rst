@@ -1,3 +1,10 @@
+.. important:: Document format:
+
+    - Each document is a markdown file (.md)
+    - Each document has a title, which is the first line of the file, prefixed with a hash (#). This title is a in fact a link to the document with category name as text and category slugified name as target.
+    - Second level headings (##) are used to define calculation methods. The method name is used as text and the method slugified name is used as target.
+    - Whether for the category or its calculation methods, attributes are a third level heading (###) with attribute name as text and attribute value as paragraph below. 
+
 Scope 1
 ~~~~~~~
 
