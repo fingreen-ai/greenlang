@@ -23,7 +23,8 @@ class BaseCalculationMethod:
     def form_class(self):
         """ 
         Return form class to use for this calculation method.
-        The form is responsible both of the displayed inputs both of the validation and the saving, if so.
+        The form is responsible both of the displayed inputs both of the validation and the saving, 
+        if so.
 
         Returns:
             The form class to use for this calculation method.
@@ -80,7 +81,8 @@ class BaseCalculationMethod:
 
     def explain(self, collection_item):
         """ Return calculation explanation in human readable format.
-        Basically, it's displaying the amount, the GHG emission factor value and the total co2 value.
+        Basically, it's displaying the amount, the GHG emission factor value and the total 
+        co2 value.
         It's also mentionning the data source and the data source year.
         args:
             collection_item: the collection item where informations are stored.
