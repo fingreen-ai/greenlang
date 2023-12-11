@@ -23,19 +23,18 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
     It exposes the following fields:
 
     - description_user: a description of the item
-    - ghg_factor: the GHG emission factor to use, prefilled with the factors related to selected 
-    calculation method
+    - ghg_factor: the GHG emission factor to use, prefilled with the factors related to selected calculation method
     - value_float: the amount value
-    - ghg_unit: the GHG emission unit to use, prefilled with the units related to selected 
-    GHG emission factor
-
+    - ghg_unit: the GHG emission unit to use, prefilled with the units related to selected GHG emission factor
+    
     As hidden fields, the form exposes:
 
     - method: the selected GHG emission source computation method
     - collection: the selected collection
     - item_type: the selected item type, must be 'ghg'
     - ghg_scope: the selected GHG scope
-    """
+
+    """ # pylint: disable=line-too-long
 
     method = forms.ModelChoiceField(
         queryset=GhgEmissionSourceComputationMethod.objects.all(), required=True
