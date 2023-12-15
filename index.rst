@@ -9,5 +9,5 @@ Greenlang
     intro
     datasets/index
     regulations/index
-    calculations/ghg/index
+    calculations/index
 
