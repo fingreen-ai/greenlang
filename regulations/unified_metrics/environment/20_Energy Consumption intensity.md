@@ -62,11 +62,9 @@ au cours de la période?
 
 ### compute_en
 
-
 `"Energy Consumption intensity" = "Total energy consumption (Gwh)" / "Total revenue (€m)"`
 
 ### compute_fr
-
 
 `"Intensité de la consommation d'énergie" = "Consommation d'énergie totale (Gwh)" / "Chiffre 
 d'affaires (€m)"`
