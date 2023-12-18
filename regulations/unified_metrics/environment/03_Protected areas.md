@@ -41,7 +41,7 @@ inventory’s official ArcGIS map to see EU-wide protected areas.
 a global database of protected and conserved areas. The interactive map of Protected Planet
 provides protected areas within the EU.
 
-** Regulatory Definition **
+**Regulatory Definition**
 
 According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as "Share of investments in
 investee companies without a biodiversity protection policy covering operational sites owned,
@@ -62,7 +62,7 @@ l’échelle de l’UE.
 Unies pour l'environnement, maintient une base de données mondiale sur les aires protégées et
 conservées. La carte interactive de Protected Planet indique les zones protégées au sein de l’UE.
 
-** Définition réglementaire **
+**Définition réglementaire**
 
 Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme "Part des investissements dans
 les entreprises bénéficiaires sans politique de protection de la biodiversité couvrant les sites
@@ -135,10 +135,10 @@ la politique de la biodiversité, C15)
 
 ### sources
 
-[Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU)
-2019/2088 of the European Parliament and of the Council with regard to regulatory technical
-standards specifying the details of the content and presentation of the information in
-relation to the principle of do no significant harm.](https://eur-lex.europa.eu/eli/reg_del/2022/1288/oj)
+[Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU) 2019/2088 of the European Parliament and of the Council with
+regard to regulatory technical standards specifying the details of the content
+and presentation of the information in relation to the principle of do no
+significant harm.](https://eur-lex.europa.eu/eli/reg_del/2022/1288/oj)
+
 ANNEX I (Table 2, Indicators applicable to investments in investee companies, Water,
 waste and emissions section, Indicator 14, Point 2)
-            
