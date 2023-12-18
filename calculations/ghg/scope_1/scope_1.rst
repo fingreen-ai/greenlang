@@ -20,7 +20,7 @@ Category 2: Mobile Combustion
 .. autoclass:: greenlang.calculations.ghg.scope_1.mobile_combustion.FuelAmountMethod
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_1.mobile_combustion.VehiculeTypeMethod
+.. autoclass:: greenlang.calculations.ghg.scope_1.mobile_combustion.VehicleTypeMethod
     :members:
 
 
