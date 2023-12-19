@@ -179,7 +179,7 @@ class ScreeningMethodApproachForm(forms.ModelForm):
     gas = forms.ModelChoiceField(
         queryset=GhgEmissionFactor.objects.all(), required=True
     )
-    quantity = forms.FloatField(required=True)
+    quantity = forms.FloatField(required=True, label=_("Quantity of the operated equipments"))
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
