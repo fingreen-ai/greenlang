@@ -926,61 +926,61 @@ fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum c
 fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,kwh_gross_cv,,DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,gj,,DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Solid fuels,Petroleum coke,,kwh,,DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,tonnes,"537,6183",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,litres,"0,09408",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,tonnes,"885,68706",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,litres,"0,40076",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,tonnes,"347,0093",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,litres,"0,18383",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,tonnes,"350,45558",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,litres,"0,18046",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,tonnes,"815,31014",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,litres,"0,59512",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,tonnes,"658,57016",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,litres,"0,52686",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tonnes,"720,72857",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,litres,"0,60986",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonnes,"745,68125",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,litres,"0,62874",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,tonnes,"709,08076",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,litres,"0,69723",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,tonnes,"740,69721",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,litres,"0,63253",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tonnes,"824,12",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,litres,"0,61328",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonnes,"812,61052",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,litres,"0,60283",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonnes,"835,81882",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,litres,"0,82185",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonnes,"828,96368",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,litres,"0,70791",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,tonnes,"740,69721",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,litres,"0,63253",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,tonnes,"709,08076",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,litres,"0,69723",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,litres,"0,41584",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,tonne,"537,6183",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,CNG,,l,"0,09408",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,tonne,"885,68706",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LNG,,l,"0,40076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,tonne,"347,0093",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,LPG,,l,"0,18383",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,tonne,"350,45558",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Gaseous fuels,Propane,,l,"0,18046",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,tonne,"815,31014",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation spirit,,l,"0,59512",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,tonne,"658,57016",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Aviation turbine fuel,,l,"0,52686",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tonne,"720,72857",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (average biofuel blend),,l,"0,60986",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonne,"745,68125",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,l,"0,62874",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,tonne,"709,08076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Fuel oil,,l,"0,69723",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,tonne,"740,69721",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Gas oil,,l,"0,63253",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tonne,"824,12",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (average biofuel blend),,l,"0,61328",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonne,"812,61052",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,l,"0,60283",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonne,"835,81882",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,l,"0,82185",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonne,"828,96368",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,l,"0,70791",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,tonne,"740,69721",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine gas oil,,l,"0,63253",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,tonne,"709,08076",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Liquid fuels,Marine fuel oil,,l,"0,69723",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,l,"0,41584",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bioethanol,,kg,"0,52373",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,litres,"0,36333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,l,"0,36333",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME,,kg,"0,40824",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,litres,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,l,,DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (compressed),,kg,"0,55701",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,litres,"0,34252",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,l,"0,34252",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"0,38486",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,litres,"0,46351",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,l,"0,46351",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"0,5208",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,litres,"0,35178",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,l,"0,35178",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biodiesel HVO,,kg,"0,451",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,litres,"0,24578",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,l,"0,24578",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biopropane,,kg,"0,4773",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,litres,"0,27392",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,l,"0,27392",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Bio Petrol,,kg,"0,36924",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,litres,"0,45725",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,l,"0,45725",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Renewable petrol,,kg,"0,51284",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,litres,"0,36333",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,l,"0,36333",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Off road biodiesel,,kg,"0,40824",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,litres,,DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,l,,DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Biomethane (liquified),,kg,"0,55701",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,litres,"0,41584",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,l,"0,41584",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,fuel,Biofuel,Methanol (bio),,kg,"0,52373",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,vehicle,Cars (by market segment)|Diesel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,02573",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,vehicle,Cars (by market segment)|Petrol,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,0381",DEFRA,2022
@@ -1226,68 +1226,68 @@ fuel-and-energy-related-activities,automatic-method,vehicle,Motorbike|Petrol,Lar
 fuel-and-energy-related-activities,automatic-method,vehicle,Motorbike|Petrol,Large,500cc +,mile,"0,05919",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,vehicle,Motorbike|Petrol,Average,Unknown engine size,km,"0,03134",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,vehicle,Motorbike|Petrol,Average,Unknown engine size,mile,"0,05043",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,03568",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05603",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,0103",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,05743",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09018",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,01658",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,04467",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05556",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,01422",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,0719",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,08941",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,02288",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,06491",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,08788",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,01995",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,10446",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,14142",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,03211",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05896",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05901",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Unknow fuel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,05896",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,01423",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,04964",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,03185",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09489",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09497",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Unknow fuel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,09489",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,0229",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,07989",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,05126",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,1166",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,18765",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,1422",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,22884",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,23228",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,37382",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,19479",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,31349",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,18579",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,29899",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,22106",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,35577",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,21962",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,35344",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,20889",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,33618",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,1391",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,22385",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,16963",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,27299",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,27709",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,44594",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,23237",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,37397",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,21539",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,34663",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,25628",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,41244",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,25461",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,40975",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,24521",DEFRA,2022
-fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,39462",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,03568",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,05603",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class I (up to 1.305 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,0103",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,05743",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,09018",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class I (up to 1.305 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,01658",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,04467",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,05556",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,01422",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,0719",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,08941",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,02288",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,06491",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,08788",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,01995",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,10446",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,14142",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,03211",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,05896",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,05901",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Unknow fuel,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,05896",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,01423",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|CNG,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,04964",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|LPG,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,km,"0,03185",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Diesel,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,09489",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Petrol,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,09497",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Unknow fuel,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,09489",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|Battery,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,0229",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|CNG,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,07989",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,Vans|LPG,Average (up to 3.5 tonne),Large goods vehicles (vans up to 3.5 tonne).,mile,"0,05126",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonne),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,1166",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonne),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,18765",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonne-17 tonne),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,1422",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonne-17 tonne),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,22884",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonne),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,23228",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonne),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,37382",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,19479",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,31349",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,18579",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,29899",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,22106",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,35577",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,21962",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,35344",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,km,"0,20889",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonne. These factors do not include refrigerated vehicles,mile,"0,33618",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonne),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,1391",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonne),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,22385",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonne-17 tonne),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,16963",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonne-17 tonne),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,27299",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonne),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,27709",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonne),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,44594",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,23237",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,37397",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,21539",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,34663",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,25628",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,41244",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,25461",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,40975",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,km,"0,24521",DEFRA,2022
+fuel-and-energy-related-activities,automatic-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonne.,mile,"0,39462",DEFRA,2022
 fuel-and-energy-related-activities,automatic-method,location,,District heat and steam,,kwh,"0,03153",https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2022,2022
 fuel-and-energy-related-activities,automatic-method,location,,Austria,,kwh,"0,02",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641,2020
 fuel-and-energy-related-activities,automatic-method,location,,Belgium,,kwh,"0,032",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1642,2020

@@ -148,13 +148,13 @@ business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Large car,
 business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Average car,,km,"0,0514",DEFRA,2022
 business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Average car,,mile,"0,08272",DEFRA,2022
 business-travels,distance-based-method,vehicle,Motorbike,Small,,km,"0,08306",DEFRA,2022
-business-travels,distance-based-method,vehicle,Motorbike,Small,,miles,"0,13369",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Small,,mile,"0,13369",DEFRA,2022
 business-travels,distance-based-method,vehicle,Motorbike,Medium,,km,"0,1009",DEFRA,2022
-business-travels,distance-based-method,vehicle,Motorbike,Medium,,miles,"0,16237",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Medium,,mile,"0,16237",DEFRA,2022
 business-travels,distance-based-method,vehicle,Motorbike,Large,,km,"0,13245",DEFRA,2022
-business-travels,distance-based-method,vehicle,Motorbike,Large,,miles,"0,21315",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Large,,mile,"0,21315",DEFRA,2022
 business-travels,distance-based-method,vehicle,Motorbike,Average,,km,"0,11355",DEFRA,2022
-business-travels,distance-based-method,vehicle,Motorbike,Average,,miles,"0,18274",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Average,,mile,"0,18274",DEFRA,2022
 business-travels,distance-based-method,vehicle,Taxis,Regular taxi,,passenger.km,"0,14876",DEFRA,2022
 business-travels,distance-based-method,vehicle,Taxis,Regular taxi,,km,"0,20826",DEFRA,2022
 business-travels,distance-based-method,vehicle,Taxis,Black cab,,passenger.km,"0,20416",DEFRA,2022
