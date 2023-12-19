@@ -49,7 +49,7 @@ employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknow
 employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Luxury,,mile,"0,42581",DEFRA,2022
 employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Sports,,km,"0,23006",DEFRA,2022
 employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Sports,,mile,"0,37025",DEFRA,2022
-employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown,Dual purpose 4X4,,km,"0,20518",DEFRA,2022
+employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Dual purpose 4X4,,km,"0,20518",DEFRA,2022
 employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Dual purpose 4X5,,mile,"0,3302",DEFRA,2022
 employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,MPV,,km,"0,18146",DEFRA,2022
 employee-commuting,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,MPV,,mile,"0,29203",DEFRA,2022
