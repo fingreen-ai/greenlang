@@ -24,22 +24,21 @@ Only waste treatment in facilities owned or operated by third parties is include
 
 A reporting company’s scope 3 emissions from waste generated in operations derive from the scope 1 and scope 2 emissions of solid waste and wastewater management companies. Companies may optionally include emissions from transportation of waste in vehicles operated by a third party.
 
-**Calculating emissions from transportation**
-
-Companies may use any one of the following methods to calculate emissions from waste generated in their operations,
-but managed by third parties:
-
-- Supplier-specific method, which involves collecting waste-specific scope 1 and scope 2 emissions data directly from waste treatment companies (e.g., for incineration, recovery for recycling)
-- Waste-type-specific method, which involves using emission factors for specific waste types and waste treatment methods
-- Average-data method, which involves estimating emissions based on total waste going to each disposal method (e.g., landfill) and average emission factors for each disposal method. 
-
 ### description_fr
 
-Les entreprises peuvent utiliser l'une des méthodes suivantes pour calculer les émissions provenant des déchets générés dans leurs opérations, mais gérés par des tiers :
+La catégorie 5 inclut les émissions provenant de l'élimination et du traitement par des tiers des déchets générés dans les opérations détenues ou contrôlées par l'entreprise déclarante au cours de l'année de déclaration. Cette catégorie comprend les émissions provenant de l'élimination des déchets solides et des eaux usées.
 
-- Méthode spécifique au fournisseur, qui consiste à collecter directement des données sur les émissions de la portée 1 et de la portée 2 spécifiques aux déchets auprès des entreprises de traitement des déchets (par exemple, pour l'incinération, la récupération en vue du recyclage).
-- Méthode spécifique au type de déchets, qui consiste à utiliser des facteurs d'émission pour des types de déchets spécifiques et des méthodes de traitement des déchets spécifiques.
-- Méthode de données moyennes, qui consiste à estimer les émissions en fonction du volume total de déchets envoyés à chaque méthode d'élimination (par exemple, l'enfouissement) et des facteurs d'émission moyens pour chaque méthode d'élimination.
+Seul le traitement des déchets dans les installations appartenant ou exploitées par des tiers est inclus dans la portée 3. Le traitement des déchets dans les installations appartenant ou contrôlées par l'entreprise déclarante est comptabilisé dans la portée 1 et la portée 2. Le traitement des déchets générés dans les opérations est catégorisé comme une catégorie de portée 3 en amont car les services de gestion des déchets sont achetés par l'entreprise déclarante. Cette catégorie comprend toutes les émissions futures résultant des déchets générés au cours de l'année de déclaration. Les activités de traitement des déchets peuvent comprendre :
+
+- L'élimination dans une décharge
+- L'élimination dans une décharge avec récupération du gaz de décharge pour produire de l'énergie (LFGTE) - c'est-à-dire la combustion du gaz de décharge pour produire de l'électricité
+- La récupération pour le recyclage
+- L'incinération
+- Le compostage
+- La valorisation énergétique des déchets (WTE) ou l'énergie issue des déchets (EfW) - c'est-à-dire la combustion des déchets solides municipaux (MSW) pour produire de l'électricité
+- Le traitement des eaux usées.
+
+Les émissions de portée 3 d'une entreprise déclarante provenant des déchets générés dans les opérations proviennent des émissions de portée 1 et de portée 2 des entreprises de gestion des déchets solides et des eaux usées. Les entreprises peuvent éventuellement inclure les émissions liées au transport des déchets dans des véhicules exploités par un tiers.
 
 
 ## [Supplier specific method](#supplier-specific-method)

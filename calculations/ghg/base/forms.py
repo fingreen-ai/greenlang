@@ -290,9 +290,9 @@ class SupplierSpecificMethodForm(CustomFactorCalculationMethodForm):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.fields["custom_factor_name"].label = _("Supplier name")
+        self.fields["custom_factor_name"].label = _("Emission Source Name")
         self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(
-            _("Supplier name")
+            _("Emission Source Name")
         )
         self.factor_type = "supplier"
 

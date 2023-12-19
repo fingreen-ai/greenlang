@@ -23,15 +23,19 @@ to and from work)
 
 Companies may optionally include emissions from business travelers staying in hotels. 
 
-**Calculating emissions from transportation**
-
-Companies may use one of the following methods to calculate scope 3 emissions from business travel: 
-- Fuel-based method, which involves determining the amount of fuel consumed during business travel (i.e., scope 1 and scope 2 emissions of transport providers) and applying the appropriate emission factor for that fuel 
-- Distance-based method, which involves determining the distance and mode of business trips, then applying the appropriate emission factor for the mode used 
-- Spend-based method, which involves determining the amount of money spent on each mode of business travel transport and applying secondary (EEIO) emission factors. 
-
-
 ### description_fr
+
+Cette catégorie comprend les émissions liées au transport des employés pour des activités liées aux affaires dans des véhicules appartenant à des tiers ou exploités par eux, tels que des avions, des trains, des bus et des voitures particulières. Les émissions provenant du transport dans des véhicules appartenant ou contrôlés par l'entreprise déclarante sont comptabilisées dans la portée 1 (pour l'utilisation de carburant), ou dans le cas des véhicules électriques, dans la portée 2 (pour l'utilisation de l'électricité). Les émissions provenant du transport des employés vers et depuis le travail sont comptabilisées dans la portée 3, catégorie 7 (Trajets domicile-travail des employés).
+
+**Les émissions liées aux voyages d'affaires peuvent provenir de :**
+
+- Voyage aérien
+- Voyage en train
+- Voyage en bus
+- Voyage en voiture (par exemple, voyages d'affaires en voiture de location ou en voiture appartenant à un employé autre que les trajets domicile-travail des employés)
+- Autres modes de voyage.
+
+Les entreprises peuvent éventuellement inclure les émissions des voyageurs d'affaires séjournant dans des hôtels.
 
 
 ## [Spend-based method](#spend-based-method)

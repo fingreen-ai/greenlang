@@ -50,11 +50,11 @@ Méthode basée sur la distance
 
 ### description
 
-
+In the distance-based method for downstream transportation, the key data needed are the distances vehicles travel and the weight of the goods transported. This method is precise and ideal for companies with detailed transport data, allowing for accurate emission calculations. It is most effective when reliable distance and weight information is available.
 
 ### description_fr
 
-
+Dans la méthode basée sur la distance pour le transport en aval, les données clés nécessaires sont les distances parcourues par les véhicules et le poids des marchandises transportées. Cette méthode est précise et idéale pour les entreprises disposant de données de transport détaillées, permettant des calculs d'émissions précis. Elle est plus efficace lorsque des informations fiables sur la distance et le poids sont disponibles.
 
 ### implem_path
 
@@ -68,9 +68,11 @@ Méthode basée sur les dépenses
 
 ### description
 
+The spend-based method relies on financial expenditure data for transportation services, not physical transport metrics. This approach is suitable for companies lacking detailed transport data, providing a simpler, albeit less precise, emissions estimate based on transportation spending.It's a practical alternative when detailed distance and weight information is unavailable.
 
 ### description_fr
 
+La méthode basée sur les dépenses repose sur les données de dépenses financières pour les services de transport, et non sur les mesures physiques de transport. Cette approche convient aux entreprises qui ne disposent pas de données de transport détaillées, fournissant une estimation des émissions plus simple, mais moins précise, basée sur les dépenses de transport. C'est une alternative pratique lorsque des informations détaillées sur la distance et le poids ne sont pas disponibles.
 
 ### implem_path
 

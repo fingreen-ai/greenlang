@@ -11,13 +11,13 @@ Achats de biens et services
 ### description 
 Category 1 includes all upstream (i.e., cradle-to-gate) emissions from the production of products purchased or acquired by the reporting company in the reporting year.
 
-Products include both goods (tangible products) and services (intangible products). Category 1 includes emissions from all purchased goods and services not otherwise included in the other categories of upstream scope 3 emissions (i.e., category 2 through category 8). Specific categories of upstream emissions are separately reporte
+Products include both goods (tangible products) and services (intangible products). Category 1 includes emissions from all purchased goods and services not otherwise included in the other categories of upstream scope 3 emissions (i.e., category 2 through category 8). Specific categories of upstream emissions are separately reported in category 2 through category 8 to enhance the transparency and consistency of scope 3 reports.Emissions from the transportation of purchased products from a tier one (direct) supplier to the reporting company (in vehicles not owned or controlled by the reporting company) are accounted for in category 4 (Upstream transportation and distribution).
 
 ### description_fr
 
 La catégorie 1 englobe l'ensemble des émissions en amont (c'est-à-dire, de la production à la porte) résultant de la fabrication des produits achetés ou acquis par l'entreprise déclarante au cours de l'année de déclaration.
 
-Les produits comprennent à la fois des biens tangibles (produits) et des biens intangibles (services). La catégorie 1 inclut les émissions de tous les biens et services achetés qui ne sont pas pris en compte dans les autres catégories d'émissions en amont de la portée 3 (c'est-à-dire, les catégories 2 à 8). Les catégories spécifiques d'émissions en amont sont rapportées séparément.
+Les produits comprennent à la fois des biens tangibles (produits) et des biens intangibles (services). La catégorie 1 inclut les émissions de tous les biens et services achetés qui ne sont pas pris en compte dans les autres catégories d'émissions en amont de la portée 3 (c'est-à-dire, les catégories 2 à 8). Les catégories spécifiques d'émissions en amont sont signalées séparément dans les catégories 2 à 8 afin d'améliorer la transparence et la cohérence des rapports de portée 3. Les émissions liées au transport des produits achetés auprès d'un fournisseur de premier niveau (direct) vers l'entreprise déclarante (dans des véhicules non détenus ou contrôlés par l'entreprise déclarante) sont comptabilisées dans la catégorie 4 (Transport et distribution en amont).
 
 
 ## [Supplier specific method](#supplier-specific-method)
