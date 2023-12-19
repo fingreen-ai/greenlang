@@ -58,7 +58,8 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
         )  # pylint: disable=line-too-long
         for factor in self.initial["method"]
         .factors.annotate(value_count=Count("values"))
-        .filter(value_count__gt=0)  # pylint: disable=line-too-long
+        .filter(value_count__gt=0)
+        .order_by("factor_subtype", "name")
         ]
 
         self.helper.layout = Layout(
