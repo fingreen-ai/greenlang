@@ -24,25 +24,25 @@ class MassBalanceMethodForm(forms.ModelForm):
     )
 
     begin_year_storage = forms.FloatField(
-        required=True, label=_("Inventory at the beginning of the year (A)")
+        required=True, label=_("Inventory at the beginning of the year")
     )
     end_year_storage = forms.FloatField(
-        required=True, label=_("Inventory at the end of the year (B)")
+        required=True, label=_("Inventory at the end of the year")
     )
     year_decrease = forms.FloatField(
-        required=True, label=_("Decrease during the year (C = A - B)")
+        required=True, label=_("Decrease during the year"),
     )
 
     purchased = forms.FloatField(
-        required=True, label=_("Purchased from producers/distributors in bulk (D)")
+        required=True, label=_("Purchased from producers/distributors in bulk")
     )
 
     acquired = forms.FloatField(
-        required=True, label=_("Added to equipment by contractors (E)")
+        required=True, label=_("Added to equipment by contractors")
     )
 
     available = forms.FloatField(
-        required=True, label=_("Total Purchases/ Acquisitions (F = D + E)")
+        required=True, label=_("Total Purchases/ Acquisitions"),
     )
 
     def __init__(self, *args, **kwargs):
@@ -58,9 +58,13 @@ class MassBalanceMethodForm(forms.ModelForm):
         self.fields["description_user"].label = _("Emission source")
         self.fields["ghg_factor"].label = _("Gas or refrigerant")
         self.fields["value_float"].label = _(
-            "Refrigerant or Gas Total Emissions (C + F)"
+            "Refrigerant or Gas Total Emissions"
         )
 
+        self.fields["year_decrease"].widget.attrs['readonly'] = True
+        self.fields["available"].widget.attrs['readonly'] = True
+        self.fields["value_float"].widget.attrs['readonly'] = True
+        
         self.fields["description_user"].widget = forms.Select(
             choices=[
                 (
@@ -119,17 +123,17 @@ class MassBalanceMethodForm(forms.ModelForm):
             Row(
                 Column(AppendedText("begin_year_storage", "kg"), css_class="col-4"),
                 Column(AppendedText("end_year_storage", "kg"), css_class="col-4"),
-                Column(AppendedText("year_decrease", "kg"), css_class="col-4"),
+                Column(AppendedText("year_decrease", "kg", css_class="disabled"), css_class="col-4"),
                 css_class="d-flex align-items-end my-3",
             ),
             Row(
                 Column(AppendedText("purchased", "kg"), css_class="col-4"),
                 Column(AppendedText("acquired", "kg"), css_class="col-4"),
-                Column(AppendedText("available", "kg"), css_class="col-4"),
+                Column(AppendedText("available", "kg", css_class="disabled"), css_class="col-4"),
                 css_class="d-flex align-items-end my-3",
             ),
             Row(
-                Column(AppendedText("value_float", "kg"), css_class="col-6"),
+                Column(AppendedText("value_float", "kg", css_class="disabled"), css_class="col-6"),
                 Column(
                     Submit(
                         "submit", _("Add"), css_class="btn btn-light-primary w-100 mb-3"
