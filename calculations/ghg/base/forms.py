@@ -174,6 +174,10 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
         self.fields["custom_factor_value"].widget.attrs["placeholder"] = _(
             "Emission factor value"
         )
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(
+            _("Emission factor name")
+        )
+
         self.fields["custom_factor_value"].widget.attrs["min"] = 0
         self.fields["custom_factor_value"].widget.attrs["step"] = 0.01
 
@@ -200,7 +204,7 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
                 Column(
                     Field(
                         "custom_factor_name",
-                        placeholder=_("Emission factor name"),
+                        # do not use placeholder here, it could be more difficult to override
                         type="text",
                         autocomplete="off",
                         css_class="form-control form-control-lg form-control-solid mb-3 mb-lg-0",
@@ -287,6 +291,9 @@ class SupplierSpecificMethodForm(CustomFactorCalculationMethodForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.fields["custom_factor_name"].label = _("Supplier name")
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(
+            _("Supplier name")
+        )
         self.factor_type = "supplier"
 
     class Meta(CustomFactorCalculationMethodForm.Meta):
@@ -299,6 +306,9 @@ class CustomAverageDataMethodForm(CustomFactorCalculationMethodForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.fields["custom_factor_name"].label = _("Name")
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(
+            _("Name")
+        )
         self.factor_type = "goods"
 
     class Meta(CustomFactorCalculationMethodForm.Meta):
