@@ -117,51 +117,20 @@ Emissions from teleworking
 
 greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
 
-
-## [Average-data method](#average-data-method)
+## [Fuel Amount Method](#fuel-amount-method)
 
 ### name_fr
 
-Méthode basée sur des données moyennes
+Méthode basée sur la consommation de carburant
 
 ### description
 
-If company specific data is unavailable, companies may use average secondary activity data to estimate distance travelled and mode of transport. This may include using: 
-
-- Average daily commuting distances of typical employees 
-- Average modes of transport of typical employees 
-- Average number of commuting days per week and average number of weeks worked per year. Such estimation requires making several simplifying assumptions, which add uncertainty to the emissions estimates. 
-
-**Activity data, Companies should collect data on:** 
-
-- Number of employees 
-- Average distance travelled by an average employee per day 
-- Average breakdown of transport modes used by employees 
-- Average number working days per year. 
-
-**Emission factors, Companies should collect:**
-
-- Emission factors for each mode of transport (usually expressed as kilograms of GHG emitted per passenger per kilometer travelled). Data collection guidance Company may collect average secondary data from sources such as national transportation departments, ministries or agencies, national statistics publications, and/or industry associations
+The "fuel amount" method for calculating emissions is a direct approach that relies on actual fuel consumption data. This method involves calculating emissions, such as CO2, based on the quantity of fuel used by vehicles. To implement this approach effectively, access to detailed records is essential, including fuel consumption logs, gas station data, or vehicle mileage. The precision of this method is particularly high when accurate and specific fuel usage data is available. The "fuel amount" method provides a granular understanding of emissions by directly tying them to real-world fuel consumption.
 
 ### description_fr
 
-Si les données spécifiques à l'entreprise ne sont pas disponibles, les entreprises peuvent utiliser des données d'activité secondaires moyennes pour estimer la distance parcourue et le mode de transport. Cela peut inclure l'utilisation de :
-
-- Distances moyennes de déplacement quotidiennes des employés typiques
-- Modes de transport moyens des employés typiques
-- Nombre moyen de jours de déplacement par semaine et nombre moyen de semaines travaillées par an. Une telle estimation nécessite de faire plusieurs hypothèses simplificatrices, ce qui ajoute de l'incertitude aux estimations des émissions.
-
-**Données d'activité, Les entreprises doivent collecter des données sur :**
-
-- Nombre d'employés
-- Distance moyenne parcourue par un employé moyen par jour
-- Répartition moyenne des modes de transport utilisés par les employés
-- Nombre moyen de jours travaillés par an.
-
-**Facteurs d'émission, Les entreprises doivent collecter :**
-
-- Facteurs d'émission pour chaque mode de transport (exprimés généralement en kilogrammes de GES émis par passager par kilomètre parcouru). Guide de collecte de données Les entreprises peuvent collecter des données secondaires moyennes auprès de sources telles que les ministères, ministères ou agences nationaux des transports, les publications statistiques nationales et / ou les associations industrielles
+La méthode basée sur la quantité de carburant pour le calcul des émissions est une approche directe qui repose sur des données réelles de consommation de carburant. Cette méthode consiste à calculer les émissions, telles que le CO2, en fonction de la quantité de carburant utilisée par les véhicules. Pour mettre en œuvre cette approche de manière efficace, l'accès à des dossiers détaillés est essentiel, notamment des journaux de consommation de carburant, des données de stations-service ou des kilométrages des véhicules. La précision de cette méthode est particulièrement élevée lorsque des données de consommation de carburant précises et spécifiques sont disponibles. Celle-ci offre une compréhension granulaire des émissions en les reliant directement à la consommation de carburant du monde réel.
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_3.employee_commuting.AverageDataMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.FuelAmountMethod

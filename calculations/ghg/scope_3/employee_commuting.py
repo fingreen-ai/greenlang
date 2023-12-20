@@ -11,11 +11,5 @@ class DistanceBasedMethod(BaseCalculationMethod):
 class EquipmentBasedMethod(BaseCalculationMethod):
     """Equipment based method"""
 
-
-class AverageDataMethod(BaseCalculationMethod):
-    """Average data method"""
-
-    @property
-    def form_class(self):
-        """Return form class."""
-        return CustomFactorCalculationMethodForm
+class FuelAmountMethod(BaseCalculationMethod):
+    """Fuel amount method"""

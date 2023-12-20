@@ -46,7 +46,11 @@ Méthode basée sur les dépenses
 
 ### description
 
+The spend-based method involves assessing emissions by considering the monetary expenditure on each mode of business travel transport. This method employs secondary emission factors, specifically Environmental Input-Output (EEIO) factors, to calculate the environmental impact associated with the financial investment in transportation. By linking spending to emission factors, the spend-based method offers a unique perspective, allowing businesses to understand the carbon footprint in relation to their financial investments in various modes of travel.
+
 ### description_fr
+
+La méthode basée sur les dépenses consiste à évaluer les émissions en tenant compte des dépenses monétaires sur chaque mode de transport des voyages d'affaires. Cette méthode utilise des facteurs d'émission secondaires, plus précisément des facteurs d'entrée-sortie environnementaux (EEIO), pour calculer l'impact environnemental associé à l'investissement financier dans les transports. En reliant les dépenses aux facteurs d'émission, la méthode basée sur les dépenses offre une perspective unique, permettant aux entreprises de comprendre l'empreinte carbone par rapport à leurs investissements financiers dans divers modes de déplacement.
 
 ### implem_path
 
@@ -61,8 +65,12 @@ Méthode basée sur la distance
 
 ### description
 
+The distance-based method focuses on determining the distance traveled and the mode of transportation used during business trips. Subsequently, the appropriate emission factor corresponding to the mode of transportation is applied to assess the emissions. This method provides a comprehensive evaluation by considering the travel distance and the specific mode employed, offering insights into the environmental impact based on travel patterns.
+
 
 ### description_fr
+
+La méthode basée sur la distance se concentre sur la détermination de la distance parcourue et du mode de transport utilisé pendant les voyages d'affaires. Par la suite, le facteur d'émission approprié correspondant au mode de transport est appliqué pour évaluer les émissions. Cette méthode fournit une évaluation complète en tenant compte de la distance parcourue et du mode spécifique utilisé, offrant des informations sur l'impact environnemental en fonction des habitudes de déplacement.
 
 
 ### implem_path

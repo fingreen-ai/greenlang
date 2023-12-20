@@ -66,3 +66,20 @@ La méthode basée sur les dépenses repose sur les données de dépenses financ
 
 greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.SpendBasedMethod
 
+## [Fuel Amount Method](#fuel-amount-method)
+
+### name_fr
+
+Méthode basée sur la consommation de carburant
+
+### description
+
+The "fuel amount" method for calculating emissions is a direct approach that relies on actual fuel consumption data. This method involves calculating emissions, such as CO2, based on the quantity of fuel used by vehicles. To implement this approach effectively, access to detailed records is essential, including fuel consumption logs, gas station data, or vehicle mileage. The precision of this method is particularly high when accurate and specific fuel usage data is available. The "fuel amount" method provides a granular understanding of emissions by directly tying them to real-world fuel consumption.
+
+### description_fr
+
+La méthode basée sur la quantité de carburant pour le calcul des émissions est une approche directe qui repose sur des données réelles de consommation de carburant. Cette méthode consiste à calculer les émissions, telles que le CO2, en fonction de la quantité de carburant utilisée par les véhicules. Pour mettre en œuvre cette approche de manière efficace, l'accès à des dossiers détaillés est essentiel, notamment des journaux de consommation de carburant, des données de stations-service ou des kilométrages des véhicules. La précision de cette méthode est particulièrement élevée lorsque des données de consommation de carburant précises et spécifiques sont disponibles. Celle-ci offre une compréhension granulaire des émissions en les reliant directement à la consommation de carburant du monde réel.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.FuelAmountMethod
