@@ -183,59 +183,88 @@ employee-commuting,transportation-distance-based-method,vehicle,Flights,Internat
 employee-commuting,transportation-distance-based-method,vehicle,Flights,International - Premium economy class,,passenger.km,"0,11895",DEFRA,2022
 employee-commuting,transportation-distance-based-method,vehicle,Flights,International - Business class,,passenger.km,"0,2156",DEFRA,2022
 employee-commuting,transportation-distance-based-method,vehicle,Flights,International - First class,,passenger.km,"0,29739",DEFRA,2022
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bio Petrol,,l,"  0,01402",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bio Petrol,,kg,"  0,01891",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel HVO,,l,"  0,03558",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel HVO,,kg,"  0,04562",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME,,l,"  0,16751",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME,,kg,"  0,18822",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from tallow),,l,"  0,16751",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"  0,18822",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,l,"  0,16751",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"  0,18822",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bioethanol,,l,"  0,00901",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bioethanol,,kg,"  0,01135",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bio Petrol,,l,"0,01402",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bio Petrol,,kg,"0,01891",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel HVO,,l,"0,03558",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel HVO,,kg,"0,04562",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME,,l,"0,16751",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME,,kg,"0,18822",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from tallow),,l,"0,16751",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"0,18822",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,l,"0,16751",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"0,18822",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bioethanol,,l,"0,00901",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Bioethanol,,kg,"0,01135",,
 employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biomethane (compressed),,l,,,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biomethane (compressed),,kg,"  0,00521",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biomethane (compressed),,kg,"0,00521",,
 employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biomethane (liquified),,l,,,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biomethane (liquified),,kg,"  0,00521",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biopropane,,l,"  0,00214",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biopropane,,kg,"  0,00415",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Methanol (bio),,l,"  0,00676",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Methanol (bio),,kg,"  0,00851",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Off road biodiesel,,l,"  0,16751",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Off road biodiesel,,kg,"  0,18822",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Renewable petrol,,l,"  0,01059",,
-employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Renewable petrol,,kg,"  0,01188",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biomethane (liquified),,kg,"0,00521",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biopropane,,l,"0,00214",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Biopropane,,kg,"0,00415",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Methanol (bio),,l,"0,00676",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Methanol (bio),,kg,"0,00851",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Off road biodiesel,,l,"0,16751",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Off road biodiesel,,kg,"0,18822",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Renewable petrol,,l,"0,01059",,
+employee-commuting,transportation-fuel-amount-method,fuel,Biofuel,Renewable petrol,,kg,"0,01188",,
 employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,CNG,,tonne,"2539,25",,
-employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,CNG,,l,"  0,44",,
+employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,CNG,,l,"0,44",,
 employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,LNG,,tonne,"2559,17",,
-employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,LNG,,l,"  1,16",,
+employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,LNG,,l,"1,16",,
 employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,LPG,,tonne,"2939,29",,
-employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,LPG,,l,"  1,56",,
+employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,LPG,,l,"1,56",,
 employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,Propane,,tonne,"2997,55",,
-employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,Propane,,l,"  1,54",,
+employee-commuting,transportation-fuel-amount-method,fuel,Gaseous fuels,Propane,,l,"1,54",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Aviation spirit,,tonne,"3192,76",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Aviation spirit,,l,"  2,33",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Aviation spirit,,l,"2,33",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Aviation turbine fuel,,tonne,"3181,43",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Aviation turbine fuel,,l,"  2,55",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Aviation turbine fuel,,l,"2,55",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonne,"3208,76",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,l,"  2,70",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,l,"2,7",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tonne,"3032,89",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Diesel (average biofuel blend),,l,"  2,56",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Fuel oil,,tonne,"3229,20",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Fuel oil,,l,"  3,18",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Diesel (average biofuel blend),,l,"2,56",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Fuel oil,,tonne,"3229,2",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Fuel oil,,l,"3,18",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Gas oil,,tonne,"3230,28",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Gas oil,,l,"  2,76",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine fuel oil,,tonne,"3159,50",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine fuel oil,,l,"  3,11",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Gas oil,,l,"2,76",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine fuel oil,,tonne,"3159,5",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine fuel oil,,l,"3,11",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine gas oil,,tonne,"3249,99",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine gas oil,,l,"  2,78",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonne,"3153,90",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,l,"  2,34",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Marine gas oil,,l,"2,78",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonne,"3153,9",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,l,"2,34",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tonne,"2903,08",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (average biofuel blend),,l,"  2,16",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Petrol (average biofuel blend),,l,"2,16",,
 employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonne,"3230,28",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,l,"  2,76",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonne,"3229,20",,
-employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,l,"  3,18",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,l,"2,76",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonne,"3229,2",,
+employee-commuting,transportation-fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,l,"3,18",,
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Austria,Electricity emission factors related to homeworking in Austria,h,"0,0228",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Belgium,Electricity emission factors related to homeworking in Belgium,h,"0,03225",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Bulgaria,Electricity emission factors related to homeworking in Bulgaria,h,"0,0834",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Croatia,Electricity emission factors related to homeworking in Croatia,h,"0,02655",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Cyprus,Electricity emission factors related to homeworking in Cyprus,h,"0,11805",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Czech Republic,Electricity emission factors related to homeworking in Czech Republic,h,"0,0948",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Denmark,Electricity emission factors related to homeworking in Denmark,h,"0,0114",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Estonia,Electricity emission factors related to homeworking in Estonia,h,"0,0657",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Finland,Electricity emission factors related to homeworking in Finland,h,"0,01155",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,France,Electricity emission factors related to homeworking in France,h,"0,01185",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Germany,Electricity emission factors related to homeworking in Germany,h,"0,0627",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Greece,Electricity emission factors related to homeworking in Greece,h,"0,0639",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Hungary,Electricity emission factors related to homeworking in Hungary,h,"0,0318",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Ireland,Electricity emission factors related to homeworking in Ireland,h,"0,0528",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Italy,Electricity emission factors related to homeworking in Italy,h,"0,05145",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Latvia,Electricity emission factors related to homeworking in Latvia,h,"0,0147",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Lithuania,Electricity emission factors related to homeworking in Lithuania,h,"0,0111",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Luxembourg,Electricity emission factors related to homeworking in Luxembourg,h,"0,00315",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Malta,Electricity emission factors related to homeworking in Malta,h,"0,06255",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Netherlands,Electricity emission factors related to homeworking in Netherlands,h,"0,0603",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Poland,Electricity emission factors related to homeworking in Poland,h,"0,1194",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Portugal,Electricity emission factors related to homeworking in Portugal,h,"0,03915",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Romania,Electricity emission factors related to homeworking in Romania,h,"0,054",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Slovak Republic,Electricity emission factors related to homeworking in Slovak Republic,h,"0,0321",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Slovenia,Electricity emission factors related to homeworking in Slovenia,h,"0,04695",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Spain,Electricity emission factors related to homeworking in Spain,h,"0,033",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,Sweden,Electricity emission factors related to homeworking in Sweden,h,"0,00285",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,United Kingdom,Electricity emission factors related to homeworking in United Kingdom,h,"0,036579",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023
+employee-commuting,home-office-electricity-use,electricity,Homeworking electricity,EU-27,Electricity emission factors related to homeworking in EU-27,h,"0,04395",https://greenlang.fingreen.ai/calculations/ghg/index.html,2023

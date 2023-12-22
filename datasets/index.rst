@@ -63,7 +63,7 @@ Combining the report `Carbon footprint assessment and reduction <https://www.sqw
 and the `Homeworking emissions Whitepaper <https://info.eco-act.com/hubfs/0%20-%20Downloads/Homeworking%20emissions%20whitepaper/Homeworking%20Emissions%20Whitepaper%202020.pdf>`_ from `UK Government <https://www.gov.uk/>`_, 
 we can get the following emission factors for electricity consumption in the telework sector:
 
-.. table::
+.. table:: CONSTANTS FOR ELECTRICITY
     :align: left
 
     +--------------------------------------------------------------+--------+
@@ -78,3 +78,11 @@ we can get the following emission factors for electricity consumption in the tel
 
 We obtain the total electricity use per working hour as a constant value of 0,15 kW.
 This constant is multiplied by the emission factor of the country to get the final emission factor which is reported in the :download:`dataset of this GHG category <./ghg/scope_3/employee_commuting.csv>`
+
+Heating emission factors related to homeworking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+On the one hand, According to the `Homeworking emissions Whitepaper <https://info.eco-act.com/hubfs/0%20-%20Downloads/Homeworking%20emissions%20whitepaper/Homeworking%20Emissions%20Whitepaper%202020.pdf>`_ from `UK Government <https://www.gov.uk/>`_,
+the energy use per working hour for heating is 5kW
+On the other hand, according to DEFRA-2022, emission factors for natural gas are  0,23832 kgCO2e per units.
+As a result, the emission factor for heating is 1,1916 kgCO2e per working hour.

@@ -1,4 +1,4 @@
-# [Employee Commuting](#employee-commuting)
+# [Employee Commuting and homeworking](#employee-commuting)
 
 ### scope
 
@@ -6,7 +6,7 @@
 
 ### name_fr
 
-Déplacements domicile-travail
+Déplacements domicile-travail et télétravail
 
 ### description 
 
@@ -20,6 +20,10 @@ This category includes emissions from the transportation of employees4 between t
 
 A reporting company’s scope 3 emissions from employee commuting include the scope 1 and scope 2 emissions of employees and third-party transportation providers.
 
+"Employees" refers to employees of entities and facilities owned, operated, or leased by the reporting company. Companies may include employees of other relevant entities (e.g., franchises or outsourced operations) in this category, as well as consultants, contractors, and other individuals who are not employees of the company, but commute to facilities owned and operated by the company.
+
+Companies may include emissions from teleworking (i.e., employees working remotely) in this category. A reporting company’s scope 3 emissions from employee commuting include the scope 1 and scope 2 emissions of employees and third-party transportation providers. 
+
 
 ### description_fr
 
@@ -32,6 +36,10 @@ Cette catégorie comprend les émissions liées au transport des employés4 entr
 - Autres modes de transport (par exemple, métro, vélo, marche).
 
 Les émissions de portée 3 d'une entreprise de déclaration liées aux déplacements des employés comprennent les émissions de portée 1 et de portée 2 des employés et des fournisseurs de transport tiers.
+
+"Employés" désigne les employés des entités et installations détenues, exploitées ou louées par l'entreprise déclarante. Les entreprises peuvent inclure les employés d'autres entités pertinentes (par exemple, des franchises ou des opérations externalisées) dans cette catégorie, ainsi que des consultants, des entrepreneurs et d'autres personnes qui ne sont pas des employés de l'entreprise, mais qui se rendent dans des installations détenues et exploitées par l'entreprise.
+
+Les entreprises peuvent inclure les émissions liées au télétravail (c'est-à-dire les employés travaillant à distance) dans cette catégorie. Les émissions de portée 3 d'une entreprise de déclaration liées aux déplacements des employés comprennent les émissions de portée 1 et de portée 2 des employés et des fournisseurs de transport tiers.
 
 
 ## [Transportation by distance](#transportation-distance-based-method)
