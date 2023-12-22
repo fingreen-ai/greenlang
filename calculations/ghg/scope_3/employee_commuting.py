@@ -1,15 +1,19 @@
 """ Employee commuting emissions calculation module. """
 
 from ..base.base import BaseCalculationMethod
-from ..base.forms import CustomFactorCalculationMethodForm
 
 
-class DistanceBasedMethod(BaseCalculationMethod):
-    """Distance based method"""
+class TransportationDistanceBasedMethod(BaseCalculationMethod):
+    """Transportation by distance"""
 
+class TransportationFuelAmountMethod(BaseCalculationMethod):
+    """Transportation by fuel amount"""
 
-class EquipmentBasedMethod(BaseCalculationMethod):
-    """Equipment based method"""
+class HomeOfficeElectricityUseMethod(BaseCalculationMethod):
+    """ Home Office Electricity Use """
 
-class FuelAmountMethod(BaseCalculationMethod):
-    """Fuel amount method"""
+class HomeOfficeHeatingNeedsMethod(BaseCalculationMethod):
+    """ Home Office Heating Needs """
+
+class HomeOfficeCoolingNeedsMethod(BaseCalculationMethod):
+    """ Home Office Cooling Needs """

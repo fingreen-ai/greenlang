@@ -34,7 +34,7 @@ Cette catégorie comprend les émissions liées au transport des employés4 entr
 Les émissions de portée 3 d'une entreprise de déclaration liées aux déplacements des employés comprennent les émissions de portée 1 et de portée 2 des employés et des fournisseurs de transport tiers.
 
 
-## [Distance-based method](#distance-based-method)
+## [Transportation by distance](#transportation-distance-based-method)
 
 ### name_fr
 
@@ -96,28 +96,9 @@ La collecte de données de déplacement auprès de tous les employés par le bia
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_3.employee_commuting.DistanceBasedMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.TransportationDistanceBasedMethod
 
-
-## [Equipment-based method](#equipment-based-method)
-
-### name_fr
-
-Méthode basée sur l'équipement
-
-### description
-
-Emissions from teleworking
-
-### description_fr
-
-Émissions liées au télétravail
-
-### implem_path
-
-greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
-
-## [Fuel Amount Method](#fuel-amount-method)
+## [Transportation by fuel amount](#transportation-fuel-amount-method)
 
 ### name_fr
 
@@ -133,4 +114,58 @@ La méthode basée sur la quantité de carburant pour le calcul des émissions e
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_3.employee_commuting.FuelAmountMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMethod
+
+## [Home Office Electricity Use](#home-office-electricity-use)
+
+### name_fr
+
+Méthode sur l'utilisation de l'électricité dans le cadre du télétravail
+
+### description
+
+This method is used to calculate the emissions associated with the electricity used by employees working from home. This method is based on the assumption that the electricity used by employees working from home is additional to the electricity used by the company’s office. The method involves calculating the emissions associated with the electricity used by employees working from home by multiplying the electricity used by employees working from home by the appropriate emission factor for the electricity used.
+
+### description_fr
+
+Cette méthode est utilisée pour calculer les émissions associées à l'électricité utilisée par les employés travaillant à domicile. Cette méthode est basée sur l'hypothèse que l'électricité utilisée par les employés travaillant à domicile est supplémentaire à l'électricité utilisée par le bureau de l'entreprise. La méthode consiste à calculer les émissions associées à l'électricité utilisée par les employés travaillant à domicile en multipliant l'électricité utilisée par les employés travaillant à domicile par le facteur d'émission approprié pour l'électricité utilisée.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMethod
+
+## [Home Office Heating Needs ](#home-office-heating-needs)
+
+### name_fr
+
+Méthode sur les besoins de chauffage dans le cadre du télétravail
+
+### description
+
+This method is used to calculate the emissions associated with the heating needs of employees working from home. This method is based on the assumption that the heating needs of employees working from home are additional to the heating needs of the company’s office. The method involves calculating the emissions associated with the heating needs of employees working from home by multiplying the heating needs of employees working from home by the appropriate emission factor for the heating needs.
+
+### description_fr
+
+Cette méthode est utilisée pour calculer les émissions associées aux besoins de chauffage des employés travaillant à domicile. Cette méthode est basée sur l'hypothèse que les besoins de chauffage des employés travaillant à domicile sont supplémentaires aux besoins de chauffage du bureau de l'entreprise. La méthode consiste à calculer les émissions associées aux besoins de chauffage des employés travaillant à domicile en multipliant les besoins de chauffage des employés travaillant à domicile par le facteur d'émission approprié pour les besoins de chauffage.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod
+
+## [Home Office Cooling Needs](#home-office-cooling-needs)
+
+### name_fr
+
+Méthode sur les besoins de refroidissement dans le cadre du télétravail
+
+### description
+
+This method is used to calculate the emissions associated with the cooling needs of employees working from home. This method is based on the assumption that the cooling needs of employees working from home are additional to the cooling needs of the company’s office. The method involves calculating the emissions associated with the cooling needs of employees working from home by multiplying the cooling needs of employees working from home by the appropriate emission factor for the cooling needs.
+
+### description_fr
+
+Cette méthode est utilisée pour calculer les émissions associées aux besoins de refroidissement des employés travaillant à domicile. Cette méthode est basée sur l'hypothèse que les besoins de refroidissement des employés travaillant à domicile sont supplémentaires aux besoins de refroidissement du bureau de l'entreprise. La méthode consiste à calculer les émissions associées aux besoins de refroidissement des employés travaillant à domicile en multipliant les besoins de refroidissement des employés travaillant à domicile par le facteur d'émission approprié pour les besoins de refroidissement.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod
