@@ -128,7 +128,7 @@ greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMe
 
 ### name_fr
 
-Méthode sur l'utilisation de l'électricité dans le cadre du télétravail
+Utilisation de l'électricité dans le cadre du télétravail
 
 ### description
 
@@ -146,7 +146,7 @@ greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMe
 
 ### name_fr
 
-Méthode sur les besoins de chauffage dans le cadre du télétravail
+Besoins en chauffage dans le cadre du télétravail
 
 ### description
 
@@ -164,7 +164,7 @@ greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMeth
 
 ### name_fr
 
-Méthode sur les besoins de refroidissement dans le cadre du télétravail
+Besoins en refroidissement dans le cadre du télétravail
 
 ### description
 
