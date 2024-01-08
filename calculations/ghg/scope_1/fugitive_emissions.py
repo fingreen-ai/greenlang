@@ -49,7 +49,7 @@ class MassBalanceMethod(BaseCalculationMethod):
         "
 
         text += f"\
-        Calculus : {collection_item.value_float} {factor_value.get_unit_display()} x {self.total_co2(factor_value)} kg CO2/{factor_value.get_unit_display()} / 1000 = {round(self.compute(collection_item), 5)} tonnes CO2\
+        Calculus : {collection_item.value_float} {factor_value.get_unit_display()} x {self.total_co2(collection_item)} kg CO2/{factor_value.get_unit_display()} / 1000 = {round(self.compute(collection_item), 5)} tonnes CO2\
         <br>\
         <br>\
         Data source : {factor_value.data_source}<br>\
