@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>greenlang.calculations.sfdr.pai_board_gender_diversity</title>
+    
+          <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../../../../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../../../../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../../../../_static/documentation_options.js?v=d45e8c67"></script>
+        <script src="../../../../_static/doctools.js?v=888ff710"></script>
+        <script src="../../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../../../../_static/theme-vendors.js"></script> -->
+      <script src="../../../../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/_modules/greenlang/calculations/sfdr/pai_board_gender_diversity.html" />
+    
+  <link rel="index" title="Index" href="../../../../genindex.html" />
+  <link rel="search" title="Search" href="../../../../search.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../../../../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../../../../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../../../../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../calculations/index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../../../../index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="../../../index.html">Module code</a> &raquo;</li>
+    
+    <li>greenlang.calculations.sfdr.pai_board_gender_diversity</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <h1>Source code for greenlang.calculations.sfdr.pai_board_gender_diversity</h1><div class="highlight"><pre>
+<span></span><span class="sd">&quot;&quot;&quot; board_gender_diversity &quot;&quot;&quot;</span>
+<span class="kn">import</span> <span class="nn">logging</span>
+
+<span class="kn">from</span> <span class="nn">fingreen_web.models</span> <span class="kn">import</span> <span class="n">CollectionItem</span>
+
+<span class="n">logger</span> <span class="o">=</span> <span class="n">logging</span><span class="o">.</span><span class="n">getLogger</span><span class="p">(</span><span class="vm">__name__</span><span class="p">)</span>
+
+
+<div class="viewcode-block" id="BoardGenderDiversity">
+<a class="viewcode-back" href="../../../../calculations/sfdr/sfdr.html#greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity">[docs]</a>
+<span class="k">class</span> <span class="nc">BoardGenderDiversity</span><span class="p">():</span> <span class="c1">#pylint: disable=[invalid-name, too-few-public-methods]</span>
+<span class="w">    </span><span class="sd">&quot;&quot;&quot; board_gender_diversity &quot;&quot;&quot;</span>
+
+<div class="viewcode-block" id="BoardGenderDiversity.impact">
+<a class="viewcode-back" href="../../../../calculations/sfdr/sfdr.html#greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity.impact">[docs]</a>
+    <span class="k">def</span> <span class="nf">impact</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">collections</span><span class="p">,</span> <span class="n">assets</span><span class="p">,</span> <span class="n">invest_value_tot</span><span class="p">,</span> <span class="n">period</span><span class="p">):</span> <span class="c1"># pylint: disable=[unused-argument]</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot; Compute carbon_footprint </span>
+<span class="sd">        </span>
+<span class="sd">        Formula ???</span>
+
+<span class="sd">        Args:</span>
+<span class="sd">        - assets</span>
+<span class="sd">        Returns:</span>
+<span class="sd">        - share_t</span>
+<span class="sd">        &quot;&quot;&quot;</span>
+        <span class="n">diversity_tot</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="k">for</span> <span class="n">asset</span> <span class="ow">in</span> <span class="n">assets</span><span class="p">:</span>
+            <span class="c1">#collection = Collection.objects.get(company=asset.company)</span>
+            <span class="n">collection</span> <span class="o">=</span> <span class="n">collections</span><span class="o">.</span><span class="n">filter</span><span class="p">(</span><span class="n">company</span><span class="o">=</span><span class="n">asset</span><span class="o">.</span><span class="n">company</span><span class="p">,</span> <span class="n">collection_type</span><span class="o">=</span><span class="s1">&#39;metrics&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+            <span class="n">collection_item_gender_board_diversity_pct</span> <span class="o">=</span> <span class="n">CollectionItem</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span>
+                <span class="n">collection</span><span class="o">=</span><span class="n">collection</span><span class="p">,</span> <span class="n">template__name</span><span class="o">=</span><span class="s1">&#39;gender_board_diversity_pct&#39;</span><span class="p">)</span>
+
+            <span class="n">diversity_i</span> <span class="o">=</span> <span class="mi">0</span>
+            <span class="k">if</span> <span class="n">collection_item_gender_board_diversity_pct</span><span class="o">.</span><span class="n">value_float</span><span class="p">:</span>
+                <span class="n">diversity_i</span> <span class="o">=</span> <span class="n">collection_item_gender_board_diversity_pct</span><span class="o">.</span><span class="n">value_float</span>
+            <span class="n">diversity_tot</span> <span class="o">=</span> <span class="n">diversity_tot</span> <span class="o">+</span> <span class="n">diversity_i</span>
+
+        <span class="n">diversity_avrg</span> <span class="o">=</span> <span class="n">diversity_tot</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">assets</span><span class="p">)</span>
+        <span class="n">diversity_avrg</span> <span class="o">=</span> <span class="nb">round</span><span class="p">(</span><span class="n">diversity_avrg</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+
+        <span class="k">return</span> <span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="n">diversity_avrg</span><span class="si">:</span><span class="s1">g</span><span class="si">}</span><span class="s1">&#39;</span></div>
+</div>
+
+</pre></div>
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2023, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 7.2.6 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.8.0.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

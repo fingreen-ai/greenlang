@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+      <title>Common</title>
+    
+          <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../../../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../../../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../../../_static/documentation_options.js?v=d45e8c67"></script>
+        <script src="../../../_static/doctools.js?v=888ff710"></script>
+        <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../../../_static/theme-vendors.js"></script> -->
+      <script src="../../../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/calculations/ghg/base/base.html" />
+    
+  <link rel="index" title="Index" href="../../../genindex.html" />
+  <link rel="search" title="Search" href="../../../search.html" />
+  <link rel="next" title="Scope 1" href="../scope_1/scope_1.html" />
+  <link rel="prev" title="Calculations" href="../../index.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../../../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../../../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../../../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../../../index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="../../index.html">Calculations</a> &raquo;</li>
+    
+    <li>Common</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="../../index.html"
+       title="previous chapter">← Calculations</a>
+  </li>
+  <li class="next">
+    <a href="../scope_1/scope_1.html"
+       title="next chapter">Scope 1 →</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <section id="common">
+<h1>Common<a class="headerlink" href="#common" title="Link to this heading">¶</a></h1>
+<a class="reference internal image-reference" href="../../../_images/classes.png"><img alt="../../../_images/classes.png" class="align-center" src="../../../_images/classes.png" style="width: 100%;" /></a>
+<section id="generic-calculation-implementations">
+<h2>Generic calculation implementations<a class="headerlink" href="#generic-calculation-implementations" title="Link to this heading">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.base.BaseCalculationMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.base.base.</span></span><span class="sig-name descname"><span class="pre">BaseCalculationMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/base.html#BaseCalculationMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.base.BaseCalculationMethod" title="Link to this definition">¶</a></dt>
+<dd><p>This is the base class for all calculation methods.
+All lot of categories are using this class because they are using a predefined factor.
+In term of form, the user has to select a GHG emission factor, a GHG emission unit and a amount.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.base.BaseCalculationMethod.amount">
+<span class="sig-name descname"><span class="pre">amount</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/base.html#BaseCalculationMethod.amount"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.base.BaseCalculationMethod.amount" title="Link to this definition">¶</a></dt>
+<dd><p>Return the amount value of the related ghg emission factor.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><p><strong>collection_item</strong> – the collection item where the amount value is stored.</p>
+</dd>
+<dt class="field-even">Returns<span class="colon">:</span></dt>
+<dd class="field-even"><p>The amount value, as float number, of the related ghg emission factor.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.base.BaseCalculationMethod.compute">
+<span class="sig-name descname"><span class="pre">compute</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/base.html#BaseCalculationMethod.compute"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.base.BaseCalculationMethod.compute" title="Link to this definition">¶</a></dt>
+<dd><p>Compute.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.base.BaseCalculationMethod.explain">
+<span class="sig-name descname"><span class="pre">explain</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/base.html#BaseCalculationMethod.explain"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.base.BaseCalculationMethod.explain" title="Link to this definition">¶</a></dt>
+<dd><p>Return calculation explanation in human readable format.
+Basically, it’s displaying the amount, the GHG emission factor value and the total
+co2 value.
+It’s also mentionning the data source and the data source year.
+:param collection_item: the collection item where informations are stored.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns<span class="colon">:</span></dt>
+<dd class="field-odd"><p>Calculation explanation in human readable format.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.base.BaseCalculationMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.base.base.BaseCalculationMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class to use for this calculation method.
+The form is responsible both of the displayed inputs both of the validation and the saving,
+if so.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns<span class="colon">:</span></dt>
+<dd class="field-odd"><p>The form class to use for this calculation method.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.base.BaseCalculationMethod.total_co2">
+<span class="sig-name descname"><span class="pre">total_co2</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/base.html#BaseCalculationMethod.total_co2"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.base.BaseCalculationMethod.total_co2" title="Link to this definition">¶</a></dt>
+<dd><p>The total co2 value for the given GHG emission factor value.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters<span class="colon">:</span></dt>
+<dd class="field-odd"><p><strong>collection_item</strong> – the collection item where informations are stored.</p>
+</dd>
+<dt class="field-even">Returns<span class="colon">:</span></dt>
+<dd class="field-even"><p>The total co2 value, as float number, for the given GHG emission factor value.
+If the GHG emission factor value is a goods or services, the total co2 value is updated
+with an inflation rate. For the moment, the inflation rate is hard-coded :
+7% per year.</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="generic-forms">
+<h2>Generic forms<a class="headerlink" href="#generic-forms" title="Link to this heading">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.forms.PredefinedFactorCalculationMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.base.forms.</span></span><span class="sig-name descname"><span class="pre">PredefinedFactorCalculationMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/forms.html#PredefinedFactorCalculationMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.forms.PredefinedFactorCalculationMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>This form provides the inputs for category using a predefined factor.
+It exposes the following fields:</p>
+<ul class="simple">
+<li><p>description_user: a description of the item</p></li>
+<li><p>ghg_factor: the GHG emission factor to use, prefilled with the factors related to selected calculation method</p></li>
+<li><p>value_float: the amount value</p></li>
+<li><p>ghg_unit: the GHG emission unit to use, prefilled with the units related to selected GHG emission factor</p></li>
+</ul>
+<p>As hidden fields, the form exposes:</p>
+<ul class="simple">
+<li><p>method: the selected GHG emission source computation method</p></li>
+<li><p>collection: the selected collection</p></li>
+<li><p>item_type: the selected item type, must be ‘ghg’</p></li>
+<li><p>ghg_scope: the selected GHG scope</p></li>
+</ul>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.forms.PredefinedFactorCalculationMethodForm.get_extra_fields">
+<span class="sig-name descname"><span class="pre">get_extra_fields</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/forms.html#PredefinedFactorCalculationMethodForm.get_extra_fields"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.forms.PredefinedFactorCalculationMethodForm.get_extra_fields" title="Link to this definition">¶</a></dt>
+<dd><p>Return extra fields to add to the form.
+This method is meant to be overriden by subclasses.
+:returns: A list of extra fields to add to the form. Empty list by default.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.forms.CustomFactorCalculationMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.base.forms.</span></span><span class="sig-name descname"><span class="pre">CustomFactorCalculationMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/forms.html#CustomFactorCalculationMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.forms.CustomFactorCalculationMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>CustomFactorCalculationMethodForm</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.forms.CustomFactorCalculationMethodForm.save">
+<span class="sig-name descname"><span class="pre">save</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">commit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">True</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/forms.html#CustomFactorCalculationMethodForm.save"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.forms.CustomFactorCalculationMethodForm.save" title="Link to this definition">¶</a></dt>
+<dd><p>Save</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.forms.SupplierSpecificMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.base.forms.</span></span><span class="sig-name descname"><span class="pre">SupplierSpecificMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/forms.html#SupplierSpecificMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.forms.SupplierSpecificMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>Supplier specific method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.base.forms.CustomAverageDataMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.base.forms.</span></span><span class="sig-name descname"><span class="pre">CustomAverageDataMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/base/forms.html#CustomAverageDataMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.base.forms.CustomAverageDataMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>Custom Average data method form</p>
+</dd></dl>
+
+</section>
+</section>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="../../index.html"
+       title="previous chapter">← Calculations</a>
+  </li>
+  <li class="next">
+    <a href="../scope_1/scope_1.html"
+       title="next chapter">Scope 1 →</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2023, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 7.2.6 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.8.0.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

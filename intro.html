@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+      <title>Introduction</title>
+    
+          <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="_static/documentation_options.js?v=d45e8c67"></script>
+        <script src="_static/doctools.js?v=888ff710"></script>
+        <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="_static/theme-vendors.js"></script> -->
+      <script src="_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/intro.html" />
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Maintainers" href="AUTHORS.html" />
+  <link rel="prev" title="Greenlang" href="index.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="current">
+        
+          <li class="toctree-l1 current">
+            
+              <a href="#" class="reference internal current">Introduction</a>
+            
+
+            
+              <ul>
+                
+                  <li class="toctree-l2"><a href="#what-is-greenlang" class="reference internal">What is Greenlang?</a></li>
+                
+                  <li class="toctree-l2"><a href="#who-contributes" class="reference internal">Who contributes ?</a></li>
+                
+                  <li class="toctree-l2"><a href="#how-to-contribute" class="reference internal">How to contribute ?</a></li>
+                
+                  <li class="toctree-l2"><a href="#licenses" class="reference internal">Licenses</a></li>
+                
+              </ul>
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="calculations/index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+    <li>Introduction</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="index.html"
+       title="previous chapter">← Greenlang</a>
+  </li>
+  <li class="next">
+    <a href="AUTHORS.html"
+       title="next chapter">Maintainers →</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <section id="introduction">
+<h1>Introduction<a class="headerlink" href="#introduction" title="Link to this heading">¶</a></h1>
+<section id="what-is-greenlang">
+<h2>What is Greenlang?<a class="headerlink" href="#what-is-greenlang" title="Link to this heading">¶</a></h2>
+<p>One of the main challenges for <a class="reference external" href="https://fingreen.ai">FINGREEN AI</a> is to ensure complete transparency, from data collection to reporting. Thus, our users, as well as their partners, can verify that no bias has been introduced. This aims to enable informed investment choices based on reliable and accurate information, thereby reducing the prevalence of greenwashing, whether intentional or not.</p>
+<p>This approach is reflected in the open licensing of all our data sources, definitions, and translations of various concepts from regulatory texts, as well as all source codes involved in calculating different metrics and indicators.</p>
+<p>Through Greenlang, <a class="reference external" href="https://fingreen.ai">FINGREEN AI</a> introduces the first open-source component promoting transparency, interoperability, and collaboration in the ESG reporting domain.</p>
+<p><a class="reference external" href="https://fingreen.ai">FINGREEN AI</a> firmly believes that open source is the future of ESG data and that by adopting this approach, we can eliminate greenwashing and promote a sustainable financial system that prioritizes transparency, accountability, and genuine environmental impact.</p>
+</section>
+<section id="who-contributes">
+<h2>Who contributes ?<a class="headerlink" href="#who-contributes" title="Link to this heading">¶</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="AUTHORS.html">Maintainers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="AUTHORS.html#contributors">Contributors</a></li>
+</ul>
+</div>
+</section>
+<section id="how-to-contribute">
+<h2>How to contribute ?<a class="headerlink" href="#how-to-contribute" title="Link to this heading">¶</a></h2>
+<p>TBD</p>
+</section>
+<section id="licenses">
+<h2>Licenses<a class="headerlink" href="#licenses" title="Link to this heading">¶</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="LICENSES.html">Licence for codebase</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LICENSES.html#licence-for-datasets-text-images-generated-documentation-and-other-non-code-files">Licence for datasets, text, images, generated documentation, and other non-code files</a></li>
+</ul>
+</div>
+</section>
+</section>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="index.html"
+       title="previous chapter">← Greenlang</a>
+  </li>
+  <li class="next">
+    <a href="AUTHORS.html"
+       title="next chapter">Maintainers →</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2023, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 7.2.6 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.8.0.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

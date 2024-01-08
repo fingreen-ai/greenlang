@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+      <title>SFDR</title>
+    
+          <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../../_static/documentation_options.js?v=d45e8c67"></script>
+        <script src="../../_static/doctools.js?v=888ff710"></script>
+        <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../../_static/theme-vendors.js"></script> -->
+      <script src="../../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/calculations/sfdr/sfdr.html" />
+    
+  <link rel="index" title="Index" href="../../genindex.html" />
+  <link rel="search" title="Search" href="../../search.html" />
+  <link rel="prev" title="Scope 3" href="../ghg/scope_3/scope_3.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../../index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="../index.html">Calculations</a> &raquo;</li>
+    
+    <li>SFDR</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="../ghg/scope_3/scope_3.html"
+       title="previous chapter">← Scope 3</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <section id="sfdr">
+<h1>SFDR<a class="headerlink" href="#sfdr" title="Link to this heading">¶</a></h1>
+<section id="calculation-implementations">
+<h2>Calculation implementations<a class="headerlink" href="#calculation-implementations" title="Link to this heading">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_scope_1_tonnes.Scope1GhgEmissions">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_ghg_scope_1_tonnes.</span></span><span class="sig-name descname"><span class="pre">Scope1GhgEmissions</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_scope_1_tonnes.html#Scope1GhgEmissions"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_scope_1_tonnes.Scope1GhgEmissions" title="Link to this definition">¶</a></dt>
+<dd><p>ghg_scope_1_tonnes</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_scope_1_tonnes.Scope1GhgEmissions.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_scope_1_tonnes.html#Scope1GhgEmissions.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_scope_1_tonnes.Scope1GhgEmissions.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute ghg_scope_1_tonnes</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_scope_2_tonnes.Scope2GhgEmissions">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_ghg_scope_2_tonnes.</span></span><span class="sig-name descname"><span class="pre">Scope2GhgEmissions</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_scope_2_tonnes.html#Scope2GhgEmissions"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_scope_2_tonnes.Scope2GhgEmissions" title="Link to this definition">¶</a></dt>
+<dd><p>ghg_scope_2_tonnes</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_scope_2_tonnes.Scope2GhgEmissions.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_scope_2_tonnes.html#Scope2GhgEmissions.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_scope_2_tonnes.Scope2GhgEmissions.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute ghg_scope_2_tonnes</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_scope_3_tonnes.Scope3GhgEmissions">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_ghg_scope_3_tonnes.</span></span><span class="sig-name descname"><span class="pre">Scope3GhgEmissions</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_scope_3_tonnes.html#Scope3GhgEmissions"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_scope_3_tonnes.Scope3GhgEmissions" title="Link to this definition">¶</a></dt>
+<dd><p>ghg_scope_3_tonnes</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_scope_3_tonnes.Scope3GhgEmissions.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_scope_3_tonnes.html#Scope3GhgEmissions.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_scope_3_tonnes.Scope3GhgEmissions.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute ghg_scope_3_tonnes</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_total_tonnes.TotalGhgEmissions">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_ghg_total_tonnes.</span></span><span class="sig-name descname"><span class="pre">TotalGhgEmissions</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_total_tonnes.html#TotalGhgEmissions"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_total_tonnes.TotalGhgEmissions" title="Link to this definition">¶</a></dt>
+<dd><p>ghg_total_tonnes</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_total_tonnes.TotalGhgEmissions.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_total_tonnes.html#TotalGhgEmissions.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_total_tonnes.TotalGhgEmissions.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute ghg_intensity_investees</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_carbon_footprint.CarbonFootprint">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_carbon_footprint.</span></span><span class="sig-name descname"><span class="pre">CarbonFootprint</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_carbon_footprint.html#CarbonFootprint"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_carbon_footprint.CarbonFootprint" title="Link to this definition">¶</a></dt>
+<dd><p>carbon_footprint</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_carbon_footprint.CarbonFootprint.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_carbon_footprint.html#CarbonFootprint.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_carbon_footprint.CarbonFootprint.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_intensity_investees.GhgIntensityOfInvesteeCompanies">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_ghg_intensity_investees.</span></span><span class="sig-name descname"><span class="pre">GhgIntensityOfInvesteeCompanies</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_intensity_investees.html#GhgIntensityOfInvesteeCompanies"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_intensity_investees.GhgIntensityOfInvesteeCompanies" title="Link to this definition">¶</a></dt>
+<dd><p>ghg_intensity_investees</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_ghg_intensity_investees.GhgIntensityOfInvesteeCompanies.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_ghg_intensity_investees.html#GhgIntensityOfInvesteeCompanies.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_ghg_intensity_investees.GhgIntensityOfInvesteeCompanies.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute ghg_intensity_investees</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_fossil_fuel_exposure.FossilFuelExposure">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_fossil_fuel_exposure.</span></span><span class="sig-name descname"><span class="pre">FossilFuelExposure</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_fossil_fuel_exposure.html#FossilFuelExposure"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_fossil_fuel_exposure.FossilFuelExposure" title="Link to this definition">¶</a></dt>
+<dd><p>fossil_fuel_exposure</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_fossil_fuel_exposure.FossilFuelExposure.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_fossil_fuel_exposure.html#FossilFuelExposure.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_fossil_fuel_exposure.FossilFuelExposure.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_non_renewable_energy.NonRenewableEnergy">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_non_renewable_energy.</span></span><span class="sig-name descname"><span class="pre">NonRenewableEnergy</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_non_renewable_energy.html#NonRenewableEnergy"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_non_renewable_energy.NonRenewableEnergy" title="Link to this definition">¶</a></dt>
+<dd><p>non_renewable_energy</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_non_renewable_energy.NonRenewableEnergy.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_non_renewable_energy.html#NonRenewableEnergy.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_non_renewable_energy.NonRenewableEnergy.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute fossil_fuel_exposure</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_energy_intensity_impact_sector.EnergyConsumptionPerSector">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_energy_intensity_impact_sector.</span></span><span class="sig-name descname"><span class="pre">EnergyConsumptionPerSector</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_energy_intensity_impact_sector.html#EnergyConsumptionPerSector"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_energy_intensity_impact_sector.EnergyConsumptionPerSector" title="Link to this definition">¶</a></dt>
+<dd><p>energy_intensity_impact_sector</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_energy_intensity_impact_sector.EnergyConsumptionPerSector.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_energy_intensity_impact_sector.html#EnergyConsumptionPerSector.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_energy_intensity_impact_sector.EnergyConsumptionPerSector.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute ghg_intensity_investees</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_sensitive_area_affect.BiodiversityImpact">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_sensitive_area_affect.</span></span><span class="sig-name descname"><span class="pre">BiodiversityImpact</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_sensitive_area_affect.html#BiodiversityImpact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_sensitive_area_affect.BiodiversityImpact" title="Link to this definition">¶</a></dt>
+<dd><p>sensitive_area_affect</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_sensitive_area_affect.BiodiversityImpact.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_sensitive_area_affect.html#BiodiversityImpact.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_sensitive_area_affect.BiodiversityImpact.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_emission_to_water.EmissionsToWater">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_emission_to_water.</span></span><span class="sig-name descname"><span class="pre">EmissionsToWater</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_emission_to_water.html#EmissionsToWater"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_emission_to_water.EmissionsToWater" title="Link to this definition">¶</a></dt>
+<dd><p>emission_to_water</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_emission_to_water.EmissionsToWater.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_emission_to_water.html#EmissionsToWater.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_emission_to_water.EmissionsToWater.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_hazardous_waste_ratio.HazardousWaste">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_hazardous_waste_ratio.</span></span><span class="sig-name descname"><span class="pre">HazardousWaste</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_hazardous_waste_ratio.html#HazardousWaste"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_hazardous_waste_ratio.HazardousWaste" title="Link to this definition">¶</a></dt>
+<dd><p>hazardous_waste_ratio</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_hazardous_waste_ratio.HazardousWaste.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_hazardous_waste_ratio.html#HazardousWaste.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_hazardous_waste_ratio.HazardousWaste.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute hazardous_waste_ratio</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_inorg_pollutants.InorganicPollutants">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_inorg_pollutants.</span></span><span class="sig-name descname"><span class="pre">InorganicPollutants</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_inorg_pollutants.html#InorganicPollutants"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_inorg_pollutants.InorganicPollutants" title="Link to this definition">¶</a></dt>
+<dd><p>inorg_pollutants</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_inorg_pollutants.InorganicPollutants.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_inorg_pollutants.html#InorganicPollutants.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_inorg_pollutants.InorganicPollutants.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute inorg_pollutants</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- value_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_oecd_violations.OecdViolations">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_oecd_violations.</span></span><span class="sig-name descname"><span class="pre">OecdViolations</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_oecd_violations.html#OecdViolations"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_oecd_violations.OecdViolations" title="Link to this definition">¶</a></dt>
+<dd><p>oecd_violations</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_oecd_violations.OecdViolations.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_oecd_violations.html#OecdViolations.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_oecd_violations.OecdViolations.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_oecd_monitoring.OecdCompliancePolicies">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_oecd_monitoring.</span></span><span class="sig-name descname"><span class="pre">OecdCompliancePolicies</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_oecd_monitoring.html#OecdCompliancePolicies"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_oecd_monitoring.OecdCompliancePolicies" title="Link to this definition">¶</a></dt>
+<dd><p>oecd_monitoring</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_oecd_monitoring.OecdCompliancePolicies.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_oecd_monitoring.html#OecdCompliancePolicies.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_oecd_monitoring.OecdCompliancePolicies.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute oecd_monitoring_bool</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_gender_pay_gap.GenderPayGap">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_gender_pay_gap.</span></span><span class="sig-name descname"><span class="pre">GenderPayGap</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_gender_pay_gap.html#GenderPayGap"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_gender_pay_gap.GenderPayGap" title="Link to this definition">¶</a></dt>
+<dd><p>gender_pay_gap</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_gender_pay_gap.GenderPayGap.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_gender_pay_gap.html#GenderPayGap.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_gender_pay_gap.GenderPayGap.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_board_gender_diversity.</span></span><span class="sig-name descname"><span class="pre">BoardGenderDiversity</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_board_gender_diversity.html#BoardGenderDiversity"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity" title="Link to this definition">¶</a></dt>
+<dd><p>board_gender_diversity</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_board_gender_diversity.html#BoardGenderDiversity.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_controversial_weapons_exposure.ControversialWeaponsExposure">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.sfdr.pai_controversial_weapons_exposure.</span></span><span class="sig-name descname"><span class="pre">ControversialWeaponsExposure</span></span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_controversial_weapons_exposure.html#ControversialWeaponsExposure"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_controversial_weapons_exposure.ControversialWeaponsExposure" title="Link to this definition">¶</a></dt>
+<dd><p>controversial_weapons_exposure</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.sfdr.pai_controversial_weapons_exposure.ControversialWeaponsExposure.impact">
+<span class="sig-name descname"><span class="pre">impact</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collections</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">assets</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">invest_value_tot</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">period</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../_modules/greenlang/calculations/sfdr/pai_controversial_weapons_exposure.html#ControversialWeaponsExposure.impact"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.sfdr.pai_controversial_weapons_exposure.ControversialWeaponsExposure.impact" title="Link to this definition">¶</a></dt>
+<dd><p>Compute carbon_footprint</p>
+<p>Formula ???</p>
+<p>Args:
+- assets
+Returns:
+- share_t</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+</section>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="../ghg/scope_3/scope_3.html"
+       title="previous chapter">← Scope 3</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2023, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 7.2.6 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.8.0.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+      <title>Scope 3</title>
+    
+          <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../../../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../../../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../../../_static/documentation_options.js?v=d45e8c67"></script>
+        <script src="../../../_static/doctools.js?v=888ff710"></script>
+        <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../../../_static/theme-vendors.js"></script> -->
+      <script src="../../../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/calculations/ghg/scope_3/scope_3.html" />
+    
+  <link rel="index" title="Index" href="../../../genindex.html" />
+  <link rel="search" title="Search" href="../../../search.html" />
+  <link rel="next" title="SFDR" href="../../sfdr/sfdr.html" />
+  <link rel="prev" title="Scope 2" href="../scope_2/scope_2.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../../../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../../../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../../../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../../../index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="../../index.html">Calculations</a> &raquo;</li>
+    
+    <li>Scope 3</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="../scope_2/scope_2.html"
+       title="previous chapter">← Scope 2</a>
+  </li>
+  <li class="next">
+    <a href="../../sfdr/sfdr.html"
+       title="next chapter">SFDR →</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <section id="scope-3">
+<h1>Scope 3<a class="headerlink" href="#scope-3" title="Link to this heading">¶</a></h1>
+<section id="calculation-implementations">
+<h2>Calculation implementations<a class="headerlink" href="#calculation-implementations" title="Link to this heading">¶</a></h2>
+<a class="reference internal image-reference" href="../../../_images/classes5.png"><img alt="../../../_images/classes5.png" class="align-center" src="../../../_images/classes5.png" style="width: 100%;" /></a>
+<section id="category-1-purchased-goods-and-services">
+<h3>Category 1: Purchased goods and services<a class="headerlink" href="#category-1-purchased-goods-and-services" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SpendBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.purchased_goods_and_services.</span></span><span class="sig-name descname"><span class="pre">SpendBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/purchased_goods_and_services.html#SpendBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SpendBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Spend-based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SupplierSpecificMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.purchased_goods_and_services.</span></span><span class="sig-name descname"><span class="pre">SupplierSpecificMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/purchased_goods_and_services.html#SupplierSpecificMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SupplierSpecificMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Supplier specific method</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SupplierSpecificMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SupplierSpecificMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.purchased_goods_and_services.AverageDataMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.purchased_goods_and_services.</span></span><span class="sig-name descname"><span class="pre">AverageDataMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/purchased_goods_and_services.html#AverageDataMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.AverageDataMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Average data method</p>
+</dd></dl>
+
+</section>
+<section id="category-2-capital-goods">
+<h3>Category 2: Capital goods<a class="headerlink" href="#category-2-capital-goods" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.capital_goods.SpendBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.capital_goods.</span></span><span class="sig-name descname"><span class="pre">SpendBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/capital_goods.html#SpendBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.capital_goods.SpendBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Spend-based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.capital_goods.SupplierSpecificMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.capital_goods.</span></span><span class="sig-name descname"><span class="pre">SupplierSpecificMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/capital_goods.html#SupplierSpecificMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.capital_goods.SupplierSpecificMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Supplier specific method</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.capital_goods.SupplierSpecificMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.capital_goods.SupplierSpecificMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.capital_goods.AverageDataMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.capital_goods.</span></span><span class="sig-name descname"><span class="pre">AverageDataMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/capital_goods.html#AverageDataMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.capital_goods.AverageDataMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Average data method</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.capital_goods.AverageDataMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.capital_goods.AverageDataMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="category-3-fuel-and-energy-related-activities">
+<h3>Category 3: Fuel- and energy-related activities<a class="headerlink" href="#category-3-fuel-and-energy-related-activities" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.AutomaticMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.</span></span><span class="sig-name descname"><span class="pre">AutomaticMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/fuel_and_energy_related_activities.html#AutomaticMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.AutomaticMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Automatic method</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.AutomaticMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.AutomaticMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class.</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="category-4-upstream-transportation-and-distribution">
+<h3>Category 4: Upstream transportation and distribution<a class="headerlink" href="#category-4-upstream-transportation-and-distribution" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.SpendBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.</span></span><span class="sig-name descname"><span class="pre">SpendBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_transportation_and_distribution.html#SpendBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.SpendBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Spend-based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.DistanceBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.</span></span><span class="sig-name descname"><span class="pre">DistanceBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_transportation_and_distribution.html#DistanceBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.DistanceBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Distance based method</p>
+</dd></dl>
+
+</section>
+<section id="category-5-waste-generated-in-operations">
+<h3>Category 5: Waste generated in operations<a class="headerlink" href="#category-5-waste-generated-in-operations" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.waste_generated_in_operations.WasteTypeMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.waste_generated_in_operations.</span></span><span class="sig-name descname"><span class="pre">WasteTypeMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/waste_generated_in_operations.html#WasteTypeMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.WasteTypeMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Spend-based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.waste_generated_in_operations.SupplierSpecificMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.waste_generated_in_operations.</span></span><span class="sig-name descname"><span class="pre">SupplierSpecificMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/waste_generated_in_operations.html#SupplierSpecificMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.SupplierSpecificMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Supplier specific method</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.waste_generated_in_operations.SupplierSpecificMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.SupplierSpecificMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.waste_generated_in_operations.AverageDataMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.waste_generated_in_operations.</span></span><span class="sig-name descname"><span class="pre">AverageDataMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/waste_generated_in_operations.html#AverageDataMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.AverageDataMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Average data method</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.waste_generated_in_operations.AverageDataMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.AverageDataMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="category-6-business-travels">
+<h3>Category 6: Business travels<a class="headerlink" href="#category-6-business-travels" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.business_travels.SpendBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.business_travels.</span></span><span class="sig-name descname"><span class="pre">SpendBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/business_travels.html#SpendBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.business_travels.SpendBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Spend-based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.business_travels.DistanceBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.business_travels.</span></span><span class="sig-name descname"><span class="pre">DistanceBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/business_travels.html#DistanceBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.business_travels.DistanceBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Distance based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.business_travels.AccomodationLocationMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.business_travels.</span></span><span class="sig-name descname"><span class="pre">AccomodationLocationMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/business_travels.html#AccomodationLocationMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.business_travels.AccomodationLocationMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Accomodation location method</p>
+</dd></dl>
+
+</section>
+<section id="category-7-employee-commuting">
+<h3>Category 7: Employee commuting<a class="headerlink" href="#category-7-employee-commuting" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.employee_commuting.TransportationDistanceBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.employee_commuting.</span></span><span class="sig-name descname"><span class="pre">TransportationDistanceBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/employee_commuting.html#TransportationDistanceBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.employee_commuting.TransportationDistanceBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Transportation by distance</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.employee_commuting.</span></span><span class="sig-name descname"><span class="pre">TransportationFuelAmountMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/employee_commuting.html#TransportationFuelAmountMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Transportation by fuel amount</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.employee_commuting.</span></span><span class="sig-name descname"><span class="pre">HomeOfficeElectricityUseMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/employee_commuting.html#HomeOfficeElectricityUseMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Home Office Electricity Use</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.employee_commuting.</span></span><span class="sig-name descname"><span class="pre">HomeOfficeHeatingNeedsMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/employee_commuting.html#HomeOfficeHeatingNeedsMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Home Office Heating Needs</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.employee_commuting.</span></span><span class="sig-name descname"><span class="pre">HomeOfficeCoolingNeedsMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/employee_commuting.html#HomeOfficeCoolingNeedsMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Home Office Cooling Needs</p>
+</dd></dl>
+
+</section>
+<section id="category-8-upstream-leased-assets">
+<h3>Category 8: Upstream leased assets<a class="headerlink" href="#category-8-upstream-leased-assets" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.upstream_leased_assets.</span></span><span class="sig-name descname"><span class="pre">LeasedBuildingsAssetSpecificMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedBuildingsAssetSpecificMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Leased Buildings - Asset Specific method</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.compute">
+<span class="sig-name descname"><span class="pre">compute</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedBuildingsAssetSpecificMethod.compute"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.compute" title="Link to this definition">¶</a></dt>
+<dd><p>Compute.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.explain">
+<span class="sig-name descname"><span class="pre">explain</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedBuildingsAssetSpecificMethod.explain"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.explain" title="Link to this definition">¶</a></dt>
+<dd><p>Return formula html.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.total_co2">
+<span class="sig-name descname"><span class="pre">total_co2</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">factor_value</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedBuildingsAssetSpecificMethod.total_co2"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod.total_co2" title="Link to this definition">¶</a></dt>
+<dd><p>Return total co2.
+Can not be used because there are 2 total_co2, one for scope 1 and one for scope 2.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.upstream_leased_assets.</span></span><span class="sig-name descname"><span class="pre">LeasedBuildingsAverageDataMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedBuildingsAverageDataMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Leased Buildings - Average-data method</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod.compute">
+<span class="sig-name descname"><span class="pre">compute</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">collection_item</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedBuildingsAverageDataMethod.compute"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod.compute" title="Link to this definition">¶</a></dt>
+<dd><p>Compute.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod.form_class">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">form_class</span></span><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod.form_class" title="Link to this definition">¶</a></dt>
+<dd><p>Return form class.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.upstream_leased_assets.</span></span><span class="sig-name descname"><span class="pre">LeasedVehiclesFuelAmountMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedVehiclesFuelAmountMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Leased Vehicles - Fuel Amount method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.upstream_leased_assets.</span></span><span class="sig-name descname"><span class="pre">LeasedVehiclesVehicleTypeMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/upstream_leased_assets.html#LeasedVehiclesVehicleTypeMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Leased Vehicles - Vehicle Type method</p>
+</dd></dl>
+
+</section>
+<section id="category-9-downstream-transportation-and-distribution">
+<h3>Category 9: Downstream transportation and distribution<a class="headerlink" href="#category-9-downstream-transportation-and-distribution" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.SpendBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.</span></span><span class="sig-name descname"><span class="pre">SpendBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/downstream_transportation_and_distribution.html#SpendBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.SpendBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Spend-based method</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.</span></span><span class="sig-name descname"><span class="pre">DistanceBasedMethod</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/downstream_transportation_and_distribution.html#DistanceBasedMethod"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod" title="Link to this definition">¶</a></dt>
+<dd><p>Distance based method</p>
+</dd></dl>
+
+</section>
+</section>
+<section id="forms">
+<h2>Forms<a class="headerlink" href="#forms" title="Link to this heading">¶</a></h2>
+<a class="reference internal image-reference" href="../../../_images/classes6.png"><img alt="../../../_images/classes6.png" class="align-center" src="../../../_images/classes6.png" style="width: 100%;" /></a>
+<section id="id1">
+<h3>Category 3: Fuel- and energy-related activities<a class="headerlink" href="#id1" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.AutomaticMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.</span></span><span class="sig-name descname"><span class="pre">AutomaticMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/fuel_and_energy_related_activities.html#AutomaticMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.AutomaticMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>Automatic method form</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.AutomaticMethodForm.save">
+<span class="sig-name descname"><span class="pre">save</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">commit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">True</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/fuel_and_energy_related_activities.html#AutomaticMethodForm.save"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.AutomaticMethodForm.save" title="Link to this definition">¶</a></dt>
+<dd><p>Save form</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+<section id="id2">
+<h3>Category 5: Waste generated in operations<a class="headerlink" href="#id2" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations.WasteTreatmentForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations.</span></span><span class="sig-name descname"><span class="pre">WasteTreatmentForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/waste_generated_in_operations.html#WasteTreatmentForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations.WasteTreatmentForm" title="Link to this definition">¶</a></dt>
+<dd><p>Waste treatment method</p>
+</dd></dl>
+
+</section>
+<section id="id3">
+<h3>Category 8: Upstream leased assets<a class="headerlink" href="#id3" title="Link to this heading">¶</a></h3>
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.</span></span><span class="sig-name descname"><span class="pre">LeasedBuildingsAssetSpecificMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/upstream_leased_assets.html#LeasedBuildingsAssetSpecificMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>Automatic method form</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm.save">
+<span class="sig-name descname"><span class="pre">save</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">commit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">True</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/upstream_leased_assets.html#LeasedBuildingsAssetSpecificMethodForm.save"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm.save" title="Link to this definition">¶</a></dt>
+<dd><p>Save form</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.</span></span><span class="sig-name descname"><span class="pre">LeasedBuildingsAverageDataMethodForm</span></span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/upstream_leased_assets.html#LeasedBuildingsAverageDataMethodForm"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm" title="Link to this definition">¶</a></dt>
+<dd><p>LeasedBuildingsAverageDataMethodForm</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm.get_extra_fields">
+<span class="sig-name descname"><span class="pre">get_extra_fields</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/upstream_leased_assets.html#LeasedBuildingsAverageDataMethodForm.get_extra_fields"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm.get_extra_fields" title="Link to this definition">¶</a></dt>
+<dd><p>Return fields.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm.save">
+<span class="sig-name descname"><span class="pre">save</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">commit</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">True</span></span></em><span class="sig-paren">)</span><a class="reference internal" href="../../../_modules/greenlang/calculations/ghg/scope_3/forms/upstream_leased_assets.html#LeasedBuildingsAverageDataMethodForm.save"><span class="viewcode-link"><span class="pre">[source]</span></span></a><a class="headerlink" href="#greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm.save" title="Link to this definition">¶</a></dt>
+<dd><p>Save form</p>
+</dd></dl>
+
+</dd></dl>
+
+</section>
+</section>
+</section>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="../scope_2/scope_2.html"
+       title="previous chapter">← Scope 2</a>
+  </li>
+  <li class="next">
+    <a href="../../sfdr/sfdr.html"
+       title="next chapter">SFDR →</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2023, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 7.2.6 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.8.0.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

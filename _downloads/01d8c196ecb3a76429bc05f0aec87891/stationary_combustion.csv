@@ -1,0 +1,271 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+stationary-combustion,generic-method,fuel,Oil products,Crude oil,,l,"2,49532776",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Crude oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Crude oil,,tonne,"3119,1597",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Crude oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Crude oil,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Orimulsion,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Orimulsion,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Orimulsion,,tonne,"2129,5725",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Orimulsion,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Orimulsion,,tj,77439,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Natural Gas Liquids,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Natural Gas Liquids,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Natural Gas Liquids,,tonne,"2857,0438",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Natural Gas Liquids,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Natural Gas Liquids,,tj,64639,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Motor gasoline,,l,"2,286183898",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Motor gasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Motor gasoline,,tonne,"3089,4377",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Motor gasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Motor gasoline,,tj,69739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Aviation gasoline,,l,"2,215517867",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Aviation gasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Aviation gasoline,,tonne,"3120,4477",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Aviation gasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Aviation gasoline,,tj,70439,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet gasoline,,l,"2,215517867",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet gasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet gasoline,,tonne,"3120,4477",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet gasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet gasoline,,tj,70439,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet kerosene,,l,"2,506282821",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet kerosene,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet kerosene,,tonne,"3172,5099",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet kerosene,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Jet kerosene,,tj,71939,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other kerosene,,l,"2,53475856",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other kerosene,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other kerosene,,tonne,"3168,4482",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other kerosene,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other kerosene,,tj,72339,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Shale oil,,l,"2,8094559",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Shale oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Shale oil,,tonne,"2809,4559",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Shale oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Shale oil,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Gas/Diesel oil,,l,"2,69234868",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Gas/Diesel oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Gas/Diesel oil,,tonne,"3205,177",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Gas/Diesel oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Gas/Diesel oil,,tj,74539,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Residual fuel oil,,l,"2,956013864",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Residual fuel oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Residual fuel oil,,tonne,"3144,6956",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Residual fuel oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Residual fuel oil,,tj,77839,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Liquified Petroleum Gases,,l,"1,615952943",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Liquified Petroleum Gases,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Liquified Petroleum Gases,,tonne,"2992,50545",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Liquified Petroleum Gases,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Liquified Petroleum Gases,,tj,"63266,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Ethane,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Ethane,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Ethane,,tonne,"2865,9656",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Ethane,,m3,"3,72575528",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Ethane,,tj,"61766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Naphtha,,l,"2,526666835",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Naphtha,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Naphtha,,tonne,"3281,3855",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Naphtha,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Naphtha,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Bitumen,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Bitumen,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Bitumen,,tonne,"3261,7878",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Bitumen,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Bitumen,,tj,81139,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Lubricants,,l,"2,9643078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Lubricants,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Lubricants,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Lubricants,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Lubricants,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Petroleum coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Petroleum coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Petroleum coke,,tonne,"3183,0175",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Petroleum coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Petroleum coke,,tj,97939,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery feedstocks,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery feedstocks,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery feedstocks,,tonne,"3170,777",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery feedstocks,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery feedstocks,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery gas,,tonne,"2859,44175",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Refinery gas,,tj,"57766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Paraffin waxes,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Paraffin waxes,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Paraffin waxes,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Paraffin waxes,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Paraffin waxes,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,White Spirit/SBP,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,White Spirit/SBP,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,White Spirit/SBP,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,White Spirit/SBP,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,White Spirit/SBP,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other petroleum products,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other petroleum products,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other petroleum products,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other petroleum products,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Oil products,Other petroleum products,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Anthracite,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Anthracite,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Anthracite,,tonne,"2642,69925",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Anthracite,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Anthracite,,tj,"98977,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coking coal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coking coal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coking coal,,tonne,"2686,8255",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coking coal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coking coal,,tj,"95277,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Other bituminous coal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Other bituminous coal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Other bituminous coal,,tonne,"2458,1595",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Other bituminous coal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Other bituminous coal,,tj,"95277,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Sub bituminous coal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Sub bituminous coal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Sub bituminous coal,,tonne,"1829,09475",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Sub bituminous coal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Sub bituminous coal,,tj,"96777,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite,,tonne,"1209,96225",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite,,tj,"101677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oil shale and tar sands,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oil shale and tar sands,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oil shale and tar sands,,tonne,"958,32975",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oil shale and tar sands,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oil shale and tar sands,,tj,"107677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Brown coal briquettes,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Brown coal briquettes,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Brown coal briquettes,,tonne,"2032,27425",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Brown coal briquettes,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Brown coal briquettes,,tj,"98177,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Patent fuel,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Patent fuel,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Patent fuel,,tonne,"2032,27425",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Patent fuel,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Patent fuel,,tj,"98177,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven coke,,tonne,"3036,5055",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven coke,,tj,"107677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite coke,,tonne,"3036,5055",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Lignite coke,,tj,"107677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas coke,,tonne,"3022,0953",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas coke,,tj,"107166,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coal tar,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coal tar,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coal tar,,tonne,"2278,57",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coal tar,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coal tar,,tj,"81377,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas works gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas works gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas works gas,,tonne,"1724,72355",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas works gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Gas works gas,,tj,"44566,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven gas,,tonne,"1724,72355",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Coke oven gas,,tj,"44566,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Blast furnace gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Blast furnace gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Blast furnace gas,,tonne,"642,611255",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Blast furnace gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Blast furnace gas,,tj,"260166,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oxygen steel furnace gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oxygen steel furnace gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oxygen steel furnace gas,,tonne,"1286,09549",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oxygen steel furnace gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Coal products,Oxygen steel furnace gas,,tj,"182166,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Natural gas,Natural gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Natural gas,Natural gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Natural gas,Natural gas,,tonne,"2700,792",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Natural gas,Natural gas,,m3,"1,8905544",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Natural gas,Natural gas,,tj,"56266,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,tonne,"1011,6",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Municipal waste (Non biomass fraction),,tj,101160,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Industrial wastes,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Industrial wastes,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Industrial wastes,,tonne,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Industrial wastes,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Industrial wastes,,tj,152460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Waste oils,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Waste oils,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Waste oils,,tonne,"3326,952",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Waste oils,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Other wastes,Waste oils,,tj,82760,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Wood or Wood waste,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Wood or Wood waste,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Wood or Wood waste,,tonne,"1894,776",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Wood or Wood waste,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Wood or Wood waste,,tj,121460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sulphite lyes (Black liqour),,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sulphite lyes (Black liqour),,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sulphite lyes (Black liqour),,tonne,"1131,7852",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sulphite lyes (Black liqour),,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sulphite lyes (Black liqour),,tj,95914,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other primary solid biomass fuels,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other primary solid biomass fuels,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other primary solid biomass fuels,,tonne,"1269,736",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other primary solid biomass fuels,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other primary solid biomass fuels,,tj,109460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Charcoal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Charcoal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Charcoal,,tonne,"3477,0175",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Charcoal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Charcoal,,tj,117865,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biogasoline,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biogasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biogasoline,,tonne,"1923,453",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biogasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biogasoline,,tj,71239,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biodiesels,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biodiesels,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biodiesels,,tonne,"1923,453",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biodiesels,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Biodiesels,,tj,71239,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other liquid biofuels,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other liquid biofuels,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other liquid biofuels,,tonne,"2193,0686",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other liquid biofuels,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other liquid biofuels,,tj,80039,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Landfill gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Landfill gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Landfill gas,,tonne,"2760,2316",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Landfill gas,,m3,"2,48420844",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Landfill gas,,tj,"54766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sludge gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sludge gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sludge gas,,tonne,"2760,2316",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sludge gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Sludge gas,,tj,"54766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other biogas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other biogas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other biogas,,tonne,"2760,2316",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other biogas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Other biogas,,tj,"54766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,tonne,"1269,736",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Municipal wastes (Biomass fraction),,tj,109460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Peat,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Peat,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Peat,,tonne,"1040,91376",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Peat,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+stationary-combustion,generic-method,fuel,Biomass,Peat,,tj,106651,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017

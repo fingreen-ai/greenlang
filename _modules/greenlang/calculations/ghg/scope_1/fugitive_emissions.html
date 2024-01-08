@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>greenlang.calculations.ghg.scope_1.fugitive_emissions</title>
+    
+          <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../../../../../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../../../../../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../../../../../_static/documentation_options.js?v=d45e8c67"></script>
+        <script src="../../../../../_static/doctools.js?v=888ff710"></script>
+        <script src="../../../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../../../../../_static/theme-vendors.js"></script> -->
+      <script src="../../../../../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/_modules/greenlang/calculations/ghg/scope_1/fugitive_emissions.html" />
+    
+  <link rel="index" title="Index" href="../../../../../genindex.html" />
+  <link rel="search" title="Search" href="../../../../../search.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../../../../../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../../../../../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../../../../../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../../regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../../../calculations/index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../../../../../index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="../../../../index.html">Module code</a> &raquo;</li>
+    
+    <li>greenlang.calculations.ghg.scope_1.fugitive_emissions</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <h1>Source code for greenlang.calculations.ghg.scope_1.fugitive_emissions</h1><div class="highlight"><pre>
+<span></span><span class="sd">&quot;&quot;&quot;</span>
+<span class="sd">Category 2 : Fugitive Emission calculation implementations</span>
+<span class="sd">&quot;&quot;&quot;</span>
+<span class="kn">from</span> <span class="nn">django.utils.translation</span> <span class="kn">import</span> <span class="n">gettext_lazy</span> <span class="k">as</span> <span class="n">_</span>
+
+<span class="kn">from</span> <span class="nn">fingreen_web.models</span> <span class="kn">import</span> <span class="p">(</span>
+    <span class="n">GhgEmissionFactor</span><span class="p">,</span>
+    <span class="n">GhgEmissionFactorValue</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="kn">from</span> <span class="nn">..base.base</span> <span class="kn">import</span> <span class="n">BaseCalculationMethod</span>
+<span class="kn">from</span> <span class="nn">.forms</span> <span class="kn">import</span> <span class="n">MassBalanceMethodForm</span><span class="p">,</span> <span class="n">ScreeningMethodApproachForm</span>
+
+
+<div class="viewcode-block" id="MassBalanceMethod">
+<a class="viewcode-back" href="../../../../../calculations/ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.fugitive_emissions.MassBalanceMethod">[docs]</a>
+<span class="k">class</span> <span class="nc">MassBalanceMethod</span><span class="p">(</span><span class="n">BaseCalculationMethod</span><span class="p">):</span>
+<span class="w">    </span><span class="sd">&quot;&quot;&quot;Spend-based method&quot;&quot;&quot;</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">form_class</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;Return form class.&quot;&quot;&quot;</span>
+        <span class="k">return</span> <span class="n">MassBalanceMethodForm</span>
+
+<div class="viewcode-block" id="MassBalanceMethod.explain">
+<a class="viewcode-back" href="../../../../../calculations/ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.fugitive_emissions.MassBalanceMethod.explain">[docs]</a>
+    <span class="k">def</span> <span class="nf">explain</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">collection_item</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;Return formula html.&quot;&quot;&quot;</span>
+        <span class="n">factor_value</span> <span class="o">=</span> <span class="n">GhgEmissionFactorValue</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span>
+            <span class="n">factor</span><span class="o">=</span><span class="n">collection_item</span><span class="o">.</span><span class="n">ghg_factor</span><span class="p">,</span> <span class="n">unit</span><span class="o">=</span><span class="n">collection_item</span><span class="o">.</span><span class="n">ghg_unit</span>
+        <span class="p">)</span>
+
+        <span class="n">begin</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;begin_year_storage&quot;</span><span class="p">)</span>
+        <span class="n">end</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;end_year_storage&quot;</span><span class="p">)</span>
+        <span class="n">decrease</span> <span class="o">=</span> <span class="n">begin</span> <span class="o">-</span> <span class="n">end</span>
+
+        <span class="n">purchased</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;purchased&quot;</span><span class="p">)</span>
+        <span class="n">acquired</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;acquired&quot;</span><span class="p">)</span>
+        <span class="n">available</span> <span class="o">=</span> <span class="n">purchased</span> <span class="o">+</span> <span class="n">acquired</span>
+
+        <span class="n">text</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="se">\</span>
+<span class="s2">        GHG emission factor value (</span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">factor</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">) = </span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">tot_co2_kg</span><span class="si">}</span><span class="s2"> kg CO2/</span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">get_unit_display</span><span class="p">()</span><span class="si">}</span><span class="s2">&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Inventory at the beginning of the year (A) = </span><span class="si">{</span><span class="n">begin</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Inventory at the end of the year (B) = </span><span class="si">{</span><span class="n">end</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Decrease during the year (C = A - B) = </span><span class="si">{</span><span class="n">decrease</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Purchased from producers/distributors in bulk (D) = </span><span class="si">{</span><span class="n">purchased</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Added to equipment by contractors (E) = </span><span class="si">{</span><span class="n">acquired</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Total Purchases/ Acquisitions (F = D + E) = </span><span class="si">{</span><span class="n">available</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Total Emissions (C + F) = </span><span class="si">{</span><span class="n">collection_item</span><span class="o">.</span><span class="n">value_float</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &quot;</span>
+
+        <span class="n">text</span> <span class="o">+=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="se">\</span>
+<span class="s2">        Calculus : </span><span class="si">{</span><span class="n">collection_item</span><span class="o">.</span><span class="n">value_float</span><span class="si">}</span><span class="s2"> </span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">get_unit_display</span><span class="p">()</span><span class="si">}</span><span class="s2"> x </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">total_co2</span><span class="p">(</span><span class="n">collection_item</span><span class="p">)</span><span class="si">}</span><span class="s2"> kg CO2/</span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">get_unit_display</span><span class="p">()</span><span class="si">}</span><span class="s2"> / 1000 = </span><span class="si">{</span><span class="nb">round</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">compute</span><span class="p">(</span><span class="n">collection_item</span><span class="p">),</span><span class="w"> </span><span class="mi">5</span><span class="p">)</span><span class="si">}</span><span class="s2"> tonnes CO2</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Data source : </span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">data_source</span><span class="si">}</span><span class="s2">&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Data source year : </span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">data_source_year</span><span class="si">}</span><span class="s2">&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &quot;</span>
+
+        <span class="k">return</span> <span class="n">text</span></div>
+</div>
+
+
+
+<div class="viewcode-block" id="ScreeningMethodApproach">
+<a class="viewcode-back" href="../../../../../calculations/ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.fugitive_emissions.ScreeningMethodApproach">[docs]</a>
+<span class="k">class</span> <span class="nc">ScreeningMethodApproach</span><span class="p">(</span><span class="n">BaseCalculationMethod</span><span class="p">):</span>
+<span class="w">    </span><span class="sd">&quot;&quot;&quot;Screening method approach&quot;&quot;&quot;</span>
+
+    <span class="nd">@property</span>
+    <span class="k">def</span> <span class="nf">form_class</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;Return form class.&quot;&quot;&quot;</span>
+        <span class="k">return</span> <span class="n">ScreeningMethodApproachForm</span>
+
+<div class="viewcode-block" id="ScreeningMethodApproach.amount">
+<a class="viewcode-back" href="../../../../../calculations/ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.fugitive_emissions.ScreeningMethodApproach.amount">[docs]</a>
+    <span class="k">def</span> <span class="nf">amount</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">collection_item</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;Return amount.&quot;&quot;&quot;</span>
+        <span class="n">quantity</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;quantity&quot;</span><span class="p">)</span>
+        <span class="n">capacity</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">value_float</span>
+
+        <span class="k">return</span> <span class="n">quantity</span> <span class="o">*</span> <span class="n">capacity</span></div>
+
+
+<div class="viewcode-block" id="ScreeningMethodApproach.compute">
+<a class="viewcode-back" href="../../../../../calculations/ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.fugitive_emissions.ScreeningMethodApproach.compute">[docs]</a>
+    <span class="k">def</span> <span class="nf">compute</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">collection_item</span><span class="p">):</span>
+<span class="w">        </span><span class="sd">&quot;&quot;&quot;Return total co2.&quot;&quot;&quot;</span>
+
+        <span class="n">emission_source</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">ghg_factor</span>
+        <span class="n">emission_source_gwp</span> <span class="o">=</span> <span class="n">emission_source</span><span class="o">.</span><span class="n">values</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">unit</span><span class="o">=</span><span class="s2">&quot;kg&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">tot_co2_kg</span>
+
+        <span class="n">gas_id</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;gas&quot;</span><span class="p">)</span>
+        <span class="n">gas</span> <span class="o">=</span> <span class="n">GhgEmissionFactor</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="n">gas_id</span><span class="p">)</span>
+        <span class="n">gas_gwp</span> <span class="o">=</span> <span class="n">gas</span><span class="o">.</span><span class="n">values</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">unit</span><span class="o">=</span><span class="s2">&quot;kg&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">tot_co2_kg</span>
+
+        <span class="k">return</span> <span class="n">emission_source_gwp</span> <span class="o">*</span> <span class="n">gas_gwp</span> <span class="o">*</span> <span class="bp">self</span><span class="o">.</span><span class="n">amount</span><span class="p">(</span><span class="n">collection_item</span><span class="p">)</span> <span class="o">/</span> <span class="mi">1000</span></div>
+
+
+<div class="viewcode-block" id="ScreeningMethodApproach.explain">
+<a class="viewcode-back" href="../../../../../calculations/ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.fugitive_emissions.ScreeningMethodApproach.explain">[docs]</a>
+    <span class="k">def</span> <span class="nf">explain</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">collection_item</span><span class="p">):</span>
+        <span class="n">factor_value</span> <span class="o">=</span> <span class="n">GhgEmissionFactorValue</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span>
+            <span class="n">factor</span><span class="o">=</span><span class="n">collection_item</span><span class="o">.</span><span class="n">ghg_factor</span><span class="p">,</span> <span class="n">unit</span><span class="o">=</span><span class="n">collection_item</span><span class="o">.</span><span class="n">ghg_unit</span>
+        <span class="p">)</span>
+
+        <span class="n">emission_source_gwp</span> <span class="o">=</span> <span class="n">factor_value</span><span class="o">.</span><span class="n">tot_co2_kg</span>
+
+        <span class="n">gas_id</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;gas&quot;</span><span class="p">)</span>
+        <span class="n">gas</span> <span class="o">=</span> <span class="n">GhgEmissionFactor</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="n">gas_id</span><span class="p">)</span>
+        <span class="n">gas_gwp</span> <span class="o">=</span> <span class="n">gas</span><span class="o">.</span><span class="n">values</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">unit</span><span class="o">=</span><span class="s2">&quot;kg&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">tot_co2_kg</span>
+
+        <span class="n">quantity</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">widget_data</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;quantity&quot;</span><span class="p">)</span>
+        <span class="n">capacity</span> <span class="o">=</span> <span class="n">collection_item</span><span class="o">.</span><span class="n">value_float</span>
+
+        <span class="n">text</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="se">\</span>
+<span class="s2">        GHG emission factor value (</span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">factor</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">) = </span><span class="si">{</span><span class="n">emission_source_gwp</span><span class="si">}</span><span class="s2"> kg CO2/kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Gas emission factor value (</span><span class="si">{</span><span class="n">gas</span><span class="o">.</span><span class="n">name</span><span class="si">}</span><span class="s2">) = </span><span class="si">{</span><span class="n">gas_gwp</span><span class="si">}</span><span class="s2"> kg CO2/kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Quantity = </span><span class="si">{</span><span class="n">quantity</span><span class="si">}</span><span class="s2"> units&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Operating Units Refrigerant or Gas Capacity = </span><span class="si">{</span><span class="n">capacity</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Total Emissions = </span><span class="si">{</span><span class="n">quantity</span><span class="si">}</span><span class="s2"> * </span><span class="si">{</span><span class="n">capacity</span><span class="si">}</span><span class="s2"> = </span><span class="si">{</span><span class="bp">self</span><span class="o">.</span><span class="n">amount</span><span class="p">(</span><span class="n">collection_item</span><span class="p">)</span><span class="si">}</span><span class="s2"> kg&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &quot;</span>
+
+        <span class="n">text</span> <span class="o">+=</span> <span class="sa">f</span><span class="s2">&quot;</span><span class="se">\</span>
+<span class="s2">        Calculus : </span><span class="si">{</span><span class="n">emission_source_gwp</span><span class="si">}</span><span class="s2"> kg CO2/kg x </span><span class="si">{</span><span class="n">gas_gwp</span><span class="si">}</span><span class="s2"> kg CO2/kg x </span><span class="si">{</span><span class="n">quantity</span><span class="si">}</span><span class="s2"> kg x </span><span class="si">{</span><span class="n">capacity</span><span class="si">}</span><span class="s2"> units / 1000 = </span><span class="si">{</span><span class="nb">round</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">compute</span><span class="p">(</span><span class="n">collection_item</span><span class="p">),</span><span class="w"> </span><span class="mi">5</span><span class="p">)</span><span class="si">}</span><span class="s2"> tonnes CO2</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Data source : </span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">data_source</span><span class="si">}</span><span class="s2">&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        Data source year : </span><span class="si">{</span><span class="n">factor_value</span><span class="o">.</span><span class="n">data_source_year</span><span class="si">}</span><span class="s2">&lt;br&gt;</span><span class="se">\</span>
+<span class="s2">        &quot;</span>
+
+        <span class="k">return</span> <span class="n">text</span></div>
+</div>
+
+</pre></div>
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2023, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 7.2.6 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.8.0.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>
