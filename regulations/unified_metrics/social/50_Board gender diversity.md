@@ -39,7 +39,7 @@ diversity
 
 ### value_question_en
 
-What was the proportion of individuals on the board identify as women,
+What was the proportion of individuals on the board that identify as women,
 as measured at the end of the period?
 
 ### value_question_fr
