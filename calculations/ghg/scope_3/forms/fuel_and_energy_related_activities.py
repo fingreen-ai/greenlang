@@ -63,9 +63,9 @@ class AutomaticMethodForm(forms.ModelForm):
             source__slug="mobile-combustion", slug="fuel-amount-method"
         )
 
-        mobile_combustion_vehicule_method = (
+        mobile_combustion_vehicle_method = (
             GhgEmissionSourceComputationMethod.objects.get(
-                source__slug="mobile-combustion", slug="vehicule-type-method"
+                source__slug="mobile-combustion", slug="vehicle-type-method"
             )
         )
 
@@ -96,7 +96,7 @@ class AutomaticMethodForm(forms.ModelForm):
             ghg_factor__method__in=[
                 stationary_combustion_generic_method,
                 mobile_combustion_fuel_method,
-                mobile_combustion_vehicule_method,
+                mobile_combustion_vehicle_method,
                 purchased_electricity_location_method,
                 purchased_heatsteam_location_method,
             ]

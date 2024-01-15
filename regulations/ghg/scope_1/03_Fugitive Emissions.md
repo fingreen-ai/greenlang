@@ -10,11 +10,11 @@
 
 ### description 
 
-Fugitive emissions from refrigeration and air conditioning result from leakage and service over the operational life of the equipment and from disposal at the end of the useful life of the equipment. The leakage of refrigerant gas is a small but significant source of GHG emissions because of a high GWP associated with these GHGs.
+Fugitive emissions from refrigeration/air conditioning systems and fire protection equipment typically arise during operation, servicing and production. Although these emissions, primarily from refrigerant gas leaks, constitute a minor part of total emissions, their environmental impact is significant due to the high Global Warming Potential (GWP) of these gases.
 
 ### description_fr
 
-Les émissions fugitives de réfrigération et de climatisation résultent des fuites et de l'entretien pendant la durée de vie opérationnelle de l'équipement et de l'élimination en fin de vie utile de l'équipement. La fuite de gaz réfrigérant est une source d'émissions de GES faible mais significative en raison d'un potentiel de réchauffement global élevé associé à ces GES.
+Les émissions fugitives des systèmes de réfrigération/climatisation et des équipements de protection contre l'incendie surviennent généralement pendant leur fonctionnement, leur entretien et leur production. Bien que ces émissions, principalement issues de fuites de gaz réfrigérant, représentent une partie mineure des émissions totales, leur impact environnemental est significatif en raison du potentiel de réchauffement global (PRG) élevé de ces gaz.
 
 
 ## [Mass balance method](#mass-balance-method)

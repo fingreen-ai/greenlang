@@ -74,13 +74,19 @@ Category 6: Business travels
 Category 7: Employee commuting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.DistanceBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.TransportationDistanceBasedMethod
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMethod
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.AverageDataMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMethod
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod
+    :members:
+
+.. autoclass:: greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod
     :members:
 
 Category 8: Upstream leased assets

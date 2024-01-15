@@ -23,15 +23,19 @@ to and from work)
 
 Companies may optionally include emissions from business travelers staying in hotels. 
 
-**Calculating emissions from transportation**
-
-Companies may use one of the following methods to calculate scope 3 emissions from business travel: 
-- Fuel-based method, which involves determining the amount of fuel consumed during business travel (i.e., scope 1 and scope 2 emissions of transport providers) and applying the appropriate emission factor for that fuel 
-- Distance-based method, which involves determining the distance and mode of business trips, then applying the appropriate emission factor for the mode used 
-- Spend-based method, which involves determining the amount of money spent on each mode of business travel transport and applying secondary (EEIO) emission factors. 
-
-
 ### description_fr
+
+Cette catégorie comprend les émissions liées au transport des employés pour des activités liées aux affaires dans des véhicules appartenant à des tiers ou exploités par eux, tels que des avions, des trains, des bus et des voitures particulières. Les émissions provenant du transport dans des véhicules appartenant ou contrôlés par l'entreprise déclarante sont comptabilisées dans la portée 1 (pour l'utilisation de carburant), ou dans le cas des véhicules électriques, dans la portée 2 (pour l'utilisation de l'électricité). Les émissions provenant du transport des employés vers et depuis le travail sont comptabilisées dans la portée 3, catégorie 7 (Trajets domicile-travail des employés).
+
+**Les émissions liées aux voyages d'affaires peuvent provenir de :**
+
+- Voyage aérien
+- Voyage en train
+- Voyage en bus
+- Voyage en voiture (par exemple, voyages d'affaires en voiture de location ou en voiture appartenant à un employé autre que les trajets domicile-travail des employés)
+- Autres modes de voyage.
+
+Les entreprises peuvent éventuellement inclure les émissions des voyageurs d'affaires séjournant dans des hôtels.
 
 
 ## [Spend-based method](#spend-based-method)
@@ -42,7 +46,11 @@ Méthode basée sur les dépenses
 
 ### description
 
+The spend-based method involves assessing emissions by considering the monetary expenditure on each mode of business travel transport. This method employs secondary emission factors, specifically Environmental Input-Output (EEIO) factors, to calculate the environmental impact associated with the financial investment in transportation. By linking spending to emission factors, the spend-based method offers a unique perspective, allowing businesses to understand the carbon footprint in relation to their financial investments in various modes of travel.
+
 ### description_fr
+
+La méthode basée sur les dépenses consiste à évaluer les émissions en tenant compte des dépenses monétaires sur chaque mode de transport des voyages d'affaires. Cette méthode utilise des facteurs d'émission secondaires, plus précisément des facteurs d'entrée-sortie environnementaux (EEIO), pour calculer l'impact environnemental associé à l'investissement financier dans les transports. En reliant les dépenses aux facteurs d'émission, la méthode basée sur les dépenses offre une perspective unique, permettant aux entreprises de comprendre l'empreinte carbone par rapport à leurs investissements financiers dans divers modes de déplacement.
 
 ### implem_path
 
@@ -57,8 +65,12 @@ Méthode basée sur la distance
 
 ### description
 
+The distance-based method focuses on determining the distance traveled and the mode of transportation used during business trips. Subsequently, the appropriate emission factor corresponding to the mode of transportation is applied to assess the emissions. This method provides a comprehensive evaluation by considering the travel distance and the specific mode employed, offering insights into the environmental impact based on travel patterns.
+
 
 ### description_fr
+
+La méthode basée sur la distance se concentre sur la détermination de la distance parcourue et du mode de transport utilisé pendant les voyages d'affaires. Par la suite, le facteur d'émission approprié correspondant au mode de transport est appliqué pour évaluer les émissions. Cette méthode fournit une évaluation complète en tenant compte de la distance parcourue et du mode spécifique utilisé, offrant des informations sur l'impact environnemental en fonction des habitudes de déplacement.
 
 
 ### implem_path

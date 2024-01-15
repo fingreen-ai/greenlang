@@ -8,7 +8,9 @@ class EnergySupplierForm(SupplierSpecificMethodForm):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.fields["custom_factor_name"].label = _("Supplier name")
+        self.fields["custom_factor_name"].label = _("Factor type/supplier name")
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _("Factor type/supplier name")
+
         self.factor_type = "energy_supplier"
         self.fields["ghg_unit"].choices = [
             ("kwh", _("kWh")),

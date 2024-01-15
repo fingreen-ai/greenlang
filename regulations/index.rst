@@ -16,3 +16,11 @@ Unified Metrics
     :maxdepth: 1
 
     unified_metrics/index
+
+SFDR PAIs
+---------
+
+.. toctree::
+    :maxdepth: 1
+
+    sfdr/index

@@ -8,5 +8,5 @@ class FuelAmountMethod(BaseCalculationMethod):
     """Fuel amount method"""
 
 
-class VehiculeTypeMethod(BaseCalculationMethod):
-    """Vehicule type method"""
+class VehicleTypeMethod(BaseCalculationMethod):
+    """Vehicle type method"""

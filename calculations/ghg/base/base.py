@@ -43,28 +43,30 @@ class BaseCalculationMethod:
         """
         return collection_item.value_float
 
-    def total_co2(self, factor_value):
+    def total_co2(self, collection_item):
         """ 
         The total co2 value for the given GHG emission factor value.
 
         Args:
-            factor_value: GHG emission factor value
+            collection_item: the collection item where informations are stored.
 
         Returns:
             The total co2 value, as float number, for the given GHG emission factor value.
             If the GHG emission factor value is a goods or services, the total co2 value is updated
-            with an inflaction rate. For the moment, the inflaction rate is hard-coded :
+            with an inflation rate. For the moment, the inflation rate is hard-coded :
             7% per year.
         """
 
-        current_year = datetime.now().year
+        factor_value = GhgEmissionFactorValue.objects.get(factor=collection_item.ghg_factor,
+                    unit=collection_item.ghg_unit)
+
+        data_collection_year = int(collection_item.collection.period_year)
 
         if factor_value.factor.factor_type in ['goods', 'services']:
-            # If the data source year is not the current year, the tot_co2_kg value could be outdated. #pylint: disable=line-too-long
-            # According Simge, a kind of inflaction rate should be applied to the tot_co2_kg value.
-            # In her example, the inflaction rate is 0.7 per year.
+            # If the data source year is not equal to the data collection year, the tot_co2_kg value could be outdated. #pylint: disable=line-too-long
+            # The inflation rate is 0.7 per year.
 
-            year_diff = current_year - factor_value.data_source_year
+            year_diff = data_collection_year - factor_value.data_source_year
             rate = 1+(0.07 * year_diff)
             return factor_value.tot_co2_kg / rate
 
@@ -74,10 +76,7 @@ class BaseCalculationMethod:
     def compute(self, collection_item):
         """ Compute.
         """
-        factor_value = GhgEmissionFactorValue.objects.get(factor=collection_item.ghg_factor,
-                    unit=collection_item.ghg_unit)
-
-        return self.amount(collection_item) * self.total_co2(factor_value) / 1000
+        return self.amount(collection_item) * self.total_co2(collection_item) / 1000
 
     def explain(self, collection_item):
         """ Return calculation explanation in human readable format.
@@ -104,12 +103,12 @@ class BaseCalculationMethod:
             text += f"\
             <br>\
             For GHG factor which are goods or services, we apply an inflaction rate of 7% per year to the GHG emission factor value.<br>\
-            Updated GHG emission factor value = {round(self.total_co2(factor_value), 5)} kg CO2/{factor_value.get_unit_display()}<br>\
+            Updated GHG emission factor value = {round(self.total_co2(collection_item), 5)} kg CO2/{factor_value.get_unit_display()}<br>\
             <br>\
             "
 
         text += f"\
-        Calculus : {self.amount(collection_item)} {factor_value.get_unit_display()} x {self.total_co2(factor_value)} kg CO2/{factor_value.get_unit_display()} / 1000 = {round(self.compute(collection_item), 5)} tonnes CO2\
+        Calculus : {self.amount(collection_item)} {factor_value.get_unit_display()} x {self.total_co2(collection_item)} kg CO2/{factor_value.get_unit_display()} / 1000 = {round(self.compute(collection_item), 5)} tonnes CO2\
         <br>\
         <br>\
         Data source : {factor_value.data_source}<br>\

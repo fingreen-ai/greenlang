@@ -12,3 +12,6 @@ class SpendBasedMethod(PurchasedGoodsAndServicesSpendBasedMethod):
 
 class DistanceBasedMethod(BaseCalculationMethod):
     """Distance based method"""
+
+class FuelAmountMethod(BaseCalculationMethod):
+    """Fuel amount method"""

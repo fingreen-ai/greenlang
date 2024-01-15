@@ -42,9 +42,11 @@ Méthode basée sur le marché
 
 ### description
 
+Market based methods reflects heat/steam supplier, such as a regulated utility or a deregulated supplier, may provide information to its customers on the emission factor associated with its energy product.
 
 ### description_fr
 
+Les méthodes basées sur le marché reflètent le fournisseur de chaleur/vapeur, tel qu'un service public réglementé ou un fournisseur déréglementé, peuvent fournir des informations à ses clients sur le facteur d'émission associé à son produit énergétique.
 
 ### implem_path
 

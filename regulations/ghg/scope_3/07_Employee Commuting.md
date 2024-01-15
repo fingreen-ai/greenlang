@@ -1,4 +1,4 @@
-# [Employee Commuting](#employee-commuting)
+# [Employee Commuting and homeworking](#employee-commuting)
 
 ### scope
 
@@ -6,7 +6,7 @@
 
 ### name_fr
 
-Déplacements domicile-travail
+Déplacements domicile-travail et télétravail
 
 ### description 
 
@@ -19,6 +19,10 @@ This category includes emissions from the transportation of employees4 between t
 - Other modes of transportation (e.g., subway, bicycling, walking).  
 
 A reporting company’s scope 3 emissions from employee commuting include the scope 1 and scope 2 emissions of employees and third-party transportation providers.
+
+"Employees" refers to employees of entities and facilities owned, operated, or leased by the reporting company. Companies may include employees of other relevant entities (e.g., franchises or outsourced operations) in this category, as well as consultants, contractors, and other individuals who are not employees of the company, but commute to facilities owned and operated by the company.
+
+Companies may include emissions from teleworking (i.e., employees working remotely) in this category. A reporting company’s scope 3 emissions from employee commuting include the scope 1 and scope 2 emissions of employees and third-party transportation providers. 
 
 
 ### description_fr
@@ -33,8 +37,12 @@ Cette catégorie comprend les émissions liées au transport des employés4 entr
 
 Les émissions de portée 3 d'une entreprise de déclaration liées aux déplacements des employés comprennent les émissions de portée 1 et de portée 2 des employés et des fournisseurs de transport tiers.
 
+"Employés" désigne les employés des entités et installations détenues, exploitées ou louées par l'entreprise déclarante. Les entreprises peuvent inclure les employés d'autres entités pertinentes (par exemple, des franchises ou des opérations externalisées) dans cette catégorie, ainsi que des consultants, des entrepreneurs et d'autres personnes qui ne sont pas des employés de l'entreprise, mais qui se rendent dans des installations détenues et exploitées par l'entreprise.
 
-## [Distance-based method](#distance-based-method)
+Les entreprises peuvent inclure les émissions liées au télétravail (c'est-à-dire les employés travaillant à distance) dans cette catégorie. Les émissions de portée 3 d'une entreprise de déclaration liées aux déplacements des employés comprennent les émissions de portée 1 et de portée 2 des employés et des fournisseurs de transport tiers.
+
+
+## [Transportation by distance](#transportation-distance-based-method)
 
 ### name_fr
 
@@ -96,72 +104,76 @@ La collecte de données de déplacement auprès de tous les employés par le bia
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_3.employee_commuting.DistanceBasedMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.TransportationDistanceBasedMethod
 
-
-## [Equipment-based method](#equipment-based-method)
-
-### name_fr
-
-Méthode basée sur l'équipement
-
-### description
-
-Emissions from teleworking
-
-### description_fr
-
-Émissions liées au télétravail
-
-### implem_path
-
-greenlang.calculations.ghg.scope_3.employee_commuting.EquipmentBasedMethod
-
-
-## [Average-data method](#average-data-method)
+## [Transportation by fuel amount](#transportation-fuel-amount-method)
 
 ### name_fr
 
-Méthode basée sur des données moyennes
+Méthode basée sur la consommation de carburant
 
 ### description
 
-If company specific data is unavailable, companies may use average secondary activity data to estimate distance travelled and mode of transport. This may include using: 
-
-- Average daily commuting distances of typical employees 
-- Average modes of transport of typical employees 
-- Average number of commuting days per week and average number of weeks worked per year. Such estimation requires making several simplifying assumptions, which add uncertainty to the emissions estimates. 
-
-**Activity data, Companies should collect data on:** 
-
-- Number of employees 
-- Average distance travelled by an average employee per day 
-- Average breakdown of transport modes used by employees 
-- Average number working days per year. 
-
-**Emission factors, Companies should collect:**
-
-- Emission factors for each mode of transport (usually expressed as kilograms of GHG emitted per passenger per kilometer travelled). Data collection guidance Company may collect average secondary data from sources such as national transportation departments, ministries or agencies, national statistics publications, and/or industry associations
+The "fuel amount" method for calculating emissions is a direct approach that relies on actual fuel consumption data. This method involves calculating emissions, such as CO2, based on the quantity of fuel used by vehicles. To implement this approach effectively, access to detailed records is essential, including fuel consumption logs, gas station data, or vehicle mileage. The precision of this method is particularly high when accurate and specific fuel usage data is available. The "fuel amount" method provides a granular understanding of emissions by directly tying them to real-world fuel consumption.
 
 ### description_fr
 
-Si les données spécifiques à l'entreprise ne sont pas disponibles, les entreprises peuvent utiliser des données d'activité secondaires moyennes pour estimer la distance parcourue et le mode de transport. Cela peut inclure l'utilisation de :
-
-- Distances moyennes de déplacement quotidiennes des employés typiques
-- Modes de transport moyens des employés typiques
-- Nombre moyen de jours de déplacement par semaine et nombre moyen de semaines travaillées par an. Une telle estimation nécessite de faire plusieurs hypothèses simplificatrices, ce qui ajoute de l'incertitude aux estimations des émissions.
-
-**Données d'activité, Les entreprises doivent collecter des données sur :**
-
-- Nombre d'employés
-- Distance moyenne parcourue par un employé moyen par jour
-- Répartition moyenne des modes de transport utilisés par les employés
-- Nombre moyen de jours travaillés par an.
-
-**Facteurs d'émission, Les entreprises doivent collecter :**
-
-- Facteurs d'émission pour chaque mode de transport (exprimés généralement en kilogrammes de GES émis par passager par kilomètre parcouru). Guide de collecte de données Les entreprises peuvent collecter des données secondaires moyennes auprès de sources telles que les ministères, ministères ou agences nationaux des transports, les publications statistiques nationales et / ou les associations industrielles
+La méthode basée sur la quantité de carburant pour le calcul des émissions est une approche directe qui repose sur des données réelles de consommation de carburant. Cette méthode consiste à calculer les émissions, telles que le CO2, en fonction de la quantité de carburant utilisée par les véhicules. Pour mettre en œuvre cette approche de manière efficace, l'accès à des dossiers détaillés est essentiel, notamment des journaux de consommation de carburant, des données de stations-service ou des kilométrages des véhicules. La précision de cette méthode est particulièrement élevée lorsque des données de consommation de carburant précises et spécifiques sont disponibles. Celle-ci offre une compréhension granulaire des émissions en les reliant directement à la consommation de carburant du monde réel.
 
 ### implem_path
 
-greenlang.calculations.ghg.scope_3.employee_commuting.AverageDataMethod
+greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMethod
+
+## [Home Office Electricity Use](#home-office-electricity-use)
+
+### name_fr
+
+Utilisation de l'électricité dans le cadre du télétravail
+
+### description
+
+This method is used to calculate the emissions associated with the electricity used by employees working from home. This method is based on the assumption that the electricity used by employees working from home is additional to the electricity used by the company’s office. The method involves calculating the emissions associated with the electricity used by employees working from home by multiplying the electricity used by employees working from home by the appropriate emission factor for the electricity used.
+
+### description_fr
+
+Cette méthode est utilisée pour calculer les émissions associées à l'électricité utilisée par les employés travaillant à domicile. Cette méthode est basée sur l'hypothèse que l'électricité utilisée par les employés travaillant à domicile est supplémentaire à l'électricité utilisée par le bureau de l'entreprise. La méthode consiste à calculer les émissions associées à l'électricité utilisée par les employés travaillant à domicile en multipliant l'électricité utilisée par les employés travaillant à domicile par le facteur d'émission approprié pour l'électricité utilisée.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMethod
+
+## [Home Office Heating Needs ](#home-office-heating-needs)
+
+### name_fr
+
+Besoins en chauffage dans le cadre du télétravail
+
+### description
+
+This method is used to calculate the emissions associated with the heating needs of employees working from home. This method is based on the assumption that the heating needs of employees working from home are additional to the heating needs of the company’s office. The method involves calculating the emissions associated with the heating needs of employees working from home by multiplying the heating needs of employees working from home by the appropriate emission factor for the heating needs.
+
+### description_fr
+
+Cette méthode est utilisée pour calculer les émissions associées aux besoins de chauffage des employés travaillant à domicile. Cette méthode est basée sur l'hypothèse que les besoins de chauffage des employés travaillant à domicile sont supplémentaires aux besoins de chauffage du bureau de l'entreprise. La méthode consiste à calculer les émissions associées aux besoins de chauffage des employés travaillant à domicile en multipliant les besoins de chauffage des employés travaillant à domicile par le facteur d'émission approprié pour les besoins de chauffage.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod
+
+## [Home Office Cooling Needs](#home-office-cooling-needs)
+
+### name_fr
+
+Besoins en refroidissement dans le cadre du télétravail
+
+### description
+
+This method is used to calculate the emissions associated with the cooling needs of employees working from home. This method is based on the assumption that the cooling needs of employees working from home are additional to the cooling needs of the company’s office. The method involves calculating the emissions associated with the cooling needs of employees working from home by multiplying the cooling needs of employees working from home by the appropriate emission factor for the cooling needs.
+
+### description_fr
+
+Cette méthode est utilisée pour calculer les émissions associées aux besoins de refroidissement des employés travaillant à domicile. Cette méthode est basée sur l'hypothèse que les besoins de refroidissement des employés travaillant à domicile sont supplémentaires aux besoins de refroidissement du bureau de l'entreprise. La méthode consiste à calculer les émissions associées aux besoins de refroidissement des employés travaillant à domicile en multipliant les besoins de refroidissement des employés travaillant à domicile par le facteur d'émission approprié pour les besoins de refroidissement.
+
+### implem_path
+
+greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod
