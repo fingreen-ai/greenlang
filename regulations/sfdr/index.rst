@@ -1,10 +1,63 @@
-SFDR
-====
-
 Metrics
 -------
 
+.. toctree:: 
+    :caption: Mandatory
+    :maxdepth: 1
 
+    ../unified_metrics/environment/Biodiversity sensitive areas.md
+    ../unified_metrics/environment/Fossil fuel sector.md
+    ../unified_metrics/environment/High impact climate sectors.md
+    ../unified_metrics/environment/GHG emissions - Scope 1.md
+    ../unified_metrics/environment/GHG emissions - Scope 2.md
+    ../unified_metrics/environment/GHG emissions - Scope 3.md
+    ../unified_metrics/environment/Non-renewable energy consumption.md
+    ../unified_metrics/environment/Renewable energy consumption.md
+    ../unified_metrics/environment/Hazardous waste.md
+    ../unified_metrics/environment/Emissions to water.md
+    ../unified_metrics/social/Board gender diversity.md
+    ../unified_metrics/social/Average unadjusted gender pay gap.md
+    ../unified_metrics/social/Controversial weapons.md
+    ../unified_metrics/social/UN OECD guidelines violations.md
+    ../unified_metrics/social/UN OECD Guidelines monitoring.md
+
+.. toctree::
+    :caption: Additional
+    :maxdepth: 1
+
+    ../unified_metrics/environment/Protected areas.md
+    ../unified_metrics/environment/Deforestation policy.md
+    ../unified_metrics/environment/Threatened species.md
+    ../unified_metrics/environment/Carbon emission reduction initiatives.md
+    ../unified_metrics/environment/Emissions of air pollutants.md
+    ../unified_metrics/environment/Chemicals production.md
+    ../unified_metrics/environment/Emissions of inorganic pollutants.md
+    ../unified_metrics/environment/Emissions of ozone depletion substances.md
+    ../unified_metrics/environment/Sustainable land - agriculture practices.md
+    ../unified_metrics/environment/Land degradation, desertification, soil sealing.md
+    ../unified_metrics/environment/Sustainable oceans - seas practices .md
+    ../unified_metrics/environment/Non-recycled waste.md
+    ../unified_metrics/environment/Total water recycled.md
+    ../unified_metrics/environment/Water management policy.md
+    ../unified_metrics/environment/Exposure to areas of high water stress.md
+    ../unified_metrics/social/CEO pay rate.md
+    ../unified_metrics/social/Lack of a supplier code of conduct .md
+    ../unified_metrics/social/Lack of grievance - complaints handling mechanism related to employee matters.md
+    ../unified_metrics/social/Discrimination incidents.md
+    ../unified_metrics/social/Discrimination incidents sanctioned.md
+    ../unified_metrics/social/Workplace accident prevention policies.md
+    ../unified_metrics/social/Work accidents.md
+    ../unified_metrics/social/Number of days lost to injuries, accidents, fatalities or illness .md
+    ../unified_metrics/social/Child labour risks.md
+    ../unified_metrics/social/Forced labour.md
+    ../unified_metrics/social/Lack of due diligence .md
+    ../unified_metrics/social/Cases of severe human rights issues and incidents.md
+    ../unified_metrics/social/Human rights policy.md
+    ../unified_metrics/social/Trafficking in human beings prevention.md
+    ../unified_metrics/governance/Whistleblower protection.md
+    ../unified_metrics/governance/Convictions and fines for violation of anti-corruption and anti-bribery laws.md
+    ../unified_metrics/governance/Anti-corruption and anti-bribery policies.md
+    ../unified_metrics/governance/Anti-corruption and antibribery.md
 
 
 PAIs
