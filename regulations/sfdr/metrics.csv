@@ -1,0 +1,52 @@
+collection_template,metric_slug,filename,nature
+sfdr_v1,biodiversity_affecting_bool,../unified_metrics/environment/Biodiversity sensitive areas.md,mandatory
+sfdr_v1,fossil_fuel_active_bool,../unified_metrics/environment/Fossil fuel sector.md,mandatory
+sfdr_v1,ghg_high_impact_sector_enum,../unified_metrics/environment/High impact climate sectors.md,mandatory
+sfdr_v1,ghg_scope_1_tonnes,../unified_metrics/environment/GHG emissions - Scope 1.md,mandatory
+sfdr_v1,ghg_scope_2_tonnes,../unified_metrics/environment/GHG emissions - Scope 2.md,mandatory
+sfdr_v1,ghg_scope_3_tonnes,../unified_metrics/environment/GHG emissions - Scope 3.md,mandatory
+sfdr_v1,energy_consumption_non_renewable_kwh,../unified_metrics/environment/Non-renewable energy consumption.md,mandatory
+sfdr_v1,energy_consumption_renewable_kwh,../unified_metrics/environment/Renewable energy consumption.md,mandatory
+sfdr_v1,waste_hazardous_tonnes,../unified_metrics/environment/Hazardous waste.md,mandatory
+sfdr_v1,emissions_to_water_tonnes,../unified_metrics/environment/Emissions to water.md,mandatory
+sfdr_v1,gender_board_diversity_pct,../unified_metrics/social/Board gender diversity.md,mandatory
+sfdr_v1,gender_pay_gap_pct,../unified_metrics/social/Average unadjusted gender pay gap.md,mandatory
+sfdr_v1,controversial_weapons_exposure_bool,../unified_metrics/social/Controversial weapons.md,mandatory
+sfdr_v1,oecd_violations_bool,../unified_metrics/social/UN OECD guidelines violations.md,mandatory
+sfdr_v1,oecd_monitoring_bool,../unified_metrics/social/UN OECD Guidelines monitoring.md,mandatory
+sfdr_v1,biodiversity_policy_bool,../unified_metrics/environment/Protected areas.md,additional
+sfdr_v1,deforestation_policy_bool,../unified_metrics/environment/Deforestation policy.md,additional
+sfdr_v1,ops_threaten_species_bool,../unified_metrics/environment/Threatened species.md,additional
+sfdr_v1,carbon_reduction_initiatives_bool,../unified_metrics/environment/Carbon emission reduction initiatives.md,additional
+sfdr_v1,air_pollutants_tonnes,../unified_metrics/environment/Emissions of air pollutants.md,additional
+sfdr_v1,chemical_production_bool,../unified_metrics/environment/Chemicals production.md,additional
+sfdr_v1,inorg_pollutants_tonnes,../unified_metrics/environment/Emissions of inorganic pollutants.md,additional
+sfdr_v1,ozone_depletion_tonnes,../unified_metrics/environment/Emissions of ozone depletion substances.md,additional
+sfdr_v1,land_agr_policy_bool,../unified_metrics/environment/Sustainable land - agriculture practices.md,additional
+sfdr_v1,land_degradation_bool,"../unified_metrics/environment/Land degradation, desertification, soil sealing.md",additional
+sfdr_v1,ocean_sea_policy_bool,../unified_metrics/environment/Sustainable oceans - seas practices .md,additional
+sfdr_v1,non_recycled_waste_tonnes,../unified_metrics/environment/Non-recycled waste.md,additional
+sfdr_v1,water_consumption_recycled_m3,../unified_metrics/environment/Total water recycled.md,additional
+sfdr_v1,water_mgmt_policy_bool,../unified_metrics/environment/Water management policy.md,additional
+sfdr_v1,water_stress_area_bool,../unified_metrics/environment/Exposure to areas of high water stress.md,additional
+sfdr_v1,ceo_pay_pct,../unified_metrics/social/CEO pay rate.md,additional
+sfdr_v1,code_of_conduct_bool,../unified_metrics/social/Lack of a supplier code of conduct .md,additional
+sfdr_v1,complaints_process_bool,../unified_metrics/social/Lack of grievance - complaints handling mechanism related to employee matters.md,additional
+sfdr_v1,discrimation_report_count,../unified_metrics/social/Discrimination incidents.md,additional
+sfdr_v1,discrimation_sanction_count,../unified_metrics/social/Discrimination incidents sanctioned.md,additional
+sfdr_v1,accident_prevention_policy_bool,../unified_metrics/social/Workplace accident prevention policies.md,additional
+sfdr_v1,accidents_count,../unified_metrics/social/Work accidents.md,additional
+sfdr_v1,days_lost_count,"../unified_metrics/social/Number of days lost to injuries, accidents, fatalities or illness .md",additional
+sfdr_v1,child_labor_risk_bool,../unified_metrics/social/Child labour risks.md,additional
+sfdr_v1,forced_labor_risk_bool,../unified_metrics/social/Forced labour.md,additional
+sfdr_v1,human_rights_due_diligence_bool,../unified_metrics/social/Lack of due diligence .md,additional
+sfdr_v1,human_rights_issues_count,../unified_metrics/social/Cases of severe human rights issues and incidents.md,additional
+sfdr_v1,human_rights_policy_bool,../unified_metrics/social/Human rights policy.md,additional
+sfdr_v1,human_traffic_prevention_bool,../unified_metrics/social/Trafficking in human beings prevention.md,additional
+sfdr_v1,whistle_policy_bool,../unified_metrics/governance/Whistleblower protection.md,additional
+sfdr_v1,corruption_bribery_fine_count,../unified_metrics/governance/Convictions and fines for violation of anti-corruption and anti-bribery laws.md,additional
+sfdr_v1,corruption_bribery_policy_bool,../unified_metrics/governance/Anti-corruption and anti-bribery policies.md,additional
+sfdr_v1,corruption_bribery_policy_issues_bool,../unified_metrics/governance/Anti-corruption and antibribery.md,additional
+sfdr_v1,sfdr_policies_engagement,,report_content
+sfdr_v1,sfdr_policies_pais,,report_content
+sfdr_v1,sfdr_references_standards,,report_content

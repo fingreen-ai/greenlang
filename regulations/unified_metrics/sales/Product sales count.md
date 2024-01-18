@@ -1,17 +1,16 @@
-
-# Lack of processes and measures for preventing trafficking in human beings
+# Product sales count
 
 ### name
 
-trafficking_process_bool
+product_sales_int
 
 ### name_en
 
-Lack of processes and measures for preventing trafficking in human beings
+Product sales count
 
 ### name_fr
 
-Absence de processus et de mesures de prévention de la traite des êtres humains
+Nombre de ventes de produits
 
 ### item_type
 
@@ -19,7 +18,7 @@ metric
 
 ### data_type
 
-boolean
+positive_integer
 
 ### enums
 
@@ -31,14 +30,13 @@ boolean
 
 ### category_1
 
-social
+sales
 
 ### category_2
 
-human_rights
+
 
 ### description_en
-
 
 
 
@@ -46,14 +44,14 @@ human_rights
 
 
 
-
 ### value_question_en
 
- 
+How many items ot this product have you sold, during the period?
 
 ### value_question_fr
 
- 
+Combien d'articles de ce produit avez-vous vendus au cours de
+la période ?
 
 ### summary_en
 
@@ -90,15 +88,15 @@ human_rights
 ### sources
 
 
+            
 ### index
 
+78
 
 ### collection_templates
 
+sfdr_v1
 
 ### publish
 
-false
-
-
-            
+true
