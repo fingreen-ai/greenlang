@@ -24,3 +24,11 @@ SFDR
     :maxdepth: 1
 
     sfdr/index
+
+VSME
+----
+
+.. toctree::
+    :maxdepth: 1
+
+    vsme/index
