@@ -7,9 +7,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 project = "Fingreen AI Greenlang"
-copyright = "2023, Fingreen AI"
+copyright = "2024, Fingreen AI"
 author = "Fingreen AI"
-release = "0.0.1"
+release = "0.0.2"
 
 import os
 import sys

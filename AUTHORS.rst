@@ -10,4 +10,5 @@ Contributors
 
 *Listed alphabetically in forename, surname order*
 
+* Sebastien Peterson <seb.peterson@fingreen.ai>
 * you ?
