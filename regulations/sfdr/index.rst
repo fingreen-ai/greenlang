@@ -5,59 +5,59 @@ Metrics
     :caption: Mandatory
     :maxdepth: 1
 
-    ../unified_metrics/environment/Biodiversity sensitive areas.md
-    ../unified_metrics/environment/Fossil fuel sector.md
-    ../unified_metrics/environment/High impact climate sectors.md
-    ../unified_metrics/environment/GHG emissions - Scope 1.md
-    ../unified_metrics/environment/GHG emissions - Scope 2.md
-    ../unified_metrics/environment/GHG emissions - Scope 3.md
-    ../unified_metrics/environment/Non-renewable energy consumption.md
-    ../unified_metrics/environment/Renewable energy consumption.md
-    ../unified_metrics/environment/Hazardous waste.md
-    ../unified_metrics/environment/Emissions to water.md
-    ../unified_metrics/social/Board gender diversity.md
-    ../unified_metrics/social/Average unadjusted gender pay gap.md
-    ../unified_metrics/social/Controversial weapons.md
-    ../unified_metrics/social/UN OECD guidelines violations.md
-    ../unified_metrics/social/UN OECD Guidelines monitoring.md
+    ../unified_metrics/environment/biodiversity_affecting_bool.md
+    ../unified_metrics/environment/fossil_fuel_active_bool.md
+    ../unified_metrics/environment/ghg_high_impact_sector_enum.md
+    ../unified_metrics/environment/ghg_scope_1_tonnes.md
+    ../unified_metrics/environment/ghg_scope_2_tonnes.md
+    ../unified_metrics/environment/ghg_scope_3_tonnes.md
+    ../unified_metrics/environment/energy_consumption_non_renewable_kwh.md
+    ../unified_metrics/environment/energy_consumption_renewable_kwh.md
+    ../unified_metrics/environment/waste_hazardous_tonnes.md
+    ../unified_metrics/environment/emissions_to_water_tonnes.md
+    ../unified_metrics/social/gender_board_diversity_pct.md
+    ../unified_metrics/social/gender_pay_gap_pct.md
+    ../unified_metrics/social/controversial_weapons_exposure_bool.md
+    ../unified_metrics/social/oecd_violations_bool.md
+    ../unified_metrics/social/oecd_monitoring_bool.md
 
 .. toctree::
     :caption: Additional
     :maxdepth: 1
 
-    ../unified_metrics/environment/Protected areas.md
-    ../unified_metrics/environment/Deforestation policy.md
-    ../unified_metrics/environment/Threatened species.md
-    ../unified_metrics/environment/Carbon emission reduction initiatives.md
-    ../unified_metrics/environment/Emissions of air pollutants.md
-    ../unified_metrics/environment/Chemicals production.md
-    ../unified_metrics/environment/Emissions of inorganic pollutants.md
-    ../unified_metrics/environment/Emissions of ozone depletion substances.md
-    ../unified_metrics/environment/Sustainable land - agriculture practices.md
-    ../unified_metrics/environment/Land degradation, desertification, soil sealing.md
-    ../unified_metrics/environment/Sustainable oceans - seas practices .md
-    ../unified_metrics/environment/Non-recycled waste.md
-    ../unified_metrics/environment/Total water recycled.md
-    ../unified_metrics/environment/Water management policy.md
-    ../unified_metrics/environment/Exposure to areas of high water stress.md
-    ../unified_metrics/social/CEO pay rate.md
-    ../unified_metrics/social/Lack of a supplier code of conduct .md
-    ../unified_metrics/social/Lack of grievance - complaints handling mechanism related to employee matters.md
-    ../unified_metrics/social/Discrimination incidents.md
-    ../unified_metrics/social/Discrimination incidents sanctioned.md
-    ../unified_metrics/social/Workplace accident prevention policies.md
-    ../unified_metrics/social/Work accidents.md
-    ../unified_metrics/social/Number of days lost to injuries, accidents, fatalities or illness .md
-    ../unified_metrics/social/Child labour risks.md
-    ../unified_metrics/social/Forced labour.md
-    ../unified_metrics/social/Lack of due diligence .md
-    ../unified_metrics/social/Cases of severe human rights issues and incidents.md
-    ../unified_metrics/social/Human rights policy.md
-    ../unified_metrics/social/Trafficking in human beings prevention.md
-    ../unified_metrics/governance/Whistleblower protection.md
-    ../unified_metrics/governance/Convictions and fines for violation of anti-corruption and anti-bribery laws.md
-    ../unified_metrics/governance/Anti-corruption and anti-bribery policies.md
-    ../unified_metrics/governance/Anti-corruption and antibribery.md
+    ../unified_metrics/environment/biodiversity_policy_bool
+    ../unified_metrics/environment/deforestation_policy_bool.md
+    ../unified_metrics/environment/ops_threaten_species_bool.md
+    ../unified_metrics/environment/carbon_reduction_initiatives_bool.md
+    ../unified_metrics/environment/air_pollutants_tonnes.md
+    ../unified_metrics/environment/chemical_production_bool.md
+    ../unified_metrics/environment/inorg_pollutants_tonnes.md
+    ../unified_metrics/environment/ozone_depletion_tonnes.md
+    ../unified_metrics/environment/land_agr_policy_bool.md
+    ../unified_metrics/environment/land_degradation_bool.md
+    ../unified_metrics/environment/ocean_sea_policy_bool.md
+    ../unified_metrics/environment/non_recycled_waste_tonnes.md
+    ../unified_metrics/environment/water_consumption_recycled_m3.md
+    ../unified_metrics/environment/water_mgmt_policy_bool.md
+    ../unified_metrics/environment/water_stress_area_bool.md
+    ../unified_metrics/social/ceo_pay_pct.md
+    ../unified_metrics/social/code_of_conduct_bool.md
+    ../unified_metrics/social/complaints_process_bool.md
+    ../unified_metrics/social/discrimation_report_count.md
+    ../unified_metrics/social/discrimation_sanction_count.md
+    ../unified_metrics/social/accident_prevention_policy_bool.md
+    ../unified_metrics/social/accidents_count.md
+    ../unified_metrics/social/days_lost_count.md
+    ../unified_metrics/social/child_labor_risk_bool.md
+    ../unified_metrics/social/forced_labor_risk_bool.md
+    ../unified_metrics/social/human_rights_due_diligence_bool.md
+    ../unified_metrics/social/human_rights_issues_count.md
+    ../unified_metrics/social/human_rights_policy_bool.md
+    ../unified_metrics/social/human_traffic_prevention_bool.md
+    ../unified_metrics/governance/whistle_policy_bool.md
+    ../unified_metrics/governance/corruption_bribery_fine_count.md
+    ../unified_metrics/governance/corruption_bribery_policy_bool.md
+    ../unified_metrics/governance/corruption_bribery_policy_issues_bool.md
 
 
 PAIs
