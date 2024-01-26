@@ -183,7 +183,7 @@ class ScreeningMethodApproachForm(forms.ModelForm):
     gas = forms.ModelChoiceField(
         queryset=GhgEmissionFactor.objects.all(), required=True
     )
-    quantity = forms.FloatField(required=True, label=_("Quantity of the operated equipments"))
+    quantity = forms.FloatField(required=True, label=_("Quantity"))
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -195,12 +195,11 @@ class ScreeningMethodApproachForm(forms.ModelForm):
         self.helper.form_tag = False
 
         self.fields["ghg_factor"].label = _("Emission source")
-        self.fields["value_float"].label = _(
-            "Operating Units Refrigerant or Gas Capacity"
-        )
+        self.fields["value_float"].label = _("Refrigerant or Gas Capacity")
 
         gases = GhgEmissionFactor.objects.filter(
-            method__source=self.initial["method"].source, factor_type="gas"
+            # method__source=self.initial["method"].source, factor_type="gas"
+            method__source__slug="fugitive-emissions", factor_type="gas"
         )
 
         self.fields["ghg_factor"].choices = [
@@ -252,17 +251,37 @@ class ScreeningMethodApproachForm(forms.ModelForm):
                         style="display: none;",
                         css_class="form-select",
                     ),
-                    css_class="col-md-3",
+                    css_class="col-2",
                 ),
-                Column("quantity", css_class="col-2"),
-                Column(AppendedText("value_float", "kg"), css_class="col-2"),
+                Column("quantity", css_class="col"),
+                Column(AppendedText("value_float", "kg"), css_class="col"),
+                *self.get_extra_fields(),
                 Column(
                     Submit("submit", _("Add"), css_class="btn btn-light-primary"),
-                    css_class="col-2 mb-3",
+                    css_class="mb-3",
                 ),
-                css_class="d-flex align-items-end",
+                css_class="col d-flex align-items-end",
             ),
         )
+
+    def get_extra_fields(self):
+        """
+        Return extra fields to add to the form.
+        This method is meant to be overriden by subclasses.
+        Return:
+            A list of extra fields to add to the form. Empty list by default.
+        """
+        return []
+    
+    def save_extra_fields(self, instance):
+        """
+        Save extra fields.
+        This method is meant to be overriden by subclasses.
+        Args:
+            instance: The collection item instance.
+        """
+        return {}
+
 
     def save(self, commit=True):
         """Save"""
@@ -275,6 +294,8 @@ class ScreeningMethodApproachForm(forms.ModelForm):
             "gas": self.cleaned_data["gas"].id,
             "quantity": self.cleaned_data["quantity"],
         }
+
+        instance.widget_data.update(self.save_extra_fields(instance))
 
         if commit:
             instance.save()

@@ -39,9 +39,6 @@ Par exemple:
 
 Si l'entreprise déclarante vend un produit intermédiaire, elle doit déclarer les émissions du transport et de la distribution de ce produit intermédiaire entre le point de vente par l'entreprise déclarante et soit (1) le consommateur final (si l'utilisation finale éventuelle du produit intermédiaire est connue) ou (2) les clients professionnels (si l'utilisation finale éventuelle du produit intermédiaire est inconnue).
 
-
-
-
 ## [Distance based method](#distance-based-method)
 
 ### name_fr

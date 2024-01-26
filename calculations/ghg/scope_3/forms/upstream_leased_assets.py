@@ -61,33 +61,33 @@ class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
                     AppendedText(
                         "total_floor_space", "m2", placeholder=_("Total floor space")
                     ),
-                    css_class="col-2",
+                    css_class="col-6",
                 ),
                 Column(
                     AppendedText(
                         "leased_floor_space", "m2", placeholder=_("Leased floor space")
                     ),
-                    css_class="col-2",
+                    css_class="col-6",
                 ),
                 Column(
                     AppendedText(
                         "scope1_emissions",
                         "kg CO2e",
-                        placeholder=_("Scope 1 emissions"),
+                        placeholder=_("Total Building Scope 1 Emissions"),
                     ),
-                    css_class="col-2",
+                    css_class="col-6",
                 ),
                 Column(
                     AppendedText(
                         "scope2_emissions",
                         "kg CO2e",
-                        placeholder=_("Scope 2 emissions"),
+                        placeholder=_("Total Building Scope 2 Emissions"),
                     ),
-                    css_class="col-2",
+                    css_class="col-6",
                 ),
                 Column(
                     Field("leased_month_count", placeholder=_("Leased month count")),
-                    css_class="col-2",
+                    css_class="col-6",
                 ),
                 Column(
                     Submit(

@@ -1,0 +1,364 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+use-of-sold-products,direct-electricity-use,electricity,,Austria,,kwh,"0,15200",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Belgium,,kwh,"0,21500",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Bulgaria,,kwh,"0,55600",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Croatia,,kwh,"0,17700",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Cyprus,,kwh,"0,78700",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Czech Republic,,kwh,"0,63200",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Denmark,,kwh,"0,07600",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Estonia,,kwh,"0,43800",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Finland,,kwh,"0,07700",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,France,,kwh,"0,07900",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Germany,,kwh,"0,41800",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Greece,,kwh,"0,42600",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Hungary,,kwh,"0,21200",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Ireland,,kwh,"0,35200",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Italy,,kwh,"0,34300",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Latvia,,kwh,"0,09800",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Lithuania,,kwh,"0,07400",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Luxembourg,,kwh,"0,02100",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Malta,,kwh,"0,41700",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Netherlands,,kwh,"0,40200",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Poland,,kwh,"0,79600",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Portugal,,kwh,"0,26100",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Romania,,kwh,"0,36000",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Slovak Republic,,kwh,"0,21400",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Slovenia,,kwh,"0,31300",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Spain,,kwh,"0,22000",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,Sweden,,kwh,"0,01900",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-electricity-use,electricity,,United Kingdom,,kwh,"0,24386",https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2022,2022
+use-of-sold-products,direct-electricity-use,electricity,,EU-27,,kwh,"0,29300",https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641#details,2020
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,CNG,,tonne,"3076,86830",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,CNG,,l,"0,53844",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,LNG,,tonne,"3444,85706",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,LNG,,l,"1,55876",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,LPG,,tonne,"3286,29930",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,LPG,,l,"1,74092",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,Propane,,tonne,"3348,00558",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Gaseous fuels,Propane,,l,"1,72046",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Aviation spirit,,tonne,"4008,07014",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Aviation spirit,,l,"2,92560",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Aviation turbine fuel,,tonne,"3840,00016",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Aviation turbine fuel,,l,"3,07200",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Diesel (average biofuel blend),,tonne,"3753,61857",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Diesel (average biofuel blend),,l,"3,16770",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonne,"3954,44125",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Diesel (100% mineral diesel),,l,"3,32754",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Fuel oil,,tonne,"3938,28076",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Fuel oil,,l,"3,87246",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Gas oil,,tonne,"3970,97721",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Gas oil,,l,"3,39110",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Petrol (average biofuel blend),,tonne,"3727,20160",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Petrol (average biofuel blend),,l,"2,77513",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonne,"3966,51052",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Petrol (100% mineral petrol),,l,"2,94253",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonne,"4065,01882",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Processed fuel oils - residual oil,,l,"3,99708",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonne,"4059,24368",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Processed fuel oils - distillate oil,,l,"3,46648",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Marine gas oil,,tonne,"3990,68721",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Marine gas oil,,l,"3,40792",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Marine fuel oil,,tonne,"3868,58076",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Liquid fuels,Marine fuel oil,,l,"3,80392",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Bioethanol,,l,"0,42485",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Bioethanol,,kg,"0,53508",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel ME,,l,"0,53084",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel ME,,kg,"0,59646",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biomethane (compressed),,kg,"0,56222",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel ME (from used cooking oil),,l,"0,51003",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"0,57308",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel ME (from tallow),,l,"0,63102",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"0,70902",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel HVO,,l,"0,38736",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biodiesel HVO,,kg,"0,49662",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biopropane,,l,"0,24792",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biopropane,,kg,"0,48145",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Bio Petrol,,l,"0,28794",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Bio Petrol,,kg,"0,38815",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Renewable petrol,,l,"0,46784",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Renewable petrol,,kg,"0,52472",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Off road biodiesel,,l,"0,53084",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Off road biodiesel,,kg,"0,59646",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Biomethane (liquified),,kg,"0,56222",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Methanol (bio),,l,"0,42260",DEFRA,2022
+use-of-sold-products,direct-fuel-use,fuel,Biofuel,Methanol (bio),,kg,"0,53224",DEFRA,2022
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Crude oil,,l,"2,49532776",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Crude oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Crude oil,,tonne,"3119,1597",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Crude oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Crude oil,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Orimulsion,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Orimulsion,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Orimulsion,,tonne,"2129,5725",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Orimulsion,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Orimulsion,,tj,77439,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Natural Gas Liquids,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Natural Gas Liquids,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Natural Gas Liquids,,tonne,"2857,0438",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Natural Gas Liquids,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Natural Gas Liquids,,tj,64639,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Motor gasoline,,l,"2,286183898",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Motor gasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Motor gasoline,,tonne,"3089,4377",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Motor gasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Motor gasoline,,tj,69739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Aviation gasoline,,l,"2,215517867",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Aviation gasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Aviation gasoline,,tonne,"3120,4477",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Aviation gasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Aviation gasoline,,tj,70439,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet gasoline,,l,"2,215517867",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet gasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet gasoline,,tonne,"3120,4477",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet gasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet gasoline,,tj,70439,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet kerosene,,l,"2,506282821",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet kerosene,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet kerosene,,tonne,"3172,5099",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet kerosene,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Jet kerosene,,tj,71939,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other kerosene,,l,"2,53475856",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other kerosene,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other kerosene,,tonne,"3168,4482",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other kerosene,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other kerosene,,tj,72339,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Shale oil,,l,"2,8094559",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Shale oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Shale oil,,tonne,"2809,4559",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Shale oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Shale oil,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Gas/Diesel oil,,l,"2,69234868",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Gas/Diesel oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Gas/Diesel oil,,tonne,"3205,177",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Gas/Diesel oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Gas/Diesel oil,,tj,74539,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Residual fuel oil,,l,"2,956013864",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Residual fuel oil,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Residual fuel oil,,tonne,"3144,6956",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Residual fuel oil,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Residual fuel oil,,tj,77839,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Liquified Petroleum Gases,,l,"1,615952943",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Liquified Petroleum Gases,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Liquified Petroleum Gases,,tonne,"2992,50545",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Liquified Petroleum Gases,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Liquified Petroleum Gases,,tj,"63266,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Ethane,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Ethane,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Ethane,,tonne,"2865,9656",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Ethane,,m3,"3,72575528",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Ethane,,tj,"61766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Naphtha,,l,"2,526666835",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Naphtha,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Naphtha,,tonne,"3281,3855",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Naphtha,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Naphtha,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Bitumen,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Bitumen,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Bitumen,,tonne,"3261,7878",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Bitumen,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Bitumen,,tj,81139,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Lubricants,,l,"2,9643078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Lubricants,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Lubricants,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Lubricants,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Lubricants,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Petroleum coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Petroleum coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Petroleum coke,,tonne,"3183,0175",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Petroleum coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Petroleum coke,,tj,97939,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery feedstocks,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery feedstocks,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery feedstocks,,tonne,"3170,777",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery feedstocks,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery feedstocks,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery gas,,tonne,"2859,44175",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Refinery gas,,tj,"57766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Paraffin waxes,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Paraffin waxes,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Paraffin waxes,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Paraffin waxes,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Paraffin waxes,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,White Spirit/SBP,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,White Spirit/SBP,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,White Spirit/SBP,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,White Spirit/SBP,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,White Spirit/SBP,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other petroleum products,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other petroleum products,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other petroleum products,,tonne,"2964,3078",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other petroleum products,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Oil products,Other petroleum products,,tj,73739,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Anthracite,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Anthracite,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Anthracite,,tonne,"2642,69925",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Anthracite,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Anthracite,,tj,"98977,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coking coal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coking coal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coking coal,,tonne,"2686,8255",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coking coal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coking coal,,tj,"95277,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Other bituminous coal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Other bituminous coal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Other bituminous coal,,tonne,"2458,1595",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Other bituminous coal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Other bituminous coal,,tj,"95277,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Sub bituminous coal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Sub bituminous coal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Sub bituminous coal,,tonne,"1829,09475",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Sub bituminous coal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Sub bituminous coal,,tj,"96777,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite,,tonne,"1209,96225",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite,,tj,"101677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oil shale and tar sands,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oil shale and tar sands,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oil shale and tar sands,,tonne,"958,32975",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oil shale and tar sands,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oil shale and tar sands,,tj,"107677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Brown coal briquettes,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Brown coal briquettes,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Brown coal briquettes,,tonne,"2032,27425",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Brown coal briquettes,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Brown coal briquettes,,tj,"98177,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Patent fuel,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Patent fuel,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Patent fuel,,tonne,"2032,27425",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Patent fuel,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Patent fuel,,tj,"98177,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven coke,,tonne,"3036,5055",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven coke,,tj,"107677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite coke,,tonne,"3036,5055",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Lignite coke,,tj,"107677,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas coke,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas coke,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas coke,,tonne,"3022,0953",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas coke,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas coke,,tj,"107166,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coal tar,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coal tar,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coal tar,,tonne,"2278,57",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coal tar,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coal tar,,tj,"81377,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas works gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas works gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas works gas,,tonne,"1724,72355",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas works gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Gas works gas,,tj,"44566,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven gas,,tonne,"1724,72355",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Coke oven gas,,tj,"44566,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Blast furnace gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Blast furnace gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Blast furnace gas,,tonne,"642,611255",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Blast furnace gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Blast furnace gas,,tj,"260166,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oxygen steel furnace gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oxygen steel furnace gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oxygen steel furnace gas,,tonne,"1286,09549",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oxygen steel furnace gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Coal products,Oxygen steel furnace gas,,tj,"182166,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Natural gas,Natural gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Natural gas,Natural gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Natural gas,Natural gas,,tonne,"2700,792",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Natural gas,Natural gas,,m3,"1,8905544",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Natural gas,Natural gas,,tj,"56266,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Municipal waste (Non biomass fraction),,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Municipal waste (Non biomass fraction),,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Municipal waste (Non biomass fraction),,tonne,"1011,6",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Municipal waste (Non biomass fraction),,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Municipal waste (Non biomass fraction),,tj,101160,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Industrial wastes,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Industrial wastes,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Industrial wastes,,tonne,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Industrial wastes,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Industrial wastes,,tj,152460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Waste oils,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Waste oils,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Waste oils,,tonne,"3326,952",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Waste oils,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Other wastes,Waste oils,,tj,82760,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Wood or Wood waste,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Wood or Wood waste,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Wood or Wood waste,,tonne,"1894,776",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Wood or Wood waste,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Wood or Wood waste,,tj,121460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sulphite lyes (Black liqour),,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sulphite lyes (Black liqour),,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sulphite lyes (Black liqour),,tonne,"1131,7852",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sulphite lyes (Black liqour),,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sulphite lyes (Black liqour),,tj,95914,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other primary solid biomass fuels,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other primary solid biomass fuels,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other primary solid biomass fuels,,tonne,"1269,736",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other primary solid biomass fuels,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other primary solid biomass fuels,,tj,109460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Charcoal,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Charcoal,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Charcoal,,tonne,"3477,0175",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Charcoal,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Charcoal,,tj,117865,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biogasoline,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biogasoline,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biogasoline,,tonne,"1923,453",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biogasoline,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biogasoline,,tj,71239,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biodiesels,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biodiesels,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biodiesels,,tonne,"1923,453",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biodiesels,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Biodiesels,,tj,71239,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other liquid biofuels,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other liquid biofuels,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other liquid biofuels,,tonne,"2193,0686",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other liquid biofuels,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other liquid biofuels,,tj,80039,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Landfill gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Landfill gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Landfill gas,,tonne,"2760,2316",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Landfill gas,,m3,"2,48420844",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Landfill gas,,tj,"54766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sludge gas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sludge gas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sludge gas,,tonne,"2760,2316",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sludge gas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Sludge gas,,tj,"54766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other biogas,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other biogas,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other biogas,,tonne,"2760,2316",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other biogas,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Other biogas,,tj,"54766,5",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Municipal wastes (Biomass fraction),,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Municipal wastes (Biomass fraction),,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Municipal wastes (Biomass fraction),,tonne,"1269,736",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Municipal wastes (Biomass fraction),,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Municipal wastes (Biomass fraction),,tj,109460,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Peat,,l,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Peat,,kg,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Peat,,tonne,"1040,91376",Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Peat,,m3,0,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,fuels-and-feedstocks,fuel,Biomass,Peat,,tj,106651,Emission_Factors_from_Cross_Sector_Tools_March_2017.xls,2017
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Domestic Refrigeration,,kg,"0,0035",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Stand-Alone Commercial Applications,,kg,"0,0550",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Medium and Large Commercial refrigeration,,kg,"0,2000",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Transport Refrigeration,,kg,"0,3250",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Industrial Refrigeration including Food Processing and Cold Storage,,kg,"0,1600",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Chillers,,kg,"0,0850",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Residential and Commercial A/C including Heat Pumps,,kg,"0,0300",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Mobile Air Conditioners,,kg,"0,1500",https://ghgprotocol.org/sites/default/files/hfc-pfc_1.xls,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Fixed fire suppression equipment,,kg,"0,0250",https://www.epa.gov/sites/default/files/2015-07/documents/fugitiveemissions.pdf,
+use-of-sold-products,emission-of-greenhouse-gases,emission_source,,Portable fire suppression equipment,,kg,"0,0350",https://www.epa.gov/sites/default/files/2015-07/documents/fugitiveemissions.pdf,

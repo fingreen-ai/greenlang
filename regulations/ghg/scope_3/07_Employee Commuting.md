@@ -160,6 +160,10 @@ Cette méthode est utilisée pour calculer les émissions associées aux besoins
 
 greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod
 
+### is_active
+
+False
+
 ## [Home Office Cooling Needs](#home-office-cooling-needs)
 
 ### name_fr
@@ -177,3 +181,7 @@ Cette méthode est utilisée pour calculer les émissions associées aux besoins
 ### implem_path
 
 greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod
+
+### is_active
+
+False
