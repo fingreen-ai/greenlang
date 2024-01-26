@@ -1,7 +1,5 @@
 """ GHG - Scope 3 - Use of sold products calculations. """
 
-from itertools import product
-from turtle import Screen
 from ..base.base import BaseCalculationMethod
 from ..scope_1.fugitive_emissions import ScreeningMethodApproach
 from .forms.use_of_sold_products import (
