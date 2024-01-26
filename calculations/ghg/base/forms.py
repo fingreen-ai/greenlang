@@ -51,15 +51,21 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
 
         self.helper.form_show_labels = False
 
+        method = self.initial["method"]
+
+        factor_ids = GhgEmissionFactorValue.objects.filter(factor__method=method)\
+        .filter(tot_co2_kg__isnull=False)\
+        .filter(tot_co2_kg__gt=0)\
+        .values_list('factor', flat=True).distinct()
+
+        factors = method.factors.filter(id__in=factor_ids).order_by("factor_subtype", "name")
+
         self.fields["ghg_factor"].choices = [
-        (
-            factor.pk,
-            f"{factor.factor_subtype_repr}{' > ' if factor.factor_subtype else ''}{factor.name}",
-        )  # pylint: disable=line-too-long
-        for factor in self.initial["method"]
-        .factors.annotate(value_count=Count("values"))
-        .filter(value_count__gt=0)
-        .order_by("factor_subtype", "name")
+            (
+                factor.pk,
+                f"{factor.factor_subtype_repr}{' > ' if factor.factor_subtype else ''}{factor.name}",
+            )  # pylint: disable=line-too-long
+            for factor in factors
         ]
 
         self.helper.layout = Layout(
