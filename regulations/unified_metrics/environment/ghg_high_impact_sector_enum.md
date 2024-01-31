@@ -26,7 +26,7 @@ enum_multiple
 
 ### unit
 
-Cimate sectors multiple choices
+Climate sectors
 
 ### category_1
 
