@@ -15,7 +15,7 @@ class LeasedBuildingsAssetSpecificMethod(BaseCalculationMethod):
         """Return form class."""
         return LeasedBuildingsAssetSpecificMethodForm
 
-    def total_co2(self, factor_value):
+    def total_co2(self, collection_item):
         """Return total co2.
         Can not be used because there are 2 total_co2, one for scope 1 and one for scope 2.
         """
