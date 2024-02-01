@@ -33,6 +33,13 @@ class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
         """Init form"""
         super().__init__(*args, **kwargs)
 
+        has_instance = 'instance' in kwargs and kwargs['instance']
+        if has_instance:
+            instance = kwargs['instance']
+            if instance.widget_data:
+                for key, value in instance.widget_data.items():
+                    setattr(self.fields[key], 'initial', value)
+
         self.helper = FormHelper()
         self.helper.form_tag = False
         self.helper.form_show_labels = False
@@ -91,7 +98,9 @@ class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
                 ),
                 Column(
                     Submit(
-                        "submit", _("Add"), css_class="btn btn-light-primary w-100 mb-3"
+                        "submit",
+                        _("Add") if not has_instance else _("Update"),
+                        css_class="btn btn-light-primary w-100 mb-3",
                     ),
                     css_class="d-flex align-items-end col-2",
                 ),

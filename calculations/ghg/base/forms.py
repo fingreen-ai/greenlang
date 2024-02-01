@@ -2,7 +2,6 @@
 
 from django import forms
 from django.urls import reverse
-from django.db.models import Count
 from django.utils.translation import gettext_lazy as _
 
 from crispy_forms.helper import FormHelper
@@ -26,7 +25,7 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
     - ghg_factor: the GHG emission factor to use, prefilled with the factors related to selected calculation method
     - value_float: the amount value
     - ghg_unit: the GHG emission unit to use, prefilled with the units related to selected GHG emission factor
-    
+
     As hidden fields, the form exposes:
 
     - method: the selected GHG emission source computation method
@@ -34,7 +33,7 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
     - item_type: the selected item type, must be 'ghg'
     - ghg_scope: the selected GHG scope
 
-    """ # pylint: disable=line-too-long
+    """  # pylint: disable=line-too-long
 
     method = forms.ModelChoiceField(
         queryset=GhgEmissionSourceComputationMethod.objects.all(), required=True
@@ -53,12 +52,24 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
 
         method = self.initial["method"]
 
-        factor_ids = GhgEmissionFactorValue.objects.filter(factor__method=method)\
-        .filter(tot_co2_kg__isnull=False)\
-        .filter(tot_co2_kg__gt=0)\
-        .values_list('factor', flat=True).distinct()
+        self.has_instance = 'instance' in kwargs and kwargs['instance']
+        if self.has_instance:
+            instance = kwargs['instance']
+            if instance.widget_data:
+                for key, value in instance.widget_data.items():
+                    setattr(self.fields[key], 'initial', value)
 
-        factors = method.factors.filter(id__in=factor_ids).order_by("factor_subtype", "name")
+        factor_ids = (
+            GhgEmissionFactorValue.objects.filter(factor__method=method)
+            .filter(tot_co2_kg__isnull=False)
+            .filter(tot_co2_kg__gt=0)
+            .values_list('factor', flat=True)
+            .distinct()
+        )
+
+        factors = method.factors.filter(id__in=factor_ids).order_by(
+            "factor_subtype", "name"
+        )
 
         self.fields["ghg_factor"].choices = [
             (
@@ -127,7 +138,11 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
                 ),
                 *self.get_extra_fields(),
                 Column(
-                    Submit("submit", _("Add"), css_class="btn btn-light-primary"),
+                    Submit(
+                        "submit",
+                        _("Add") if not self.has_instance else _("Update"),
+                        css_class="btn btn-light-primary",
+                    ),
                     css_class="col",
                 ),
             ),
@@ -167,6 +182,14 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
+        has_instance = 'instance' in kwargs and kwargs['instance']
+        if has_instance:
+            instance = kwargs['instance']
+            if instance.widget_data:
+                for key, value in instance.widget_data.items():
+                    setattr(self.fields[key], 'initial', value)
+
         self.factor_type = "custom"
 
         for field_name in self.fields.keys():
@@ -244,7 +267,11 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
                     css_class="col-4",
                 ),
                 Column(
-                    Submit("submit", _("Add"), css_class="btn btn-light-primary w-100"),
+                    Submit(
+                        "submit",
+                        _("Add") if not has_instance else _("Update"),
+                        css_class="btn btn-light-primary w-100",
+                    ),
                     css_class="col-1",
                 ),
             ),
@@ -312,9 +339,7 @@ class CustomAverageDataMethodForm(CustomFactorCalculationMethodForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.fields["custom_factor_name"].label = _("Name")
-        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(
-            _("Name")
-        )
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(_("Name"))
         self.factor_type = "goods"
 
     class Meta(CustomFactorCalculationMethodForm.Meta):

@@ -13,12 +13,14 @@ from ...scope_1.forms import ScreeningMethodApproachForm
 
 
 class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
-    """ DirectElectricityUseForm """
+    """DirectElectricityUseForm"""
+
     sold_quantity = forms.IntegerField(required=True)
     product_lifetime = forms.IntegerField(required=True)
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
         self.helper.layout = Layout(
             Hidden(
                 "method", self.initial["method"].id
@@ -67,7 +69,8 @@ class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
                 ),
                 Column(
                     AppendedText(
-                        "product_lifetime", _('year'), 
+                        "product_lifetime",
+                        _('year'),
                         placeholder=_("Product lifetime"),
                         css_class="form-control form-control-lg mb-3 mb-lg-0",
                     ),
@@ -96,12 +99,16 @@ class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
                     css_class="col-1",
                 ),
                 Column(
-                    Submit("submit", _("Add"), css_class="btn btn-light-primary"),
+                    Submit(
+                        "submit",
+                        _("Add") if not self.has_instance else _("Update"),
+                        css_class="btn btn-light-primary",
+                    ),
                     css_class="col",
                 ),
             ),
         )
-    
+
     def save(self, commit=True):
         """Save form"""
 
@@ -132,14 +139,17 @@ class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
             "value_float",
         ]
 
+
 class DirectFuelUseForm(PredefinedFactorCalculationMethodForm):
-    """ DirectFuelUseForm """
+    """DirectFuelUseForm"""
+
 
 class FuelsAndFeedstocksForm(PredefinedFactorCalculationMethodForm):
-    """ FuelsAndFeedstocksForm """
+    """FuelsAndFeedstocksForm"""
+
 
 class EmissionOfGreenhouseGasesForm(ScreeningMethodApproachForm):
-    """ EmissionOfGreenhouseGasesForm """
+    """EmissionOfGreenhouseGasesForm"""
 
     product_lifetime = forms.IntegerField(required=True)
 
@@ -148,7 +158,8 @@ class EmissionOfGreenhouseGasesForm(ScreeningMethodApproachForm):
             Column(
                 Column(
                     AppendedText(
-                        "product_lifetime", _('year'), 
+                        "product_lifetime",
+                        _('year'),
                         placeholder=_("Product lifetime"),
                         css_class="form-control form-control-lg mb-3 mb-lg-0",
                     ),
@@ -158,7 +169,6 @@ class EmissionOfGreenhouseGasesForm(ScreeningMethodApproachForm):
         ]
 
     def save_extra_fields(self, instance):
-        
         return {
             "product_lifetime": self.cleaned_data["product_lifetime"],
         }

@@ -30,7 +30,8 @@ class MassBalanceMethodForm(forms.ModelForm):
         required=True, label=_("Inventory at the end of the year")
     )
     year_decrease = forms.FloatField(
-        required=True, label=_("Decrease during the year"),
+        required=True,
+        label=_("Decrease during the year"),
     )
 
     purchased = forms.FloatField(
@@ -42,11 +43,19 @@ class MassBalanceMethodForm(forms.ModelForm):
     )
 
     available = forms.FloatField(
-        required=True, label=_("Total Purchases/ Acquisitions"),
+        required=True,
+        label=_("Total Purchases/ Acquisitions"),
     )
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
+
+        has_instance = 'instance' in kwargs and kwargs['instance']
+        if has_instance:
+            instance = kwargs['instance']
+            if instance.widget_data:
+                for key, value in instance.widget_data.items():
+                    setattr(self.fields[key], 'initial', value)
 
         for field_name in self.fields.keys():
             self.fields[field_name].required = True
@@ -57,14 +66,12 @@ class MassBalanceMethodForm(forms.ModelForm):
         self.helper.show_labels = True
         self.fields["description_user"].label = _("Emission source")
         self.fields["ghg_factor"].label = _("Gas or refrigerant")
-        self.fields["value_float"].label = _(
-            "Refrigerant or Gas Total Emissions"
-        )
+        self.fields["value_float"].label = _("Refrigerant or Gas Total Emissions")
 
         self.fields["year_decrease"].widget.attrs['readonly'] = True
         self.fields["available"].widget.attrs['readonly'] = True
         self.fields["value_float"].widget.attrs['readonly'] = True
-        
+
         self.fields["description_user"].widget = forms.Select(
             choices=[
                 (
@@ -123,20 +130,31 @@ class MassBalanceMethodForm(forms.ModelForm):
             Row(
                 Column(AppendedText("begin_year_storage", "kg"), css_class="col-4"),
                 Column(AppendedText("end_year_storage", "kg"), css_class="col-4"),
-                Column(AppendedText("year_decrease", "kg", css_class="disabled"), css_class="col-4"),
+                Column(
+                    AppendedText("year_decrease", "kg", css_class="disabled"),
+                    css_class="col-4",
+                ),
                 css_class="d-flex align-items-end my-3",
             ),
             Row(
                 Column(AppendedText("purchased", "kg"), css_class="col-4"),
                 Column(AppendedText("acquired", "kg"), css_class="col-4"),
-                Column(AppendedText("available", "kg", css_class="disabled"), css_class="col-4"),
+                Column(
+                    AppendedText("available", "kg", css_class="disabled"),
+                    css_class="col-4",
+                ),
                 css_class="d-flex align-items-end my-3",
             ),
             Row(
-                Column(AppendedText("value_float", "kg", css_class="disabled"), css_class="col-6"),
+                Column(
+                    AppendedText("value_float", "kg", css_class="disabled"),
+                    css_class="col-6",
+                ),
                 Column(
                     Submit(
-                        "submit", _("Add"), css_class="btn btn-light-primary w-100 mb-3"
+                        "submit",
+                        _("Add") if not has_instance else _("Update"),
+                        css_class="btn btn-light-primary w-100 mb-3",
                     ),
                     css_class="col-2",
                 ),
@@ -188,6 +206,13 @@ class ScreeningMethodApproachForm(forms.ModelForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
+        has_instance = 'instance' in kwargs and kwargs['instance']
+        if has_instance:
+            instance = kwargs['instance']
+            if instance.widget_data:
+                for key, value in instance.widget_data.items():
+                    setattr(self.fields[key], 'initial', value)
+
         for field_name in self.fields.keys():
             self.fields[field_name].required = True
 
@@ -199,7 +224,8 @@ class ScreeningMethodApproachForm(forms.ModelForm):
 
         gases = GhgEmissionFactor.objects.filter(
             # method__source=self.initial["method"].source, factor_type="gas"
-            method__source__slug="fugitive-emissions", factor_type="gas"
+            method__source__slug="fugitive-emissions",
+            factor_type="gas",
         )
 
         self.fields["ghg_factor"].choices = [
@@ -257,7 +283,11 @@ class ScreeningMethodApproachForm(forms.ModelForm):
                 Column(AppendedText("value_float", "kg"), css_class="col"),
                 *self.get_extra_fields(),
                 Column(
-                    Submit("submit", _("Add"), css_class="btn btn-light-primary"),
+                    Submit(
+                        "submit",
+                        _("Add") if not has_instance else _("Update"),
+                        css_class="btn btn-light-primary",
+                    ),
                     css_class="mb-3",
                 ),
                 css_class="col d-flex align-items-end",
@@ -272,7 +302,7 @@ class ScreeningMethodApproachForm(forms.ModelForm):
             A list of extra fields to add to the form. Empty list by default.
         """
         return []
-    
+
     def save_extra_fields(self, instance):
         """
         Save extra fields.
@@ -281,7 +311,6 @@ class ScreeningMethodApproachForm(forms.ModelForm):
             instance: The collection item instance.
         """
         return {}
-
 
     def save(self, commit=True):
         """Save"""
