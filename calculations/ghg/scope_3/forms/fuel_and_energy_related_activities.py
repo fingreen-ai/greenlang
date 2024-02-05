@@ -39,7 +39,7 @@ class AutomaticMethodForm(forms.ModelForm):
                 Column(
                     Submit(
                         "submit",
-                        _("Gerenate from other scopes"),
+                        _("Generate from other scopes"),
                         css_class="btn btn-light-primary w-100",
                     ),
                     css_class="col-4",

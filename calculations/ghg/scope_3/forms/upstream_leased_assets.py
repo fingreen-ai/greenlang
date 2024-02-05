@@ -11,10 +11,10 @@ from fingreen_web.models import (
     CollectionItem,
     GhgEmissionFactor,
 )
-from ...base.forms import PredefinedFactorCalculationMethodForm
+from ...base.forms import PredefinedFactorCalculationMethodForm, TaggedFormMixin
 
 
-class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
+class LeasedBuildingsAssetSpecificMethodForm(TaggedFormMixin, forms.ModelForm):
     """Automatic method form"""
 
     method = forms.ModelChoiceField(
@@ -59,6 +59,13 @@ class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
                         type="text",
                         autocomplete="off",
                         css_class="form-control form-control-lg form-control-solid mb-3 mb-lg-0",
+                    ),
+                    css_class="col-md-6",
+                ),
+                Column(
+                    Field(
+                        "tags",
+                        css_class="form-control tags-input",
                     ),
                     css_class="col-md-6",
                 ),
@@ -140,6 +147,8 @@ class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
         if commit:
             instance.save()
 
+        self.save_tags(instance)
+
         return instance
 
     class Meta:
@@ -150,6 +159,7 @@ class LeasedBuildingsAssetSpecificMethodForm(forms.ModelForm):
             "ghg_scope",
             "item_type",
             "description_user",
+            "tags",
         ]
 
 
@@ -185,6 +195,7 @@ class LeasedBuildingsAverageDataMethodForm(PredefinedFactorCalculationMethodForm
         model = CollectionItem
         fields = [
             "collection",
+            "tags",
             "ghg_scope",
             "item_type",
             "description_user",

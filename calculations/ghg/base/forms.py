@@ -1,6 +1,8 @@
 """ GHG base forms."""
 
+import json
 from django import forms
+from django.test import tag
 from django.urls import reverse
 from django.utils.translation import gettext_lazy as _
 
@@ -15,8 +17,31 @@ from fingreen_web.models import (
     GhgEmissionSourceComputationMethod,
 )
 
+class TaggedFormMixin:
+    """ TaggedFormMixin """
 
-class PredefinedFactorCalculationMethodForm(forms.ModelForm):
+    tags = forms.CharField(required=False)
+
+    def __init__(self, *args, **kwargs):
+        self.user = kwargs.get('user')
+        kwargs.pop('user')
+        super().__init__(*args, **kwargs)
+
+    def clean_tags(self):
+        """ Clean tags field """
+        return json.loads(self.data['tags'])
+
+    def save_tags(self, instance):
+        """ Save tags """
+        if self.cleaned_data['tags']:
+            instance.tags.clear()
+            instance.tags.add(*[tag['value'] for tag in self.cleaned_data['tags']], tag_kwargs={
+                'creator': self.user,
+                'organization': self.user.org_active
+            })
+
+
+class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
     """
     This form provides the inputs for category using a predefined factor.
     It exposes the following fields:
@@ -97,6 +122,13 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
                     ),
                     css_class="col-md-6",
                 ),
+                Column(
+                    Field(
+                        "tags",
+                        css_class="form-control tags-input",
+                    ),
+                    css_class="col-md-6",
+                ),
             ),
             Row(
                 Column(
@@ -157,6 +189,18 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
         """
         return []
 
+    def save(self, commit=True):
+        """Save"""
+
+        instance = super().save(commit=False)
+
+        if commit:
+            instance.save()
+
+        self.save_tags(instance)
+
+        return instance
+
     class Meta:
         model = CollectionItem
         fields = [
@@ -164,13 +208,14 @@ class PredefinedFactorCalculationMethodForm(forms.ModelForm):
             "ghg_scope",
             "item_type",
             "description_user",
+            "tags",
             "ghg_factor",
             "value_float",
             "ghg_unit",
         ]
 
 
-class CustomFactorCalculationMethodForm(forms.ModelForm):
+class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
     """CustomFactorCalculationMethodForm"""
 
     method = forms.ModelChoiceField(
@@ -225,6 +270,13 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
                         type="text",
                         autocomplete="off",
                         css_class="form-control form-control-lg form-control-solid mb-3 mb-lg-0",
+                    ),
+                    css_class="col-md-6",
+                ),
+                Column(
+                    Field(
+                        "tags",
+                        css_class="form-control tags-input",
                     ),
                     css_class="col-md-6",
                 ),
@@ -304,6 +356,8 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
         if commit:
             instance.save()
 
+        self.save_tags(instance)
+
         return instance
 
     class Meta:
@@ -313,6 +367,7 @@ class CustomFactorCalculationMethodForm(forms.ModelForm):
             "ghg_scope",
             "item_type",
             "description_user",
+            "tags",
             "value_float",
             "ghg_unit",
         ]

@@ -14,9 +14,10 @@ from fingreen_web.models import (
     GhgEmissionSourceComputationMethod,
     GhgEmissionFactor,
 )
+from ...base.forms import TaggedFormMixin
 
 
-class MassBalanceMethodForm(forms.ModelForm):
+class MassBalanceMethodForm(TaggedFormMixin, forms.ModelForm):
     """Mass balance method form"""
 
     method = forms.ModelChoiceField(
@@ -118,6 +119,15 @@ class MassBalanceMethodForm(forms.ModelForm):
                 ),
                 Column(
                     Field(
+                        "tags",
+                        css_class="form-control tags-input",
+                    ),
+                    css_class="col-md-6",
+                ),
+            ),
+            Row(
+                Column(
+                    Field(
                         "ghg_factor",
                         data_control="select2",
                         data_placeholder=_("Emission factor"),
@@ -177,6 +187,8 @@ class MassBalanceMethodForm(forms.ModelForm):
         if commit:
             instance.save()
 
+        self.save_tags(instance)
+
         return instance
 
     class Meta:
@@ -186,13 +198,14 @@ class MassBalanceMethodForm(forms.ModelForm):
             "ghg_scope",
             "item_type",
             "description_user",
+            "tags",
             "ghg_factor",
             "value_float",
             "ghg_unit",
         ]
 
 
-class ScreeningMethodApproachForm(forms.ModelForm):
+class ScreeningMethodApproachForm(TaggedFormMixin, forms.ModelForm):
     """ScreeningMethodApproachForm."""
 
     method = forms.ModelChoiceField(
@@ -258,6 +271,15 @@ class ScreeningMethodApproachForm(forms.ModelForm):
             Hidden("item_type", self.initial["item_type"]),
             Hidden("ghg_scope", self.initial["ghg_scope"]),
             Hidden("ghg_unit", "kg"),
+            Row(
+                Column(
+                    Field(
+                        "tags",
+                        css_class="form-control tags-input",
+                    ),
+                    css_class="col-6",
+                ),
+            ),
             Row(
                 Column(
                     Field(
@@ -328,12 +350,15 @@ class ScreeningMethodApproachForm(forms.ModelForm):
 
         if commit:
             instance.save()
+        
+        self.save_tags(instance)
 
         return instance
 
     class Meta:
         model = CollectionItem
         fields = [
+            "tags",
             "collection",
             "ghg_scope",
             "item_type",
