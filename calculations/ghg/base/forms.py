@@ -199,7 +199,7 @@ class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
         if commit:
             instance.save()
 
-        self.save_tags(instance)
+            self.save_tags(instance)
 
         return instance
 
@@ -355,7 +355,7 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
         if commit:
             instance.save()
 
-        self.save_tags(instance)
+            self.save_tags(instance)
 
         return instance
 
