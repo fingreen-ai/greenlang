@@ -2,11 +2,7 @@
 from django import forms
 from django.utils.translation import gettext_lazy as _
 
-from crispy_forms.layout import Column, Field, Row
-from crispy_forms.bootstrap import AppendedText
-from numpy import place
-
-from fingreen_web.models import CollectionItem
+from crispy_forms.layout import Column, Field
 
 from ...base.forms import PredefinedFactorCalculationMethodForm
 

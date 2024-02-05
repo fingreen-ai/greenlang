@@ -8,6 +8,7 @@ from django.db.models import Count
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Submit, Hidden, Row, Column, Field
 from crispy_forms.bootstrap import AppendedText
+from numpy import require
 
 from fingreen_web.models import (
     CollectionItem,
@@ -57,9 +58,6 @@ class MassBalanceMethodForm(TaggedFormMixin, forms.ModelForm):
             if instance.widget_data:
                 for key, value in instance.widget_data.items():
                     setattr(self.fields[key], 'initial', value)
-
-        for field_name in self.fields.keys():
-            self.fields[field_name].required = True
 
         self.helper = FormHelper()
         self.helper.form_tag = False
@@ -225,9 +223,6 @@ class ScreeningMethodApproachForm(TaggedFormMixin, forms.ModelForm):
             if instance.widget_data:
                 for key, value in instance.widget_data.items():
                     setattr(self.fields[key], 'initial', value)
-
-        for field_name in self.fields.keys():
-            self.fields[field_name].required = True
 
         self.helper = FormHelper()
         self.helper.form_tag = False

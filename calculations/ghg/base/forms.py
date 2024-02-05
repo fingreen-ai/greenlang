@@ -9,6 +9,7 @@ from django.utils.translation import gettext_lazy as _
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Submit, Hidden, Row, Column, Field
 from crispy_forms.bootstrap import AppendedText
+from numpy import require
 
 from fingreen_web.models import (
     CollectionItem,
@@ -29,16 +30,20 @@ class TaggedFormMixin:
 
     def clean_tags(self):
         """ Clean tags field """
-        return json.loads(self.data['tags'])
+        if "tags" in self.data:
+            try:
+                return json.loads(self.data['tags'])
+            except json.JSONDecodeError:
+                pass
+        return []
 
     def save_tags(self, instance):
         """ Save tags """
-        if self.cleaned_data['tags']:
-            instance.tags.clear()
-            instance.tags.add(*[tag['value'] for tag in self.cleaned_data['tags']], tag_kwargs={
-                'creator': self.user,
-                'organization': self.user.org_active
-            })
+        instance.tags.clear()
+        instance.tags.add(*[tag['value'] for tag in self.cleaned_data['tags']], tag_kwargs={
+            'creator': self.user,
+            'organization': self.user.org_active
+        })
 
 
 class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
@@ -66,9 +71,6 @@ class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-
-        for field_name in self.fields.keys():
-            self.fields[field_name].required = True
 
         self.helper = FormHelper()
         self.helper.form_tag = False
@@ -236,9 +238,6 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
                     setattr(self.fields[key], 'initial', value)
 
         self.factor_type = "custom"
-
-        for field_name in self.fields.keys():
-            self.fields[field_name].required = True
 
         self.helper = FormHelper()
         self.helper.form_tag = False

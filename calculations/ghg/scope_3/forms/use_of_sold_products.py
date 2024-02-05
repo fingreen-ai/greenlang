@@ -38,7 +38,14 @@ class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
                         autocomplete="off",
                         css_class="form-control form-control-lg form-control-solid mb-3 mb-lg-0",
                     ),
-                    css_class="col-md-5",
+                    css_class="col-md-6",
+                ),
+                Column(
+                    Field(
+                        "tags",
+                        css_class="form-control tags-input",
+                    ),
+                    css_class="col-md-6",
                 ),
             ),
             Row(
@@ -122,6 +129,8 @@ class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
         if commit:
             instance.save()
 
+        self.save_tags(instance)
+
         return instance
 
     class Meta:
@@ -129,6 +138,7 @@ class DirectElectricityOrFuelUseForm(PredefinedFactorCalculationMethodForm):
         fields = [
             "method",
             "collection",
+            "tags",
             "item_type",
             "ghg_scope",
             "ghg_unit",
