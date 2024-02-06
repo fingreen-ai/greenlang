@@ -21,8 +21,6 @@ from fingreen_web.models import (
 class TaggedFormMixin:
     """ TaggedFormMixin """
 
-    tags = forms.CharField(required=False)
-
     def __init__(self, *args, **kwargs):
         self.user = kwargs.get('user')
         kwargs.pop('user')
