@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: greenlang\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-07 14:19+0000\n"
+"POT-Creation-Date: 2024-02-07 15:15+0000\n"
 "PO-Revision-Date: 2024-02-07 15:13+0100\n"
 "Last-Translator: Alban Tiberghien <alban.tiberghien@fingreen.ai>\n"
 "Language-Team: French <admin@fingreen.ai>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Gtranslator 45.3\n"
 
 #: calculations/ghg/base/forms.py:122 calculations/ghg/base/forms.py:274
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:58
+#: calculations/ghg/scope_3/forms/leased_assets.py:58
 msgid "Description"
 msgstr "Description"
 
@@ -41,7 +41,7 @@ msgstr "Sélectionnez d'abord une source d'émission"
 #: calculations/ghg/base/forms.py:179 calculations/ghg/base/forms.py:329
 #: calculations/ghg/scope_1/forms/fugitive_emissions.py:164
 #: calculations/ghg/scope_1/forms/fugitive_emissions.py:305
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:109
+#: calculations/ghg/scope_3/forms/leased_assets.py:109
 #: calculations/ghg/scope_3/forms/use_of_sold_products.py:111
 msgid "Add"
 msgstr "Ajouter"
@@ -49,7 +49,7 @@ msgstr "Ajouter"
 #: calculations/ghg/base/forms.py:179 calculations/ghg/base/forms.py:329
 #: calculations/ghg/scope_1/forms/fugitive_emissions.py:164
 #: calculations/ghg/scope_1/forms/fugitive_emissions.py:305
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:109
+#: calculations/ghg/scope_3/forms/leased_assets.py:109
 #: calculations/ghg/scope_3/forms/use_of_sold_products.py:111
 msgid "Update"
 msgstr "Mettre à jour"
@@ -155,6 +155,27 @@ msgstr "Quantité vendue"
 msgid "Generate from other scopes"
 msgstr "Générer à partir d'autres étendues"
 
+#: calculations/ghg/scope_3/forms/leased_assets.py:76
+msgid "Total floor space"
+msgstr "Surface totale au sol"
+
+#: calculations/ghg/scope_3/forms/leased_assets.py:82
+msgid "Leased floor space"
+msgstr "Surface louée"
+
+#: calculations/ghg/scope_3/forms/leased_assets.py:90
+msgid "Total Building Scope 1 Emissions"
+msgstr "Émissions totales du scope 1 du bâtiment"
+
+#: calculations/ghg/scope_3/forms/leased_assets.py:98
+msgid "Total Building Scope 2 Emissions"
+msgstr "Émissions totales du scope 2 du bâtiment"
+
+#: calculations/ghg/scope_3/forms/leased_assets.py:103
+#: calculations/ghg/scope_3/forms/leased_assets.py:175
+msgid "Leased month count"
+msgstr "Nombre de mois loués"
+
 #: calculations/ghg/scope_3/forms/processing_of_sold_products.py:11
 #: calculations/ghg/scope_3/forms/processing_of_sold_products.py:22
 msgid "Sold Product / Processor name"
@@ -164,27 +185,6 @@ msgstr "Nom du produit vendu/processeur"
 #: calculations/ghg/scope_3/forms/processing_of_sold_products.py:13
 msgid "Process Type"
 msgstr "Type de processus"
-
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:76
-msgid "Total floor space"
-msgstr "Surface totale au sol"
-
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:82
-msgid "Leased floor space"
-msgstr "Surface louée"
-
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:90
-msgid "Total Building Scope 1 Emissions"
-msgstr "Émissions totales du scope 1 du bâtiment"
-
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:98
-msgid "Total Building Scope 2 Emissions"
-msgstr "Émissions totales du scope 2 du bâtiment"
-
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:103
-#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:175
-msgid "Leased month count"
-msgstr "Nombre de mois loués"
 
 #: calculations/ghg/scope_3/forms/use_of_sold_products.py:36
 msgid "Product name"

@@ -92,16 +92,16 @@ Category 7: Employee commuting
 Category 8: Upstream leased assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAssetSpecificMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.leased_assets.LeasedBuildingsAssetSpecificMethod
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedBuildingsAverageDataMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.leased_assets.LeasedBuildingsAverageDataMethod
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesFuelAmountMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.leased_assets.LeasedVehiclesFuelAmountMethod
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.upstream_leased_assets.LeasedVehiclesVehicleTypeMethod
+.. autoclass:: greenlang.calculations.ghg.scope_3.leased_assets.LeasedVehiclesVehicleTypeMethod
     :members:
 
 Category 9: Downstream transportation and distribution
@@ -135,8 +135,8 @@ Category 5: Waste generated in operations
 Category 8: Upstream leased assets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAssetSpecificMethodForm()
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.leased_assets.LeasedBuildingsAssetSpecificMethodForm()
     :members:
 
-.. autoclass:: greenlang.calculations.ghg.scope_3.forms.upstream_leased_assets.LeasedBuildingsAverageDataMethodForm()
+.. autoclass:: greenlang.calculations.ghg.scope_3.forms.leased_assets.LeasedBuildingsAverageDataMethodForm()
     :members:

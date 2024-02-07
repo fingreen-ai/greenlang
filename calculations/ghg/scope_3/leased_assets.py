@@ -1,7 +1,7 @@
-""" Upstream Leased Assets calculation methods """
+""" Upstream and Downstream Leased Assets calculation methods """
 
 from ..base.base import BaseCalculationMethod
-from .forms.upstream_leased_assets import (
+from .forms.leased_assets import (
     LeasedBuildingsAssetSpecificMethodForm,
     LeasedBuildingsAverageDataMethodForm,
 )
