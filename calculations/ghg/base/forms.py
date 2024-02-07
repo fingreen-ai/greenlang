@@ -107,6 +107,8 @@ class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
             )  # pylint: disable=line-too-long
             for factor in factors
         ]
+        if not self.has_instance and len(factors) > 0:
+            self.fields["ghg_factor"].initial = factors[0].id
 
         self.helper.layout = Layout(
             Hidden(
