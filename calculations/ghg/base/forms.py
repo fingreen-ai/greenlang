@@ -2,14 +2,12 @@
 
 import json
 from django import forms
-from django.test import tag
 from django.urls import reverse
 from django.utils.translation import gettext_lazy as _
 
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Submit, Hidden, Row, Column, Field
 from crispy_forms.bootstrap import AppendedText
-from numpy import require
 
 from fingreen_web.models import (
     CollectionItem,
