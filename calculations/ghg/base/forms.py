@@ -68,6 +68,10 @@ class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
+        for field_name in self.fields.keys():
+            if field_name != 'tags':
+                self.fields[field_name].required = True
+
         self.helper = FormHelper()
         self.helper.form_tag = False
 
@@ -81,6 +85,8 @@ class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
             if instance.widget_data:
                 for key, value in instance.widget_data.items():
                     setattr(self.fields[key], 'initial', value)
+
+        
 
         factor_ids = (
             GhgEmissionFactorValue.objects.filter(factor__method=method)
@@ -226,6 +232,10 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
+        for field_name in self.fields.keys():
+            if field_name != 'tags':
+                self.fields[field_name].required = True
+        
         has_instance = 'instance' in kwargs and kwargs['instance']
         if has_instance:
             instance = kwargs['instance']
