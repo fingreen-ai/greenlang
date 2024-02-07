@@ -1,0 +1,237 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Fingreen AI <admin@fingreen.ai>, 2024.
+# Alban Tiberghien <alban.tiberghien@fingreen.ai>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: greenlang\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-07 14:19+0000\n"
+"PO-Revision-Date: 2024-02-07 15:13+0100\n"
+"Last-Translator: Alban Tiberghien <alban.tiberghien@fingreen.ai>\n"
+"Language-Team: French <admin@fingreen.ai>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Gtranslator 45.3\n"
+
+#: calculations/ghg/base/forms.py:122 calculations/ghg/base/forms.py:274
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:58
+msgid "Description"
+msgstr "Description"
+
+#: calculations/ghg/base/forms.py:142
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:283
+msgid "Choose a GHG emission factor"
+msgstr "Choisissez un facteur d'émission GES"
+
+#: calculations/ghg/base/forms.py:156 calculations/ghg/base/forms.py:303
+msgid "Enter amount"
+msgstr "Saisissez une quantité"
+
+#: calculations/ghg/base/forms.py:167 calculations/ghg/base/forms.py:314
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:100
+msgid "Select an emission source 1st"
+msgstr "Sélectionnez d'abord une source d'émission"
+
+#: calculations/ghg/base/forms.py:179 calculations/ghg/base/forms.py:329
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:164
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:305
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:109
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:111
+msgid "Add"
+msgstr "Ajouter"
+
+#: calculations/ghg/base/forms.py:179 calculations/ghg/base/forms.py:329
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:164
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:305
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:109
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:111
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: calculations/ghg/base/forms.py:254
+msgid "Emission factor value"
+msgstr "Valeur du facteur d'émission"
+
+#: calculations/ghg/base/forms.py:257
+msgid "Emission factor name"
+msgstr "Nom du facteur d'émission"
+
+#: calculations/ghg/base/forms.py:386 calculations/ghg/base/forms.py:387
+msgid "Emission Source Name"
+msgstr "Nom de la source d'émission"
+
+#: calculations/ghg/base/forms.py:399 calculations/ghg/base/forms.py:400
+msgid "Name"
+msgstr "Nom"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:29
+msgid "Inventory at the beginning of the year"
+msgstr "Inventaire au début de l'année"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:32
+msgid "Inventory at the end of the year"
+msgstr "Inventaire à la fin de l'année"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:36
+msgid "Decrease during the year"
+msgstr "Diminution au cours de l'année"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:40
+msgid "Purchased from producers/distributors in bulk"
+msgstr "Acheté auprès de producteurs/distributeurs en gros"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:44
+msgid "Added to equipment by contractors"
+msgstr "Ajouté à l'équipement par les entrepreneurs"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:49
+msgid "Total Purchases/ Acquisitions"
+msgstr "Total des achats/acquisitions"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:66
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:230
+msgid "Emission source"
+msgstr "Source d'émission"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:67
+msgid "Gas or refrigerant"
+msgstr "Gaz ou réfrigérant"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:68
+msgid "Refrigerant or Gas Total Emissions"
+msgstr "Émissions totales de réfrigérants ou de gaz"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:78
+msgid "Refrigeration and air conditioning equipments in use"
+msgstr "Équipements de réfrigération et de climatisation en service"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:80
+msgid "Fire suppression equipments"
+msgstr "Équipements d'extinction d'incendie"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:83
+msgid "Direct emissions from purchased industrial gases"
+msgstr "Émissions directes des gaz industriels achetés"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:131
+msgid "Emission factor"
+msgstr "Facteur d'émission"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:215
+msgid "Quantity"
+msgstr "Quantité"
+
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:231
+msgid "Refrigerant or Gas Capacity"
+msgstr "Capacité de réfrigérant ou de gaz"
+
+#: calculations/ghg/scope_2/forms/purchased_electricity.py:11
+#: calculations/ghg/scope_2/forms/purchased_electricity.py:12
+msgid "Factor type/supplier name"
+msgstr "Type de facteur/nom du fournisseur"
+
+#: calculations/ghg/scope_2/forms/purchased_electricity.py:16
+#: calculations/ghg/scope_2/forms/purchased_heat_or_steam.py:15
+msgid "kWh"
+msgstr "kWh"
+
+#: calculations/ghg/scope_2/forms/purchased_heat_or_steam.py:11
+#: calculations/ghg/scope_2/forms/purchased_heat_or_steam.py:12
+msgid "Purchase Supplier Name"
+msgstr "Nom du fournisseur d'achat"
+
+#: calculations/ghg/scope_3/forms/end_of_life_treatment_of_sold_products.py:20
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:55
+msgid "Sold quantity"
+msgstr "Quantité vendue"
+
+#: calculations/ghg/scope_3/forms/fuel_and_energy_related_activities.py:42
+msgid "Generate from other scopes"
+msgstr "Générer à partir d'autres étendues"
+
+#: calculations/ghg/scope_3/forms/processing_of_sold_products.py:11
+#: calculations/ghg/scope_3/forms/processing_of_sold_products.py:22
+msgid "Sold Product / Processor name"
+msgstr "Nom du produit vendu/processeur"
+
+#: calculations/ghg/scope_3/forms/processing_of_sold_products.py:12
+#: calculations/ghg/scope_3/forms/processing_of_sold_products.py:13
+msgid "Process Type"
+msgstr "Type de processus"
+
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:76
+msgid "Total floor space"
+msgstr "Surface totale au sol"
+
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:82
+msgid "Leased floor space"
+msgstr "Surface louée"
+
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:90
+msgid "Total Building Scope 1 Emissions"
+msgstr "Émissions totales du scope 1 du bâtiment"
+
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:98
+msgid "Total Building Scope 2 Emissions"
+msgstr "Émissions totales du scope 2 du bâtiment"
+
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:103
+#: calculations/ghg/scope_3/forms/upstream_leased_assets.py:175
+msgid "Leased month count"
+msgstr "Nombre de mois loués"
+
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:36
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:66
+msgid "Sold product country"
+msgstr "Pays du produit vendu"
+
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:80
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:172
+msgid "year"
+msgstr "année"
+
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:81
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:173
+msgid "Product lifetime"
+msgstr "Durée de vie du produit"
+
+#: calculations/ghg/scope_3/forms/use_of_sold_products.py:89
+msgid "energy quantity"
+msgstr "quantité d'énergie"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:12
+msgid "Waste Treatment"
+msgstr "Traitement des déchets"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:15
+msgid "Landfill"
+msgstr "Décharge"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:16
+msgid "Combustion"
+msgstr "La combustion"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:17
+msgid "Composting"
+msgstr "Compostage"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:18
+msgid "Open-loop Recycling"
+msgstr "Recyclage en boucle ouverte"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:19
+msgid "Closed-loop Recycling"
+msgstr "Recyclage en boucle fermée"
+
+#: calculations/ghg/scope_3/forms/waste_generated_in_operations.py:20
+msgid "Anaerobic digestion"
+msgstr "Digestion anaérobique"
