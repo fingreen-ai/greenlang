@@ -384,9 +384,7 @@ class SupplierSpecificMethodForm(CustomFactorCalculationMethodForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.fields["custom_factor_name"].label = _("Emission Source Name")
-        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(
-            _("Emission Source Name")
-        )
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _("Emission Source Name")
         self.factor_type = "supplier"
 
     class Meta(CustomFactorCalculationMethodForm.Meta):
@@ -399,7 +397,7 @@ class CustomAverageDataMethodForm(CustomFactorCalculationMethodForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.fields["custom_factor_name"].label = _("Name")
-        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _(_("Name"))
+        self.fields["custom_factor_name"].widget.attrs["placeholder"] = _("Name")
         self.factor_type = "goods"
 
     class Meta(CustomFactorCalculationMethodForm.Meta):
