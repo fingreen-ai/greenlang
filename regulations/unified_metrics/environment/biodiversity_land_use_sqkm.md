@@ -55,11 +55,11 @@ biodiversity
 
 ### value_question_en
 
-
+What was the total use of land by the company, during the period?
 
 ### value_question_fr
 
-
+Quelle a été l’utilisation totale du terrain par l’entreprise au cours de la période ?
 
 ### summary_en
 

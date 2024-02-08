@@ -47,19 +47,25 @@ employee_matters
 
 ### description_en
 
-
+Temporary employment, whereby workers are engaged only for a specific period of time, includes
+fixed-term, project- or task-based contracts, as well as seasonal or casual work, including day
+labour.
 
 ### description_fr
 
-
+L'emploi temporaire, dans lequel les travailleurs ne sont engagés que pour une période de temps
+déterminée, comprend les contrats à durée déterminée, basés sur un projet ou une tâche, ainsi que
+le travail saisonnier ou occasionnel, y compris le travail journalier.
 
 ### value_question_en
 
-
+What was the company's total number of employees in full-time equivalents in temporary contract,
+at the end of the period?
 
 ### value_question_fr
 
-
+Quel était l'effectif total de l'entreprise en équivalent temps plein en contrat temporaire, à la
+fin de la période ?
 
 ### summary_en
 
@@ -71,19 +77,23 @@ employee_matters
 
 ### compute_en
 
-
+FTE Per Year = Total Hours Worked during a Year / Total Working Hours per Year
 
 ### compute_fr
 
-
+ETP par an = Total des heures travaillées au cours d'une année / Total des heures de travail par an
 
 ### examples_en
 
-
+When calculated, temporary contract employees will be considered according to their time of
+presence during the last 12 months. Thus, 3 employees on temporary contracts for a period of 2
+months each will represent : (3x2) / 12 = 0.5 full time equivalent.
 
 ### examples_fr
 
-
+Lors du calcul, les salariés sous contrat temporaire seront pris en compte en fonction de leur
+temps de présence au cours des 12 derniers mois. Ainsi, 3 salariés en contrat intérimaire pour une
+durée de 2 mois chacun représenteront : (3x2) / 12 = 0,5 équivalent temps plein.
 
 ### support_docs_en
 
@@ -95,7 +105,7 @@ employee_matters
 
 ### sources
 
-
+- [International Labour Organisation (ILO) Non-standard forms of employment](https://www.ilo.org/global/topics/non-standard-employment/WCMS_534826/lang--en/index.htm#:~:text=Temporary%20employment%2C%20whereby%20workers%20are,casual%20work%2C%20including%20day%20labour.)
 
 ### publish
 

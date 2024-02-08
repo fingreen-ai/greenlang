@@ -55,11 +55,13 @@ waste_mgmt
 
 ### value_question_en
 
-
+If you company operated manufacturing, construction and/or packaging processes during the period,
+provide the rate of recyclable content in the products and their packaging?
 
 ### value_question_fr
 
-
+Si votre entreprise a exploité des processus de fabrication, de construction et/ou d'emballage au
+cours de la période, indiquez le taux de contenu recyclable dans les produits et leur emballage ?
 
 ### summary_en
 

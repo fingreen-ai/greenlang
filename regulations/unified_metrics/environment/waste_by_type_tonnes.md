@@ -47,19 +47,22 @@ waste_mgmt
 
 ### description_en
 
-
+The total annual generation of waste, by type, is expressed in the metric system units
+commonly used by the undertaking for the specific type of product/good/material.
 
 ### description_fr
 
-
+La production annuelle totale de déchets, par type, est exprimée dans les unités du système
+métrique couramment utilisées par l'entreprise pour le type spécifique de produit/bien/matériau.
 
 ### value_question_en
 
-
+What was the company total generation of waste, by type of waste, during the period?
 
 ### value_question_fr
 
-
+Quelle a été la production totale de déchets de l’entreprise, par type de déchets, au cours de
+la période ?
 
 ### summary_en
 

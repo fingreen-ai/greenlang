@@ -55,19 +55,22 @@ energy_consumption
 
 ### value_question_en
 
-
+How much renewable electricity did the company consume during the period?
 
 ### value_question_fr
 
-
+Quelle quantité d’électricité renouvelable l’entreprise a-t-elle consommée au cours de la
+période ?
 
 ### summary_en
 
-
+Total renewable electricity consumption is the electricity consumption coming from utility
+billings, and coming from renewable sources.
 
 ### summary_fr
 
-
+La consommation totale d'électricité renouvelable est la consommation d'électricité provenant
+des factures des services publics et provenant de sources renouvelables.
 
 ### compute_en
 
