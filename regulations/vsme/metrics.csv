@@ -23,12 +23,12 @@ vsme_v1,water_consumption_stress_area_m3
 vsme_v1,gender_pay_gap_pct
 vsme_v1,comp_entry_to_minimum_pct
 vsme_v1,collective_bargain_agreement_pct
-vsme_v1,employee_training_avrg_hours
+vsme_v1,employee_training_avrg_man_hours
+vsme_v1,employee_training_avrg_woman_hours
 vsme_v1,employee_permanent_count
 vsme_v1,employee_temp_count
 vsme_v1,employee_permanent_man_count
 vsme_v1,employee_permanent_woman_count
 vsme_v1,employee_permanent_per_country_count
 vsme_v1,accidents_count
-vsme_v1,accident_pct
 vsme_v1,fatalities_count
