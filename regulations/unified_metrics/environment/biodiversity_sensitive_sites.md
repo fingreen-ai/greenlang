@@ -114,11 +114,11 @@ zone protégée a été désignée.
 
 ### support_docs_en
 
-
+- Company's self declaration based on Key Biodiversity Areas (KBA) map
 
 ### support_docs_fr
 
-
+- Auto-déclaration de l'entreprise basée sur la carte des zones clés pour la biodiversité (KBA)
 
 ### sources
 
