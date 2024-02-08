@@ -29,12 +29,12 @@ Metrics
     ../unified_metrics/social/gender_pay_gap_pct.md
     ../unified_metrics/social/comp_entry_to_minimum_pct.md
     ../unified_metrics/social/collective_bargain_agreement_pct.md
-    ../unified_metrics/social/employee_training_avrg_hours.md
+    ../unified_metrics/social/employee_training_avrg_man_hours.md
+    ../unified_metrics/social/employee_training_avrg_woman_hours.md
     ../unified_metrics/social/employee_permanent_count.md
     ../unified_metrics/social/employee_temp_count.md
     ../unified_metrics/social/employee_permanent_man_count.md
     ../unified_metrics/social/employee_permanent_woman_count.md
     ../unified_metrics/social/employee_permanent_per_country_count.md
     ../unified_metrics/social/accidents_count.md
-    ../unified_metrics/social/accident_pct.md
     ../unified_metrics/social/fatalities_count.md

@@ -48,18 +48,21 @@ employee_matters
 ### description_en
 
 
-
 ### description_fr
 
 
 
 ### value_question_en
 
-
+If a significant proportion of employees were compensated based on wages subject to
+minimum wage rules, what was the relevant ratio of the entry level wage to the minimum wage,
+during the period?
 
 ### value_question_fr
 
-
+Si une proportion significative d’employés était rémunérée sur la base d’un salaire soumis aux
+règles relatives au salaire minimum, quel était le rapport pertinent entre le salaire d’entrée et
+le salaire minimum au cours de la période?
 
 ### summary_en
 

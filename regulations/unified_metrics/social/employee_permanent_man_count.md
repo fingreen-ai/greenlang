@@ -55,11 +55,12 @@ employee_matters
 
 ### value_question_en
 
-
+What was the company's total number of employees in full-time equivalents that identify as men,
+at the end of the period?
 
 ### value_question_fr
 
-
+Quel était le nombre total d'employés de l'entreprise en équivalents temps plein identifiés comme étant des hommes, à la fin de la période ?
 
 ### summary_en
 

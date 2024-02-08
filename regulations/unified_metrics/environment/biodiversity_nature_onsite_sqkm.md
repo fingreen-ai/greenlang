@@ -55,11 +55,12 @@ biodiversity
 
 ### value_question_en
 
-
+What was the total use of nature-oriented area on site by the company, during the period?
 
 ### value_question_fr
 
-
+Quelle a été l’utilisation totale de la zone naturelle du site par l’entreprise au cours de
+la période ?
 
 ### summary_en
 

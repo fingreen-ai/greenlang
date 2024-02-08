@@ -55,19 +55,25 @@ emissions_other
 
 ### value_question_en
 
-
+How many tonnes of pollutants did the company directly emit
+to soil during the period?
 
 ### value_question_fr
 
-
+Combien de tonnes de polluants l’entreprise a-t-elle émis directement
+au sol pendant la période?
 
 ### summary_en
 
-
+The company shall consider the pollutants it emits in
+its own operations to soil that it is required to report by law to competent authorities
+or that it already reports according to an Environmental Management System.
 
 ### summary_fr
 
-
+L'entreprise doit considérer les polluants qu'elle émet dans ses propres opérations avec les sols
+qu'elle est tenue de déclarer par la loi aux autorités compétentes ou qu'elle déclare déjà
+conformément à un système de gestion environnementale.
 
 ### compute_en
 

@@ -55,11 +55,12 @@ biodiversity
 
 ### value_question_en
 
-
+What was the total use of nature-oriented area offsite by the company, during the period?
 
 ### value_question_fr
 
-
+Quelle a été l’utilisation totale des zones naturelles hors site par l’entreprise au cours
+de la période ?
 
 ### summary_en
 

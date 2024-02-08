@@ -55,11 +55,12 @@ employee_matters
 
 ### value_question_en
 
-
+What was the percentage of employees covered by collective bargaining agreements, during the period?
 
 ### value_question_fr
 
-
+Quel était le pourcentage de salariés couverts par des conventions collectives au cours de la
+période ?
 
 ### summary_en
 

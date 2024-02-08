@@ -55,11 +55,13 @@ employee_matters
 
 ### value_question_en
 
-
+What was the company's total number of employees in full-time equivalents by country,
+at the end of the period?
 
 ### value_question_fr
 
-
+Quel était l'effectif total de l'entreprise en équivalent temps plein par pays, à la fin de
+la période ?
 
 ### summary_en
 
