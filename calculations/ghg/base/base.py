@@ -2,7 +2,6 @@
 Base classes for calculation methods
 """
 import logging
-from datetime import datetime
 
 from django.utils.translation import gettext_lazy as _
 

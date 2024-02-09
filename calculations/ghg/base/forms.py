@@ -299,32 +299,12 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
                     ),
                     css_class="col-3",
                 ),
-                Column(
-                    Field(
-                        "value_float",
-                        placeholder=_("Enter amount"),
-                        min=0,
-                        type="number",
-                        autocomplete="off",
-                        css_class="form-control form-control-lg form-control-solid mb-3 mb-lg-0",
-                    ),
-                    css_class="col-2",
-                ),
-                Column(
-                    Field(
-                        "ghg_unit",
-                        data_placeholder=_("Select an emission source 1st"),
-                        data_control="select2",
-                        style="display: none;",
-                        css_class="form-control",
-                    ),
-                    id="custom_units",
-                    css_class="col-2",
-                ),
+                *self.get_value_float_columns(),
                 Column(
                     AppendedText("custom_factor_value", "kg CO2e/ unit"),
-                    css_class="col-4",
+                    css_class="col-3",
                 ),
+                *self.get_extra_fields(),
                 Column(
                     Submit(
                         "submit",
@@ -335,6 +315,48 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
                 ),
             ),
         )
+
+    def get_value_float_columns(self):
+        """ Get value float columns """
+        return [
+            Column(
+                Field(
+                    "value_float",
+                    placeholder=self.get_placeholder('value_float'),
+                    min=0,
+                    type="number",
+                    autocomplete="off",
+                    css_class="form-control form-control-lg form-control-solid mb-3 mb-lg-0",
+                ),
+                css_class="col-2",
+            ),
+            Column(
+                Field(
+                    "ghg_unit",
+                    data_placeholder=_("Select an emission source 1st"),
+                    data_control="select2",
+                    style="display: none;",
+                    css_class="form-control",
+                ),
+                id="custom_units",
+                css_class="col-2",
+            )
+        ]
+
+    def get_extra_fields(self):
+        """
+        Return extra fields to add to the form.
+        This method is meant to be overriden by subclasses.
+        Return:
+            A list of extra fields to add to the form. Empty list by default.
+        """
+        return []
+
+    def get_placeholder(self, field_name):
+        """ Get placeholder """
+        if field_name == "value_float":
+            return _("Amount")
+        return ""
 
     def save(self, commit=True):
         """Save"""
@@ -352,12 +374,18 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
 
         if instance.item_type == "ghg":
             instance.ghg_factor = GhgEmissionFactor.objects.create(
-                name=custom_factor_name, factor_type=self.factor_type, method=method
+                name=custom_factor_name,
+                factor_type=self.factor_type,
+                method=method,
+                organization=self.user.org_active,
+
             )
-            GhgEmissionFactorValue.objects.create(
+            GhgEmissionFactorValue.objects.update_or_create(
                 factor=instance.ghg_factor,
                 unit=instance.ghg_unit,
-                tot_co2_kg=custom_factor_value,
+                defaults={
+                    "tot_co2_kg": custom_factor_value,
+                }
             )
 
         if commit:
