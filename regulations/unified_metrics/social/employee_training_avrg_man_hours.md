@@ -3,7 +3,7 @@
 
 ### name
 
-employee_training_avrg_hours
+employee_training_avrg_man_hours
 
 ### name_en
 
