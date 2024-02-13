@@ -1,5 +1,5 @@
 
-# [Average number of annual training hours per male employee related to the development of skills and competences](#employee_training_avrg_man_hours)
+# [Training hours per male employee](#employee_training_avrg_man_hours)
 
 ### name
 
@@ -7,11 +7,11 @@ employee_training_avrg_man_hours
 
 ### name_en
 
-Average number of annual training hours per male employee related to the development of skills and competences
+Training hours per male employee
 
 ### name_fr
 
-Nombre moyen d'heures de formation annuelles par homme salarié liées au développement des aptitudes et des compétences
+Heures de formation par homme employé
 
 ### index
 
@@ -95,13 +95,13 @@ sont proposés à ses employés.
 
 ### compute_en
 
-Average training hours per employee = Total number of training hours provided to employees / Total
+Average training hours per employee = Total number of training hours provided to male employees / Total
 number of employees
 
 ### compute_fr
 
 Heures moyennes de formation par salarié = Nombre total d'heures de formation dispensées aux
-salariés / Nombre total de salariés
+salariés hommes / Nombre total de salariés
 
 ### examples_en
 

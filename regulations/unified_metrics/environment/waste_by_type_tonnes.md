@@ -66,11 +66,13 @@ la période ?
 
 ### summary_en
 
-
+Companies can demonstrate their understanding of their waste footprint and their commitment to
+responsible waste management practices.
 
 ### summary_fr
 
-
+Les entreprises peuvent démontrer leur compréhension de leur empreinte déchets et leur engagement
+envers des pratiques de gestion responsable des déchets.
 
 ### compute_en
 

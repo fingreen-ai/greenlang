@@ -47,24 +47,37 @@ employee_matters
 
 ### description_en
 
-The FTE is calculated by taking into account the number of hours worked in a full-time weekly
-schedule and the actual number of hours employees work.
+Total number of employees: This refers to the overall size of the workforce.
 
-**Regulatory Definition**
+Full-time equivalents (FTEs): This converts part-time and full-time employees
+into a standard unit based on total work hours, allowing for better comparison
+across different employment arrangements.
 
-A full-time equivalent, sometimes abbreviated as FTE, is a unit to measure employed persons in a
-way that makes them comparable although they may work or study a different number of hours per week.
+Permanent contract: This specifies the type of employment, focusing on
+employees with long-term contracts rather than temporary or freelance workers.
 
+Overall, the question seeks to understand the company's commitment to its
+workforce by looking at the number of stable, long-term employees. This
+information can be used to assess factors like job security, employee welfare,
+and potential social risks related to workforce turnover.
 
 ### description_fr
 
-L'ETP est calculé en tenant compte du nombre d'heures travaillées dans un horaire hebdomadaire à
-temps plein et du nombre d'heures réellement travaillées par les salariés.
+Nombre total d'employés : il s'agit de la taille globale de l'effectif.
 
-**Définition réglementaire**
+Équivalents temps plein (ETP) : cela convertit les employés à temps partiel et
+à temps plein en une unité standard basée sur le total des heures de travail,
+permettant une meilleure comparaison entre les différentes modalités d'emploi.
 
-Un équivalent temps plein, parfois abrégé en ETP, est une unité permettant de mesurer les personnes
-occupées de manière à les rendre comparables, même si elles peuvent travailler ou étudier un nombre d'heures différent par semaine.
+Contrat à durée indéterminée : il précise le type d'emploi, en se concentrant
+sur les salariés ayant des contrats à long terme plutôt que sur les travailleurs
+temporaires ou indépendants.
+
+Dans l'ensemble, la question cherche à comprendre l'engagement de l'entreprise
+envers son personnel en examinant le nombre d'employés stables et à long terme.
+Ces informations peuvent être utilisées pour évaluer des facteurs tels que la
+sécurité de l'emploi, le bien-être des employés et les risques sociaux
+potentiels liés à la rotation de la main-d'œuvre.
 
 ### value_question_en
 
@@ -78,11 +91,13 @@ période ?
 
 ### summary_en
 
-
+Total number of employees in full-time equivalents reflects the size and stability of a company's
+core workforce.
 
 ### summary_fr
 
-
+Le nombre total d'employés en équivalents temps plein reflète la taille et la stabilité de
+l'effectif de base d'une entreprise.
 
 ### compute_en
 

@@ -51,11 +51,18 @@ Temporary employment, whereby workers are engaged only for a specific period of 
 fixed-term, project- or task-based contracts, as well as seasonal or casual work, including day
 labour.
 
+Number of temporary employees: This reveals the company's reliance on non-permanent workers,
+which can have implications for job security, employee well-being, and training investment.
+
 ### description_fr
 
 L'emploi temporaire, dans lequel les travailleurs ne sont engagés que pour une période de temps
 déterminée, comprend les contrats à durée déterminée, basés sur un projet ou une tâche, ainsi que
 le travail saisonnier ou occasionnel, y compris le travail journalier.
+
+Nombre d'employés temporaires : cela révèle la dépendance de l'entreprise à l'égard de travailleurs
+non permanents, ce qui peut avoir des implications sur la sécurité de l'emploi, le bien-être des
+employés et les investissements dans la formation.
 
 ### value_question_en
 
@@ -69,11 +76,13 @@ fin de la période ?
 
 ### summary_en
 
-
+Illustrate the company's reliance on non-permanent staff, which can be relevant for assessing
+social responsibility.
 
 ### summary_fr
 
-
+Illustrer le recours de l'entreprise à du personnel non permanent, ce qui peut être pertinent pour
+évaluer la responsabilité sociale.
 
 ### compute_en
 

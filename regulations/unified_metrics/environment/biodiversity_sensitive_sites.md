@@ -77,7 +77,7 @@ Vous pouvez vérifier si vos activités sont situées dans ou près de zones de 
 
 ### value_question_en
 
-Please list the sites that the company ownshas owned, has leased or has managed, that are
+Please list the sites that the company has owned, has leased or has managed, that are
 located in or near biodiversity sensitive areas, during the period?
 
 ### value_question_fr
