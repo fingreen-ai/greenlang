@@ -1,5 +1,5 @@
 
-# [Ratio of the entry level wage to the minimum wage](#comp_entry_to_minimum_pct)
+# [Entry level wage to minimum wage ratio](#comp_entry_to_minimum_pct)
 
 ### name
 
@@ -7,11 +7,11 @@ comp_entry_to_minimum_pct
 
 ### name_en
 
-Ratio of the entry level wage to the minimum wage
+Entry level wage to minimum wage ratio
 
 ### name_fr
 
-Rapport entre le salaire d'entrée et le salaire minimum
+Rapport entre le salaire d'entrée et minimum
 
 ### index
 
@@ -129,4 +129,4 @@ minimum fixé par la législation nationale soit de 10 euros de l'heure. Le rati
 
 ### publish
 
-false
+true

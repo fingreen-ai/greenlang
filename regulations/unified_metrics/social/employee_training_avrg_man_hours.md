@@ -7,11 +7,11 @@ employee_training_avrg_man_hours
 
 ### name_en
 
-Training hours per male employee
+Male employee training hours
 
 ### name_fr
 
-Heures de formation par homme employé
+Heures de formation par employé homme
 
 ### index
 
@@ -136,4 +136,4 @@ Rapports de développement durable alignés sur :
 
 ### publish
 
-false
+true

@@ -1,5 +1,5 @@
 
-# [Total number of employees in full-time equivalents broken down by country](#employee_permanent_per_country_count)
+# [Full-time employees by country](#employee_permanent_per_country_count)
 
 ### name
 
@@ -7,11 +7,11 @@ employee_permanent_per_country_count
 
 ### name_en
 
-Total number of employees in full-time equivalents broken down by country
+Full-time employees by country
 
 ### name_fr
 
-Effectif total en équivalent temps plein réparti par pays
+Employés à temps plein par pays
 
 ### index
 
@@ -150,4 +150,4 @@ environnemental potentiel.
 
 ### publish
 
-false
+true

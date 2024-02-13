@@ -1,5 +1,5 @@
 
-# [Sites located in or near biodiversity sensitive areas](#biodiversity_sensitive_sites)
+# [Biodiversity sensitive areas proximity](#biodiversity_sensitive_sites)
 
 ### name
 
@@ -7,11 +7,11 @@ biodiversity_sensitive_sites
 
 ### name_en
 
-Sites located in or near biodiversity sensitive areas
+Biodiversity sensitive areas proximity
 
 ### name_fr
 
-Sites situés dans ou à proximité de zones sensibles pour la biodiversité
+Proximité des zones sensibles à la biodiversité
 
 ### index
 
@@ -126,4 +126,4 @@ zone protégée a été désignée.
 
 ### publish
 
-false
+true

@@ -1,5 +1,5 @@
 
-# [Water withdrawn at sites located in areas of high water stress](#water_consumption_stress_area_m3)
+# [High water stress areas water usage](#water_consumption_stress_area_m3)
 
 ### name
 
@@ -7,11 +7,11 @@ water_consumption_stress_area_m3
 
 ### name_en
 
-Water withdrawn at sites located in areas of high water stress
+High water stress areas water usage
 
 ### name_fr
 
-Eau prélevée sur des sites situés dans des zones à fort stress hydrique
+Zones à fort stress hydrique consommation d’eau
 
 ### index
 
@@ -187,4 +187,4 @@ Les entreprises peuvent démontrer leur engagement en faveur d’une gestion res
 
 ### publish
 
-false
+true

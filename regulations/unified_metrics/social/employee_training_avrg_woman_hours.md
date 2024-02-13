@@ -7,7 +7,7 @@ employee_training_avrg_woman_hours
 
 ### name_en
 
-Training hours per female employee
+Female employee training hours
 
 ### name_fr
 
@@ -135,4 +135,4 @@ Rapports de développement durable alignés sur :
 
 ### publish
 
-false
+true

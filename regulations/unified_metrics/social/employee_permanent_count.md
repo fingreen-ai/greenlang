@@ -1,5 +1,5 @@
 
-# [Total number of employees in full-time equivalents in permanent contract](#employee_permanent_count)
+# [Full-time employees in permanent contract](#employee_permanent_count)
 
 ### name
 
@@ -7,11 +7,11 @@ employee_permanent_count
 
 ### name_en
 
-Total number of employees in full-time equivalents in permanent contract
+Full-time employees in permanent contract
 
 ### name_fr
 
-Effectif total en équivalent temps plein en CDI
+Salariés à temps plein en CDI
 
 ### index
 
@@ -128,4 +128,4 @@ qui travaillent 40 heures chacun par semaine comptent pour 1,0 ETP, tandis que c
 
 ### publish
 
-false
+true

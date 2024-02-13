@@ -1,5 +1,5 @@
 
-# [Total annual generation of waste, by type](#waste_by_type_tonnes)
+# [Generation of waste, by type](#waste_by_type_tonnes)
 
 ### name
 
@@ -7,11 +7,11 @@ waste_by_type_tonnes
 
 ### name_en
 
-Total annual generation of waste, by type
+Generation of waste, by type
 
 ### name_fr
 
-Production annuelle totale de déchets, par type
+Production de déchets, par type
 
 ### index
 
@@ -104,4 +104,4 @@ envers des pratiques de gestion responsable des déchets.
 
 ### publish
 
-false
+true

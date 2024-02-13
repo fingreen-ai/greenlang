@@ -1,5 +1,5 @@
 
-# [Employees covered by collective bargaining agreements](#collective_bargain_agreement_pct)
+# [Collective bargaining agreements](#collective_bargain_agreement_pct)
 
 ### name
 
@@ -7,11 +7,11 @@ collective_bargain_agreement_pct
 
 ### name_en
 
-Employees covered by collective bargaining agreements
+Collective bargaining agreements
 
 ### name_fr
 
-Salariés couverts par des conventions collectives
+Conventions collectives
 
 ### index
 
@@ -163,4 +163,4 @@ Convention, 1981 (No. 154)](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12
 
 ### publish
 
-false
+true

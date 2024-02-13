@@ -1,5 +1,5 @@
 
-# [Description of recycled goods and materials bought and sold](#recycled_product_bought_sold)
+# [Recycled goods and materials](#recycled_product_bought_sold)
 
 ### name
 
@@ -7,11 +7,11 @@ recycled_product_bought_sold
 
 ### name_en
 
-Description of recycled goods and materials bought and sold
+Recycled goods and materials
 
 ### name_fr
 
-Description des biens et matériaux recyclés achetés et vendus
+Biens et matériaux recyclés
 
 ### index
 
@@ -147,4 +147,4 @@ durabilité et répondent à la demande des consommateurs pour des produits dura
 
 ### publish
 
-false
+true

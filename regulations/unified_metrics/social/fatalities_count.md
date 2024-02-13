@@ -1,5 +1,5 @@
 
-# [Number of fatalities as a result of work-related injuries and work-related ill health](#fatalities_count)
+# [Work fatalities](#fatalities_count)
 
 ### name
 
@@ -7,11 +7,11 @@ fatalities_count
 
 ### name_en
 
-Number of fatalities as a result of work-related injuries and work-related ill health
+Work fatalities
 
 ### name_fr
 
-Nombre de décès dus à des accidents du travail et à des problèmes de santé liés au travail
+Décès au travail
 
 ### index
 
@@ -128,4 +128,4 @@ Combien de décès liés au travail sont survenus au cours de la période ?
 
 ### publish
 
-false
+true

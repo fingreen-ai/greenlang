@@ -1,5 +1,5 @@
 
-# [Total number of employees in full-time equivalents that identify as men](#employee_permanent_man_count)
+# [Full-time male employees](#employee_permanent_man_count)
 
 ### name
 
@@ -7,11 +7,11 @@ employee_permanent_man_count
 
 ### name_en
 
-Total number of employees in full-time equivalents that identify as men
+Full-time male employees
 
 ### name_fr
 
-Nombre total d'employés en équivalents temps plein qui s'identifient comme des hommes
+Employés à temps plein masculins
 
 ### index
 
@@ -114,4 +114,4 @@ genres, générant ainsi des résultats environnementaux, sociaux et de gouverna
 
 ### publish
 
-false
+true

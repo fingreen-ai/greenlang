@@ -1,5 +1,5 @@
 
-# [Total number of employees in full-time equivalents that identify as women](#employee_permanent_woman_count)
+# [Full-time female employees](#employee_permanent_woman_count)
 
 ### name
 
@@ -7,11 +7,11 @@ employee_permanent_woman_count
 
 ### name_en
 
-Total number of employees in full-time equivalents that identify as women
+Full-time female employees
 
 ### name_fr
 
-Nombre total d'employés en équivalents temps plein qui s'identifient comme femmes
+Employées féminines à temps plein
 
 ### index
 
@@ -114,4 +114,4 @@ genres, générant ainsi des résultats environnementaux, sociaux et de gouverna
 
 ### publish
 
-false
+true

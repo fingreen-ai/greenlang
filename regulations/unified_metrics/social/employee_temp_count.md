@@ -7,11 +7,11 @@ employee_temp_count
 
 ### name_en
 
-Total number of employees in full-time equivalents in temporary contract
+Full-time employees in temporary contract
 
 ### name_fr
 
-Nombre total de salariés en équivalent temps plein en contrat temporaire
+Salariés à temps plein en contrat temporaire
 
 ### index
 
@@ -118,4 +118,4 @@ durée de 2 mois chacun représenteront : (3x2) / 12 = 0,5 équivalent temps ple
 
 ### publish
 
-false
+true

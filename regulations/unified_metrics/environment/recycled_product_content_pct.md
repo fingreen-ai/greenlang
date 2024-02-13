@@ -1,5 +1,5 @@
 
-# [Rates of recyclable content in the products and their packaging](#recycled_product_content_pct)
+# [Recycling in products and packaging](#recycled_product_content_pct)
 
 ### name
 
@@ -7,11 +7,11 @@ recycled_product_content_pct
 
 ### name_en
 
-Rates of recyclable content in the products and their packaging
+Recycling in products and packaging
 
 ### name_fr
 
-Taux de contenu recyclable dans les produits et leurs emballages
+Recyclage dans les produits et les emballages
 
 ### index
 
@@ -184,4 +184,4 @@ réduction des déchets.
 
 ### publish
 
-false
+true
