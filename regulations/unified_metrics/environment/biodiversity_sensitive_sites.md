@@ -23,7 +23,7 @@ vsme_v1
 
 ### children_template
 
-location_near_biodiversity_area
+biodiversity_sensitive_sites_item
 
 ### item_type
 
