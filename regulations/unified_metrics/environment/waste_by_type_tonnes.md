@@ -21,6 +21,10 @@ Production de déchets, par type
 
 vsme_v1
 
+### children_template
+
+waste_by_type_tonnes_item
+
 ### item_type
 
 metric

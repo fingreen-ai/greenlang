@@ -1,16 +1,16 @@
-# [Location near a sensitive biodiversity area](#location_near_biodiversity_area)
+# [Item - Full-time employees by country](#employee_permanent_per_country_count_item)
 
 ### name
 
-location_near_biodiversity_area
+employee_permanent_per_country_count_item
 
 ### name_en
 
-Location near a sensitive biodiversity area
+Item - Full-time employees by country
 
 ### name_fr
 
-Localisation à proximité d'une zone sensible à la biodiversité
+Element - Employés à temps plein par pays
 
 ### item_type
 
@@ -43,6 +43,22 @@ text_multi
 
 ### value_question_fr
 
+
+### text_1_label_en
+
+Pays
+
+### text_1_label_fr
+
+Country
+
+### text_2_label_en
+
+Employee count
+
+### text_2_label_fr
+
+Nombre d'employés
 
 ### summary_en
 

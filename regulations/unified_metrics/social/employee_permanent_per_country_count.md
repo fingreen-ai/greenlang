@@ -21,6 +21,10 @@ Employés à temps plein par pays
 
 vsme_v1
 
+### children_template
+
+employee_permanent_per_country_count_item
+
 ### item_type
 
 metric
