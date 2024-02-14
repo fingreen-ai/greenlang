@@ -21,6 +21,10 @@ Proximité des zones sensibles à la biodiversité
 
 vsme_v1
 
+### children_template
+
+location_near_biodiversity_area
+
 ### item_type
 
 metric
