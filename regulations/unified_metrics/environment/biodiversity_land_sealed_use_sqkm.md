@@ -70,11 +70,13 @@ Quelle a été l’utilisation totale de la zone scellée par l’entreprise au 
 
 ### summary_en
 
-
+Land covered by impermeable surfaces like concrete or asphalt, limiting water infiltration and
+natural ecosystems.
 
 ### summary_fr
 
-
+Terrain recouvert de surfaces imperméables comme le béton ou l'asphalte, limitant les infiltrations
+d'eau et les écosystèmes naturels.
 
 ### compute_en
 
@@ -105,4 +107,4 @@ Quelle a été l’utilisation totale de la zone scellée par l’entreprise au 
 
 ### publish
 
-false
+true

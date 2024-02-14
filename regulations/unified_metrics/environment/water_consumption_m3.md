@@ -83,11 +83,13 @@ période?
 
 ### summary_en
 
-
+Addressing water consumption demonstrates the company's commitment to responsible environmental
+stewardship.
 
 ### summary_fr
 
-
+La lutte contre la consommation d'eau démontre l'engagement de l'entreprise en faveur d'une gestion
+responsable de l'environnement.
 
 ### compute_en
 

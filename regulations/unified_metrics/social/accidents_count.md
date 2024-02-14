@@ -43,10 +43,22 @@ mental harm. The phrase ’in the course of work’ means whilst engaged in an o
 or during the time spent at work. This includes cases of road traffic accidents in the course of
 work but excludes accidents during the journey between home and the workplace.
 
-**Regulatory Definition**
+This question directly relates to the "Social" pillar of ESG. It assesses the company's commitment
+to worker safety and well-being by measuring the frequency of workplace accidents. A high number of
+accidents indicates potential shortcomings in safety protocols, training, or risk management,
+raising concerns about worker welfare and potential legal liabilities.
 
-According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as "Rate of accidents in
-investee companies expressed as a weighted average".
+Additional Considerations:
+- Severity of Accidents: While the question asks for the number of accidents, context should be
+provided regarding their severity (e.g., minor injuries, lost time injuries, fatalities).
+- Comparison: Benchmarking the accident rate against industry standards or previous periods helps
+paint a clearer picture of the company's safety performance.
+- Root Cause Analysis: Understanding the causes of accidents is crucial for improvement. Reporting
+on implemented actions to address these causes demonstrates proactive efforts towards continuous
+improvement in safety culture.
+
+By presenting this information comprehensively, the company demonstrates its commitment to employee
+safety and responsible business practices, contributing to a positive ESG evaluation.
 
 
 ### description_fr
@@ -57,10 +69,24 @@ d’une activité professionnelle ou pendant le temps passé au travail. Cela in
 de la route survenus au cours du travail, mais exclut les accidents survenus sur le trajet entre le
 domicile et le lieu de travail.
 
-**Définition réglementaire**
+Cette question concerne directement le pilier « Social » de l’ESG. Il évalue l'engagement de
+l'entreprise en faveur de la sécurité et du bien-être des travailleurs en mesurant la fréquence
+des accidents du travail. Un nombre élevé d'accidents indique des lacunes potentielles dans les
+protocoles de sécurité, la formation ou la gestion des risques, soulevant des inquiétudes quant
+au bien-être des travailleurs et à d'éventuelles responsabilités juridiques.
 
-Selon le (UE) 2022/1288 du 6 avril 2022, la métrique est définie comme le "Taux d'accidents dans
-les entreprises dans lesquelles nous investissons exprimé en moyenne pondérée".
+Considérations supplémentaires:
+- Gravité des accidents : Bien que la question demande le nombre d'accidents, le contexte doit être
+fourni concernant leur gravité (par exemple, blessures mineures, blessures avec arrêt de travail, décès).
+- Comparaison : comparer le taux d'accidents aux normes de l'industrie ou aux périodes précédentes
+permet de dresser un tableau plus clair des performances de sécurité de l'entreprise.
+- Analyse des causes profondes : Comprendre les causes des accidents est crucial pour
+l'amélioration. Les rapports sur les actions mises en œuvre pour répondre à ces causes démontrent
+des efforts proactifs en faveur d’une amélioration continue de la culture de sécurité.
+
+En présentant ces informations de manière exhaustive, l'entreprise démontre son engagement en
+faveur de la sécurité des employés et des pratiques commerciales responsables, contribuant ainsi
+à une évaluation ESG positive.
 
 ### value_question_en
 

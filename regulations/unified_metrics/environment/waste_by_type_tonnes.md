@@ -1,5 +1,5 @@
 
-# [Total annual generation of waste, by type](#waste_by_type_tonnes)
+# [Generation of waste, by type](#waste_by_type_tonnes)
 
 ### name
 
@@ -7,11 +7,11 @@ waste_by_type_tonnes
 
 ### name_en
 
-Total annual generation of waste, by type
+Generation of waste, by type
 
 ### name_fr
 
-Production annuelle totale de déchets, par type
+Production de déchets, par type
 
 ### index
 
@@ -66,11 +66,13 @@ la période ?
 
 ### summary_en
 
-
+Companies can demonstrate their understanding of their waste footprint and their commitment to
+responsible waste management practices.
 
 ### summary_fr
 
-
+Les entreprises peuvent démontrer leur compréhension de leur empreinte déchets et leur engagement
+envers des pratiques de gestion responsable des déchets.
 
 ### compute_en
 
@@ -102,4 +104,4 @@ la période ?
 
 ### publish
 
-false
+true
