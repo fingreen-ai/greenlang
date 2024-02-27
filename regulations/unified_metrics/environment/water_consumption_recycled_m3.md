@@ -59,7 +59,7 @@ recyclée et réutilisée par les entreprises dans lesquelles nous investissons"
 
 ### value_question_en
 
-How much water consuimed by the company was recycled and reused, during the period?
+How much water consumed by the company was recycled and reused, during the period?
 
 ### value_question_fr
 
