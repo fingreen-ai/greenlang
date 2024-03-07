@@ -40,5 +40,5 @@ class EndOfLifeTreatmentForm(PredefinedFactorCalculationMethodForm):
             instance.save()
 
         return instance
-    
+
 

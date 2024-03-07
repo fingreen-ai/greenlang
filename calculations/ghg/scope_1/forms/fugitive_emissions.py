@@ -4,6 +4,7 @@ Category 2 : Fugitive Emission custom forms
 from django import forms
 from django.utils.translation import gettext_lazy as _
 from django.db.models import Count
+from django.utils import timezone
 
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Submit, Hidden, Row, Column, Field
@@ -183,8 +184,11 @@ class MassBalanceMethodForm(TaggedFormMixin, forms.ModelForm):
         }
 
         if commit:
+            if self.user:
+                instance.value_last_editor = self.user
+            instance.value_update_date = timezone.now()
+            
             instance.save()
-
             self.save_tags(instance)
 
         return instance
@@ -342,10 +346,13 @@ class ScreeningMethodApproachForm(TaggedFormMixin, forms.ModelForm):
         }
 
         instance.widget_data.update(self.save_extra_fields(instance))
-
-        if commit:
-            instance.save()
         
+        if commit:
+            if self.user:
+                instance.last_editor = self.user
+            instance.value_update_date = timezone.now()
+            
+            instance.save()
             self.save_tags(instance)
 
         return instance

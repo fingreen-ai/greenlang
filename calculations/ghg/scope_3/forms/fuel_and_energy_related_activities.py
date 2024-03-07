@@ -1,6 +1,7 @@
 """ Fuel and Energy Related Activities Calculation Method"""
 from django.utils.translation import gettext_lazy as _
 from django import forms
+from django.utils import timezone
 
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Row, Column, Submit, Hidden
@@ -10,9 +11,10 @@ from fingreen_web.models import (
     GhgEmissionFactorValue,
     GhgEmissionSourceComputationMethod,
 )
+from ...base.forms import TaggedFormMixin
 
 
-class AutomaticMethodForm(forms.ModelForm):
+class AutomaticMethodForm(TaggedFormMixin, forms.ModelForm):
     """Automatic method form"""
 
     method = forms.ModelChoiceField(
@@ -123,7 +125,7 @@ class AutomaticMethodForm(forms.ModelForm):
             else:
                 raise Exception("NO WTT FACTOR") # pylint: disable=[broad-exception-raised]
 
-        return item
+            return item
 
     class Meta:
         model = CollectionItem

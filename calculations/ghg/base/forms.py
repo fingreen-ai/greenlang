@@ -1,6 +1,7 @@
 """ GHG base forms."""
 
 import json
+from django.utils import timezone
 from django import forms
 from django.urls import reverse
 from django.utils.translation import gettext_lazy as _
@@ -8,6 +9,7 @@ from django.utils.translation import gettext_lazy as _
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Submit, Hidden, Row, Column, Field
 from crispy_forms.bootstrap import AppendedText
+
 
 from fingreen_web.models import (
     CollectionItem,
@@ -201,8 +203,11 @@ class PredefinedFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
         instance = super().save(commit=False)
 
         if commit:
+            if self.user:
+                instance.value_last_editor = self.user
+            instance.value_update_date = timezone.now()
+            
             instance.save()
-
             self.save_tags(instance)
 
         return instance
@@ -389,8 +394,11 @@ class CustomFactorCalculationMethodForm(TaggedFormMixin, forms.ModelForm):
             )
 
         if commit:
+            if self.user:
+                instance.last_editor = self.user
+            instance.value_update_date = timezone.now()
+            
             instance.save()
-
             self.save_tags(instance)
 
         return instance

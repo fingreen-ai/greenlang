@@ -1,6 +1,7 @@
 """Investments forms"""
 
 from django import forms
+from django.utils import timezone
 from django.utils.translation import gettext_lazy as _
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Row, Column, Submit, Hidden, Field
@@ -151,8 +152,11 @@ class ProjectSpecificMethodForm(TaggedFormMixin, forms.ModelForm):
         }
 
         if commit:
+            if self.user:
+                instance.value_last_editor = self.user
+            instance.value_update_date = timezone.now()
+            
             instance.save()
-
             self.save_tags(instance)
 
         return instance
