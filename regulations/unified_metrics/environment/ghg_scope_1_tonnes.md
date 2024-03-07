@@ -26,7 +26,7 @@ positive_integer
 
 ### unit
 
-Tonnes of CO2e
+t CO2eq
 
 ### category_1
 
@@ -145,8 +145,8 @@ et qui sont généralement associées à la combustion de combustibles fossiles 
 
 The company operates a manufacturing facility and uses
 natural gas as a fuel source for its industrial processes and heating. The
-combustion of natural gas produces 25600 Tonnes of CO2e this year,
-ie, scope 1 includes these 25600 Tonnes of CO2e because they originate directly
+combustion of natural gas produces 25600 t CO2eq this year,
+ie, scope 1 includes these 25600 t CO2eq because they originate directly
 from the company's operations, as the company owns and controls the natural
 gas combustion process.
 

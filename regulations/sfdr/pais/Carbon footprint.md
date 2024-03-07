@@ -51,7 +51,7 @@ Carbon footprint
 
 ## unit
 
-Tonnes of CO2e / M€
+t CO2eq / M€
 
 ## formula_en
 

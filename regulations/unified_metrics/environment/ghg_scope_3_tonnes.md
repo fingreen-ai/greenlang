@@ -26,7 +26,7 @@ positive_integer
 
 ### unit
 
-Tonnes of CO2e
+t CO2eq
 
 ### category_1
 
@@ -197,7 +197,7 @@ when it's incinerated or sent to landfills, contributing to methane emissions
 - 10 000 Tonnes CO2e.
 
 
-The company scope 3 represents a total of 50 000 Tonnes of CO2e for this
+The company scope 3 represents a total of 50 000 t CO2eq for this
 year.
 
 

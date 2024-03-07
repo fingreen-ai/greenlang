@@ -51,7 +51,7 @@ GHG intensity of investee companies
 
 ## unit
 
-Tonnes of CO2e / Revenue €M
+t CO2eq / Revenue €M
 
 ## formula_en
 

@@ -35,7 +35,7 @@ positive_integer
 
 ### unit
 
-Square km
+km²
 
 ### category_1
 

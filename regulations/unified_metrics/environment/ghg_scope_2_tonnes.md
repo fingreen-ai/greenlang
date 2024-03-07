@@ -26,7 +26,7 @@ positive_integer
 
 ### unit
 
-Tonnes of CO2e
+t CO2eq
 
 ### category_1
 
@@ -118,7 +118,7 @@ The company operates an office building and relies on
 electricity supplied by an external utility company. The utility company
 generates electricity using a mix of energy sources, including coal, natura
 gas, and renewable energy. The emissions associated with the electricity
-generation, which represent 10000 Tonnes of CO2e per year,
+generation, which represent 10000 t CO2eq per year,
 are considered Scope 2 emissions for the company.
 
 ### examples_fr

@@ -51,7 +51,7 @@ Scope 1 GHG emissions
 
 ## unit
 
-Tonnes of CO2e
+t CO2eq
 
 ## formula_en
 
