@@ -15,14 +15,9 @@ Consommation d'eau - Screen 1
 
 ### index
 
-1
 
 ### collection_templates
 
-
-### related_templates
-
-water_consumption_m3
 
 ### item_type
 

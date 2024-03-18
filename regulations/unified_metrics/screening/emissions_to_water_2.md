@@ -15,14 +15,9 @@ Emissions to Water - Screen 2
 
 ### index
 
-2
 
 ### collection_templates
 
-
-### related_templates
-
-emissions_to_water_tonnes
 
 ### item_type
 
@@ -53,7 +48,6 @@ boolean
 ### value_question_en
 
 Did any of the following events occur within the business, during the period? 
-
 - Wash any chemicals down the sink or drain?
 - Dispose of unused or expired chemicals improperly (trash)?
 - Experience any spills or leaks of the chemicals?
@@ -64,7 +58,6 @@ Did any of the following events occur within the business, during the period?
 ### value_question_fr
 
 L'un des événements suivants s'est-il produit au sein de l'entreprise au cours de la période ?
-
 - Laver des produits chimiques dans l'évier ou dans les égouts?
 - Éliminer de manière inappropriée les produits chimiques inutilisés ou périmés (déchets)?
 - Avez-vous constaté des déversements ou des fuites de produits chimiques?

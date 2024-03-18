@@ -15,14 +15,9 @@ Emissions to Water - Screen 1
 
 ### index
 
-1
 
 ### collection_templates
 
-
-### related_templates
-
-emissions_to_water_tonnes
 
 ### item_type
 
@@ -52,103 +47,107 @@ boolean
 
 ### value_question_en
 
-Was you company dealing with one of the following substances, during the period ?
+Was you company dealing with one of the following substances, during the period?
 
-<table>
-  <thead>
-    <tr>
-      <th>Chemical</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AlachlorHerbicide</td>
-      <td>Used in agriculture</td>
-    </tr>
-    <tr>
-      <td>Anthracene</td>
-      <td>Polycyclic aromatic hydrocarbon (PAH) potentially formed during various industrial processes</td>
-    </tr>
-    <tr>
-      <td>Atrazine</td>
-      <td>Herbicide used in agriculture</td>
-    </tr>
-    <tr>
-      <td>Benzene</td>
-      <td>Found in crude oil and gasoline production, used in some chemical manufacturing processes</td>
-    </tr>
-    <tr>
-      <td>Brominated diphenylethers</td>
-      <td>Flame retardants historically used in some plastics and electronics</td>
-    </tr>
-    <tr>
-      <td>Perfluorooctane sulfonic acid and its derivatives (PFOS)</td>
-      <td>Surfactant used in various industrial applications, fire retardants (restricted use)</td>
-    </tr>
-    <tr>
-      <td>Quinoxyfen</td>
-      <td>Fungicide used in agriculture</td>
-    </tr>
-    <tr>
-      <td>Dioxins and dioxin-like compounds</td>
-      <td>Unintentional byproducts of various industrial processes, including incineration and chlorine production</td>
-    </tr>
-    <tr>
-      <td>Aclonifen</td>
-      <td>Herbicide used in agriculture</td>
-    </tr>
-    </tbody>
-</table>
+| Substance | Description |
+| --- | --- |
+| Alachlor | Herbicide used in agriculture |
+| Anthracene	    | Polycyclic aromatic hydrocarbon (PAH) potentially formed during various industrial processes |
+| Atrazine	        | Herbicide used in agriculture |
+| Benzene	        | Found in crude oil and gasoline production, used in some chemical manufacturing processes |
+| Brominated        | diphenylethers	Flame retardants historically used in some plastics and electronics |
+| Cadmium and its compounds	| Metal used in batteries, pigments, and some metal plating processes |
+| Chloroalkanes, C10-13	| Used in some industrial cleaning solvents and lubricants |
+| Chlorfenvinphos	| Insecticide used in agriculture (regulations may restrict use) |
+| Chlorpyrifos (Chlorpyrifos-ethyl)	| Insecticide used in agriculture (regulations may restrict use) |
+| Dichloroethane	| Used in some solvent degreasing and  refrigerant production processes |
+| Dichloromethane	| Used in some solvent cleaning and degreasing applications |
+| Di(2-ethylhexyl)phthalate (DEHP)	| Plasticizer used in various plastic products (regulations may restrict use) |
+| Diuron	        | Herbicide used in agriculture |
+| Endosulfan	    | Insecticide used in agriculture (banned in many countries) |
+| Fluoranthene	    | PAH potentially formed during coal and oil extraction and various industrial processes |
+| Hexachlorobenzene	| Persistent organic pollutant (POP), may be a byproduct of some industrial processes |
+| Hexachlorobutadiene	| Industrial chemical used in some rubber production processes |
+| Hexachlorocyclohexane	| Insecticide (banned in many countries) |
+| Isoproturon	    | Herbicide used in agriculture |
+| Lead and its compounds	| Metal used in batteries, paints (regulations may restrict use), ammunition (historical) |
+| Mercury and its compounds	| Metal used in thermometers, electrical components (regulations may restrict use) |
+| Naphthalene	    | PAH potentially formed during coal and oil extraction and various industrial processes |
+| Nickel and its compounds	| Metal used in electroplating, stainless steel production |
+| Nonylphenols	 | |
+| Octylphenols (6)	| Endocrine disrupting chemicals, used in some detergents and nonionic surfactants |
+| Pentachlorobenzene	| Persistent organic pollutant (POP), may be a byproduct of some industrial processes |
+| Pentachlorophenol	| Wood preservative (restricted use due to health concerns) |
+| Polyaromatic hydrocarbons (PAH) (7)	| Group of organic compounds formed during incomplete combustion of fossil fuels, coal tar production, and asphalt roofing |
+| Simazine	        | Herbicide used in agriculture |
+| Tributyltin compounds	Antifouling paints used in the shipbuilding and boating industries (banned for most uses) |
+| Trichlorobenzenes	| Industrial solvents and refrigerants |
+| Trichloromethane (chloroform)	| Used in some refrigerants and solvent degreasing applications |
+| Trifluralin	    | Herbicide used in agriculture |
+| Dicofol	        | Insecticide (banned in many countries) |
+| Perfluorooctane sulfonic acid and its derivatives (PFOS)	| Surfactant used in various industrial applications, fire retardants (restricted use) |
+| Quinoxyfen	    | Fungicide used in agriculture |
+| Dioxins and dioxin-like compounds	| Unintentional byproducts of various industrial processes, including incineration and chlorine production |
+| Aclonifen	        | Herbicide used in agriculture |
+| Bifenox	        | Insecticide used in agriculture |
+| Cybutryne	        | Herbicide used in agriculture |
+| Cypermethrin (10)	| Insecticide used in agriculture |
+| Dichlorvos	    | Insecticide used in agriculture and public health (restrictions may apply) |
+| Hexabromocyclododecanes (HBCDD)	| Flame retardant used in some electronics and textiles (banned in many countries) |
+| Heptachlor and heptachlor epoxide	| Insecticide (banned in many countries) |
+| Terbutryn	        | Herbicide used in agriculture |
 
 ### value_question_fr
 
-<table>
-  <thead>
-    <tr>
-      <th>Chemical</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AlachlorHerbicide</td>
-      <td>Used in agriculture</td>
-    </tr>
-    <tr>
-      <td>Anthracene</td>
-      <td>Polycyclic aromatic hydrocarbon (PAH) potentially formed during various industrial processes</td>
-    </tr>
-    <tr>
-      <td>Atrazine</td>
-      <td>Herbicide used in agriculture</td>
-    </tr>
-    <tr>
-      <td>Benzene</td>
-      <td>Found in crude oil and gasoline production, used in some chemical manufacturing processes</td>
-    </tr>
-    <tr>
-      <td>Brominated diphenylethers</td>
-      <td>Flame retardants historically used in some plastics and electronics</td>
-    </tr>
-    <tr>
-      <td>Perfluorooctane sulfonic acid and its derivatives (PFOS)</td>
-      <td>Surfactant used in various industrial applications, fire retardants (restricted use)</td>
-    </tr>
-    <tr>
-      <td>Quinoxyfen</td>
-      <td>Fungicide used in agriculture</td>
-    </tr>
-    <tr>
-      <td>Dioxins and dioxin-like compounds</td>
-      <td>Unintentional byproducts of various industrial processes, including incineration and chlorine production</td>
-    </tr>
-    <tr>
-      <td>Aclonifen</td>
-      <td>Herbicide used in agriculture</td>
-    </tr>
-    </tbody>
-</table>
+Votre entreprise a-t-elle traité l'une des substances suivantes, au cours de la période?
+
+| Substance | Description |
+| --- | --- |
+| Alachlor | Herbicide used in agriculture |
+| Anthracene	    | Polycyclic aromatic hydrocarbon (PAH) potentially formed during various industrial processes |
+| Atrazine	        | Herbicide used in agriculture |
+| Benzene	        | Found in crude oil and gasoline production, used in some chemical manufacturing processes |
+| Brominated        | diphenylethers	Flame retardants historically used in some plastics and electronics |
+| Cadmium and its compounds	| Metal used in batteries, pigments, and some metal plating processes |
+| Chloroalkanes, C10-13	| Used in some industrial cleaning solvents and lubricants |
+| Chlorfenvinphos	| Insecticide used in agriculture (regulations may restrict use) |
+| Chlorpyrifos (Chlorpyrifos-ethyl)	| Insecticide used in agriculture (regulations may restrict use) |
+| Dichloroethane	| Used in some solvent degreasing and  refrigerant production processes |
+| Dichloromethane	| Used in some solvent cleaning and degreasing applications |
+| Di(2-ethylhexyl)phthalate (DEHP)	| Plasticizer used in various plastic products (regulations may restrict use) |
+| Diuron	        | Herbicide used in agriculture |
+| Endosulfan	    | Insecticide used in agriculture (banned in many countries) |
+| Fluoranthene	    | PAH potentially formed during coal and oil extraction and various industrial processes |
+| Hexachlorobenzene	| Persistent organic pollutant (POP), may be a byproduct of some industrial processes |
+| Hexachlorobutadiene	| Industrial chemical used in some rubber production processes |
+| Hexachlorocyclohexane	| Insecticide (banned in many countries) |
+| Isoproturon	    | Herbicide used in agriculture |
+| Lead and its compounds	| Metal used in batteries, paints (regulations may restrict use), ammunition (historical) |
+| Mercury and its compounds	| Metal used in thermometers, electrical components (regulations may restrict use) |
+| Naphthalene	    | PAH potentially formed during coal and oil extraction and various industrial processes |
+| Nickel and its compounds	| Metal used in electroplating, stainless steel production |
+| Nonylphenols	 | |
+| Octylphenols (6)	| Endocrine disrupting chemicals, used in some detergents and nonionic surfactants |
+| Pentachlorobenzene	| Persistent organic pollutant (POP), may be a byproduct of some industrial processes |
+| Pentachlorophenol	| Wood preservative (restricted use due to health concerns) |
+| Polyaromatic hydrocarbons (PAH) (7)	| Group of organic compounds formed during incomplete combustion of fossil fuels, coal tar production, and asphalt roofing |
+| Simazine	        | Herbicide used in agriculture |
+| Tributyltin compounds	Antifouling paints used in the shipbuilding and boating industries (banned for most uses) |
+| Trichlorobenzenes	| Industrial solvents and refrigerants |
+| Trichloromethane (chloroform)	| Used in some refrigerants and solvent degreasing applications |
+| Trifluralin	    | Herbicide used in agriculture |
+| Dicofol	        | Insecticide (banned in many countries) |
+| Perfluorooctane sulfonic acid and its derivatives (PFOS)	| Surfactant used in various industrial applications, fire retardants (restricted use) |
+| Quinoxyfen	    | Fungicide used in agriculture |
+| Dioxins and dioxin-like compounds	| Unintentional byproducts of various industrial processes, including incineration and chlorine production |
+| Aclonifen	        | Herbicide used in agriculture |
+| Bifenox	        | Insecticide used in agriculture |
+| Cybutryne	        | Herbicide used in agriculture |
+| Cypermethrin (10)	| Insecticide used in agriculture |
+| Dichlorvos	    | Insecticide used in agriculture and public health (restrictions may apply) |
+| Hexabromocyclododecanes (HBCDD)	| Flame retardant used in some electronics and textiles (banned in many countries) |
+| Heptachlor and heptachlor epoxide	| Insecticide (banned in many countries) |
+| Terbutryn	        | Herbicide used in agriculture |
 
 ### summary_en
 
