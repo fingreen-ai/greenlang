@@ -26,7 +26,7 @@ positive_integer
 
 ### enums
 
-### screening
+### screening_templates
 
 emissions_to_water_1,emissions_to_water_2
 

@@ -27,7 +27,7 @@ positive_integer
 ### enums
 
 
-### screening
+### screening_templates
 
 water_consumption_1
 
