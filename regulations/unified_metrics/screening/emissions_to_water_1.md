@@ -47,7 +47,7 @@ boolean
 
 ### value_question_en
 
-Was you company dealing with one of the following substances, during the period?
+Was your company dealing with one of the following substances, during the period?
 
 | Substance | Description |
 | --- | --- |
