@@ -20,9 +20,16 @@ metric
 
 positive_integer
 
+### default_value
+
+0
+
 ### enums
 
+### screening
 
+emissions_to_water_1
+emissions_to_water_2
 
 ### unit
 

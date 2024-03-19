@@ -20,9 +20,16 @@ metric
 
 positive_integer
 
+### default_value
+
+0
+
 ### enums
 
 
+### screening
+
+water_consumption_1
 
 ### unit
 
