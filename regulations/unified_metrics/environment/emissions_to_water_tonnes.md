@@ -28,8 +28,7 @@ positive_integer
 
 ### screening
 
-emissions_to_water_1
-emissions_to_water_2
+emissions_to_water_1,emissions_to_water_2
 
 ### unit
 
