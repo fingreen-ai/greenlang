@@ -41,13 +41,6 @@ boolean
 
 ### description_en
 
-
-### description_fr
-
-
-### value_question_en
-
-Did any of the following events occur within the business, during the period? 
 - Wash any chemicals down the sink or drain?
 - Dispose of unused or expired chemicals improperly (trash)?
 - Experience any spills or leaks of the chemicals?
@@ -55,15 +48,22 @@ Did any of the following events occur within the business, during the period?
 - Use high-risk application methods (e.g., aerial spraying) near water bodies?
 - Use the chemicals very close to water bodies (within a few meters)?
 
-### value_question_fr
+### description_fr
 
-L'un des événements suivants s'est-il produit au sein de l'entreprise au cours de la période ?
 - Laver des produits chimiques dans l'évier ou dans les égouts?
 - Éliminer de manière inappropriée les produits chimiques inutilisés ou périmés (déchets)?
 - Avez-vous constaté des déversements ou des fuites de produits chimiques?
 - Appliquer les produits chimiques directement sur les plans d'eau (lacs, rivières, ruisseaux)?
 - Utiliser des méthodes d'application à haut risque (par exemple, pulvérisation aérienne) à proximité des plans d'eau?
 - Utiliser les produits chimiques très près des plans d'eau (à quelques mètres près)?
+
+### value_question_en
+
+Did any of the following events occur within the business, during the period? 
+
+### value_question_fr
+
+L'un des événements suivants s'est-il produit au sein de l'entreprise au cours de la période ?
 
 ### summary_en
 
