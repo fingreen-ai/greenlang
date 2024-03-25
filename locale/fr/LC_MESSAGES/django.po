@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: greenlang\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-07 15:15+0000\n"
-"PO-Revision-Date: 2024-02-07 15:13+0100\n"
+"POT-Creation-Date: 2024-03-25 08:31+0000\n"
+"PO-Revision-Date: 2024-03-25 09:42+0100\n"
 "Last-Translator: Alban Tiberghien <alban.tiberghien@fingreen.ai>\n"
 "Language-Team: French <admin@fingreen.ai>\n"
 "Language: fr\n"
@@ -17,117 +17,124 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Gtranslator 45.3\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#: calculations/ghg/base/forms.py:122 calculations/ghg/base/forms.py:274
-#: calculations/ghg/scope_3/forms/leased_assets.py:58
+#: calculations/ghg/base/forms.py:126 calculations/ghg/base/forms.py:281
+#: calculations/ghg/scope_3/forms/investments.py:59
+#: calculations/ghg/scope_3/forms/leased_assets.py:59
 msgid "Description"
 msgstr "Description"
 
-#: calculations/ghg/base/forms.py:142
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:283
+#: calculations/ghg/base/forms.py:146
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:287
 msgid "Choose a GHG emission factor"
 msgstr "Choisissez un facteur d'émission GES"
 
-#: calculations/ghg/base/forms.py:156 calculations/ghg/base/forms.py:303
+#: calculations/ghg/base/forms.py:160
 msgid "Enter amount"
 msgstr "Saisissez une quantité"
 
-#: calculations/ghg/base/forms.py:167 calculations/ghg/base/forms.py:314
+#: calculations/ghg/base/forms.py:171 calculations/ghg/base/forms.py:341
 #: calculations/ghg/scope_3/forms/use_of_sold_products.py:100
 msgid "Select an emission source 1st"
 msgstr "Sélectionnez d'abord une source d'émission"
 
-#: calculations/ghg/base/forms.py:179 calculations/ghg/base/forms.py:329
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:164
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:305
-#: calculations/ghg/scope_3/forms/leased_assets.py:109
+#: calculations/ghg/base/forms.py:183 calculations/ghg/base/forms.py:316
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:165
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:309
+#: calculations/ghg/scope_3/forms/investments.py:116
+#: calculations/ghg/scope_3/forms/leased_assets.py:110
 #: calculations/ghg/scope_3/forms/use_of_sold_products.py:111
 msgid "Add"
 msgstr "Ajouter"
 
-#: calculations/ghg/base/forms.py:179 calculations/ghg/base/forms.py:329
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:164
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:305
-#: calculations/ghg/scope_3/forms/leased_assets.py:109
+#: calculations/ghg/base/forms.py:183 calculations/ghg/base/forms.py:316
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:165
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:309
+#: calculations/ghg/scope_3/forms/investments.py:116
+#: calculations/ghg/scope_3/forms/leased_assets.py:110
 #: calculations/ghg/scope_3/forms/use_of_sold_products.py:111
 msgid "Update"
 msgstr "Mettre à jour"
 
-#: calculations/ghg/base/forms.py:254
+#: calculations/ghg/base/forms.py:261
 msgid "Emission factor value"
 msgstr "Valeur du facteur d'émission"
 
-#: calculations/ghg/base/forms.py:257
+#: calculations/ghg/base/forms.py:264
 msgid "Emission factor name"
 msgstr "Nom du facteur d'émission"
 
-#: calculations/ghg/base/forms.py:386 calculations/ghg/base/forms.py:387
+#: calculations/ghg/base/forms.py:363
+msgid "Amount"
+msgstr "Montant"
+
+#: calculations/ghg/base/forms.py:424 calculations/ghg/base/forms.py:425
 msgid "Emission Source Name"
 msgstr "Nom de la source d'émission"
 
-#: calculations/ghg/base/forms.py:399 calculations/ghg/base/forms.py:400
+#: calculations/ghg/base/forms.py:437 calculations/ghg/base/forms.py:438
 msgid "Name"
 msgstr "Nom"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:29
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:30
 msgid "Inventory at the beginning of the year"
 msgstr "Inventaire au début de l'année"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:32
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:33
 msgid "Inventory at the end of the year"
 msgstr "Inventaire à la fin de l'année"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:36
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:37
 msgid "Decrease during the year"
 msgstr "Diminution au cours de l'année"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:40
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:41
 msgid "Purchased from producers/distributors in bulk"
 msgstr "Acheté auprès de producteurs/distributeurs en gros"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:44
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:45
 msgid "Added to equipment by contractors"
 msgstr "Ajouté à l'équipement par les entrepreneurs"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:49
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:50
 msgid "Total Purchases/ Acquisitions"
 msgstr "Total des achats/acquisitions"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:66
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:230
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:67
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:234
 msgid "Emission source"
 msgstr "Source d'émission"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:67
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:68
 msgid "Gas or refrigerant"
 msgstr "Gaz ou réfrigérant"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:68
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:69
 msgid "Refrigerant or Gas Total Emissions"
 msgstr "Émissions totales de réfrigérants ou de gaz"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:78
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:79
 msgid "Refrigeration and air conditioning equipments in use"
 msgstr "Équipements de réfrigération et de climatisation en service"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:80
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:81
 msgid "Fire suppression equipments"
 msgstr "Équipements d'extinction d'incendie"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:83
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:84
 msgid "Direct emissions from purchased industrial gases"
 msgstr "Émissions directes des gaz industriels achetés"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:131
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:132
 msgid "Emission factor"
 msgstr "Facteur d'émission"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:215
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:219
 msgid "Quantity"
 msgstr "Quantité"
 
-#: calculations/ghg/scope_1/forms/fugitive_emissions.py:231
+#: calculations/ghg/scope_1/forms/fugitive_emissions.py:235
 msgid "Refrigerant or Gas Capacity"
 msgstr "Capacité de réfrigérant ou de gaz"
 
@@ -151,28 +158,60 @@ msgstr "Nom du fournisseur d'achat"
 msgid "Sold quantity"
 msgstr "Quantité vendue"
 
-#: calculations/ghg/scope_3/forms/fuel_and_energy_related_activities.py:42
+#: calculations/ghg/scope_3/forms/fuel_and_energy_related_activities.py:44
 msgid "Generate from other scopes"
 msgstr "Générer à partir d'autres étendues"
 
-#: calculations/ghg/scope_3/forms/leased_assets.py:76
+#: calculations/ghg/scope_3/forms/investments.py:81
+#: calculations/ghg/scope_3/forms/investments.py:190
+#: calculations/ghg/scope_3/forms/investments.py:253
+msgid "Equity"
+msgstr "Fond"
+
+#: calculations/ghg/scope_3/forms/investments.py:90
+#: calculations/ghg/scope_3/forms/investments.py:103
+msgid "kg CO2e/project financed"
+msgstr "kg CO2e/projet financé"
+
+#: calculations/ghg/scope_3/forms/investments.py:92
+msgid "Scope 1 Emissions of relevant project in the reporting year"
+msgstr "Émissions Scope 1 du projet au cours de l’année de déclaration"
+
+#: calculations/ghg/scope_3/forms/investments.py:105
+msgid "Scope 2 Emissions of relevant project in the reporting year"
+msgstr "Émissions Scope 2 du projet au cours de l’année de déclaration"
+
+#: calculations/ghg/scope_3/forms/investments.py:221
+#: calculations/ghg/scope_3/forms/investments.py:223
+msgid "Emission Source Description"
+msgstr "Nom de la source d'émission"
+
+#: calculations/ghg/scope_3/forms/investments.py:233
+msgid "years"
+msgstr "année"
+
+#: calculations/ghg/scope_3/forms/investments.py:263
+msgid "Expected lifetime of project"
+msgstr "Durée de vie prévue du projet"
+
+#: calculations/ghg/scope_3/forms/leased_assets.py:77
 msgid "Total floor space"
 msgstr "Surface totale au sol"
 
-#: calculations/ghg/scope_3/forms/leased_assets.py:82
+#: calculations/ghg/scope_3/forms/leased_assets.py:83
 msgid "Leased floor space"
 msgstr "Surface louée"
 
-#: calculations/ghg/scope_3/forms/leased_assets.py:90
+#: calculations/ghg/scope_3/forms/leased_assets.py:91
 msgid "Total Building Scope 1 Emissions"
 msgstr "Émissions totales du scope 1 du bâtiment"
 
-#: calculations/ghg/scope_3/forms/leased_assets.py:98
+#: calculations/ghg/scope_3/forms/leased_assets.py:99
 msgid "Total Building Scope 2 Emissions"
 msgstr "Émissions totales du scope 2 du bâtiment"
 
-#: calculations/ghg/scope_3/forms/leased_assets.py:103
-#: calculations/ghg/scope_3/forms/leased_assets.py:175
+#: calculations/ghg/scope_3/forms/leased_assets.py:104
+#: calculations/ghg/scope_3/forms/leased_assets.py:179
 msgid "Leased month count"
 msgstr "Nombre de mois loués"
 
