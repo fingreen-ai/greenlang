@@ -1,0 +1,2 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+purchased-heat-or-steam,location-based-method,location,,District heat and steam,,kwh,"0,17073",https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2022,2022
