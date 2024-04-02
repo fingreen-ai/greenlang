@@ -22,7 +22,17 @@ Who contributes ?
 How to contribute ?
 -------------------
 
-TBD
+In order to contribute to Greenlang, you can follow the steps below:
+- Fork the `Greenlang repository <https://github.com/fingreen-ai/greenlang>`_
+- Clone the repository
+- Create a new branch
+- Make your changes
+- Push your changes to your fork
+- Create a pull request on the original repository
+
+Do not forget to add your name to the AUTHORS.rst file.
+
+Say hi to us on admin@fingreen.ai if you have any questions.
 
 Licenses
 ---------
