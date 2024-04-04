@@ -26,6 +26,7 @@ extensions = [
     "sphinx.ext.viewcode",
     "sphinx.ext.githubpages",
     "myst_parser",
+    "sphinxext.opengraph",
 ]
 
 templates_path = ["templates"]
@@ -45,3 +46,11 @@ html_css_files = ['custom.css',]
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = "press"
+
+ogp_site_url = "https://greenlang.fingreen.ai/"
+ogp_type = "website"
+ogp_title = "Greenlang by Fingreen AI"
+ogp_url = "https://greenlang.fingreen.ai/"
+ogp_image = "https://fingreen.ai/static/web_landing/img/fingreen/about/greenlang_2.png"
+ogp_description = "Greenlang is the first open-source component promoting transparency, interoperability, and collaboration in the ESG reporting domain."
+ogp_enable_meta_description = True

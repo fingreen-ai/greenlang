@@ -1,3 +1,4 @@
 myst-parser
 sphinx-press-theme
 sphinx
+sphinxext-opengraph
