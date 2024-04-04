@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          pip install sphinx sphinx-press-theme myst_parser
+          pip install sphinx sphinx-press-theme myst_parser sphinxext-opengraph
       - name: Sphinx build
         run: |
           make github
