@@ -1,0 +1,28 @@
+## Disclosure Requirement S1-14 – Health and safety metrics
+
+86. The undertaking shall disclose information on the extent to which its own workforce is covered by its health and safety management system and the number of incidents associated with work-related injuries, ill health and fatalities of its own workforce. In addition, it shall disclose the number of fatalities as a result of work-related injuries and work-related ill health of other workers working on the undertaking’s sites.
+
+87. The objective of this Disclosure Requirement is to allow an understanding of the coverage, quality and performance of the health and safety management system established to prevent work-related injuries.
+
+88. The disclosure required by paragraph 86 shall include the following information, where applicable broken down between employees and non-employees in the undertaking’s own workforce:
+	- (a) the percentage of people in its own workforce who are covered by the undertaking’s health and safety management system based on legal requirements and/or recognised standards or guidelines;
+	- (b) the number of fatalities as a result of work-related injuries (95) and the rate of fatalities from work-related injuries (96);
+	- (c) the number (95) and rate (96) of recordable work-related injuries;
+	- (d) the number of cases of work-related ill health;
+	- (e) the number of days lost to injuries, accidents, fatalities and work-related ill health (97);
+	- (f) the number of fatalities as a result of work-related injuries and work-related ill health of other workers working on the undertaking’s sites.
+
+89. When reporting on the information required under paragraph 88 	- (b) to 	- (e), the undertaking shall:
+
+	- (a) include the total figures for the current reporting period; and
+
+	- (b) if available, also include the figures for the previous two reporting periods.
+
+90. The undertaking may disclose whether and to what extent an internal audit or external certification of its health and safety management system, or parts thereof, has been conducted.
+
+
+(95) This information supports the information needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Weighted average ratio of accidents, injuries, fatalities” in section 1 and 2 of Annex II.
+
+(96) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #2 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Rate of accidents”) and benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Weighted average ratio of accidents, injuries, fatalities” in section 1 and 2 of Annex II. 
+
+(97) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #3 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Number of days lost to injuries, accidents, fatalities or illness”). 

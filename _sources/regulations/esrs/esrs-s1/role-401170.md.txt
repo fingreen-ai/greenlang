@@ -1,0 +1,16 @@
+## Disclosure Requirement S1-17 – Incidents, complaints and severe human rights impacts
+
+100. The undertaking shall disclose the number of work-related incidents and/or complaints and severe human rights impacts within its own workforce, and any related material fines, sanctions or compensation for the reporting period.
+
+101. The objective of this Disclosure Requirement is to allow an understanding of the extent to which work-related incidents and severe cases of human rights impacts are affecting its own workforce.
+
+102. The disclosure required by paragraph 100 shall include, subject to the relevant privacy regulations, work-related incidents of discrimination on the grounds of gender, racial or ethnic origin, nationality, religion or belief, disability, age, sexual orientation, or other relevant forms of discrimination involving internal and/or external stakeholders across operations in the reporting period. This includes incidents of harassment as a specific form of discrimination.
+
+103. The undertaking shall disclose:
+
+	- (a) the total number of incidents of discrimination, including harassment, reported in the reporting period (99);
+	- (b) the number of complaints filed through channels for people in the undertaking’s own workforce to raise concerns (including grievance mechanisms) and, where applicable, to the National Contact Points for OECD Multinational Enterprises related to the matters defined in paragraph 2 of this Standard, excluding those already reported in 	- (a) above;
+	- (c) the total amount of fines, penalties, and compensation for damages as a result of the incidents and complaints disclosed above, and a reconciliation of such monetary amounts disclosed with the most relevant amount presented in the financial statements; and
+	- (d) where applicable, contextual information necessary to understand the data and how such data has been compiled. 
+
+(99) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #7 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Incidents of discrimination”). 

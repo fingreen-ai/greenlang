@@ -1,0 +1,243 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Mini,,km,"0,108294",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Mini,,mile,"0,17429",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Supermini,,km,"0,132764",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Supermini,,mile,"0,21368",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Lower medium,,km,"0,144614",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Lower medium,,mile,"0,23274",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Upper medium,,km,"0,161974",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Upper medium,,mile,"0,26068",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Executive,,km,"0,174684",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Executive,,mile,"0,28114",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Luxury,,km,"0,212434",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Luxury,,mile,"0,34189",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Sports,,km,"0,170414",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Sports,,mile,"0,27426",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Dual purpose 4X4,,km,"0,202964",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,Dual purpose 4X5,,mile,"0,32665",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,MPV,,km,"0,177844",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Diesel,MPV,,mile,"0,28621",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Mini,,km,"0,13421",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Mini,,mile,"0,21598",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Supermini,,km,"0,14802",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Supermini,,mile,"0,23821",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Lower medium,,km,"0,17162",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Lower medium,,mile,"0,2762",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Upper medium,,km,"0,19923",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Upper medium,,mile,"0,32063",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Executive,,km,"0,21999",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Executive,,mile,"0,35404",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Luxury,,km,"0,32708",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Luxury,,mile,"0,52638",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Sports,,km,"0,24145",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Sports,,mile,"0,38857",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Dual purpose 4X4,,km,"0,2106",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,Dual purpose 4X5,,mile,"0,33892",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,MPV,,km,"0,19118",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Petrol,MPV,,mile,"0,30767",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Mini,,km,"0,134",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Mini,,mile,"0,21566",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Supermini,,km,"0,14601",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Supermini,,mile,"0,23498",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Lower medium,,km,"0,15893",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Lower medium,,mile,"0,25577",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Upper medium,,km,"0,17031",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Upper medium,,mile,"0,27407",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Executive,,km,"0,18547",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Executive,,mile,"0,29849",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Luxury,,km,"0,26458",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Luxury,,mile,"0,42581",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Sports,,km,"0,23006",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Sports,,mile,"0,37025",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Dual purpose 4X4,,km,"0,20518",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,Dual purpose 4X5,,mile,"0,3302",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,MPV,,km,"0,18146",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Unknown fuel,MPV,,mile,"0,29203",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Supermini,,km,"0,05255",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Supermini,,mile,"0,08458",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Lower medium,,km,"0,08342",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Lower medium,,mile,"0,13425",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Upper medium,,km,"0,0882",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Upper medium,,mile,"0,14195",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Executive,,km,"0,08975",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Executive,,mile,"0,14443",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Luxury,,km,"0,11492",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Luxury,,mile,"0,18494",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Sports,,km,"0,09359",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Sports,,mile,"0,15061",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X4,,km,"0,10371",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X5,,mile,"0,16691",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,MPV,,km,"0,09035",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Plug-in hybrid,MPV,,mile,"0,1454",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Mini,,km,"0,04045",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Mini,,mile,"0,06511",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Supermini,,km,"0,04476",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Supermini,,mile,"0,07205",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Lower medium,,km,"0,04878",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Lower medium,,mile,"0,0785",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Upper medium,,km,"0,04797",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Upper medium,,mile,"0,07719",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Executive,,km,"0,04646",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Executive,,mile,"0,07478",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Luxury,,km,"0,05477",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Luxury,,mile,"0,08813",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Sports,,km,"0,0782",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Sports,,mile,"0,12585",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Dual purpose 4X4,,km,"0,06018",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,Dual purpose 4X5,,mile,"0,09685",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,MPV,,km,"0,06881",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by market segment)|Battery,MPV,,mile,"0,11075",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Small car,,km,"0,139894",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Small car,,mile,"0,22514",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Medium car,,km,"0,168004",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Medium car,,mile,"0,27039",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Large car,,km,"0,209534",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Large car,,mile,"0,33722",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Average car,,km,"0,170824",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Diesel,Average car,,mile,"0,27492",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Small car,,km,"0,14652",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Small car,,mile,"0,2358",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Medium car,,km,"0,1847",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Medium car,,mile,"0,29724",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Large car,,km,"0,27639",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Large car,,mile,"0,4448",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Average car,,km,"0,17048",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Petrol,Average car,,mile,"0,27436",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Small car,,km,"0,10332",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Small car,,mile,"0,16628",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Medium car,,km,"0,10999",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Medium car,,mile,"0,17702",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Large car,,km,"0,15491",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Large car,,mile,"0,24929",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Average car,,km,"0,12004",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Hybrid,Average car,,mile,"0,19318",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|CNG,Medium car,,km,"0,15803",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|CNG,Medium car,,mile,"0,25433",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|CNG,Large car,,km,"0,23578",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|CNG,Large car,,mile,"0,37944",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|CNG,Average car,,km,"0,17517",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|CNG,Average car,,mile,"0,2819",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|LPG,Medium car,,km,"0,17823",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|LPG,Medium car,,mile,"0,28682",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|LPG,Large car,,km,"0,2668",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|LPG,Large car,,mile,"0,42936",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|LPG,Average car,,km,"0,19775",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|LPG,Average car,,mile,"0,31823",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Small car,,km,"0,1444",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Small car,,mile,"0,23239",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Medium car,,km,"0,17588",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Medium car,,mile,"0,28306",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Large car,,km,"0,22733",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Large car,,mile,"0,36584",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Average car,,km,"0,17067",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Unknown fuel,Average car,,mile,"0,27465",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Small car,,km,"0,05255",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Small car,,mile,"0,08458",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Medium car,,km,"0,08597",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Medium car,,mile,"0,13834",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Large car,,km,"0,10148",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Large car,,mile,"0,16332",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Average car,,km,"0,09349",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Plug-in hybrid,Average car,,mile,"0,15046",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Small car,,km,"0,04416",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Small car,,mile,"0,07107",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Medium car,,km,"0,04878",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Medium car,,mile,"0,0785",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Large car,,km,"0,0555",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Large car,,mile,"0,08932",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Average car,,km,"0,0514",DEFRA,2022
+business-travels,distance-based-method,vehicle,Cars (by size)|Battery,Average car,,mile,"0,08272",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Small,,km,"0,08306",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Small,,mile,"0,13369",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Medium,,km,"0,1009",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Medium,,mile,"0,16237",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Large,,km,"0,13245",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Large,,mile,"0,21315",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Average,,km,"0,11355",DEFRA,2022
+business-travels,distance-based-method,vehicle,Motorbike,Average,,mile,"0,18274",DEFRA,2022
+business-travels,distance-based-method,vehicle,Taxis,Regular taxi,,passenger.km,"0,14876",DEFRA,2022
+business-travels,distance-based-method,vehicle,Taxis,Regular taxi,,km,"0,20826",DEFRA,2022
+business-travels,distance-based-method,vehicle,Taxis,Black cab,,passenger.km,"0,20416",DEFRA,2022
+business-travels,distance-based-method,vehicle,Taxis,Black cab,,km,"0,30624",DEFRA,2022
+business-travels,distance-based-method,vehicle,Bus,Local London bus,,passenger.km,"0,07936",DEFRA,2022
+business-travels,distance-based-method,vehicle,Bus,Average local bus,,passenger.km,"0,0965",DEFRA,2022
+business-travels,distance-based-method,vehicle,Bus,Coach,,passenger.km,"0,02733",DEFRA,2022
+business-travels,distance-based-method,vehicle,Rail,National rail,,passenger.km,"0,03549",DEFRA,2022
+business-travels,distance-based-method,vehicle,Rail,International rail,,passenger.km,"0,00446",DEFRA,2022
+business-travels,distance-based-method,vehicle,Rail,Light rail and tram,,passenger.km,"0,02861",DEFRA,2022
+business-travels,distance-based-method,vehicle,Rail,Underground,,passenger.km,"0,02781",DEFRA,2022
+business-travels,distance-based-method,vehicle,Ferry,Foot passenger,,passenger.km,"0,01874",DEFRA,2022
+business-travels,distance-based-method,vehicle,Ferry,Car passenger,,passenger.km,"0,12952",DEFRA,2022
+business-travels,distance-based-method,vehicle,Ferry,Average (all passenger),,passenger.km,"0,11286",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Domestic - Average passenger,,passenger.km,"0,13003",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Short-haul - Average passenger,,passenger.km,"0,08117",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Short-haul - Economy class,,passenger.km,"0,07984",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Short-haul - Business class,,passenger.km,"0,11976",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Long-haul - Average passenger,,passenger.km,"0,10208",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Long-haul - Economy class,,passenger.km,"0,07818",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Long-haul - Premium economy class,,passenger.km,"0,12508",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Long-haul - Business class,,passenger.km,"0,22671",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,Long-haul - First class,,passenger.km,"0,3127",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,International - Average passenger,,passenger.km,"0,09708",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,International - Economy class,,passenger.km,"0,074345",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,International - Premium economy class,,passenger.km,"0,11895",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,International - Business class,,passenger.km,"0,2156",DEFRA,2022
+business-travels,distance-based-method,vehicle,Flights,International - First class,,passenger.km,"0,29739",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Australia,,room.night,35,DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Belgium,,room.night,"12,2",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Brazil,,room.night,"8,7",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Canada,,room.night,"7,4",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Chile,,room.night,"27,6",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,China,,room.night,"53,5",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Colombia,,room.night,"14,7",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Costa Rica,,room.night,"4,7",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Egypt,,room.night,"44,2",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,France,,room.night,"6,7",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Germany,,room.night,"13,2",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,"Hong Kong, China",,room.night,"51,5",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,India,,room.night,"58,9",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Indonesia,,room.night,"62,7",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Italy,,room.night,"14,3",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Japan,,room.night,39,DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Jordan,,room.night,"68,9",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Korea,,room.night,"55,8",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Malaysia,,room.night,"61,5",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Maldives,,room.night,"152,2",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Mexico,,room.night,"19,3",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Netherlands,,room.night,"14,8",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Oman,,room.night,"90,3",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Philippines,,room.night,"54,3",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Portugal,,room.night,19,DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Qatar,,room.night,"86,2",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Russian Federation,,room.night,"24,2",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Saudi Arabia,,room.night,"106,4",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Singapore,,room.night,"24,5",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,South Africa,,room.night,"51,4",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Spain,,room.night,7,DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Switzerland,,room.night,"6,6",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Thailand,,room.night,"43,4",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Turkey,,room.night,"32,1",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,United Arab Emirates,,room.night,"63,8",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,United States,,room.night,"16,1",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,UK,,room.night,"10,4",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,UK (London),,room.night,"11,5",DEFRA,2022
+business-travels,accomodation-location-method,accomodation,Hotel Stay,Vietnam,,room.night,"38,5",DEFRA,2022
+business-travels,spend-based-method,services,Transportation and warehousing|Air Transportation|Scheduled Air Transportation,Scheduled Passenger Air Transportation,,usd,"0,976",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Air Transportation|Nonscheduled Air Transportation,Nonscheduled Chartered Passenger Air Transportation,,usd,"0,976",US EPA,2021
+business-travels,spend-based-method,services,"Transportation and warehousing|Water Transportation|Deep Sea, Coastal, and Great Lakes Water Transportation",Deep Sea Passenger Transportation,,usd,"0,618",US EPA,2021
+business-travels,spend-based-method,services,"Transportation and warehousing|Water Transportation|Deep Sea, Coastal, and Great Lakes Water Transportation",Coastal and Great Lakes Passenger Transportation,,usd,"0,618",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Water Transportation|Inland Water Transportation,Inland Water Passenger Transportation,,usd,"0,618",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Urban Transit Systems,Mixed Mode Transit Systems,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Urban Transit Systems,Commuter Rail Systems,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Urban Transit Systems,Bus and Other Motor Vehicle Transit Systems,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Urban Transit Systems,Other Urban Transit Systems,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Interurban and Rural Bus Transportation,Interurban and Rural Bus Transportation,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Taxi and Limousine Service,Taxi Service,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Taxi and Limousine Service,Limousine Service,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|School and Employee Bus Transportation,School and Employee Bus Transportation,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Charter Bus Industry,Charter Bus Industry,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Other Transit and Ground Passenger Transportation,Special Needs Transportation,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,Transportation and warehousing|Transit and Ground Passenger Transportation|Other Transit and Ground Passenger Transportation,All Other Transit and Ground Passenger Transportation,,usd,"0,499",US EPA,2021
+business-travels,spend-based-method,services,"Transportation and warehousing|Scenic and Sightseeing Transportation|Scenic and Sightseeing Transportation, Land","Scenic and Sightseeing Transportation, Land",,usd,"0,208",US EPA,2021
+business-travels,spend-based-method,services,"Transportation and warehousing|Scenic and Sightseeing Transportation|Scenic and Sightseeing Transportation, Water","Scenic and Sightseeing Transportation, Water",,usd,"0,208",US EPA,2021
+business-travels,spend-based-method,services,"Transportation and warehousing|Scenic and Sightseeing Transportation|Scenic and Sightseeing Transportation, Other","Scenic and Sightseeing Transportation, Other",,usd,"0,208",US EPA,2021

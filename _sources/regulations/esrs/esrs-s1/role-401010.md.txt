@@ -1,0 +1,40 @@
+## Disclosure Requirement S1-1 – Policies related to own workforce
+
+17. The undertaking shall describe its policies adopted to manage its material impacts on its own workforce, as well as associated material risks and opportunities.
+
+18. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking has policies that address the identification, assessment, management and/or remediation of material impacts on the undertaking’s own workforce specifically, as well as policies that cover material impacts, risks and opportunities related to its own workforce.
+
+19. The disclosure required by paragraph 17 shall contain the information on the undertaking’s policies to manage its material impacts, risks and opportunities related to its own workforce in accordance with ESRS 2 MDR-P Policies adopted to manage material sustainability matters. In addition, the undertaking shall specify if such policies cover specific groups within its own workforce or all of its own workforce.
+
+20. The undertaking shall describe its human rights policy commitments (89) that are relevant to its own workforce, including those processes and mechanisms to monitor compliance with the UN Guiding Principles on Business and Human Rights, ILO Declaration on Fundamental Principles and Rights at Work and the OECD Guidelines for Multinational Enterprises (90). In its disclosure it shall focus on those matters that are material in relation to (91), as well as its general approach to:
+
+	- (a) respect for the human rights, including labour rights, of people in its own workforce;
+	- (b) engagement with people in its own workforce; and
+	- (c) measures to provide and/or enable remedy for human rights impacts.
+
+21. The undertaking shall disclose whether and how its policies with regard to its own workforce are aligned with relevant internationally recognised instruments, including the UN Guiding Principles on Business and Human Rights (92). 
+
+22. The undertaking shall state whether its policies in relation to its own workforce explicitly address trafficking in human beings, forced labour or compulsory labour and child labour (93). 
+
+23. The undertaking shall state whether it has a workplace accident prevention policy or management system (94).
+
+24. The undertaking shall disclose: 
+
+	- (a) whether it has specific policies aimed at the elimination of discrimination, including harassment, promoting equal opportunities and other ways to advance diversity and inclusion;
+	- (b) whether the following grounds for discrimination are specifically covered in the policy: racial and ethnic origin, colour, sex, sexual orientation, gender identity, disability, age, religion, political opinion, national extraction or social origin, or other forms of discrimination covered by Union regulation and national law; 
+	- (c) whether the undertaking has specific policy commitments related to inclusion or positive action for people from groups at particular risk of vulnerability in its own workforce and, if so, what these commitments are; and 
+	- (d) whether and how these policies are implemented through specific procedures to ensure discrimination is prevented, mitigated and acted upon once detected, as well as to advance diversity and inclusion in general.
+
+---
+
+(89) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #9 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack of a human rights policy”).
+
+(90) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from a mandatory indicator related to principal adverse impacts as set out by indicator #11 in Table I of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments.
+
+(91) This information supports the needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Exposure of the benchmark portfolio to companies without due diligence policies on issues addressed by the fundamental International Labour Organisation Conventions 1 to 8” in section 1 and 2 of Annex II.
+
+(92) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #11 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Lack of processes and measures for preventing trafficking in human beings”).
+
+(93) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impact as set out by indicator #1 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Investments in companies without workplace accident prevention policies”).
+
+(94) This information supports the needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Exposure of the benchmark portfolio to companies without due diligence policies on issues addressed by the fundamental International Labour Organisation Conventions 1 to 8” in section 1 and 2 of Annex II.

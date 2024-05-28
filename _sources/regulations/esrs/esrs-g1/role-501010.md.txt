@@ -1,0 +1,30 @@
+## Disclosure Requirement G1-1– Business conduct policies and corporate culture
+
+7. The undertaking shall disclose its policies with respect to business conduct matters and how it fosters its corporate culture.
+
+8. The objective of this Disclosure Requirement is to enable an understanding of the extent to which the undertaking has policies that address the identification, assessment, management and/or remediation of its material impacts, risks and opportunities related to business conduct matters. It also aims to provide an understanding of the undertaking’s approach to corporate culture.
+
+9. The disclosures required under paragraph 7 shall include how the undertaking establishes, develops, promotes and evaluates its corporate culture.
+
+10. The disclosures in paragraph 7 shall cover the following aspects related to the undertaking’s policies on business conduct matters:
+
+	- (a) a description of the mechanisms for identifying, reporting and investigating concerns about unlawful behaviour or behaviour in contradiction of its code of conduct or similar internal rules; and whether it accommodates reporting from internal and/or external stakeholders;
+	- (b) where the undertaking has no policies on anti-corruption or anti-bribery consistent with the United Nations Convention against Corruption (120), it shall state this and whether it has plans to implement them and the timetable for implementation;
+	- (c) how the undertaking protects whistleblowers, including:
+ - details on the establishment of internal whistleblower reporting channels, including whether the undertaking provides for information and training to its own workers and information about the designation and training of staff receiving reports;
+ - measures to protect against retaliation its own workers who are whistleblowers in accordance with the applicable law transposing Directive (EU) 2019/1937 of the European Parliament and of the Council (121);
+	- (d) where the undertaking has no policies on the protection of whistle-blowers (122), it shall state this and whether it has plans to implement them and the timetable for implementation;
+	- (e) beyond the procedures to follow-up on reports by whistleblowers in accordance with the applicable law transposing Directive (EU) 2019/1937, whether the undertaking has procedures to investigate business conduct incidents, including incidents of corruption and bribery, promptly, independently and objectively;
+	- (f) where applicable, whether the undertaking has in place policies with respect to animal welfare;
+	- (g) the undertaking’s policy for training within the organisation on business conduct, including target audience, frequency and depth of coverage; and
+	- (h) the functions within the undertaking that are most at risk in respect of corruption and bribery.
+
+11. Undertakings that are subject to legal requirements under national law transposing Directive (EU) 2019/1937, or to equivalent legal requirements with regard to the protection of whistle-blowers, may comply with the disclosure specified in paragraph 10 	- (d) by stating that they are subject to those legal requirements.
+
+---
+
+(120) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #15 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Lack of anti-corruption and anti-bribery policies”).
+
+(121) Directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17).
+
+(122) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #6 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Insufficient whistleblower protection”).

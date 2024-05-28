@@ -1,0 +1,13 @@
+## ESRS2.IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability statement
+
+54. The undertaking shall report on the Disclosure Requirements complied with in its sustainability statements.
+
+55. The objective of this Disclosure Requirement is to provide an understanding of the Disclosure Requirements included in the undertaking’s sustainability statement and of the topics that have been omitted as not material, as a result of the materiality assessment.
+
+56. The undertaking shall include a list of the Disclosure Requirements complied with in preparing the sustainability statement, following the outcome of the materiality assessment (see ESRS 1 chapter 3), including the page numbers and/or paragraphs where the related disclosures are located in the sustainability statement. This may be presented as a content index. The undertaking shall also include a table of all the datapoints that derive from other EU legislation as listed in Appendix B of this standard, indicating where they can be found in the sustainability statement and including those that the undertaking has assessed as not material, in which case the undertaking shall indicate “Not material” in the table in accordance with ESRS 1 paragraph 35.
+
+57. If the undertaking concludes that climate change is not material and therefore omits all disclosure requirements in ESRS E1 Climate change, it shall disclose a detailed explanation of the conclusions of its materiality assessment with regard to climate change (see ESRS 2 IRO-2 Disclosure Requirements in ESRS covered by the undertaking’s sustainability statement), including a forward-looking analysis of the conditions that could lead the undertaking to conclude that climate change is material in the future.
+
+58. If the undertaking concludes that a topic other than climate change is not material and therefore omits all the Disclosure Requirements in the corresponding topical ESRS, it may provide a brief explanation of the conclusions of its materiality assessment for that topic. 
+
+59. The undertaking shall provide an explanation of how it has determined the material information to be disclosed in relation to the impacts, risks, and opportunities that it has assessed to be material, including the use of thresholds and/or how it has implemented the criteria in ESRS 1 section 3.2 Material matters and materiality of information.

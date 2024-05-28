@@ -1,0 +1,22 @@
+## Disclosure Requirement E2-3 – Targets related to pollution
+
+20. The undertaking shall disclose the pollution-related targets it has set.
+
+21. The objective of this Disclosure Requirement is to enable an understanding of the targets the undertaking has set to support its pollution-related policies and to address its material pollution-related impacts, risks and opportunities.
+
+22. The description of targets shall contain the information requirements defined in ESRS 2 MDR-T Tracking effectiveness of policies and actions through targets.
+
+23. The disclosure required by paragraph 20 shall indicate whether and how its targets relate to the prevention and control of:
+
+	- (a) air pollutants and respective specific loads;
+	- (b) emissions to water and respective specific loads;
+	- (c) pollution to soil and respective specific loads; and
+	- (d) substances of concern and substances of very high concern.
+
+24. In addition to ESRS 2 MDR-T, the undertaking may specify whether ecological thresholds (e.g., the biosphere integrity, stratospheric ozone-depletion, atmospheric aerosol loading, soil depletion, ocean acidification) and entity-specific allocations were taken into consideration when setting targets. If so, the undertaking may specify:
+
+	- (a) the ecological thresholds identified, and the methodology used to identify such thresholds;
+	- (b) whether or not the thresholds are entity-specific and if so, how they were determined; and
+	- (c) how responsibility for respecting identified ecological thresholds is allocated in the undertaking.
+
+25. The undertaking shall specify as part of the contextual information, whether the targets that it has set and presented are mandatory (required by legislation) or voluntary. 

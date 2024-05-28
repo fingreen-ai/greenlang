@@ -1,0 +1,20 @@
+# Disclosure Requirement E1-6 – Gross Scopes 1, 2, 3 and Total GHG emissions
+
+44. The undertaking shall disclose in metric tonnes of CO2eq its (38):
+
+	- (a) gross Scope 1 GHG emissions;
+	- (b) gross Scope 2 GHG emissions;
+	- (c) gross Scope 3 GHG emissions; and
+	- (d) total GHG emissions.
+
+45. The objective of the Disclosure Requirement in paragraph 44 in respect of:
+
+	- (a) gross Scope 1 GHG emissions as required by paragraph 44 	- (a) is to provide an understanding of the direct impacts of the undertaking on climate change and the proportion of its total GHG emissions that are regulated under emission trading schemes.
+	- (b) gross Scope 2 GHG emissions as required by paragraph 44 	- (b) is to provide an understanding of the indirect impacts on climate change caused by the undertaking’s consumed energy whether externally purchased or acquired.
+	- (c) gross Scope 3 GHG emissions as required by paragraph 44 	- (c) is to provide an understanding of the GHG emissions that occur in the undertaking’s upstream and downstream value chain beyond its Scope 1 and 2 GHG emissions. For many undertakings, Scope 3 GHG emissions may be the main component of their GHG inventory and are an important driver of the undertaking’s transition risks.
+	- (d) total GHG emissions as required by paragraph 44 	- (d) is to provide an overall understanding of the undertaking’s GHG emissions and whether they occur from its own operations or the upstream and downstream value chain. This disclosure is a prerequisite for measuring progress towards reducing GHG emissions in accordance with the undertaking’s climate-related targets and EU policy goals.
+
+The information from this Disclosure Requirement is also needed to understand the undertaking’s climate-related transition risks.
+
+---
+(38) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from a mandatory indicator related to principal adverse impacts as set out by indicators #1 and #2 in Table I of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“GHG emissions” and “Carbon footprint”). This information is aligned with Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark Regulation), Articles 5 (1), 6 and 8 (1). 
