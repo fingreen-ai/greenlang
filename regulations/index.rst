@@ -32,3 +32,11 @@ VSME
     :maxdepth: 1
 
     vsme/index
+
+ESRS
+----
+
+.. toctree::
+    :maxdepth: 1
+
+    esrs/index
