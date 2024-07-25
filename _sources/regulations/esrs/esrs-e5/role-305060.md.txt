@@ -1,0 +1,12 @@
+## Disclosure Requirement E5-6 – Anticipated financial effects from material resource use and circular economy-related risks and opportunities
+
+41. The undertaking shall disclose the anticipated financial effects of material risks and opportunities arising from resource use and circular economy-related impacts.
+
+42. The information required by paragraph 41 is in addition the information on current financial effects on the entity’s financial position, financial performance and cash flows for the reporting period required under ESRS 2 SBM-3 para 48 (d). The objective of this Disclosure Requirement is to provide an understanding of: 
+	- (a) anticipated financial effects due to material risks arising from material resource use and circular economy-related impacts and dependencies and how these risks have (or could reasonably be expected to have) a material influence on the undertaking’s financial position, financial performance performance, and cash flows over the short-, medium- and long-term; and 
+	- (b) anticipated financial effects due to material opportunities related to resource use and circular economy.
+
+43. The disclosure shall include: 
+	- (a) a quantification of the anticipated financial effects in monetary terms before considering resource use and circular economy-related actions, or where not possible without undue cost or effort, qualitative information. For financial effects arising from material opportunities, a quantification is not required if it would result in disclosure that does not meet the qualitative characteristics of information (see ESRS 1 Appendix B Qualitative characteristics of information); 
+	- (b) a description of the effects considered, the impacts and dependencies to which they relate and the time horizons in which they are likely to materialise; 
+	- (c) the critical assumptions used to quantify the anticipated financial effects, as well as the sources and level of uncertainty of those assumptions. 

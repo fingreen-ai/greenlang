@@ -1,0 +1,19 @@
+## ESRS E4 - Disclosure Requirement E4-4 – Targets related to biodiversity and ecosystems
+
+29. The undertaking shall disclose the biodiversity and ecosystem-related targets it has set.
+
+30. The objective of this Disclosure Requirement is to allow an understanding of the targets the undertaking has adopted to support its biodiversity and ecosystems policies and address its material related impacts, dependencies, risks and opportunities.
+
+31. The description of the targets shall follow the mandatory content defined in ESRS 2 MDR-T Tracking effectiveness of policies and actions through targets.
+
+32. The disclosure required by paragraph 29 shall include the following information:
+
+	- (a) whether ecological thresholds and allocations of impacts to the undertaking were applied when setting targets. If so, the undertaking shall specify:
+		+ i. the ecological thresholds identified and the methodology used to identify such thresholds;
+		+ ii. whether or not the thresholds are entity-specific and if so, how they were determined; and
+		+ iii. how responsibility for respecting identified ecological thresholds is allocated in the undertaking;
+	- (b) whether the targets are informed by, and/or aligned with the Kunming-Montreal Global Biodiversity Framework, relevant aspects of the EU Biodiversity Strategy for 2030 and other biodiversity and ecosystem-related national policies and legislation;
+	- (c) how the targets relate to the biodiversity and ecosystem impacts, dependencies, risks and opportunities identified by the undertaking in relation to its own operations and its upstream and downstream value chain;
+	- (d) the geographical scope of the targets, if relevant;
+	- (e) whether or not the undertaking used biodiversity offsets in setting its targets; and
+	- (f) to which of the layers of the mitigation hierarchy the target can be allocated (i.e., avoidance, minimisation, restoration and rehabilitation, compensation or offsets). 

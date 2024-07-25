@@ -1,0 +1,14 @@
+## Disclosure Requirement E1-9 – Anticipated financial effects from material physical and transition risks and potential climate-related opportunities
+
+64. The undertaking shall disclose its:
+
+- (a) anticipated financial effects from material physical risks;
+- (b) anticipated financial effects from material transition risks; and
+- (c) potential to benefit from material climate-related opportunities.
+
+65. The information required by paragraph 64 is in addition to the information on current financial effects required under ESRS 2 SBM-3 para 48 	- (d). The objective of this Disclosure Requirement related to:
+
+- (a) anticipated financial effects due to material physical risks and transition risks is to provide an understanding of how these risks have (or could reasonably be expected to have) a material influence on the undertaking’s financial position, financial performance and cash flows, over the short-, medium- and long- term. The results of scenario analysis used to conduct resilience analysis as required under paragraphs AR 10 to AR 13 should inform the assessment of anticipated financial effects from material physical and transition risks.
+- (b) potential to pursue material climate-related opportunities is to enable an understanding of how the undertaking may financially benefit from material climate-related opportunities. This disclosure is complementary to the key performance indicators to be disclosed in accordance with Commission Delegated Regulation (EU) 2021/2178 (40).
+
+(40) This information is aligned with Regulation (EU) 2021/1119 of the European Parliament and of the Council (EU Climate Law), Article 2 (1). 

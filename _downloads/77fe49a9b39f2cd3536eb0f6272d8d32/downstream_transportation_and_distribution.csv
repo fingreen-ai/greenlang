@@ -1,0 +1,314 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),,tonne.km,"0,78936",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),,km,"0,14189",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),,mile,"0,22836",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),,tonne.km,"1,10666",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),,km,"0,19687",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),,mile,"0,31683",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class I (up to 1.305 tonnes),,tonne.km,"0,17148",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class I (up to 1.305 tonnes),,km,"0,03612",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class I (up to 1.305 tonnes),,mile,"0,05814",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),,tonne.km,"0,59878",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),,km,"0,17513",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),,mile,"0,28186",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),,tonne.km,"0,76353",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),,km,"0,20461",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),,mile,"0,32928",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonnes),,tonne.km,"0,2494",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonnes),,km,"0,0564",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonnes),,mile,"0,09079",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),,tonne.km,"0,57034",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),,km,"0,25481",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),,mile,"0,4101",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),,tonne.km,"0,80723",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),,km,"0,32607",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),,mile,"0,52475",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonnes),,tonne.km,"0,26121",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonnes),,km,"0,09327",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonnes),,mile,"0,15009",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),,tonne.km,"0,57871",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),,km,"0,23156",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),,mile,"0,37268",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),,tonne.km,"0,75394",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),,km,"0,21332",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),,mile,"0,3433",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),,tonne.km,"0,59128",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),,km,"0,23575",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),,mile,"0,37939",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),,tonne.km,"0,6502",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),,km,"0,25924",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),,mile,"0,41721",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Unknown fuel,Average (up to 3.5 tonnes),,tonne.km,"0,58421",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Unknown fuel,Average (up to 3.5 tonnes),,km,"0,23099",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Unknown fuel,Average (up to 3.5 tonnes),,mile,"0,37174",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Average (up to 3.5 tonnes),,tonne.km,"0,25116",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Average (up to 3.5 tonnes),,km,"0,06225",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,Vans|Battery,Average (up to 3.5 tonnes),,mile,"0,10019",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),,km,"0,46338",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),,mile,"0,74574",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),,tonne.km,"0,48922",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),,km,"0,50315",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),,mile,"0,80973",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),,tonne.km,"0,26396",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),,km,"0,54291",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),,mile,"0,87373",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),,tonne.km,"0,56214",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),,km,"0,49758",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),,mile,"0,80078",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),,km,"0,55763",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),,mile,"0,89742",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,"0,25909",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),,km,"0,63623",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),,mile,"1,02392",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,"0,14556",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),,km,"0,71483",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),,mile,"1,15041",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,"0,38655",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),,km,"0,60793",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),,mile,"0,97838",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>17 tonnes),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>17 tonnes),,km,"0,79097",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Rigid (>17 tonnes),,mile,"1,27294",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>17 tonnes),,tonne.km,"0,21312",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>17 tonnes),,km,"0,96194",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Rigid (>17 tonnes),,mile,"1,54809",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>17 tonnes),,tonne.km,"0,1255",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>17 tonnes),,km,"1,13291",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Rigid (>17 tonnes),,mile,"1,82324",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),,tonne.km,"0,18597",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),,km,"0,99337",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),,mile,"1,59868",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All rigids,,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All rigids,,km,"0,69215",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All rigids,,mile,"1,11389",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All rigids,,tonne.km,"0,22924",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All rigids,,km,"0,82368",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All rigids,,mile,"1,32557",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All rigids,,tonne.km,"0,13346",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All rigids,,km,"0,95522",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All rigids,,mile,"1,53726",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All rigids,,tonne.km,"0,21345",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All rigids,,km,"0,84061",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All rigids,,mile,"1,35282",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Articulated (>3.5 - 33t),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Articulated (>3.5 - 33t),,km,"0,64531",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Articulated (>3.5 - 33t),,mile,"1,03851",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Articulated (>3.5 - 33t),,tonne.km,"0,12415",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Articulated (>3.5 - 33t),,km,"0,80322",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Articulated (>3.5 - 33t),,mile,"1,29263",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Articulated (>3.5 - 33t),,tonne.km,"0,07428",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Articulated (>3.5 - 33t),,km,"0,96112",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Articulated (>3.5 - 33t),,mile,"1,54675",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),,tonne.km,"0,14013",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),,km,"0,78111",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),,mile,"1,25706",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Articulated (>33t),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Articulated (>33t),,km,"0,65677",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,Articulated (>33t),,mile,"1,05696",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Articulated (>33t),,tonne.km,"0,09617",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Articulated (>33t),,km,"0,87026",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,Articulated (>33t),,mile,"1,40054",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Articulated (>33t),,tonne.km,"0,05989",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Articulated (>33t),,km,"1,08375",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,Articulated (>33t),,mile,"1,74412",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),,tonne.km,"0,08032",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),,km,"0,93004",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),,mile,"1,49674",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All artics,,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All artics,,km,"0,6563",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All artics,,mile,"1,0562",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All artics,,tonne.km,"0,09674",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All artics,,km,"0,8675",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All artics,,mile,"1,3961",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All artics,,tonne.km,"0,06017",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All artics,,km,"1,0787",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All artics,,mile,"1,736",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All artics,,tonne.km,"0,08153",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All artics,,km,"0,92391",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All artics,,mile,"1,48688",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All HGVs,,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All HGVs,,km,"0,67032",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Empty,All HGVs,,mile,"1,07877",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All HGVs,,tonne.km,"0,12145",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All HGVs,,km,"0,84988",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Half laden,All HGVs,,mile,"1,36774",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All HGVs,,tonne.km,"0,07384",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All HGVs,,km,"1,02944",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Full laden,All HGVs,,mile,"1,65671",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All HGVs,,tonne.km,"0,10614",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All HGVs,,km,"0,89061",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGV|Diesel - Average Laden,All HGVs,,mile,"1,43329",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),,km,"0,55165",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),,mile,"0,88779",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),,tonne.km,"0,58256",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),,km,"0,59909",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),,mile,"0,96414",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),,tonne.km,"0,31437",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),,km,"0,64653",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),,mile,"1,04049",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),,tonne.km,"0,66945",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),,km,"0,59245",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),,mile,"0,95345",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),,km,"0,66383",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),,mile,"1,06833",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,"0,30854",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),,km,"0,7576",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),,mile,"1,21925",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,"0,17337",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),,km,"0,85138",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),,mile,"1,37016",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),,tonne.km,"0,46033",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),,km,"0,72384",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),,mile,"1,16492",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>17 tonnes),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>17 tonnes),,km,"0,9413",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>17 tonnes),,mile,"1,51488",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>17 tonnes),,tonne.km,"0,25375",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>17 tonnes),,km,"1,14527",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>17 tonnes),,mile,"1,84314",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>17 tonnes),,tonne.km,"0,14947",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>17 tonnes),,km,"1,34924",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>17 tonnes),,mile,"2,17139",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),,tonne.km,"0,22142",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),,km,"1,18277",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),,mile,"1,90349",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All rigids,,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All rigids,,km,"0,82378",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All rigids,,mile,"1,32574",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All rigids,,tonne.km,"0,27294",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All rigids,,km,"0,9807",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All rigids,,mile,"1,57828",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All rigids,,tonne.km,"0,15895",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All rigids,,km,"1,13763",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All rigids,,mile,"1,83082",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,,tonne.km,"0,25415",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,,km,"1,0009",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,,mile,"1,61079",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>3.5 - 33t),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>3.5 - 33t),,km,"0,74595",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>3.5 - 33t),,mile,"1,20047",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>3.5 - 33t),,tonne.km,"0,14359",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>3.5 - 33t),,km,"0,92901",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>3.5 - 33t),,mile,"1,49508",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>3.5 - 33t),,tonne.km,"0,08594",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>3.5 - 33t),,km,"1,11207",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>3.5 - 33t),,mile,"1,78969",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),,tonne.km,"0,1621",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),,km,"0,90338",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),,mile,"1,45384",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>33t),,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>33t),,km,"0,75882",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>33t),,mile,"1,22119",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>33t),,tonne.km,"0,11121",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>33t),,km,"1,00633",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>33t),,mile,"1,61952",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>33t),,tonne.km,"0,06929",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>33t),,km,"1,25384",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>33t),,mile,"2,01784",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),,tonne.km,"0,09289",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),,km,"1,07563",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),,mile,"1,73105",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All artics,,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All artics,,km,"0,75829",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All artics,,mile,"1,22034",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All artics,,tonne.km,"0,11186",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All artics,,km,"1,00314",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All artics,,mile,"1,6144",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All artics,,tonne.km,"0,06962",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All artics,,km,"1,248",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All artics,,mile,"2,00845",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,,tonne.km,"0,09429",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,,km,"1,06854",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,,mile,"1,71964",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All HGVs,,tonne.km,,DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All HGVs,,km,"0,78375",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Empty,All HGVs,,mile,"1,26132",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All HGVs,,tonne.km,"0,14208",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All HGVs,,km,"0,99432",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Half laden,All HGVs,,mile,"1,6002",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All HGVs,,tonne.km,"0,08642",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All HGVs,,km,"1,20489",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Full laden,All HGVs,,mile,"1,93908",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,,tonne.km,"0,12418",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,,km,"1,04208",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,,mile,"1,67706",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Air,Freight flights - Domestic,,tonne.km,"2,3765",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Air,Freight flights - Short-haul,,tonne.km,"1,21717",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Air,Freight flights - Long-haul,,tonne.km,"0,53867",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Air,Freight flights - International,,tonne.km,"0,53867",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Rail,Freight train,,tonne.km,"0,02782",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Crude tanker - Size 200,000+ dwt",,tonne.km,"0,00294",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Crude tanker - Size 120,000–199,999 dwt",,tonne.km,"0,00446",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Crude tanker - Size 80,000–119,999 dwt",,tonne.km,"0,00598",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Crude tanker - Size 60,000–79,999 dwt",,tonne.km,"0,0076",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Crude tanker - Size 10,000–59,999 dwt",,tonne.km,"0,00923",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Crude tanker - Size 0–9999 dwt,,tonne.km,"0,03376",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Crude tanker - Size Average,,tonne.km,"0,00457",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Products tanker - Size 60,000+ dwt",,tonne.km,"0,00578",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Products tanker - Size 20,000–59,999 dwt",,tonne.km,"0,01044",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Products tanker - Size 10,000–19,999 dwt",,tonne.km,"0,01896",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Products tanker - Size 5000–9999 dwt,,tonne.km,"0,02961",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Products tanker - Size 0–4999 dwt,,tonne.km,"0,04563",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Products tanker - Size Average,,tonne.km,"0,00903",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Chemical tanker - Size 20,000+ dwt",,tonne.km,"0,00852",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - Chemical tanker - Size 10,000–19,999 dwt",,tonne.km,"0,01095",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Chemical tanker - Size 5000–9999 dwt,,tonne.km,"0,01531",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Chemical tanker - Size 0–4999 dwt,,tonne.km,"0,02251",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - Chemical tanker - Size Average,,tonne.km,"0,01032",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - LNG tanker - Size 200,000+ m3",,tonne.km,"0,00943",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - LNG tanker - Size 0–199,999 m3",,tonne.km,"0,0147",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - LNG tanker - Size Average,,tonne.km,"0,01155",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - LPG Tanker- Size 50,000+ m3",,tonne.km,"0,00913",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Sea Tanker - LPG Tanker- Size 0–49,999 m3",,tonne.km,"0,04411",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Sea Tanker - LPG Tanker- Size Average,,tonne.km,"0,01038",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - Bulk carrier- Size 200,000+ dwt",,tonne.km,"0,00254",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - Bulk carrier - Size 100,000–199,999 dwt",,tonne.km,"0,00304",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - Bulk carrier - Size 60,000–99,999 dwt",,tonne.km,"0,00416",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - Bulk carrier - Size 35,000–59,999 dwt",,tonne.km,"0,00578",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - Bulk carrier - Size 10,000–34,999 dwt",,tonne.km,"0,00801",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Bulk carrier - Size 0–9999 dwt,,tonne.km,"0,02961",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Bulk carrier - Size Average,,tonne.km,"0,00354",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - General cargo - Size 10,000+ dwt",,tonne.km,"0,01207",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - General cargo - Size 5000–9999 dwt,,tonne.km,"0,01602",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - General cargo - Size 0–4999 dwt,,tonne.km,"0,01409",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,"Cargo ship - General cargo - Size 10,000+ dwt 100+ TEU",,tonne.km,"0,01115",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - General cargo - Size 5000–9999 dwt 100+ TEU,,tonne.km,"0,01774",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - General cargo - Size 0–4999 dwt 100+ TEU,,tonne.km,"0,02008",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - General cargo - Size Average,,tonne.km,"0,01323",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size 8000+ TEU,,tonne.km,"0,01267",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size 5000–7999 TEU,,tonne.km,"0,01683",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size 3000–4999 TEU,,tonne.km,"0,01683",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size 2000–2999 TEU,,tonne.km,"0,02028",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size 1000–1999 TEU,,tonne.km,"0,03255",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size 0–999 TEU,,tonne.km,"0,03681",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Container ship - Size Average,,tonne.km,"0,01614",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Vehicle transport - Size 4000+ CEU,,tonne.km,"0,03245",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Vehicle transport - Size 0–3999 CEU,,tonne.km,"0,0584",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Vehicle transport - Size Average,,tonne.km,"0,03858",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - RoRo - Ferry- Size 2000+ LM,,tonne.km,"0,05019",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - RoRo - Ferry- Size 0–1999 LM,,tonne.km,"0,06114",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - RoRo - Ferry- Size Average,,tonne.km,"0,05166",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Large RoPax ferry - Size Average,,tonne.km,"0,37667",DEFRA,2022
+downstream-transportation-and-distribution,distance-based-method,transportation,Sea,Cargo ship - Refrigerated cargo - Size All dwt,,tonne.km,"0,01308",DEFRA,2022
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Air Transportation|Scheduled Air Transportatio,Scheduled Freight Air Transportation,,usd,"0,976",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Air Transportation|Nonscheduled Air Transportation,Nonscheduled Chartered Freight Air Transportation,,usd,"0,976",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Air Transportation|Nonscheduled Air Transportation,Other Nonscheduled Air Transportation,,usd,"0,976",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Rail Transportation|Rail Transportation,Line-Haul Railroads,,usd,"0,558",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Rail Transportation|Rail Transportation,Short Line Railroads,,usd,"0,558",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,"Transportation and warehousing|Water Transportation|Deep Sea, Coastal, and Great Lakes Water Transportation",Deep Sea Freight Transportation,,usd,"0,618",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,"Transportation and warehousing|Water Transportation|Deep Sea, Coastal, and Great Lakes Water Transportation",Coastal and Great Lakes Freight Transportation,,usd,"0,618",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Water Transportation|Inland Water Transportation,Inland Water Freight Transportation,,usd,"0,618",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Inland Water Transportation|General Freight Trucking,"General Freight Trucking, Local",,usd,"1,115",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Inland Water Transportation|General Freight Trucking,"General Freight Trucking, Long-Distance, Truckload",,usd,"1,115",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Inland Water Transportation|General Freight Trucking,"General Freight Trucking, Long-Distance, Less Than Truckload",,usd,"1,115",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Inland Water Transportation|Specialized Freight Trucking,Used Household and Office Goods Moving,,usd,"1,115",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Inland Water Transportation|Specialized Freight Trucking,"Specialized Freight (except Used Goods) Trucking, Local",,usd,"1,115",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Inland Water Transportation|Specialized Freight Trucking,"Specialized Freight (except Used Goods) Trucking, Long-Distance",,usd,"1,115",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Warehousing and Storage|Warehousing and Storage,General Warehousing and Storage,,usd,"0,568",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Warehousing and Storage|Warehousing and Storage,Refrigerated Warehousing and Storage,,usd,"0,568",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Warehousing and Storage|Warehousing and Storage,Farm Product Warehousing and Storage,,usd,"0,568",US EPA,2021
+downstream-transportation-and-distribution,spend-based-method,services,Transportation and warehousing|Warehousing and Storage|Warehousing and Storage,Other Warehousing and Storage,,usd,"0,568",US EPA,2021

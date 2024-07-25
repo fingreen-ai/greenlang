@@ -1,0 +1,52 @@
+## 38. Disclosure Requirement SBM-1 – Strategy, business model and value chain
+
+The undertaking shall disclose the elements of its strategy that relate to or impact sustainability matters, its business model and its value chain.
+
+39. The objective of this Disclosure Requirement is to describe the key elements of the undertaking’s general strategy that relate to or affect sustainability matters, and the key elements of the undertaking’s business model and value chain, in order to provide an understanding of its exposure to impacts, risks and opportunities and where they originate.
+
+40. The undertaking shall disclose the following information about the key elements of its general strategy that relate to or affect sustainability matters:
+
+	- (a) a description of:
+        + significant groups of products and/or services offered, including changes in the reporting period (new/removed products and/or services);
+        + significant markets and/or customer groups served, including changes in the reporting period (new/removed markets and/or customer groups);
+        + headcount of employees by geographical areas; and
+        + here applicable and material, products and services that are banned in certain markets;
+	- (b) a breakdown of total revenue, as included in its financial statements, by significant ESRS sectors. When the undertaking provides segment reporting as required by IFRS 8 Operating segments in its financial statements, this sector revenue information shall be, as far as possible, reconciled with IFRS 8 information;
+	- (c) a list of the additional significant ESRS sectors beyond the ones reflected under paragraph 40(b), such as activities that give rise to intercompany revenues, in which the undertaking develops significant activities, or in which it is or may be connected to material impacts. The identification of these additional ESRS sectors shall be consistent with the way they have been considered by the undertaking when performing its materiality assessment and with the way it discloses material sector-specific information;
+	- (d) where applicable, a statement indicating, together with the related revenues, that the undertaking is active in:
+        + the fossil fuel (coal, oil and gas) sector (16), (i.e., it derives revenues from exploration, mining, extraction, production, processing, storage, refining or distribution, including transportation, storage and trade, of fossil fuels as defined in Article 2, point (62), of Regulation (EU) 2018/1999 of the European Parliament and the Council (17)), including a disaggregation of revenues derived from coal, from oil and from gas, as well as the revenues derived from Taxonomy-aligned economic activities related to fossil gas as required under Article 8(7)	- (a) of Commission Delegated Regulation 2021/2178 (18);
+        + chemicals production (19), i.e., its activities fall under Division 20.2 of Annex I to Regulation (EC) No 1893/2006;
+        + controversial weapons (20) (anti-personnel mines, cluster munitions, chemical weapons and biological weapons); and/or
+        + the cultivation and production of tobacco (21);
+    
+	- (e) its sustainability-related goals in terms of significant groups of products and services, customer categories, geographical areas and relationships with stakeholders;
+
+	- (f) an assessment of its current significant products and/or services, and significant markets and customer groups, in relation to its sustainability-related goals; and
+
+	- (g) the elements of the undertaking’s strategy that relate to or impact sustainability matters, including the main challenges ahead, critical solutions or projects to be put in place, when relevant for sustainability reporting.
+
+41. If the undertaking is based in an EU Member State that allows for an exemption from the disclosure of the information referred to in Article 18, paragraph 1, sub-point 	- (a) of Directive 2013/34/EU (22), and if the undertaking has made use of that exemption, it may omit the breakdown of revenue by significant ESRS sector required by paragraph 40	- (b). In this case the undertaking shall nevertheless disclose the list of ESRS sectors that are significant for the undertaking.
+
+42. The undertaking shall disclose a description of its business model and value chain, including:
+
+	- (a) its inputs and its approach to gathering, developing and securing those inputs;
+	- (b) its outputs and outcomes in terms of current and expected benefits for customers, investors and other stakeholders; and
+	- (c) the main features of its upstream and downstream value chain and the undertaking’s position in its value chain, including a description of the main business actors (such as key suppliers, customers, distribution channels and end-users) and their relationship to the undertaking. When the undertaking has multiple value chains, the disclosure shall cover the key value chains.
+
+---
+
+(16) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts set out by indicator #4 in Table I of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Exposure to companies active in the fossil fuel sector”).
+
+(17) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+
+(18) Commission Delegated Regulation (EU) 2021/2178 of 6 July 2021 supplementing Regulation (EU) 2020/852 of the European Parliament and of the Council by specifying the content and presentation of information to be disclosed by undertakings subject to Articles 19a or 29a of Directive 2013/34/EU concerning environmentally sustainable economic activities, and specifying the methodology to comply with that disclosure obligation (OJ L 443, 10.12.2021, p. 9).
+
+(19) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts set out by indicator #9 in Table II of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Investments in companies producing chemicals”).
+
+(20) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts set out by indicator #14 in Table I of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Exposure to controversial weapons (anti-personnel mines, cluster munitions, chemical weapons and biological weapons)”).
+
+(21) This information supports the needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1818 as set out by paragraph b) of article 12.1.
+
+(22) Article 18, paragraph 1, sub-point 	- (a) of Directive 2013/34/EU: “the net turnover broken down by categories of activity and into geographical markets, in so far as those categories and markets differ substantially from one another, taking account of the manner in which the sale of products and the provision of services are organised.”
+
+

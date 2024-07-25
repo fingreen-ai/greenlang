@@ -1,0 +1,16 @@
+## Disclosure Requirement E5-2 – Actions and resources related to resource use and circular economy
+
+17. The undertaking shall disclose its resource use and circular economy actions and the resources allocated to their implementation.
+
+18. The objective of this Disclosure Requirement is to enable an understanding of the key actions taken and planned to achieve the resource use and circular economy-related policy objectives and targets.
+
+19. The description of the resource use and circular economy-related actions and resources allocated shall follow the principles defined in ESRS 2 MDR-A Actions and resources in relation to material sustainability matters.
+
+20. In addition to ESRS 2 MDR-A, the undertaking may specify whether and how an action and resources cover:
+
+	- (a) higher levels of resource efficiency in use of technical and biological materials and water, particularly in relation to critical raw materials and rare earths as listed in the Raw Materials Information System;
+	- (b) higher rates of use of secondary raw materials (recyclates);
+	- (c) application of circular design, leading to increased product durability and optimization of use, and higher rates of: Reuse, Repair, Refurbishing, Remanufacture, Repurposing and Recycling;
+	- (d) application of circular business practices such as 	- (i) value retention actions (maintenance, repair, refurbishing, remanufacturing, component harvesting, upgrading and reverse logistics, closed loop systems, second-hand retailing), (ii) value maximization actions (product-service systems, collaborative and sharing economy business models), (iii) end-of-life actions (recycling, upcycling, extended producer responsibility), and (iv) systems efficiency actions (industrial symbiosis);
+	- (e) actions taken to prevent waste generation in the undertaking’s upstream and downstream value chain; and
+	- (f) optimization of waste management in line with the waste hierarchy. 

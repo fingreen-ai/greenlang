@@ -1,0 +1,15 @@
+## Disclosure Requirement E5-4 – Resource inflows
+
+28. The undertaking shall disclose information on its resource inflows related to its material impacts, risks and opportunities. 
+
+29. The objective of this Disclosure Requirement is to enable an understanding of the resource use in the undertaking’s own operations and its upstream value chain. 
+
+30. The disclosure required by paragraph 28 shall include a description of its resource inflows where material: products (including packaging) and materials (specifying critical raw materials and rare earths), water and property, plant and equipment used in the undertaking’s own operations and along its upstream value chain. 
+
+31. When an undertaking assesses that resource inflows is a material sustainability matter, it shall disclose the following information about the materials used to manufacture the undertaking’s products and services during the reporting period, in tonnes or kilogrammes: 
+
+	- (a) the overall total weight of products and technical and biological materials used during the reporting period; 
+	- (b) the percentage of biological materials (and biofuels used for non-energy purposes) used to manufacture the undertaking’s products and services (including packaging) that is sustainably sourced, with the information on the certification scheme used and on the application of the cascading principle; and 
+	- (c) the weight in both absolute value and percentage, of secondary reused or recycled components, secondary intermediary products and secondary materials used to manufacture the undertaking’s products and services (including packaging).
+
+32. The undertaking shall provide information on the methodologies used to calculate the data. It shall specify whether the data is sourced from direct measurement or estimations, and disclose the key assumptions used. 

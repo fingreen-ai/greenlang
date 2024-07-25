@@ -1,0 +1,46 @@
+## Disclosure Requirement GOV-1 – The role of the administrative, management and supervisory bodies
+
+19. The undertaking shall disclose the composition of the administrative, management and supervisory bodies, their roles and responsibilities and access to expertise and skills with regard to sustainability matters.
+
+20. The objective of this Disclosure Requirement is to provide an understanding of:
+
+	- (a) the composition and diversity of the administrative, management and supervisory bodies;
+
+	- (b) the roles and responsibilities of the administrative, management and supervisory bodies in exercising oversight of the process to manage material impacts, risks and opportunities, including management’s role in these processes; and
+
+	- (c) the expertise and skills of its administrative, management and supervisory bodies on sustainability matters or access to such expertise and skills.
+
+21. The undertaking shall disclose the following information about the composition and diversity of the members of the undertaking’s administrative, management and supervisory bodies:
+
+	- (a) the number of executive and non-executive members;
+
+	- (b) representation of employees and other workers;
+
+	- (c) experience relevant to the sectors, products and geographic locations of the undertaking;
+
+	- (d) percentage by gender and other aspects of diversity that the undertaking considers. The board's gender diversity (13) shall be calculated as an average ratio of female to male board members; and
+
+	- (e) the percentage of independent board members (14). For undertakings with a unitary board, this corresponds to the percentage of independent non-executive board members. For undertakings with a dual board, it corresponds to the percentage of independent members of the supervisory body.
+
+22. The undertaking shall disclose the following information about the roles and responsibilities of the administrative, management and supervisory bodies:
+
+	- (a) the identity of the administrative, management and supervisory bodies (such as a board committee or similar) or individual	- (s) within a body responsible for oversight of impacts, risks and opportunities;
+	- (b) how each body’s or individual’s responsibilities for impacts, risks and opportunities are reflected in the undertaking’s terms of reference, board mandates and other related policies;
+	- (c) a description of management’s role in the governance processes, controls and procedures used to monitor, manage and oversee impacts, risks and opportunities, including:
+		+ i. whether that role is delegated to a specific management-level position or committee and how oversight is exercised over that position or committee;
+		+ ii. information about the reporting lines to the administrative, management and supervisory bodies;
+		+ iii. whether dedicated controls and procedures are applied to the management of impacts, risks and opportunities and, if so, how they are integrated with other internal functions;
+
+	- (d) how the administrative, management and supervisory bodies and senior executive management oversee the setting of targets related to material impacts, risks and opportunities, and how they monitor progress towards them.
+
+23. The disclosure shall include a description of how the administrative, management and supervisory bodies determine whether appropriate skills and expertise are available or will be developed to oversee sustainability matters, including:
+
+	- (a) the sustainability-related expertise that the bodies, as a whole, either directly possess or can leverage, for example through access to experts or training;
+	- (b) how those skills and expertise relate to the undertaking's material impacts, risks and opportunities.
+
+---
+
+(13) This information supports the information needs of: financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts set out by indicator #13 in Table I of Annex I of Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU) 2019/2088 of the European Parliament and of the Council with regard to disclosures rules on sustainable investments (“Board gender diversity”) and benchmark administrators to disclose ESG factors subject to Commission Delegated Regulation (EU) 2020/1816 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as set out by indicator “Weighted average ratio of female to male board members” in section 1 and 2 of Annex II.
+
+
+(14) This information supports the information needs of benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Weighted average percentage of board members who are independent” in section I of Annex II.

@@ -1,0 +1,19 @@
+## ESRS 2.1 - Disclosure Requirement BP-1 – General basis for preparation of the sustainability statement
+
+3. The undertaking shall disclose the general basis for preparation of its sustainability statement.
+
+4. The objective of this Disclosure Requirement is to provide an understanding of how the undertaking prepares its sustainability statement, including the scope of consolidation, the upstream and downstream value chain information and, where relevant, whether the undertaking has used any of the options for omitting information referred to in points d) and e) in the following paragraph.
+
+5. The undertaking shall disclose the following information:
+
+	- (a) whether the sustainability statement has been prepared on a consolidated or individual basis;
+
+	- (b) for consolidated sustainability statements:
+		+ i. a confirmation that the scope of consolidation is the same as for the financial statements, or, where applicable, a declaration that the reporting undertaking is not required to draw-up financial statements or that the reporting undertaking is preparing consolidated sustainability reporting pursuant to Article 48i of Directive 2013/34/EU; and
+		+ ii. where applicable, an indication of which subsidiary undertakings included in the consolidation are exempted from individual or consolidated sustainability reporting pursuant to Articles 19a(9) or 29a(8) of Directive 2013/34/EU;
+
+	- (c) to what extent the sustainability statement covers the undertaking’s upstream and downstream value chain (see ESRS 1 section 5.1 Reporting undertaking and value chain);
+
+	- (d) whether the undertaking has used the option to omit a specific piece of information corresponding to intellectual property, know-how or the results of innovation (see ESRS 1 section 7.7 Classified and sensitive information and information on intellectual property, know-how or results of innovation); and
+
+	- (e) for undertakings based in an EU member state that allows for the exemption from disclosure of impending developments or matters in the course of negotiation, as provided for in articles 19a(3) and 29a(3) of Directive 2013/34/EU, whether the undertaking has used that exemption. 
