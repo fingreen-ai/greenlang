@@ -69,8 +69,8 @@ class ScreeningMethodApproach(BaseCalculationMethod):
 
     def amount(self, collection_item):
         """Return amount."""
-        quantity = collection_item.widget_data.get("quantity")
-        capacity = collection_item.value_float
+        quantity = collection_item.widget_data.get("quantity", 1)
+        capacity = collection_item.value_float or 1
 
         return quantity * capacity
 
