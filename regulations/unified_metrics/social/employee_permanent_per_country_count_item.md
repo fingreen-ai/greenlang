@@ -46,11 +46,11 @@ text_multi
 
 ### text_1_label_en
 
-Pays
+Country
 
 ### text_1_label_fr
 
-Country
+Pays
 
 ### text_2_label_en
 
