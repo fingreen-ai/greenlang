@@ -282,7 +282,7 @@ Annex III
 
 ### collection_templates
 
-sfdr_v1,vsme_v1
+sfdr_v1,vsme_v1,sme_pai_v1
 
 ### publish
 

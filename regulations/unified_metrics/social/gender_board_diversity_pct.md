@@ -113,7 +113,7 @@ ANNEX I. (13)
 
 ### collection_templates
 
-sfdr_v1
+sfdr_v1,sme_pai_v1
 
 ### publish
 

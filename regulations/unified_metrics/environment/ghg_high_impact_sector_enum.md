@@ -217,7 +217,7 @@ Sections A to H and Section L of Annex I
 
 ### collection_templates
 
-sfdr_v1
+sfdr_v1,sme_pai_v1
 
 ### publish
 
