@@ -19,7 +19,7 @@ Consommation totale d'électricité renouvelable
 
 ### collection_templates
 
-vsme_v1
+vsme_v1,sme_pai_v1
 
 ### item_type
 
