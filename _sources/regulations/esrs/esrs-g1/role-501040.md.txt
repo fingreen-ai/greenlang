@@ -1,0 +1,25 @@
+## Disclosure Requirement G1-4 – Incidents of corruption or bribery
+
+22. The undertaking shall provide information on incidents of corruption or bribery during the reporting period.
+
+23. The objective of this Disclosure Requirement is to provide transparency on the incidents relating to corruption or bribery during the reporting period and the related outcomes.
+
+24. The undertaking shall disclose:
+
+	- (a) the number of convictions and the amount of fines for violation of anti-corruption and anti-bribery laws (124); 
+	- (b) any actions taken to address breaches in procedures and standards of anti-corruption and anti-bribery (125).
+
+25. The undertaking may disclose:
+
+	- (a) the total number and nature of confirmed incidents of corruption or bribery;
+	- (b) the number of confirmed incidents in which own workers were dismissed or disciplined for corruption or bribery-related incidents;
+	- (c) the number of confirmed incidents relating to contracts with business partners that were terminated or not renewed due to violations related to corruption or bribery; and
+	- (d) details of public legal cases regarding corruption or bribery brought against the undertaking and its own workers during the reporting period and the outcomes of such cases. This includes cases that were initiated in previous years where the outcome was only established in the current reporting period.
+
+26. The disclosures required shall include incidents involving actors in its value chain only where the undertaking or its employees are directly involved.
+
+---
+
+**(124)** This information supports the information needs of: financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts set out in indicator #17 of Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Number of convictions and amount of fines for violation of anti-corruption and anti-bribery laws”); and benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator “Numbers of convictions and amount of fines for violations of anti-corruption and anti-bribery laws” in section 1 and 2 of Annex II.
+
+**(125)** This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts set out in indicator #16 of Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosures rules on sustainable investments (“Cases of insufficient action taken to address breaches of standards of anti-corruption and anti-bribery”).

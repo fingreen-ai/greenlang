@@ -1,0 +1,34 @@
+## Disclosure Requirement E1-1 – Transition plan for climate change mitigation
+
+14. The undertaking shall disclose its transition plan for climate change mitigation (28).
+
+15. The objective of this Disclosure Requirement is to enable an understanding of the undertaking’s past, current, and future mitigation efforts to ensure that its strategy and business model are compatible with the transition to a sustainable economy, and with the limiting of global warming to 1.5 °C in line with the Paris Agreement and with the objective of achieving climate neutrality by 2050 and, where relevant, the undertaking’s exposure to coal, oil and gas-related activities.
+
+16. The information required by paragraph 14 shall include:
+
+	- (a) by reference to GHG emission reduction targets (as required by Disclosure Requirement E1-4), an explanation of how the undertaking’s targets are compatible with the limiting of global warming to 1.5°C in line with the Paris Agreement;
+	- (b) by reference to GHG emission reduction targets (as required by Disclosure Requirement E1-4) and the climate change mitigation actions (as required by Disclosure Requirement E1-3), an explanation of the decarbonisation levers identified, and key actions planned, including changes in the undertaking’s product and service portfolio and the adoption of new technologies in its own operations, or the upstream and/or downstream value chain;
+	- (c) by reference to the climate change mitigation actions (as required by Disclosure Requirement E1-3), an explanation and quantification of the undertaking’s investments and funding supporting the implementation of its transition plan, with a reference to the key performance indicators of taxonomy-aligned CapEx, and where relevant the CapEx plans, that the undertaking discloses in accordance with Commission Delegated Regulation (EU) 2021/2178;
+	- (d) a qualitative assessment of the potential locked-in GHG emissions from the undertaking’s key assets and products. This shall include an explanation of if and how these emissions may jeopardise the achievement of the undertaking’s GHG emission reduction targets and drive transition risk, and if applicable, an explanation of the undertaking’s plans to manage its GHG-intensive and energy-intensive assets and products;
+	- (e) for undertakings with economic activities that are covered by delegated regulations on climate adaptation or mitigation under the Taxonomy Regulation, an explanation of any objective or plans (CapEX, CapEx plans, OpEX) that the undertaking has for aligning its economic activities (revenues, CapEx, OpEX) with the criteria established in Commission Delegated Regulation 2021/2139 (29);
+	- (f) if applicable, a disclosure of significant CapEx amounts invested during the reporting period related to coal, oil and gas-related economic activities; (30)
+	- (g) a disclosure on whether or not the undertaking is excluded from the EU Paris-aligned Benchmarks;
+	- (h) an explanation of how the transition plan is embedded in and aligned with the undertaking’s overall business strategy and financial planning;
+	- (i) whether the transition plan is approved by the administrative, management and supervisory bodies; and
+	- (j) an explanation of the undertaking’s progress in implementing the transition plan.
+
+17. In case the undertaking does not have a transition plan in place, it shall indicate whether and, if so, when it will adopt a transition plan.
+
+---
+
+(28) This information is aligned with the Regulation (EU) 2021/1119 of the European Parliament and of the Council (EU Climate Law), Article 2 (1); and with Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark Regulation), Article 2.
+
+(29) Commission Delegated Regulation (EU) 2021/2139 of 4 June 2021 supplementing Regulation (EU) 2020/852 of the European Parliament and of the Council by establishing the technical screening criteria for determining the conditions under which an economic activity qualifies as contributing substantially to climate change mitigation or climate change adaptation and for determining whether that economic activity causes no significant harm to any of the other environmental objectives (OJ L 442, 9.12.2021, p. 1).
+
+(30) The CapEx amounts considered are related to the following NACE codes:
+
+- (a) B.05 Mining of coal and lignite, B.06 Extraction of crude petroleum and natural gas (limited to crude petroleum), B.09.1 Support activities for petroleum and natural gas extraction (limited to crude petroleum),
+- (b) C.19 Manufacture of coke and refined petroleum products,
+- (c) D.35.1 - Electric power generation, transmission and distribution,
+- (d) D.35.3 - Steam and air conditioning supply (limited to coal-fired and oil-fired power and/or heat generation),
+- (e) G.46.71 - Wholesale of solid, liquid and gaseous fuels and related products (limited to solid and liquid fuels). For gas-related activities, the NACE code definition addresses activities with direct GHG emissions that are higher than 270 gCO2/KWh.

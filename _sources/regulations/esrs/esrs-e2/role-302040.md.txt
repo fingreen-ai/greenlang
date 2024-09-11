@@ -1,0 +1,29 @@
+# Disclosure Requirement E2-4 – Pollution of air, water and soil
+
+26. The undertaking shall disclose the pollutants that it emits through its own operations, as well as the microplastics it generates or uses.
+
+27. The objective of this Disclosure Requirement is to provide an understanding of the emissions that the undertaking generates to air, water and soil in its own operations, and of its generation and use of microplastics.
+
+28. The undertaking shall disclose the amounts of:
+
+	- (a) each pollutant listed in Annex II of Regulation (EC) No 166/2006 of the European Parliament and of the Council (57) (European Pollutant Release and Transfer Register “E-PRTR Regulation”) emitted to air, water and soil, with the exception of emissions of GHGs which are disclosed in accordance with ESRS E1 Climate Change (58).
+
+	- (b) microplastics generated or used by the undertaking.
+
+29. The amounts referred in paragraph 28 shall be consolidated amounts including the emissions from those facilities over which the undertaking has financial control and those over which it has operational control. The consolidation shall include only the emissions from facilities for which the applicable threshold value specified in Annex II of Regulation (EC) No 166/2006 is exceeded.
+
+30. The undertaking shall put its disclosure into context and describe:
+
+	- (a) the changes over time,
+
+	- (b) the measurement methodologies; and
+
+	- (c) the process(es) to collect data for pollution-related accounting and reporting, including the type of data needed and the information sources.
+
+31. When an inferior methodology compared to direct measurement of emissions is chosen to quantify emissions, the reasons for choosing this inferior methodology shall be outlined by the undertaking. If the undertaking uses estimates, it shall disclose the standard, sectoral study or sources which form the basis of its estimates, as well as the possible degree of uncertainty and the range of estimates reflecting the measurement uncertainty.
+
+
+---
+57 Regulation (EC) No 166/2006 of the European Parliament and of the Council of 18 January 2006 concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (OJ L 033 4.2.2006, p. 1)
+
+58 This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from: 	- (a) an additional indicator related to principal adverse impacts as set out by indicator #2 in Table II of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Emissions of air pollutants”); 	- (b) indicator #8 in Table I of Annex I (“Emissions to water); 	- (c) indicator #1 in Table II of Annex I (“Emissions of inorganic pollutants”); and 	- (d) indicator #3 in Table II of Annex I (“Emissions of ozone-depleting substances”). 

@@ -1,0 +1,14 @@
+## Disclosure Requirement E1-8 – Internal carbon pricing
+
+62. The undertaking shall disclose whether it applies internal carbon pricing schemes, and if so, how they support its decision making and incentivise the implementation of climate-related policies and targets. (40)
+
+63. The information required in paragraph 62 shall include:
+
+	- (a) the type of internal carbon pricing scheme, for example, the shadow prices applied for CapEX or research and development (R&D) investment decision making, internal carbon fees or internal carbon funds;
+	- (b) the specific scope of application of the carbon pricing schemes (activities, geographies, entities, etc.);
+	- (c) the carbon prices applied according to the type of scheme and critical assumptions made to determine the prices, including the source of the applied carbon prices and why these are deemed relevant for their chosen application. The undertaking may disclose the calculation methodology of the carbon prices including the extent to which these have been set using scientific guidance and how their future development is related to science-based carbon pricing trajectories; and
+	- (d) the current year approximate gross GHG emission volumes by Scopes 1, 2 and, where applicable, Scope 3 in metric tonnes of CO2eq covered by these schemes, as well as their share of the undertaking’s overall GHG emissions for each respective Scope.
+
+---
+
+(40) This information is aligned with Regulation (EU) 2021/1119 of the European Parliament and of the Council (EU Climate Law), Article 2 (1).

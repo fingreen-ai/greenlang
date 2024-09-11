@@ -1,0 +1,31 @@
+## Disclosure Requirement SBM-3 - Material impacts, risks and opportunities and their interaction with strategy and business model
+
+46. The undertaking shall disclose its material impacts, risks and opportunities and how they interact with its strategy and business model.
+
+47. The objective of this Disclosure Requirement is to provide an understanding of the material impacts, risks and opportunities as they result from the undertaking’s materiality assessment and how they originate from and trigger adaptation of the undertaking’s strategy and business model including its resources allocation. The information to be disclosed about the management of the undertaking’s material impacts, risks and opportunities is prescribed in topical ESRS and in sector-specific standards, which shall be applied in conjunction with the Minimum Disclosure Requirements on policies, actions and targets established in this Standard.
+
+48. The undertaking shall disclose:
+
+	- (a) a brief description of its material impacts, risks and opportunities resulting from its materiality assessment (see Disclosure Requirement IRO-1 of this standard), including a description of where in its business model, its own operations and its upstream and downstream value chain these material impacts, risks and opportunities are concentrated;
+
+	- (b) the current and anticipated effects of its material impacts, risks and opportunities on its business model, value chain, strategy and decision-making, and how it has responded or plans to respond to these effects, including any changes it has made or plans to make to its strategy or business model as part of its actions to address particular material impacts or risks, or to pursue particular material opportunities;
+
+	- (c) with reference to the undertaking’s material impacts:
+		+ i. how the undertaking’s material negative and positive impacts affect (or, in the case of potential impacts, are likely to affect) people or the environment;
+		+ ii. whether and how the impacts originate from or are connected to the undertaking's strategy and business model;
+		+ iii. the reasonably expected time horizons of the impacts; and
+        + iv. whether the undertaking is involved with the material impacts through its activities or because of its business relationships, describing the nature of the activities or business relationships concerned;
+
+	- (d) the current financial effects of the undertaking’s material risks and opportunities on its financial position, financial performance and cash flows and the material risks and opportunities for which there is a significant risk of a material adjustment within the next annual reporting period to the carrying amounts of assets and liabilities reported in the related financial statements;
+
+	- (e) the anticipated financial effects of the undertaking’s material risks and opportunities on its financial position, financial performance and cash flows over the short-, medium- and long-term, including the reasonably expected time horizons for those effects. This shall include how the undertaking expects its financial position, financial performance and cash flows to change over the short, medium- and long-term, given its strategy to manage risks and opportunities, taking into consideration:
+		+ i. its investment and disposal plans (for example, capital expenditure, major acquisitions and divestments, joint ventures, business transformation, innovation, new business areas and asset retirements), including plans the undertaking is not contractually committed to; and
+		+ ii. its planned sources of funding to implement its strategy.
+
+	- (f) information about the resilience of the undertaking's strategy and business model regarding its capacity to address its material impacts and risks and to take advantage of its material opportunities. The undertaking shall disclose a qualitative and, when applicable, a quantitative analysis of the resilience, including how the analysis was conducted and the time horizons that were applied as defined in ESRS 1 (see ESRS 1 chapter 6 Time horizons). When providing quantitative information, the undertaking may disclose single amounts or ranges;
+
+	- (g) changes to the material impacts, risks and opportunities compared to the previous reporting period; and
+
+	- (h) a specification of those impacts, risks and opportunities that are covered by ESRS Disclosure Requirements as opposed to those covered by the undertaking using additional entity-specific disclosures.
+
+49. The undertaking may disclose the descriptive information required in paragraph 46 alongside the disclosures provided under the corresponding topical ESRS, in which case it shall still present a statement of its material impacts, risks and opportunities alongside its disclosures prepared under this chapter of ESRS 2. 

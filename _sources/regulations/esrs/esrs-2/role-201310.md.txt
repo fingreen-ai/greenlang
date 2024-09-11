@@ -1,0 +1,19 @@
+## ESRS 2. MDR-A.1 Minimum Disclosure Requirement – Actions MDR-A – general
+
+66. The undertaking shall apply the requirements for the content of disclosures in this provision when it describes the actions through which it manages each material sustainability matter including action plans and resources allocated and/or planned. 
+
+67. The objective of this Minimum Disclosure Requirement is to provide an understanding of the key actions taken and/or planned to prevent, mitigate and remediate actual and potential impacts, and to address risks and opportunities, and where applicable achieve the objectives and targets of related policies. 
+
+68. Where the implementation of a policy requires actions, or a comprehensive action plan, to achieve its objectives, as well as when actions are implemented without a specific policy, the undertaking shall disclose the following information: 
+
+	- (a) the list of key actions taken in the reporting year and planned for the future, their expected outcomes and, where relevant, how their implementation contributes to the achievement of policy objectives and targets; 
+	- (b) the scope of the key actions (i.e., coverage in terms of activities, upstream and/or downstream value chain, geographies and, where applicable, affected stakeholder groups); 
+	- (c) the time horizons under which the undertaking intends to complete each key action; 
+	- (d) if applicable, key actions taken (along with results) to provide for and cooperate in or support the provision of remedy for those harmed by actual material impacts; 
+	- (e) if applicable, quantitative and qualitative information regarding the progress of actions or action plans disclosed in prior periods. 
+
+69. Where the implementation of an action plan requires significant operational expenditures (Opex) and/or capital expenditures (Capex) the undertaking shall: 
+
+	- (a) describe the type of current and future financial and other resources allocated to the action plan, including if applicable, the relevant terms of sustainable finance instruments, such as green bonds, social bonds and green loans, the environmental or social objectives, and whether the ability to implement the actions or action plan depends on specific preconditions, e.g., granting of financial support or public policy and market developments; 
+	- (b) provide the amount of current financial resources and explain how they relate to the most relevant amounts presented in the financial statements; and
+	- (c) provide the amount of future financial resources. 

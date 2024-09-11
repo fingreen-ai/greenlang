@@ -1,0 +1,15 @@
+## Disclosure Requirement E2-2 – Actions and resources related to pollution
+
+16. The undertaking shall disclose its pollution-related actions and the resources allocated to their implementation.
+
+17. The objective of this Disclosure Requirement is to enable an understanding of the key actions taken and planned to achieve the pollution-related policy objectives and targets.
+
+18. The description of the pollution-related action plans and resources shall contain the information prescribed in ESRS 2 MDR-A Actions and resources in relation to material sustainability matters.
+
+19. In addition to ESRS 2 MDR-A, the undertaking may specify to which layer in the following mitigation hierarchy an action and resources can be allocated:
+
+   	- (a) avoid pollution including any phase out of materials or compounds that have a negative impact (prevention of pollution at source);
+
+   	- (b) reduce pollution, including: any phase-out of materials or compounds; meeting enforcement requirements such as Best Available Techniques (BAT) requirements; or meeting the Do No Significant Harm criteria for pollution prevention and control according to the EU Taxonomy Regulation and its Delegated Acts (minimisation of pollution); and
+
+   	- (c) remediate pollution including waste management, treatment and containment or restoration of ecosystems (end of pipe solution). 

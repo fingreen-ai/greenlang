@@ -1,0 +1,50 @@
+## ESRS E4 - Disclosure Requirement E4-5 – Impact metrics related to biodiversity and ecosystems change
+
+33. The undertaking shall report metrics related to its material impacts on biodiversity and ecosystems.
+
+34. The objective of this Disclosure Requirement is to enable an understanding of the performance of the undertaking against impacts identified as material in the materiality assessment on biodiversity and ecosystems change.
+
+35. If the undertaking identified sites located in or near biodiversity-sensitive areas that it is negatively affecting (see paragraph 19	- (a)), the undertaking shall disclose the number and area (in hectares) of sites owned, leased or managed in or near these protected areas or key biodiversity areas.
+
+36. If the undertaking has identified material impacts with regards to land-use change, or impacts on the extent and condition of ecosystems, it may also disclose their land-use based on a Life Cycle Assessment. 
+
+37. For datapoints specified in paragraphs 38 to 41, the undertaking shall consider its own operations.
+
+38. If the undertaking has concluded that it directly contributes to the impact drivers of land-use change, freshwater-use change and/or sea-use change, it shall report relevant metrics. The undertaking may disclose metrics that measure:
+
+	- (a) the conversion over time (e.g. 1 or 5 years) of land cover (e.g. deforestation or mining);
+
+	- (b) changes over time (e.g. 1 or 5 years) in the management of the ecosystem (e.g., through the intensification of agricultural management, or the application of better management practices or forestry harvesting);
+
+	- (c) changes in the spatial configuration of the landscape (e.g. fragmentation of habitats, changes in ecosystem connectivity);
+
+	- (d) changes in ecosystem structural connectivity (e.g. habitat permeability based on physical features and arrangements of habitat patches); and
+
+	- (e) the functional connectivity (e.g. how well genes or individuals move through land, freshwater and seascape).
+
+39. If the undertaking concluded that it directly contributes to the accidental or voluntary introduction of invasive alien species, the undertaking may disclose the metrics it uses to manage pathways of introduction and spread of invasive alien species and the risks posed by invasive alien species.
+
+40. If the undertaking identified material impacts related to the state of species (80), the undertaking may report metrics it considers relevant. The undertaking may:
+
+	- (a) refer to relevant disclosure requirements in ESRS E1, ESRS E2, ESRS E3, and ESRS E5;
+
+	- (b) consider population size, range within specific ecosystems as well as extinction risk. These aspects provide insight on the health of a single species’ population and its relative resilience to human induced and naturally occurring change;
+
+	- (c) disclose metrics that measure changes in the number of individuals of a species within a specific area;
+
+	- (d) disclose metrics on species at extinction risk that measure:
+		+ i. the threat status of species and how activities/pressures may affect the threat status; or
+		+ ii. changes in the relevant habitat for a threatened species as a proxy for the undertaking’s impact on the local population’s extinction risk.
+
+41. If the undertaking identified material impacts related to ecosystems, it may disclose:
+
+	- (a) with regard to ecosystems extent, metrics that measure area coverage of a particular ecosystem without necessarily considering the quality of the area being assessed, such as habitat cover. For example, forest cover is a measure of the extent of a particular ecosystem type, without factoring in the condition of the ecosystem (e.g., provides the area without describing the species diversity within the forest).
+
+	- (b) with regard to ecosystems condition:
+		+ i. metrics that measure the quality of ecosystems relative to a pre-determined reference state;
+		+ ii. metrics that measure multiple species within an ecosystem rather than the number of individuals within a single species within an ecosystem (for example: scientifically established species richness and abundance indicators that measure the development of (native) species composition within an ecosystem against the reference state at the beginning of the first reporting period as well as the targeted state outlined in the Kunming-Montreal Global Biodiversity Framework, or an aggregation of species’ conservation status if relevant); or
+		+ iii. metrics that reflect structural components of condition such as habitat connectivity (i.e., how linked habitats are to each other).
+
+---
+
+(80) As indicated in the IUCN Red List of Threatened Species and the European Red List published by the European Commission. 

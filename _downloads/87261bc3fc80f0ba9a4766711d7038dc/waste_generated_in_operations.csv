@@ -1,0 +1,255 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+waste-generated-in-operations,waste-type-method,waste,Construction,Aggregates - Open-loop Recycling,,tonne,"0,9847",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Aggregates - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Aggregates - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Aggregates - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Aggregates - Landfill,,tonne,"1,234",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Aggregates - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Average construction - Open-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Average construction - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Average construction - Combustion,,tonne,"21,2802",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Average construction - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Average construction - Landfill,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Average construction - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asbestos - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asbestos - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asbestos - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asbestos - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asbestos - Landfill,,tonne,"5,913",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asbestos - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asphalt - Open-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asphalt - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asphalt - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asphalt - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asphalt - Landfill,,tonne,"1,234",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Asphalt - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Bricks - Open-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Bricks - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Bricks - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Bricks - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Bricks - Landfill,,tonne,"1,234",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Bricks - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Concrete - Open-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Concrete - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Concrete - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Concrete - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Concrete - Landfill,,tonne,"1,234",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Concrete - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Insulation - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Insulation - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Insulation - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Insulation - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Insulation - Landfill,,tonne,"1,234",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Insulation - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Metals - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Metals - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Metals - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Metals - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Metals - Landfill,,tonne,"1,264",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Metals - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Soils - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Soils - Closed-loop Recycling,,tonne,"0,985",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Soils - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Soils - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Soils - Landfill,,tonne,"17,577",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Soils - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Mineral oil - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Mineral oil - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Mineral oil - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Mineral oil - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Mineral oil - Landfill,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Mineral oil - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Plasterboard - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Plasterboard - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Plasterboard - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Plasterboard - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Plasterboard - Landfill,,tonne,"71,95",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Plasterboard - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Tyres - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Tyres - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Tyres - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Tyres - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Tyres - Landfill,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Tyres - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Wood - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Wood - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Wood - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Wood - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Wood - Landfill,,tonne,"828,014",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Construction,Wood - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Books - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Books - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Books - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Books - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Books - Landfill,,tonne,"1041,79",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Books - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Glass - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Glass - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Glass - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Glass - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Glass - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Glass - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Clothing - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Clothing - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Clothing - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Clothing - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Clothing - Landfill,,tonne,"444,925",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Other,Clothing - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Household residual waste - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Household residual waste - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Household residual waste - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Household residual waste - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Household residual waste - Landfill,,tonne,"446,204",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Household residual waste - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: food and drink waste - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: food and drink waste - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: food and drink waste - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: food and drink waste - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: food and drink waste - Landfill,,tonne,"626,856",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: food and drink waste - Anaerobic digestion,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: garden waste - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: garden waste - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: garden waste - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: garden waste - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: garden waste - Landfill,,tonne,"578,94",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: garden waste - Anaerobic digestion,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: mixed food and garden waste - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: mixed food and garden waste - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: mixed food and garden waste - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: mixed food and garden waste - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: mixed food and garden waste - Landfill,,tonne,"587,326",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Organic: mixed food and garden waste - Anaerobic digestion,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Commercial and industrial waste - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Commercial and industrial waste - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Commercial and industrial waste - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Commercial and industrial waste - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Commercial and industrial waste - Landfill,,tonne,"467,008",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Refuse,Commercial and industrial waste - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - fridges and freezers - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - fridges and freezers - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - fridges and freezers - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - fridges and freezers - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - fridges and freezers - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - fridges and freezers - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - large - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - large - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - large - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - large - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - large - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - large - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - mixed - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - mixed - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - mixed - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - mixed - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - mixed - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - mixed - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - small - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - small - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - small - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - small - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - small - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,WEEE - small - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,Batteries - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,Batteries - Closed-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,Batteries - Combustion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,Batteries - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,Batteries - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Electrical items,Batteries - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: aluminium cans and foil (excl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: aluminium cans and foil (excl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: aluminium cans and foil (excl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: aluminium cans and foil (excl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: aluminium cans and foil (excl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: aluminium cans and foil (excl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: mixed cans - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: mixed cans - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: mixed cans - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: mixed cans - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: mixed cans - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: mixed cans - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: scrap metal - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: scrap metal - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: scrap metal - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: scrap metal - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: scrap metal - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: scrap metal - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: steel cans - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: steel cans - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: steel cans - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: steel cans - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: steel cans - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Metal,Metal: steel cans - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastics - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastics - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastics - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastics - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastics - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastics - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic film - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic film - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic film - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic film - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic film - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic film - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic rigid - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic rigid - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic rigid - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic rigid - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic rigid - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: average plastic rigid - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: HDPE (incl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: HDPE (incl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: HDPE (incl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: HDPE (incl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: HDPE (incl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: HDPE (incl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: LDPE and LLDPE (incl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: LDPE and LLDPE (incl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: LDPE and LLDPE (incl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: LDPE and LLDPE (incl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: LDPE and LLDPE (incl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: LDPE and LLDPE (incl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PET (incl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PET (incl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PET (incl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PET (incl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PET (incl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PET (incl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PP (incl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PP (incl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PP (incl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PP (incl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PP (incl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PP (incl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PS (incl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PS (incl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PS (incl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PS (incl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PS (incl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PS (incl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PVC (incl. forming) - Open-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PVC (incl. forming) - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PVC (incl. forming) - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PVC (incl. forming) - Composting,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PVC (incl. forming) - Landfill,,tonne,"8,883",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Plastic,Plastics: PVC (incl. forming) - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: board - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: board - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: board - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: board - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: board - Landfill,,tonne,"1041,79",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: board - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: mixed - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: mixed - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: mixed - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: mixed - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: mixed - Landfill,,tonne,"1041,79",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: mixed - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: paper - Open-loop Recycling,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: paper - Closed-loop Recycling,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: paper - Combustion,,tonne,"21,28",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: paper - Composting,,tonne,"8,911",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: paper - Landfill,,tonne,"1041,79",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Paper,Paper and board: paper - Anaerobic digestion,,tonne,,DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Industrial/Domestic Wastewater,Wastewater,,m3,"0,272",DEFRA,2022
+waste-generated-in-operations,waste-type-method,waste,Industrial/Domestic Wastewater,Wastewater,,megal,272,DEFRA,2022

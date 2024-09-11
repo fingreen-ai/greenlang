@@ -1,0 +1,20 @@
+## Disclosure Requirement S1-8 – Collective bargaining coverage and social dialogue
+
+58. The undertaking shall disclose information on the extent to which the working conditions and terms of employment of its employees are determined or influenced by collective bargaining agreements and on the extent to which its employees are represented in social dialogue in the European Economic Area (EEA) at the establishment and European level.
+
+59. The objective of this Disclosure Requirement is to enable an understanding of the coverage of collective bargaining agreements and social dialogue for the undertaking’s own employees.
+
+60. The undertaking shall disclose:
+
+	- (a) the percentage of its total employees covered by collective bargaining agreements;
+	- (b) in the EEA, whether it has one or more collective bargaining agreements and, if so, the overall percentage of its employees covered by such agreement	- (s) for each country in which it has significant employment, defined as at least 50 employees by head count representing at least 10% of its total number of employees; and
+	- (c) outside the EEA, the percentage of its own employees covered by collective bargaining agreements by region.
+
+61. For employees not covered by collective bargaining agreements, the undertaking may disclose whether it determines their working conditions and terms of employment based on collective bargaining agreements that cover its other employees or based on collective bargaining agreements from other undertakings.
+
+62. The undertaking may disclose the extent to which the working conditions and terms of employment of non-employees in its own workforce are determined or influenced by collective bargaining agreements, including an estimate of the coverage rate.
+
+63. The undertaking shall disclose the following information in relation to social dialogue:
+
+	- (a) the global percentage of employees covered by workers’ representatives, reported at the country level for each EEA country in which the undertaking has significant employment; and
+	- (b) the existence of any agreement with its employees for representation by a European Works Council (EWC), a Societas Europaea (SE) Works Council, or a Societas Cooperativa Europaea (SCE) Works Council. 
