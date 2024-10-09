@@ -12,6 +12,26 @@ Emissions of air pollutants
 
 Émissions de polluants atmosphériques
 
+### name_es
+
+Emisiones de contaminantes atmosféricos
+
+### name_nl
+
+Uitstoot van luchtverontreinigende stoffen
+
+### name_it
+
+Emissioni di inquinanti atmosferici
+
+### name_ro
+
+Emisiile de poluanți atmosferici
+
+### name_pl
+
+Emisje zanieczyszczeń powietrza
+
 ### item_type
 
 metric

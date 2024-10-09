@@ -12,6 +12,27 @@ Land artificialisation
 
 Artificialisation des terres
 
+### name_es
+
+Artificialización de tierras
+
+### name_nl
+
+Landartificialisatie
+
+### name_it
+
+Artificializzazione del suolo
+
+### name_ro
+
+Artificializarea terenurilor
+
+### name_pl
+
+Zagospodarowanie terenu
+
+
 ### item_type
 
 metric
