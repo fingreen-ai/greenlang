@@ -12,6 +12,26 @@ Emissions of ozone depletion substances
 
 Émissions de substances appauvrissant la couche d'ozone
 
+### name_es
+
+Emisiones de sustancias que agotan la capa de ozono
+
+### name_nl
+
+Emissies van ozonafbrekende stoffen
+
+### name_it
+
+Emissioni di sostanze che impoveriscono l'ozono
+
+### name_ro
+
+Emisiile de substanțe care epuizează stratul de ozon
+
+### name_pl
+
+Emisje substancji niszczących warstwę ozonową
+
 ### item_type
 
 metric

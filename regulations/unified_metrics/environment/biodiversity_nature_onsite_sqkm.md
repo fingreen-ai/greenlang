@@ -13,6 +13,26 @@ Total nature-oriented area on site
 
 Espace total orienté vers la nature sur site
 
+### name_es
+
+Área total orientada a la naturaleza en el sitio
+
+### name_nl
+
+Totale natuur-georiënteerde oppervlakte op locatie
+
+### name_it
+
+Area totale orientata alla natura sul sito
+
+### name_ro
+
+Suprafața totală orientată spre natură pe site
+
+### name_pl
+
+Całkowita powierzchnia zorientowana na naturę na miejscu
+
 ### index
 
 9

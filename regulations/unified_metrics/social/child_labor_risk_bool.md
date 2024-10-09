@@ -12,6 +12,26 @@ Child labour risks
 
 Risques liés au travail des enfants
 
+### name_es
+
+Riesgos de trabajo infantil
+
+### name_nl
+
+Kinderarbeidsrisico's
+
+### name_it
+
+Rischi di lavoro minorile
+
+### name_ro
+
+Riscuri de muncă pentru copii
+
+### name_pl
+
+Ryzyko pracy dzieci
+
 ### item_type
 
 metric

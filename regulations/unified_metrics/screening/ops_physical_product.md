@@ -13,6 +13,26 @@ VSME Screening - Physical products
 
 Dépistage TPE - Produits physiques
 
+### name_es
+
+VSME Screening - Productos físicos
+
+### name_nl
+
+VSME Screening - Fysieke producten
+
+### name_it
+
+VSME Screening - Prodotti fisici
+
+### name_ro
+
+VSME Screening - Produse fizice
+
+### name_pl
+
+VSME Screening - Produkty fizyczne
+
 ### index
 
 

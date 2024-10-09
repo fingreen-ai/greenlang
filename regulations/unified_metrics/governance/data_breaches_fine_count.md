@@ -12,6 +12,26 @@ Convictions and fines for violation of user privacy
 
 Condamnations pour violation de la vie privée
 
+### name_es
+
+Condenas por violación de la privacidad del usuario
+
+### name_nl
+
+Veroordelingen voor schending van de privacy van de gebruiker
+
+### name_it
+
+Condanne per violazione della privacy dell'utente
+
+### name_ro
+
+Condamnări pentru încălcarea vieții private a utilizatorului
+
+### name_pl
+
+Wyroki za naruszenie prywatności użytkownika
+
 ### item_type
 
 metric

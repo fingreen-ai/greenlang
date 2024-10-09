@@ -13,6 +13,26 @@ Recycled goods and materials
 
 Biens et matériaux recyclés
 
+### name_es
+
+Bienes y materiales reciclados
+
+### name_nl
+
+Gerecycleerde goederen en materialen
+
+### name_it
+
+Beni e materiali riciclati
+
+### name_ro
+
+Bunuri și materiale reciclate
+
+### name_pl
+
+Recyklingowane towary i materiały
+
 ### index
 
 43

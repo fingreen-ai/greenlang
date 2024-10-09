@@ -13,6 +13,26 @@ Full-time employees in temporary contract
 
 Salariés à temps plein en contrat temporaire
 
+### name_es
+
+Empleados a tiempo completo con contrato temporal
+
+### name_nl
+
+Fulltime werknemers met tijdelijk contract
+
+### name_it
+
+Dipendenti a tempo pieno con contratto temporaneo
+
+### name_ro
+
+Angajați cu normă întreagă cu contract temporar
+
+### name_pl
+
+Pracownicy na pełny etat z umową czasową
+
 ### index
 
 73

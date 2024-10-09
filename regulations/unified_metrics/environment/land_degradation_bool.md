@@ -12,6 +12,26 @@ Land degradation, desertification, soil sealing
 
 Dégradation des terres, désertification, imperméabilisation des sols
 
+### name_es
+
+Degradación de la tierra, desertificación, sellado del suelo
+
+### name_nl
+
+Landdegradatie, woestijnvorming, bodemafdichting
+
+### name_it
+
+Degradazione del suolo, desertificazione, sigillatura del suolo
+
+### name_ro
+
+Degradarea terenurilor, deșertificare, etanșare a solului
+
+### name_pl
+
+Degradacja ziemi, pustynnienie, uszczelnianie gleby
+
 ### item_type
 
 metric

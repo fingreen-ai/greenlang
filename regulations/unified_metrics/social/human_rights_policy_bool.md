@@ -12,6 +12,26 @@ Human rights policy
 
 Politique des droits de l'homme
 
+### name_es
+
+Política de derechos humanos
+
+### name_nl
+
+Mensenrechtenbeleid
+
+### name_it
+
+Politica sui diritti umani
+
+### name_ro
+
+Politica de drepturile omului
+
+### name_pl
+
+Polityka praw człowieka
+
 ### item_type
 
 metric

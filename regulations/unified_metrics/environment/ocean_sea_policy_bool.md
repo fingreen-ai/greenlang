@@ -12,6 +12,26 @@ Sustainable oceans/seas practices
 
 Pratiques durables pour les océans/mers
 
+### name_es
+
+Prácticas sostenibles para los océanos/mares
+
+### name_nl
+
+Duurzame oceanen/zeeën praktijken
+
+### name_it
+
+Pratiche sostenibili per oceani/mari
+
+### name_ro
+
+Practici durabile pentru oceane/mări
+
+### name_pl
+
+Zrównoważone praktyki dla oceanów/mórz
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Office waste sorting policy
 
 Politique de tri des déchets de bureau
 
+### name_es
+
+Política de clasificación de residuos de oficina
+
+### name_nl
+
+Kantoorafval sorteerbeleid
+
+### name_it
+
+Politica di smaltimento dei rifiuti dell'ufficio
+
+### name_ro
+
+Politica de sortare a deșeurilor de birou
+
+### name_pl
+
+Polityka segregacji odpadów biurowych
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Discrimination incidents
 
 Incidents de discrimination
 
+### name_es
+
+Incidentes de discriminación
+
+### name_nl
+
+Discriminatie-incidenten
+
+### name_it
+
+Incidenti di discriminazione
+
+### name_ro
+
+Incidente de discriminare
+
+### name_pl
+
+Incydenty dyskryminacji
+
 ### item_type
 
 metric

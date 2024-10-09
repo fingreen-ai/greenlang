@@ -12,6 +12,26 @@ Emissions to water
 
 Émissions dans l'eau
 
+### name_es
+
+Emisiones al agua
+
+### name_nl
+
+Emissies naar water
+
+### name_it
+
+Emissioni in acqua
+
+### name_ro
+
+Emisiile în apă
+
+### name_pl
+
+Emisje do wody
+
 ### item_type
 
 metric

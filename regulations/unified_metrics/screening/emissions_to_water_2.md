@@ -13,6 +13,26 @@ Emissions to Water - Screen 2
 
 Émissions dans l'eau - Screen 2
 
+### name_es
+
+Emisiones al agua - Pantalla 2
+
+### name_nl
+
+Emissies naar water - Scherm 2
+
+### name_it
+
+Emissioni in acqua - Schermata 2
+
+### name_ro
+
+Emisii în apă - Ecran 2
+
+### name_pl
+
+Emisje do wody - Ekran 2
+
 ### index
 
 

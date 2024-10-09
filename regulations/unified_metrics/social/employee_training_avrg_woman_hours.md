@@ -13,6 +13,26 @@ Female employee training hours
 
 Heures de formation par femme employée 
 
+### name_es
+
+Horas de formación por empleada
+
+### name_nl
+
+Traininguren per vrouwelijke werknemer
+
+### name_it
+
+Ore di formazione per dipendente femminile
+
+### name_ro
+
+Orele de formare a angajatei
+
+### name_pl
+
+Godziny szkolenia na pracownika żeńskiego
+
 ### index
 
 71

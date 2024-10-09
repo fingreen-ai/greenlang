@@ -12,6 +12,26 @@ Item - Generation of waste, by type
 
 Element - Production de déchets, par type
 
+### name_es
+
+Elemento - Generación de residuos, por tipo
+
+### name_nl
+
+Item - Afvalproductie, per type
+
+### name_it
+
+Elemento - Generazione di rifiuti, per tipo
+
+### name_ro
+
+Element - Generarea deșeurilor, pe tip
+
+### name_pl
+
+Element - Generacja odpadów, według typu
+
 ### item_type
 
 metric

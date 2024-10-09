@@ -12,6 +12,26 @@ Employee turnover rate
 
 Taux de rotation des employés
 
+### name_es
+
+Tasa de rotación de empleados
+
+### name_nl
+
+Verlooppercentage van werknemers
+
+### name_it
+
+Tasso di turnover dei dipendenti
+
+### name_ro
+
+Rata de rotație a angajaților
+
+### name_pl
+
+Wskaźnik rotacji pracowników
+
 ### item_type
 
 metric

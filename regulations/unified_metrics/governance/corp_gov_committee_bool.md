@@ -12,6 +12,26 @@ Corporate governance committee
 
 Comité de gouvernance d'entreprise
 
+### name_es
+
+Comité de gobierno corporativo
+
+### name_nl
+
+Commissie voor corporate governance
+
+### name_it
+
+Comitato di governance aziendale
+
+### name_ro
+
+Comitet de guvernanță corporativă
+
+### name_pl
+
+Komitet ds. zarządzania korporacyjnego
+
 ### item_type
 
 metric

@@ -13,6 +13,26 @@ Water consumption - Screen 1
 
 Consommation d'eau - Screen 1
 
+### name_es
+
+Consumo de agua - Pantalla 1
+
+### name_nl
+
+Waterverbruik - Scherm 1
+
+### name_it
+
+Consumo di acqua - Schermata 1
+
+### name_ro
+
+Consum de apă - Ecran 1
+
+### name_pl
+
+Konsumpcja wody - Ekran 1
+
 ### index
 
 

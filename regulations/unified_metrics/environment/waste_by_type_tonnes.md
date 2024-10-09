@@ -13,6 +13,26 @@ Generation of waste, by type
 
 Production de déchets, par type
 
+### name_es
+
+Generación de residuos, por tipo
+
+### name_nl
+
+Afvalproductie, per type
+
+### name_it
+
+Generazione di rifiuti, per tipo
+
+### name_ro
+
+Generarea deșeurilor, pe tip
+
+### name_pl
+
+Generacja odpadów, według typu
+
 ### index
 
 45

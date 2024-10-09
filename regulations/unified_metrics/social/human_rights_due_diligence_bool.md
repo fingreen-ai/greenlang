@@ -12,6 +12,26 @@ Lack of due diligence
 
 Manque de diligence raisonnable
 
+### name_es
+
+Falta de diligencia debida
+
+### name_nl
+
+Gebrek aan zorgvuldigheid
+
+### name_it
+
+Mancanza di diligenza
+
+### name_ro
+
+Lipsa diligenței
+
+### name_pl
+
+Brak należytej staranności
+
 ### item_type
 
 metric

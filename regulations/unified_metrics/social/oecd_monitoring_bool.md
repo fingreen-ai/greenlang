@@ -12,6 +12,26 @@ UN OECD Guidelines monitoring
 
 Surveillance des lignes directrices de l'ONU et de l'OCDE
 
+### name_es
+
+Monitoreo de las directrices de la ONU y la OCDE
+
+### name_nl
+
+UN OECD-richtlijnen monitoring
+
+### name_it
+
+Monitoraggio delle linee guida dell'ONU e dell'OCSE
+
+### name_ro
+
+Monitorizarea orientărilor ONU și OCDE
+
+### name_pl
+
+Monitorowanie wytycznych ONZ i OECD
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Energy Consumption
 
 Consommation d'énergie
 
+### name_es
+
+Consumo de energía
+
+### name_nl
+
+Energieverbruik
+
+### name_it
+
+Consumo di energia
+
+### name_ro
+
+Consum de energie
+
+### name_pl
+
+Zużycie energii
+
 ### item_type
 
 metric

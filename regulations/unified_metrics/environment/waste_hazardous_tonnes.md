@@ -12,6 +12,26 @@ Hazardous waste
 
 Déchets dangereux
 
+### name_es
+
+Residuos peligrosos
+
+### name_nl
+
+Gevaarlijk afval
+
+### name_it
+
+Rifiuti pericolosi
+
+### name_ro
+
+Deșeuri periculoase
+
+### name_pl
+
+Odpady niebezpieczne
+
 ### item_type
 
 metric

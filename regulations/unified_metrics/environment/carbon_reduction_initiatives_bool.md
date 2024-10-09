@@ -12,6 +12,26 @@ Carbon emission reduction initiatives
 
 Initiatives de réduction des émissions de carbone
 
+### name_es
+
+Iniciativas de reducción de emisiones de carbono
+
+### name_nl
+
+Initiatieven voor het verminderen van de uitstoot van koolstof
+
+### name_it
+
+Iniziative di riduzione delle emissioni di carbonio
+
+### name_ro
+
+Inițiative de reducere a emisiilor de carbon
+
+### name_pl
+
+Inicjatywy zmniejszania emisji dwutlenku węgla
+
 ### item_type
 
 metric

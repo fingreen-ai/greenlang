@@ -13,6 +13,26 @@ Entry level wage to minimum wage ratio
 
 Rapport entre le salaire d'entrée et minimum
 
+### name_es
+
+Relación entre el salario de entrada y el salario mínimo
+
+### name_nl
+
+Verhouding tussen instapsalaris en minimumloon
+
+### name_it
+
+Rapporto tra salario di ingresso e salario minimo
+
+### name_ro
+
+Raportul dintre salariul de intrare și salariul minim
+
+### name_pl
+
+Stosunek płacy początkowej do minimalnej płacy
+
 ### index
 
 58

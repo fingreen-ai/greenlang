@@ -12,6 +12,26 @@ Governance external audit
 
 Audit externe de gouvernance
 
+### name_es
+
+Auditoría externa de gobernanza
+
+### name_nl
+
+Externe audit van governance
+
+### name_it
+
+Audit esterno della governance
+
+### name_ro
+
+Audit extern al guvernării
+
+### name_pl
+
+Zewnętrzna audyt w zakresie zarządzania
+
 ### item_type
 
 metric

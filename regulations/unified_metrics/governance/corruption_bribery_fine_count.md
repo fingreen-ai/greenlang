@@ -12,6 +12,26 @@ Convictions and fines for violation of anti-corruption and anti-bribery laws
 
 Condamnations et amendes pour violation des lois anti-corruption et anti-pots-de-vin
 
+### name_es
+
+Condenas y multas por violación de leyes anticorrupción y antisoborno
+
+### name_nl
+
+Veroordelingen en boetes voor overtreding van anti-corruptie- en anti-omkopingswetten
+
+### name_it
+
+Condanne e multe per violazione delle leggi anticorruzione e anti-corruttela
+
+### name_ro
+
+Condamnări și amenzi pentru încălcarea legilor anticorupție și anti-mită
+
+### name_pl
+
+Wyroki skazujące i kary za naruszenie przepisów antykorupcyjnych i antyprzestępczych
+
 ### item_type
 
 metric

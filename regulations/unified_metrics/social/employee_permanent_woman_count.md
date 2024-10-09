@@ -13,6 +13,26 @@ Full-time female employees
 
 Employées féminines à temps plein
 
+### name_es
+
+Empleadas a tiempo completo
+
+### name_nl
+
+Vrouwelijke werknemers met een voltijdscontract
+
+### name_it
+
+Dipendenti
+
+### name_ro
+
+Angajate cu normă întreagă
+
+### name_pl
+
+Pracownice zatrudnione na pełen etat
+
 ### index
 
 75

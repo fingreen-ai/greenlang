@@ -12,6 +12,26 @@ Threatened species
 
 Espèces menacées
 
+### name_es
+
+Especies amenazadas
+
+### name_nl
+
+Bedreigde soorten
+
+### name_it
+
+Specie minacciate
+
+### name_ro
+
+Specii amenințate
+
+### name_pl
+
+Gatunki zagrożone
+
 ### item_type
 
 metric

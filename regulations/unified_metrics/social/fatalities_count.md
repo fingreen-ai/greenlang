@@ -13,6 +13,26 @@ Work fatalities
 
 Décès au travail
 
+### name_es
+
+Muertes laborales
+
+### name_nl
+
+Werkdoden
+
+### name_it
+
+Morti sul lavoro
+
+### name_ro
+
+Decese la locul de muncă
+
+### name_pl
+
+Ofiary śmiertelne w pracy
+
 ### index
 
 80

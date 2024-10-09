@@ -12,6 +12,26 @@ Protected areas
 
 Zones protégées
 
+### name_es
+
+Áreas protegidas
+
+### name_nl
+
+Beschermde gebieden
+
+### name_it
+
+Aree protette
+
+### name_ro
+
+Zone protejate
+
+### name_pl
+
+Obszary chronione
+
 ### item_type
 
 metric

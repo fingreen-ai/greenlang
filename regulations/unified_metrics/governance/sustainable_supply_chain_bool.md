@@ -12,6 +12,26 @@ Sustainable Supply Chain
 
 Chaîne d'approvisionnement durable
 
+### name_es
+
+Cadena de suministro sostenible
+
+### name_nl
+
+Duurzame toeleveringsketen
+
+### name_it
+
+Catena di approvvigionamento sostenibile
+
+### name_ro
+
+Lanț de aprovizionare durabil
+
+### name_pl
+
+Zrównoważony łańcuch dostaw
+
 ### item_type
 
 metric

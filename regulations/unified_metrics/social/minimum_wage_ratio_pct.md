@@ -12,6 +12,26 @@ Minimum wage ratio
 
 Taux de salaire minimum
 
+### name_es
+
+Proporción del salario mínimo
+
+### name_nl
+
+Minimumloonratio
+
+### name_it
+
+Rapporto salariale minimo
+
+### name_ro
+
+Rata salariului minim
+
+### name_pl
+
+Wskaźnik płacy minimalnej
+
 ### item_type
 
 metric

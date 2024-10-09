@@ -12,6 +12,26 @@ Waste production in operations
 
 Production de déchets dans les opérations
 
+### name_es
+
+Producción de residuos en operaciones
+
+### name_nl
+
+Afvalproductie in operaties
+
+### name_it
+
+Produzione di rifiuti nelle operazioni
+
+### name_ro
+
+Producția deșeurilor în operațiuni
+
+### name_pl
+
+Produkcja odpadów w operacjach
+
 ### item_type
 
 metric

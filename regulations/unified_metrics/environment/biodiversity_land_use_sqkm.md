@@ -13,6 +13,26 @@ Total use of land
 
 Utilisation totale des terres
 
+### name_es
+
+Uso total de la tierra
+
+### name_nl
+
+Totaal landgebruik
+
+### name_it
+
+Utilizzo totale del suolo
+
+### name_ro
+
+Utilizarea totală a terenurilor
+
+### name_pl
+
+Całkowite wykorzystanie ziemi
+
 ### index
 
 7

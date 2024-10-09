@@ -13,6 +13,26 @@ Recycling in products and packaging
 
 Recyclage dans les produits et les emballages
 
+### name_es
+
+Reciclaje en productos y envases
+
+### name_nl
+
+Recycling in producten en verpakkingen
+
+### name_it
+
+Riciclaggio nei prodotti e nell'imballaggio
+
+### name_ro
+
+Reciclare în produse și ambalaje
+
+### name_pl
+
+Recykling w produktach i opakowaniach
+
 ### index
 
 44

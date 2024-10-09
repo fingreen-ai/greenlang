@@ -12,6 +12,26 @@ Anti-harassment policy
 
 Politique anti-harcèlement
 
+### name_es
+
+Política contra el acoso
+
+### name_nl
+
+Anti-pestbeleid
+
+### name_it
+
+Politica anti-molestie
+
+### name_ro
+
+Politica anti-hărțuire
+
+### name_pl
+
+Polityka antyprzemocowa
+
 ### item_type
 
 metric

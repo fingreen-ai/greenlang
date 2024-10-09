@@ -12,6 +12,26 @@ Total water recycled
 
 Eau totale recyclée
 
+### name_es
+
+Agua total reciclada
+
+### name_nl
+
+Totaal gerecycled water
+
+### name_it
+
+Acqua totale riciclata
+
+### name_ro
+
+Apă total reciclată
+
+### name_pl
+
+Całkowicie zrecyklowana woda
+
 ### item_type
 
 metric

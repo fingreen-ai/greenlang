@@ -12,6 +12,26 @@ Data breaches
 
 Violations de données
 
+### name_es
+
+Violaciones de datos
+
+### name_nl
+
+Datalekken
+
+### name_it
+
+Violazioni dei dati
+
+### name_ro
+
+Încălcări ale datelor
+
+### name_pl
+
+Wycieki danych
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ GHG emissions - Scope 1
 
 Émissions de GES - Scope 1
 
+### name_es
+
+Emisiones de GEI - Alcance 1
+
+### name_nl
+
+Broeikasgasemissies - Scope 1
+
+### name_it
+
+Emissioni di gas serra - Scope 1
+
+### name_ro
+
+Emisiile de gaze cu efect de seră - Scop 1
+
+### name_pl
+
+Emisje gazów cieplarnianych - Zakres 1
+
 ### item_type
 
 metric

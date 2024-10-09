@@ -12,6 +12,26 @@ Anti-corruption and anti-bribery policies
 
 Politiques anti-corruption et anti-pots-de-vin
 
+### name_es
+
+Políticas anticorrupción y anti-soborno
+
+### name_nl
+
+Anti-corruptie- en anti-omkopingsbeleid
+
+### name_it
+
+Politiche anticorruzione e anti-corruttela
+
+### name_ro
+
+Politici anti-corupție și anti-mită
+
+### name_pl
+
+Polityka antykorupcyjna i antyprzestępcza
+
 ### item_type
 
 metric

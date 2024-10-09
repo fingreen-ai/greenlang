@@ -12,6 +12,26 @@ Average unadjusted gender pay gap
 
 Écart salarial moyen non ajusté entre sexes
 
+### name_es
+
+Brecha salarial de género no ajustada promedio
+
+### name_nl
+
+Gemiddeld ongecorrigeerd genderloonkloof
+
+### name_it
+
+Differenza salariale di genere non corretta media   
+
+### name_ro
+
+Diferența salarială medie neajustată între sexe
+
+### name_pl
+
+Średnia niezrównoważona różnica płac między płciami
+
 ### item_type
 
 metric

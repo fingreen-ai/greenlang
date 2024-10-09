@@ -12,6 +12,26 @@ Energy Consumption intensity
 
 Intensité de la consommation d'énergie
 
+### name_es
+
+Intensidad de consumo de energía
+
+### name_nl
+
+Energieverbruiksintensiteit
+
+### name_it
+
+Intensità del consumo di energia
+
+### name_ro
+
+Intensitatea consumului de energie
+
+### name_pl
+
+Intensywność zużycia energii
+
 ### item_type
 
 metric

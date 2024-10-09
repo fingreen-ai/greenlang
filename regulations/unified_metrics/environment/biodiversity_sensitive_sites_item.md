@@ -12,6 +12,26 @@ Location near a sensitive biodiversity area
 
 Localisation à proximité d'une zone sensible à la biodiversité
 
+### name_es
+
+Ubicación cerca de un área sensible de biodiversidad
+
+### name_nl
+
+Locatie in de buurt van een gevoelig biodiversiteitsgebied
+
+### name_it
+
+Posizione vicino a un'area sensibile alla biodiversità
+
+### name_ro
+
+Locație lângă o zonă sensibilă de biodiversitate
+
+### name_pl
+
+Lokalizacja w pobliżu obszaru wrażliwego na różnorodność biologiczną
+
 ### item_type
 
 metric

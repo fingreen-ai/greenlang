@@ -13,6 +13,26 @@ Total sealed area
 
 Surface totale scellée
 
+### name_es
+
+Área total sellada
+
+### name_nl
+
+Totaal verzegeld gebied
+
+### name_it
+
+Area totale sigillata
+
+### name_ro
+
+Suprafața totală sigilată
+
+### name_pl
+
+Całkowita powierzchnia zabezpieczona
+
 ### index
 
 8

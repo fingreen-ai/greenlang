@@ -12,6 +12,26 @@ Fossil fuel sector
 
 Secteur des énergies fossiles
 
+### name_es
+
+Sector de combustibles fósiles
+
+### name_nl
+
+Fossiele brandstofsector
+
+### name_it
+
+Settore dei combustibili fossili
+
+### name_ro
+
+Sectorul combustibililor fosili
+
+### name_pl
+
+Sektor paliw kopalnych
+
 ### item_type
 
 metric

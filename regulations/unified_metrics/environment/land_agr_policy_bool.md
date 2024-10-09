@@ -12,6 +12,26 @@ Sustainable land/agriculture practices
 
 Pratiques agricoles durables
 
+### name_es
+
+Prácticas agrícolas sostenibles
+
+### name_nl
+
+Duurzame landbouwpraktijken
+
+### name_it
+
+Pratiche agricole sostenibili
+
+### name_ro
+
+Practici agricole durabile
+
+### name_pl
+
+Zrównoważone praktyki rolnicze
+
 ### item_type
 
 metric

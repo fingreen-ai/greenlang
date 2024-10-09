@@ -12,6 +12,26 @@ Data security measures
 
 Mesures de sécurité des données
 
+### name_es
+
+Medidas de seguridad de datos
+
+### name_nl
+
+Gegevensbeveiligingsmaatregelen
+
+### name_it
+
+Misure di sicurezza dei dati
+
+### name_ro
+
+Măsuri de securitate a datelor
+
+### name_pl
+
+Środki bezpieczeństwa danych
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Forced labour
 
 Travail forcé
 
+### name_es
+
+Trabajo for
+
+### name_nl
+
+Gedwongen arbeid
+
+### name_it
+
+Lavoro forzato
+
+### name_ro
+
+Muncă forțată
+
+### name_pl
+
+Praca przym
+
 ### item_type
 
 metric

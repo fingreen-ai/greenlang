@@ -12,6 +12,26 @@ Net-Zero target
 
 Objectif Net-Zero
 
+### name_es
+
+Objetivo de emisiones netas cero
+
+### name_nl
+
+Netto-nuldoelstelling
+
+### name_it
+
+Obiettivo Net-Zero
+
+### name_ro
+
+Obiectiv Net-Zero
+
+### name_pl
+
+Cel netto-zero
+
 ### item_type
 
 metric

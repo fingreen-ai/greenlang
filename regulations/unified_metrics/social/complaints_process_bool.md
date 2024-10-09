@@ -12,6 +12,26 @@ Lack of grievance/complaints handling mechanism related to employee matters
 
 Absence de mécanisme de traitement des réclamations/plaintes liées aux affaires des employés
 
+### name_es
+
+Ausencia de mecanismo de tratamiento de quejas/reclamaciones relacionadas con asuntos de empleados
+
+### name_nl
+
+Gebrek aan mechanisme voor de behandeling van klachten/klachten met betrekking tot werknemerszaken
+
+### name_it
+
+Assenza di meccanismo di gestione delle lamentele/reclami relativi alle questioni dei dipendenti
+
+### name_ro
+
+Lipsa unui mecanism de gestionare a plângerilor/reclamațiilor legate de problemele angajaților
+
+### name_pl
+
+Brak mechanizmu obsługi skarg/zażaleń związanych z kwestiami pracowniczymi
+
 ### item_type
 
 metric

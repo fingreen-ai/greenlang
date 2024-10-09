@@ -12,6 +12,26 @@ Water management policy
 
 Politique de gestion de l'eau
 
+### name_es
+
+Política de gestión del agua
+
+### name_nl
+
+Waterbeheerbeleid
+
+### name_it
+
+Politica di gestione dell'acqua
+
+### name_ro
+
+Politica de gestionare a apei
+
+### name_pl
+
+Polityka zarządzania wodą
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Discrimination incidents sanctioned
 
 Incidents de discrimination sanctionnés
 
+### name_es
+
+Discriminación incidentes sancionados
+
+### name_nl
+
+Discriminatie-incidenten gesanctioneerd
+
+### name_it
+
+Incidenti di discriminazione sanzionati
+
+### name_ro
+
+Incidente de discriminare sancționate
+
+### name_pl
+
+Incydenty dyskryminacji ukarane
+
 ### item_type
 
 metric

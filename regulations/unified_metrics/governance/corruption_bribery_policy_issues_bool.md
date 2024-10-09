@@ -12,6 +12,26 @@ Anti-corruption and antibribery
 
 Anti-corruption et anti-pots-de-vin
 
+### name_es
+
+Anticorrupción y anti-soborno
+
+### name_nl
+
+Anti-corruptie en anti-omkoping
+
+### name_it
+
+Anticorruzione e anti-corruttela
+
+### name_ro
+
+Anti-corupție și anti-mită
+
+### name_pl
+
+Antykorupcja i antyprzestępczość
+
 ### item_type
 
 metric

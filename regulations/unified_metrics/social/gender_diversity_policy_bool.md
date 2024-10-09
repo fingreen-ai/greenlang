@@ -12,6 +12,26 @@ Gender diversity policy
 
 Politique de mixité
 
+### name_es
+
+Política de diversidad de género
+
+### name_nl
+
+Genderdiversiteitsbeleid
+
+### name_it
+
+Politica di diversità di genere
+
+### name_ro
+
+Politica de diversitate de gen
+
+### name_pl
+
+Polityka różnorodności płci
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Controversial weapons
 
 Armes controversées
 
+### name_es
+
+Armas controvertidas
+
+### name_nl
+
+Controversiële wapens
+
+### name_it
+
+Armi controverse
+
+### name_ro
+
+Arme controversate
+
+### name_pl
+
+Kontrowersyjne bronie
+
 ### item_type
 
 metric

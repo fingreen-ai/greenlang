@@ -12,6 +12,26 @@ Non-renewable energy consumption proportion
 
 Proportion de la consommation d'énergie non renouvelable
 
+### name_es
+
+Proporción de consumo de energía no renovable
+
+### name_nl
+
+Niet-hernieuwbare energieconsumptie proportie
+
+### name_it
+
+Proporzione di consumo di energia non rinnovabile
+
+### name_ro
+
+Proporția consumului de energie nerenovabilă
+
+### name_pl
+
+Proporcja zużycia energii nieodnawialnej
+
 ### item_type
 
 metric

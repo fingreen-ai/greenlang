@@ -12,6 +12,26 @@ High impact climate sectors
 
 Secteurs climatiques à fort impact
 
+### name_es
+
+Sectores climáticos de alto impacto
+
+### name_nl
+
+Sectoren met een hoog klimaatimpact
+
+### name_it
+
+Settori climatici ad alto impatto
+
+### name_ro
+
+Sectoare cu impact climatic ridicat
+
+### name_pl
+
+Sektory o wysokim wpływie klimatycznym
+
 ### item_type
 
 metric

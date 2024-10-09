@@ -12,6 +12,26 @@ UN OECD guidelines violations
 
 Violation des lignes directrices de l'ONU et de l'OCDE
 
+### name_es
+
+Violaciones de las directrices de la ONU y la OCDE
+
+### name_nl
+
+Schendingen van de richtlijnen van de VN en de OESO
+
+### name_it
+
+Violazioni delle linee guida dell'ONU e dell'OCSE
+
+### name_ro
+
+Încălcări ale orientărilor ONU și OCDE
+
+### name_pl
+
+Naruszenia wytycznych ONZ i OECD
+
 ### item_type
 
 metric

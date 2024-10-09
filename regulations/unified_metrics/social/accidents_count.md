@@ -12,6 +12,26 @@ Work accidents
 
 Accidents du travail
 
+### name_es
+
+Accidentes laborales
+
+### name_nl
+
+Arbeidsongevallen
+
+### name_it
+
+Incidenti sul lavoro
+
+### name_ro
+
+Accidente de muncă
+
+### name_pl
+
+Wypadki przy pracy
+
 ### item_type
 
 metric

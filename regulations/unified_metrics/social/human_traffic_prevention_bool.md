@@ -12,6 +12,26 @@ Trafficking in human beings prevention
 
 Prévention de la traite des êtres humains
 
+### name_es
+
+Prevención de la trata de seres humanos
+
+### name_nl
+
+Preventie van mensenhandel
+
+### name_it
+
+Prevenzione della tratta di esseri umani
+
+### name_ro
+
+Prevenirea traficului de persoane
+
+### name_pl
+
+Zapobieganie handlowi ludźmi
+
 ### item_type
 
 metric

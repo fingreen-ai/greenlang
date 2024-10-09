@@ -12,6 +12,26 @@ Disabled people access
 
 Accès personnes à mobilité réduite
 
+### name_es
+
+Acceso para personas con discapacidad
+
+### name_nl
+
+Toegang voor mensen met een handicap
+
+### name_it
+
+Accesso per persone disabili
+
+### name_ro
+
+Acces pentru persoane cu dizabilități
+
+### name_pl
+
+Dostęp dla osób niepełnosprawnych
+
 ### item_type
 
 metric

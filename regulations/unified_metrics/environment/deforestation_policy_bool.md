@@ -12,6 +12,26 @@ Deforestation policy
 
 Politique de déforestation
 
+### name_es
+
+Política de deforestación
+
+### name_nl
+
+Ontbossingsbeleid
+
+### name_it
+
+Politica di deforestazione
+
+### name_ro
+
+Politica de defrișare
+
+### name_pl
+
+Polityka wylesiania
+
 ### item_type
 
 metric

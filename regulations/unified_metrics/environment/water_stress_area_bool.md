@@ -12,6 +12,26 @@ Exposure to areas of high water stress
 
 Exposition aux zones de stress hydrique élevé
 
+### name_es
+
+Exposición a áreas de alto estrés hídrico
+
+### name_nl
+
+Blootstelling aan gebieden met hoge waterstress
+
+### name_it
+
+Esposizione a zone ad alto stress idrico
+
+### name_ro
+
+Expunere la zone cu stres hidric ridicat
+
+### name_pl
+
+Narażenie na obszary o wysokim stresie wodnym
+
 ### item_type
 
 metric

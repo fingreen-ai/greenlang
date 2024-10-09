@@ -12,6 +12,26 @@ Raw materials consumption
 
 Consommation de matières premières
 
+### name_es
+
+Consumo de materias primas
+
+### name_nl
+
+Grondstoffenverbruik
+
+### name_it
+
+Consumo di materie prime
+
+### name_ro
+
+Consum de materiale prime
+
+### name_pl
+
+Konsumpcja surowców
+
 ### item_type
 
 metric

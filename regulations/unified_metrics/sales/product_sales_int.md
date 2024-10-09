@@ -12,6 +12,26 @@ Product sales count
 
 Nombre de ventes de produits
 
+### name_es
+
+Cantidad de ventas de productos
+
+### name_nl
+
+Aantal verkochte producten
+
+### name_it
+
+Numero di vendite di prodotti
+
+### name_ro
+
+Numărul de vânzări de produse
+
+### name_pl
+
+Liczba sprzedaży produktów
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Gender diversity training
 
 Formation sur la diversité des genres
 
+### name_es
+
+Formación en diversidad de género
+
+### name_nl
+
+Genderdiversiteitstraining
+
+### name_it
+
+Formazione sulla diversità di genere
+
+### name_ro
+
+Instruire în diversitate de gen
+
+### name_pl
+
+Szkolenie z różnorodności płci
+
 ### item_type
 
 metric

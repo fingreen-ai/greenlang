@@ -12,6 +12,26 @@ Lack of a supplier code of conduct
 
 Absence de code de conduite des fournisseurs
 
+### name_es
+
+Falta de un código de conducta del proveedor
+
+### name_nl
+
+Gebrek aan een leveranciersgedragscode
+
+### name_it
+
+Mancanza di un codice di condotta del fornitore
+
+### name_ro
+
+Lipsa unui cod de conduită al furnizorului
+
+### name_pl
+
+Brak kodeksu postępowania dostawcy
+
 ### item_type
 
 metric

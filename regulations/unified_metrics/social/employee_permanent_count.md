@@ -13,6 +13,26 @@ Full-time employees in permanent contract
 
 Salariés à temps plein en CDI
 
+### name_es
+
+Empleados a tiempo completo con contrato permanente
+
+### name_nl
+
+Fulltime werknemers met vast contract
+
+### name_it
+
+Dipendenti a tempo pieno con contratto a tempo indeterminato
+
+### name_ro
+
+Angajați cu normă întreagă cu contract permanent
+
+### name_pl
+
+Pracownicy na pełny etat z umową na czas nieokreślony
+
 ### index
 
 72

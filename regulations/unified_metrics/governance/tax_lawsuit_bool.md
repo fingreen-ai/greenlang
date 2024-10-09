@@ -12,6 +12,26 @@ Tax investigations
 
 Enquêtes fiscales
 
+### name_es
+
+Investigaciones fiscales
+
+### name_nl
+
+Belastingonderzoeken
+
+### name_it
+
+Indagini fiscali
+
+### name_ro
+
+Investigații fiscale
+
+### name_pl
+
+Śledztwa podatkowe
+
 ### item_type
 
 metric

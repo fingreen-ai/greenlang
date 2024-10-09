@@ -13,6 +13,26 @@ Pollutants emissions to soil
 
 Émissions de polluants dans le sol
 
+### name_es
+
+Emisiones de contaminantes al suelo
+
+### name_nl
+
+Uitstoot van verontreinigende stoffen naar de bodem
+
+### name_it
+
+Emissioni di inquinanti nel suolo
+
+### name_ro
+
+Emisiile de poluanți în sol
+
+### name_pl
+
+Emisje zanieczyszczeń do gleby
+
 ### index
 
 25

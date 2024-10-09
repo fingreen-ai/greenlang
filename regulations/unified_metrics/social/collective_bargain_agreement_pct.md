@@ -13,6 +13,26 @@ Collective bargaining agreements
 
 Conventions collectives
 
+### name_es
+
+Acuerdos de negociación colectiva
+
+### name_nl
+
+Collectieve arbeidsovereenkomsten
+
+### name_it
+
+Contratti collettivi
+
+### name_ro
+
+Contracte colective de muncă
+
+### name_pl
+
+Umowy zbiorowe
+
 ### index
 
 70

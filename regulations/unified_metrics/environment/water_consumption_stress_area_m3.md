@@ -13,6 +13,26 @@ High water stress areas water usage
 
 Zones à fort stress hydrique consommation d’eau
 
+### name_es
+
+Consumo de agua en zonas de alto estrés hídrico
+
+### name_nl
+
+Watergebruik in gebieden met hoge waterstress
+
+### name_it
+
+Utilizzo dell'acqua in aree ad alto stress idrico
+
+### name_ro
+
+Consum de apă în zonele cu stres hidric ridicat
+
+### name_pl
+
+Zużycie wody w obszarach o wysokim stresie wodnym
+
 ### index
 
 48

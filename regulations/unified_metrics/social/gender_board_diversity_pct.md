@@ -12,6 +12,26 @@ Board gender diversity
 
 Mixité au sein du conseil
 
+### name_es
+
+Diversidad de género en el consejo
+
+### name_nl
+
+Bestuursdiversiteit
+
+### name_it
+
+Diversità di genere nel consiglio
+
+### name_ro
+
+Diversitate de gen în consiliu
+
+### name_pl
+
+Różnorodność płci w zarządzie
+
 ### item_type
 
 metric

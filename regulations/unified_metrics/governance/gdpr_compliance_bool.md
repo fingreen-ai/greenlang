@@ -12,6 +12,26 @@ GDPR compliance
 
 Conformité RGPD
 
+### name_es
+
+Cumplimiento del RGPD
+
+### name_nl
+
+GDPR-naleving
+
+### name_it
+
+Conformità al GDPR
+
+### name_ro
+
+Conformitate GDPR
+
+### name_pl
+
+Zgodność z RODO
+
 ### item_type
 
 metric

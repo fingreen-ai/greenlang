@@ -12,6 +12,26 @@ Emissions of inorganic pollutants
 
 Émissions de polluants inorganiques
 
+### name_es
+
+Emisiones de contaminantes inorgánicos
+
+### name_nl
+
+Emissies van anorganische verontreinigende stoffen
+
+### name_it
+
+Emissioni di inquinanti inorganici
+
+### name_ro
+
+Emisiile de poluanți anorganici
+
+### name_pl
+
+Emisje zanieczyszczeń nieorganicznych
+
 ### item_type
 
 metric

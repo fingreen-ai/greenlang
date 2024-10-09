@@ -12,6 +12,26 @@ Whistleblower protection
 
 Protection des dénonciateurs
 
+### name_es
+
+Protección de los denunciantes
+
+### name_nl
+
+Klokkenluidersbescherming
+
+### name_it
+
+Protezione dei segnalatori
+
+### name_ro
+
+Protecția informatorilor
+
+### name_pl
+
+Ochrona informatorów
+
 ### item_type
 
 metric

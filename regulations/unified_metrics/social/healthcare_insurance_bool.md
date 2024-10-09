@@ -12,6 +12,26 @@ Healthcare insurance
 
 Assurance maladie
 
+### name_es
+
+Seguro de salud
+
+### name_nl
+
+Ziektekostenverzekering
+
+### name_it
+
+Assicurazione sanitaria
+
+### name_ro
+
+Asigurare medicală
+
+### name_pl
+
+Ubezpieczenie zdrowotne
+
 ### item_type
 
 metric

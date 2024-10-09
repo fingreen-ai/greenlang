@@ -16,6 +16,26 @@ Diversité générale des genres
 
 metric
 
+### name_es
+
+Diversidad de género general
+
+### name_nl
+
+Algemene genderdiversiteit
+
+### name_it
+
+Diversità di genere generale
+
+### name_ro
+
+Diversitate de gen generală
+
+### name_pl
+
+Ogólna różnorodność płci
+
 ### data_type
 
 float

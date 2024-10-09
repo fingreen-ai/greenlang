@@ -12,6 +12,26 @@ Non-renewable energy consumption
 
 Consommation d'énergie non renouvelable
 
+### name_es
+
+Consumo de energía no renovable
+
+### name_nl
+
+Niet-hernieuwbare energieconsumptie
+
+### name_it
+
+Consumo di energia non rinnovabile
+
+### name_ro
+
+Consum de energie nerenovabilă
+
+### name_pl
+
+Zużycie energii nieodnawialnej
+
 ### item_type
 
 metric

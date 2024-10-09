@@ -13,6 +13,26 @@ Total non-renewable electricity consumption
 
 Consommation totale d'électricité non renouvelable
 
+### name_es
+
+Consumo total de electricidad no renovable
+
+### name_nl
+
+Totaal niet-hernieuwbare elektriciteitsverbruik
+
+### name_it
+
+Consumo totale di elettricità non rinnovabile
+
+### name_ro
+
+Consum total de electricitate nerenovabilă
+
+### name_pl
+
+Całkowite zużycie energii elektrycznej z nieodnawialnych źródeł
+
 ### index
 
 31

@@ -12,6 +12,26 @@ Chemicals production
 
 Fabrication de produits chimiques
 
+### name_es
+
+Producción de productos químicos
+
+### name_nl
+
+Chemische productie
+
+### name_it
+
+Produzione
+
+### name_ro
+
+Producția de produse chimice
+
+### name_pl
+
+Produkcja
+
 ### item_type
 
 metric

@@ -12,6 +12,26 @@ Work-life balance policy
 
 Politique d'équilibre travail-vie personnelle
 
+### name_es
+
+Política de equilibrio entre trabajo y vida personal
+
+### name_nl
+
+Werk-privébalansbeleid
+
+### name_it
+
+Politica di equilibrio tra lavoro e vita privata
+
+### name_ro
+
+Politica de echilibru între viața profesională și cea personală
+
+### name_pl
+
+Polityka równowagi między pracą a życiem prywatnym
+
 ### item_type
 
 metric

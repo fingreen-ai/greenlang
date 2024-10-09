@@ -12,6 +12,26 @@ Workplace accident prevention policies
 
 Politiques de prévention des accidents du travail
 
+### name_es
+
+Políticas de prevención de accidentes laborales
+
+### name_nl
+
+Beleid ter voorkoming van arbeidsongevallen
+
+### name_it
+
+Politiche di prevenzione degli incidenti sul lavoro
+
+### name_ro
+
+Politici de prevenire a accidentelor de muncă
+
+### name_pl
+
+Polityka zapobiegania wypadkom przy pracy
+
 ### item_type
 
 metric

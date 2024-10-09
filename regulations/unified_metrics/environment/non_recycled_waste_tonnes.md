@@ -12,6 +12,26 @@ Non-recycled waste
 
 Déchets non recyclés
 
+### name_es
+
+Residuos no reciclados
+
+### name_nl
+
+Niet-gerecycleerd afval
+
+### name_it
+
+Rifiuti non riciclati
+
+### name_ro
+
+Deșeuri nereciclate
+
+### name_pl
+
+Odpady nierecyklingowane
+
 ### item_type
 
 metric

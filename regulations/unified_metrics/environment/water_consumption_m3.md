@@ -12,6 +12,26 @@ Total water withdrawal
 
 Consommation totale d'eau
 
+### name_es
+
+Extracción total de agua
+
+### name_nl
+
+Totaal waterverbruik
+
+### name_it
+
+Prelievo totale di acqua
+
+### name_ro
+
+Extragerea totală a apei
+
+### name_pl
+
+Całkowite pobranie wody
+
 ### item_type
 
 metric

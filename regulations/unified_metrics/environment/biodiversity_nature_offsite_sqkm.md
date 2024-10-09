@@ -13,6 +13,26 @@ Total nature-oriented area off site
 
 Superficie totale orientée vers la nature hors site
 
+### name_es
+
+Área total orientada a la naturaleza fuera del sitio
+
+### name_nl
+
+Totale natuur-georiënteerde oppervl
+
+### name_it
+
+Area totale orientata alla natura fuori sito
+
+### name_ro
+
+Suprafața totală orientată spre natură în afara site-ului
+
+### name_pl
+
+Całkowita powierzchnia zorientowana na naturę poza terenem
+
 ### index
 
 10
