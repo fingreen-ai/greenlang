@@ -204,22 +204,37 @@ Le terme espèce menacée fait référence à la flore et à la faune qui couren
 
 ### summary_es
 
+El término especies amenazadas se refiere a la flora y fauna que enfrentan un alto riesgo de extinción en un futuro cercano. Flora y fauna se refieren a la colección de todas las plantas y animales que viven en una región o situación ambiental particular. El indicador tiene como objetivo profundizar en los esfuerzos de la organización para identificar y minimizar los impactos negativos que puedan surgir de sus operaciones en las localidades de especies amenazadas.
+
 ### summary_nl
+
+De term bedreigde soorten verwijst naar flora en fauna die een hoog risico lopen op uitsterven in de nabije toekomst. Flora en fauna verwijzen naar de verzameling van alle planten en dieren die leven in een bepaalde regio of milieu. De indicator heeft tot doel de inspanningen van de organisatie te onderzoeken om de negatieve effecten die kunnen voortvloeien uit haar activiteiten in de lokale gebieden van bedreigde soorten te identificeren en te minimaliseren.
 
 ### summary_it
 
+Il termine specie minacciate si riferisce alla flora e alla fauna che affrontano un alto rischio di estinzione in un prossimo futuro. Flora e fauna si riferiscono alla collezione di tutte le piante e gli animali che vivono in una particolare regione o situazione ambientale. L'indicatore mira ad approfondire gli sforzi dell'organizzazione per identificare e minimizzare gli impatti negativi che possono derivare dalle sue operazioni nelle località di specie minacciate.
+
 ### summary_ro
+
+Termenul de specii amenințate se referă la flora și fauna care se confruntă cu un risc ridicat de dispariție în viitorul apropiat. Flora și fauna se referă la colecția tuturor plantelor și animalelor care trăiesc într-o anumită regiune sau situație de mediu. Indicatorul își propune să investigheze eforturile organizației de a identifica și minimiza impactul negativ care poate apărea din operațiunile sale în localitățile speciilor amenințate.
 
 ### summary_pl
 
+Termin gatunki zagrożone odnosi się do flory i fauny, które stoją w obliczu wysokiego ryzyka wyginięcia w najbliższej przyszłości. Flora i fauna odnoszą się do kolekcji wszystkich roślin i zwierząt żyjących w określonym regionie lub sytuacji środowiskowej. Wskaźnik ma na celu zgłębienie działań organizacji w celu zidentyfikowania i minimalizacji negatywnych skutków, które mogą wynikać z jej działań w lokalizacjach gatunków zagrożonych.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

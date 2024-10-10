@@ -206,22 +206,39 @@ responsable de l'environnement.
 
 ### summary_es
 
+Abordar el consumo de agua demuestra el compromiso de la empresa con la gestión ambiental
+responsable.
+
 ### summary_nl
+
+Het aanpakken van waterverbruik toont het engagement van het bedrijf voor verantwoord
+milieubeheer.
 
 ### summary_it
 
+Affrontare il consumo di acqua dimostra l'impegno dell'azienda verso una gestione responsabile dell'ambiente.
+
 ### summary_ro
+
+Abordarea consumului de apă demonstrează angajamentul companiei pentru o gestionare responsabilă a mediului.
 
 ### summary_pl
 
+Zajęcie się zużyciem wody dowodzi zaangażowania firmy w odpowiedzialne zarządzanie środowiskiem.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

@@ -246,11 +246,17 @@ Twoja firma może nabywać i zużywać paliwa kopalne takie jak: Węgiel, Olej, 
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

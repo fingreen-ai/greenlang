@@ -271,7 +271,15 @@ Obszary chronione są kluczowe dla ochrony naturalnych krajobrazów i dzikiej pr
 
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

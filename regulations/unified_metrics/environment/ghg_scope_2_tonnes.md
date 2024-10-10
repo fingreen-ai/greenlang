@@ -236,11 +236,17 @@ Zakres 2 reprezentuje pośrednie emisje gazów cieplarnianych (BKG) związane z 
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

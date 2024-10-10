@@ -225,22 +225,37 @@ rareté physique, la qualité de l’eau et l’accessibilité de l’eau.
 
 ### summary_es
 
+La exposición a zonas con alto estrés hídrico se refiere a actividades y/o operaciones que afectan a regiones con estrés hídrico. El estrés hídrico es la capacidad, o falta de ella, de satisfacer la demanda humana y ecológica de agua dulce. Tiene en cuenta la escasez física, la calidad del agua y la accesibilidad al agua.
+
 ### summary_nl
+
+Blootstelling aan gebieden met hoge waterstress heeft betrekking op activiteiten en/of operaties die van invloed zijn op regio's met waterstress. Waterstress is het vermogen, of het gebrek daaraan, om te voldoen aan de menselijke en ecologische vraag naar zoetwater. Het houdt rekening met fysieke schaarste, waterkwaliteit en de toegankelijkheid van water.
 
 ### summary_it
 
+L'esposizione a zone ad alto stress idrico si riferisce a attività e/o operazioni che interessano regioni con stress idrico. Lo stress idrico è la capacità, o la mancanza di essa, di soddisfare la domanda umana ed ecologica di acqua dolce. Considera la scarsità fisica, la qualità dell'acqua e l'accessibilità all'acqua.
+
 ### summary_ro
+
+Expunerea la zone cu stres hidric ridicat se referă la activități și/sau operațiuni care afectează regiuni cu stres hidric. Stresul hidric este capacitatea, sau lipsa acesteia, de a satisface cererea umană și ecologică de apă dulce. Acesta ia în considerare raritatea fizică, calitatea apei și accesibilitatea apei.
 
 ### summary_pl
 
+Narażenie na obszary o wysokim stresie wodnym odnosi się do działań i/lub operacji wpływających na obszary ze stresem wodnym. Stres wodny to zdolność, lub jej brak, do zaspokojenia ludzkiego i ekologicznego zapotrzebowania na wodę słodką. Uwzględnia fizyczną niedostępność, jakość wody i dostępność wody.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

@@ -217,6 +217,16 @@ Aby osiągnąć cele klimatyczne i przejść do gospodarki o niskiej emisji węg
 `"Intensité de la consommation d'énergie" = "Consommation d'énergie totale (Gwh)" / "Chiffre 
 d'affaires (€m)"`
 
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
+
 ### examples_en
 
 Suppose your organisation falls under one of the high-impact climate sectors based on EC No

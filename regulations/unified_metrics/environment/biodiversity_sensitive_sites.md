@@ -245,11 +245,17 @@ tereny podmokłe lub łąki, oraz obszary z gatunkami, dla których wyznaczono o
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

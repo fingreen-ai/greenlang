@@ -150,22 +150,37 @@ envers des pratiques de gestion responsable des déchets.
 
 ### summary_es
 
+Las empresas pueden demostrar su comprensión de su huella de residuos y su compromiso con prácticas responsables de gestión de residuos.
+
 ### summary_nl
+
+Bedrijven kunnen hun begrip van hun afvalvoetafdruk en hun toewijding aan verantwoorde afvalbeheerpraktijken aantonen.
 
 ### summary_it
 
+Le aziende possono dimostrare la loro comprensione della propria impronta di rifiuti e il loro impegno per pratiche di gestione dei rifiuti responsabili.
+
 ### summary_ro
+
+Companiile își pot demonstra înțelegerea amprentei deșeurilor și angajamentul lor față de practicile responsabile de gestionare a deșeurilor.
 
 ### summary_pl
 
+Przedsiębiorstwa mogą wykazać swoje zrozumienie śladu odpadów i swoje zaangażowanie w odpowiedzialne praktyki zarządzania odpadami.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

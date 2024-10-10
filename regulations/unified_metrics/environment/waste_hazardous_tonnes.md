@@ -520,22 +520,38 @@ caractéristiques chimiques, biologiques ou physiques.
 
 ### summary_es
 
+Los residuos peligrosos se refieren a cualquier material o sustancia de desecho que represente una amenaza sustancial para la salud humana, el medio ambiente o ambos debido a sus características químicas, biológicas o físicas.
+
 ### summary_nl
+
+Gevaarlijk afval verwijst naar elk afvalmateriaal of elke stof die een aanzienlijke bedreiging vormt voor de menselijke gezondheid, het milieu of beide vanwege de chemische, biologische of fysieke kenmerken.
 
 ### summary_it
 
+I rifiuti pericolosi si riferiscono a qualsiasi materiale o sostanza di scarto che costituisce una minaccia sostanziale per la salute umana, l'ambiente o entrambi a causa delle sue caratteristiche chimiche, biologiche o fisiche.
+
 ### summary_ro
 
+Deșeurile periculoase se referă la orice material sau substanță deșeu care reprezintă o amenințare substanțială pentru sănătatea umană, mediul înconjurător sau ambele, datorită caracteristicilor sale chimice, biologice sau fizice.
+
 ### summary_pl
+
+Odpady niebezpieczne odnoszą się do każdego materiału lub substancji odpadowej, który stanowi znaczne zagrożenie dla zdrowia ludzkiego, środowiska lub obu z powodu jego cech chemicznych, biologicznych lub fizycznych.
 
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

@@ -233,6 +233,15 @@ natury i różnorodności biologicznej.
 
 ### compute_fr
 
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 
 ### examples_en

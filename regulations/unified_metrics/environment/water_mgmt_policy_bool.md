@@ -179,22 +179,37 @@ Une politique de gestion de l'eau est un ensemble de lignes directrices et de pr
 
 ### summary_es
 
+Una política de gestión del agua es un conjunto de directrices y prácticas implementadas por una empresa para utilizar, conservar y proteger de manera responsable los recursos hídricos en sus operaciones.
+
 ### summary_nl
+
+Een waterbeheerbeleid is een reeks richtlijnen en praktijken die door een bedrijf worden geïmplementeerd om op verantwoorde wijze waterbronnen te gebruiken, te behouden en te beschermen in haar activiteiten.
 
 ### summary_it
 
+Una politica di gestione dell'acqua è un insieme di linee guida e pratiche implementate da un'azienda per utilizzare, conservare e proteggere in modo responsabile le risorse idriche nelle sue operazioni.
+
 ### summary_ro
+
+O politică de gestionare a apei este un set de linii directoare și practici implementate de o companie pentru a utiliza, conserva și proteja responsabil resursele de apă în operațiunile sale.
 
 ### summary_pl
 
+Polityka zarządzania wodą to zbiór wytycznych i praktyk wdrożonych przez firmę w celu odpowiedzialnego korzystania, ochrony i ochrony zasobów wodnych w jej działaniach.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

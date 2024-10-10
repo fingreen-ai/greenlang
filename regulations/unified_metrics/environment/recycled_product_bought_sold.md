@@ -296,22 +296,42 @@ durabilité et répondent à la demande des consommateurs pour des produits dura
 
 ### summary_es
 
+La compra y venta de bienes y materiales reciclados generalmente tiene un impacto positivo en la
+sostenibilidad y responde a la demanda de los consumidores de productos sostenibles.
+
 ### summary_nl
+
+Het kopen en verkopen van gerecycleerde goederen en materialen heeft over het algemeen een positieve
+impact op duurzaamheid en speelt in op de vraag van consumenten naar duurzame producten.
 
 ### summary_it
 
+L'acquisto e la vendita di beni e materiali riciclati hanno generalmente un impatto positivo sulla
+sostenibilità e rispondono alla domanda dei consumatori di prodotti sostenibili.
+
 ### summary_ro
+
+Achiziționarea și vânzarea de bunuri și materiale reciclate au, în general, un impact pozitiv asupra
+sustenabilității și răspund cererii consumatorilor pentru produse durabile.
 
 ### summary_pl
 
+Kupowanie i sprzedawanie recyklingowanych towarów i materiałów ma zazwyczaj pozytywny wpływ na
+zrównoważoność i odpowiada na popyt konsumentów na produkty zrównoważone.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

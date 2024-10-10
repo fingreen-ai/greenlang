@@ -144,11 +144,17 @@ Całkowite zużycie energii elektrycznej ze źródeł odnawialnych to zużycie e
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

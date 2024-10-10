@@ -196,22 +196,37 @@ appropriée.
 
 ### summary_es
 
+La clasificación de residuos implica separar los distintos tipos de residuos en la fuente o en las zonas designadas. Este proceso clasifica elementos como papel, plástico, vidrio y residuos orgánicos para facilitar su reciclaje o eliminación adecuados.
+
 ### summary_nl
+
+Afvalsortering houdt in dat verschillende soorten afvalmaterialen bij de bron of aangewezen gebieden worden gescheiden. Dit proces categoriseert items zoals papier, plastic, glas en organisch afval om een ​​goede recycling of verwijdering te vergemakkelijken.
 
 ### summary_it
 
+La separazione dei rifiuti consiste nel separare diversi tipi di materiali di rifiuto alla fonte o in aree designate. Questo processo categorizza articoli come carta, plastica, vetro e rifiuti organici per facilitare il riciclaggio o lo smaltimento corretto.
+
 ### summary_ro
+
+Sortarea deșeurilor implică separarea diferitelor tipuri de materiale deșeuri la sursă sau în zonele desemnate. Acest proces categorizează elemente precum hârtie, plastic, sticlă și deșeuri organice pentru a facilita reciclarea sau eliminarea corectă.
 
 ### summary_pl
 
+Sortowanie odpadów polega na oddzieleniu różnych rodzajów materiałów odpadowych w miejscu źródłowym lub w wyznaczonych obszarach. Proces ten kategoryzuje przedmioty, takie jak papier, plastik, szkło i odpady organiczne, aby ułatwić właściwe recykling lub utylizację.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

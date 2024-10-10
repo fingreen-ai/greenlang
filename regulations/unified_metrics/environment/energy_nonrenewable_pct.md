@@ -298,6 +298,15 @@ Odnawialne źródła energii, takie jak wiatr, słońce i energia wodna, są zr�
 
 `Share = (nrC + nrP) / (rC + rP)`
 
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

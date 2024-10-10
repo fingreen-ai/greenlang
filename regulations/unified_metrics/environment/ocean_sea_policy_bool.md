@@ -205,22 +205,37 @@ concentre particulièrement sur cette question.
 
 ### summary_es
 
+Para que los océanos y los mares sean sostenibles es necesario contar con estrategias de gestión integral que aborden algunas de las cuestiones más importantes, como las regulaciones pesqueras, la contaminación y el cambio climático. El Objetivo de Desarrollo Sostenible 14 de las Naciones Unidas: Vida submarina se centra especialmente en esta cuestión.
+
 ### summary_nl
+
+Duurzame oceanen en zeeën vereisen uitgebreide beheerstrategieën die een aantal van de belangrijkste kwesties aanpakken, waaronder visserijvoorschriften, vervuiling en klimaatverandering. De Sustainable Development Goal 14 van de VN: Life Below Water richt zich met name op dit probleem.
 
 ### summary_it
 
+Oceani e mari sostenibili richiedono strategie di gestione complete che affrontino alcune delle questioni più importanti, tra cui regolamenti sulla pesca, inquinamento e cambiamenti climatici. L'Obiettivo di Sviluppo Sostenibile 14 delle Nazioni Unite: Vita sottomarina si concentra particolarmente su questa questione.
+
 ### summary_ro
+
+Oceanele și mările durabile necesită strategii de gestionare cuprinzătoare care abordează unele dintre cele mai importante probleme, inclusiv reglementările privind pescuitul, poluarea și schimbările climatice. Obiectivul de Dezvoltare Durabilă 14 al ONU: Viața sub apă se concentrează în special pe această problemă.
 
 ### summary_pl
 
+Zrównoważone oceany i morza wymagają kompleksowych strategii zarządzania, które adresują niektóre z najważniejszych kwestii, w tym przepisy dotyczące rybołówstwa, zanieczyszczenie i zmiany klimatyczne. Cel Zrównoważonego Rozwoju ONZ 14: Życie pod wodą skupia się szczególnie na tym problemie.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

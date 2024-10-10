@@ -224,22 +224,47 @@ recyclage.
 
 ### summary_es
 
+Los residuos reciclados se refieren a los materiales de desecho que se someten a un proceso para
+ser reutilizados, mientras que los residuos no reciclados abarcan los desechos que no han sido
+sometidos a procedimientos de reciclaje.
+
 ### summary_nl
+
+Gerecycleerd afval verwijst naar afvalmaterialen die een proces ondergaan om opnieuw te worden
+gebruikt, terwijl niet-gerecycleerd afval afval omvat dat geen recyclageprocedures heeft
+ondergaan.
 
 ### summary_it
 
+I rifiuti riciclati si riferiscono a materiali di scarto che subiscono un processo per essere
+riutilizzati, mentre i rifiuti non riciclati comprendono rifiuti che non hanno subito procedure di
+riciclaggio.
+
 ### summary_ro
+
+Deșeurile reciclate se referă la materialele reziduale care trec printr-un proces pentru a fi
+refolosite, în timp ce deșeurile nereciclate cuprind deșeuri care nu au trecut prin proceduri de
+reciclare.
 
 ### summary_pl
 
+Odpady poddane recyklingowi odnoszą się do materiałów odpadowych, które przechodzą proces
+ponownego wykorzystania, podczas gdy odpady nierecyklingowane obejmują odpady, które nie
+przeszły procedur recyklingu.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

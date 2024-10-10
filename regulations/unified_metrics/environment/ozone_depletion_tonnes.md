@@ -195,22 +195,40 @@ progressivement la production et l’utilisation de substances telles que les ch
 
 ### summary_es
 
+"Substancias que agotan la capa de ozono" significa sustancias enumeradas en el Protocolo de Montreal
+sobre Sustancias que Agotan la Capa de Ozono. El Protocolo tiene como objetivo eliminar la producción
+y el uso de sustancias como los clorofluorocarbonos (CFC), los halones y otros productos químicos de
+transición.
+
 ### summary_nl
+
+"Ozonafbrekende stoffen" betekent stoffen die zijn opgenomen in het Montreal Protocol inzake stoffen die de ozonlaag afbreken. Het protocol heeft als doel de productie en het gebruik van stoffen zoals chloorfluorkoolstoffen (CFK's), halonen en andere overgangschemicaliën geleidelijk af te schaffen.
 
 ### summary_it
 
+Le "sostanze che impoveriscono l'ozono" sono sostanze elencate nel Protocollo di Montreal sulle sostanze che impoveriscono l'ozono. Il Protocollo mira a eliminare progressivamente la produzione e l'uso di sostanze come i clorofluorocarburi (CFC), gli alogenuri e altri prodotti chimici di transizione.
+
 ### summary_ro
+
+"Substanțele care epuizează stratul de ozon" înseamnă substanțe listate în Protocolul de la Montreal privind substanțele care epuizează stratul de ozon. Protocolul își propune să elimine treptat producția și utilizarea substanțelor precum clorofluorocarburile (CFC), halonii și alte substanțe chimice de tranziție.
 
 ### summary_pl
 
+"Substancje niszczące warstwę ozonową" oznaczają substancje wymienione w Protokole z Montrealu dotyczącym substancji niszczących warstwę ozonową. Protokół ma na celu stopniowe wycofywanie produkcji i stosowania substancji, takich jak chlorofluorowęglowodory (CFC), halony i inne substancje przejściowe.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

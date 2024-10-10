@@ -178,22 +178,37 @@ processus industriels.
 
 ### summary_es
 
+El reciclaje de agua implica el tratamiento y la reutilización de aguas residuales para diversos fines, lo que reduce la demanda de fuentes de agua no utilizadas. La reutilización del agua se refiere al uso de agua tratada para diferentes aplicaciones, como el riego o los procesos industriales.
+
 ### summary_nl
+
+Waterrecycling houdt in dat afvalwater wordt behandeld en hergebruikt voor verschillende doeleinden, waardoor de vraag naar ongebruikte waterbronnen wordt verminderd. Waterhergebruik verwijst naar het gebruik van behandeld water voor verschillende toepassingen, zoals irrigatie of industriële processen.
 
 ### summary_it
 
+Il riciclo dell'acqua comporta il trattamento e il riutilizzo delle acque reflue per vari scopi, riducendo la domanda di fonti d'acqua inutilizzate. Il riutilizzo dell'acqua si riferisce all'uso di acqua trattata per diverse applicazioni, come l'irrigazione o i processi industriali.
+
 ### summary_ro
+
+Reciclarea apei implică tratarea și refolosirea apelor uzate pentru diverse scopuri, reducând astfel cererea pentru surse de apă neutilizate. Reutilizarea apei se referă la utilizarea apei tratate pentru diferite aplicații, cum ar fi irigarea sau procesele industriale.
 
 ### summary_pl
 
+Recykling wody polega na oczyszczaniu i ponownym wykorzystywaniu ścieków do różnych celów, zmniejszając zapotrzebowanie na nieużywane źródła wody. Ponowne wykorzystanie wody odnosi się do wykorzystania oczyszczonej wody do różnych zastosowań, takich jak nawadnianie czy procesy przemysłowe.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

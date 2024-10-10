@@ -453,22 +453,37 @@ Les entreprises peuvent démontrer leur engagement en faveur d’une gestion res
 
 ### summary_es
 
+Las empresas pueden demostrar su compromiso con la gestión responsable del agua y el impacto local.
+
 ### summary_nl
+
+Bedrijven kunnen hun toewijding aan verantwoord waterbeheer en lokale impact aantonen.
 
 ### summary_it
 
+Le aziende possono dimostrare il loro impegno per una gestione responsabile dell'acqua e un impatto locale.
+
 ### summary_ro
+
+Companiile pot demonstra angajamentul lor față de gestionarea responsabilă a apei și impactul local.
 
 ### summary_pl
 
+Firmy mogą wykazać swoje zaangażowanie w odpowiedzialne zarządzanie wodą i lokalny wpływ.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

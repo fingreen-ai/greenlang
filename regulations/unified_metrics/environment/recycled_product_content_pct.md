@@ -425,22 +425,47 @@ réduction des déchets.
 
 ### summary_es
 
+Aumentar el contenido reciclable en productos y envases es una prioridad ESG ya que reduce la
+dependencia de materiales vírgenes, promueve una economía circular y contribuye a la reducción de
+residuos.
+
 ### summary_nl
+
+Het verhogen van de recyclebare inhoud in producten en verpakkingen is een prioriteit op het gebied
+van ESG, omdat het de afhankelijkheid van maagdelijke materialen vermindert, een circulaire economie
+bevordert en bijdraagt aan afvalvermindering.
 
 ### summary_it
 
+Aumentare il contenuto riciclabile nei prodotti e negli imballaggi è una priorità ESG poiché riduce
+la dipendenza dai materiali vergini, promuove un'economia circolare e contribuisce alla riduzione dei
+rifiuti.
+
 ### summary_ro
+
+Creșterea conținutului reciclabil în produse și ambalaje este o prioritate ESG deoarece reduce
+dependența de materiale virgine, promovează o economie circulară și contribuie la reducerea
+deșeurilor.
 
 ### summary_pl
 
+Zwiększenie zawartości nadającej się do recyklingu w produktach i opakowaniach jest priorytetem ESG,
+ponieważ zmniejsza zależność od materiałów dziewiczych, promuje gospodarkę o obiegu zamkniętym i
+przyczynia się do redukcji odpadów.
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

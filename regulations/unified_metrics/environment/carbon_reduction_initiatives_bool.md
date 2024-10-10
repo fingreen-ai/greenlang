@@ -260,11 +260,17 @@ Inicjatywy zmniejszania emisji dwutlenku węgla oznaczają projekty i/lub rozwi�
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

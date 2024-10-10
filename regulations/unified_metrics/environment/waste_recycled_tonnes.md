@@ -189,32 +189,43 @@ ressources sont des aspects clés du pilier environnemental de l'ESG.
 
 ### summary_es
 
-### summary_nl
-
-### summary_it
-
-### summary_ro
-
-### summary_pl
-
-### summary_es
+El compromiso de la empresa con la reducción de residuos y la conservación de recursos son aspectos
+clave del pilar ambiental de ESG.
 
 ### summary_nl
 
+Het engagement van het bedrijf voor afvalvermindering en grondstoffenbesparing, zijn belangrijke
+aspecten van de milieupilaar van ESG.
+
 ### summary_it
+
+L'impegno dell'azienda per la riduzione dei rifiuti e la conservazione delle risorse sono aspetti
+chiave del pilastro ambientale di ESG.
 
 ### summary_ro
 
+Angajamentul companiei pentru reducerea deșeurilor și conservarea resurselor, sunt aspecte cheie ale
+pilonului de mediu al ESG.
+
 ### summary_pl
+
+Zaangażowanie firmy w redukcję odpadów i ochronę zasobów, są kluczowymi aspektami filaru
+środowiskowego zasad ESG.
 
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 

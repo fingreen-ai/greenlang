@@ -336,11 +336,17 @@ Zakres 1 reprezintă emisiile de gaze cu efect de seră (GES), de obicei exprima
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
 
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 ### examples_en
 
