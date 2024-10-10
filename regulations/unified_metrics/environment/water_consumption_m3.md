@@ -65,7 +65,6 @@ water_mgmt
 
 ### description_en
 
-
 This water withdrawal is total volume in m3 of freshwater that the organization withdrew across the
 globe during the period. The sources include:  
 
@@ -79,10 +78,7 @@ globe during the period. The sources include:
 
  - Third-party water  
 
-
-
 ### description_fr
-
 
 Ce prélèvement d'eau est le volume total en m3 d'eau douce que l'organisation a prélevé à travers le
 globe au cours de la période. Les sources incluent:  
@@ -97,7 +93,77 @@ globe au cours de la période. Les sources incluent:
 
  - Eau tierce  
 
+### description_es
 
+Esta extracción de agua es el volumen total en m3 de agua dulce que la organización extrajo en todo el
+mundo durante el período. Las fuentes incluyen:  
+
+ - Agua superficial  
+
+ - Agua subterránea  
+
+ - Agua de mar  
+
+ - Agua producida  
+
+ - Agua de terceros  
+
+### description_nl
+
+Deze wateronttrekking is het totale volume in m3 zoetwater dat de organisatie over de hele wereld onttrok gedurende de periode. De bronnen omvatten:
+
+- Oppervlaktewater
+
+- Grondwater
+
+- Zeewater
+
+- Geproduceerd water
+
+- Water van derden
+
+### description_it
+
+Questo prelievo idrico è il volume totale in m3 di acqua dolce che l'organizzazione ha prelevato in tutto il mondo durante il periodo. Le fonti includono:
+
+- Acqua di superficie
+
+- Acqua di falda
+
+- Acqua di mare
+
+- Acqua prodotta
+
+- Acqua di terze parti
+
+### description_ro
+
+Această extragere a apei este volumul total în m3 de apă dulce pe care organizația l-a extras la nivel global în perioada respectivă. Sursele includ:
+
+- Apa de suprafață
+
+- Apa subterană
+
+- Apa de mare
+
+- Apa produsă
+
+- Apa de la terți
+
+### description_pl
+
+To jest całkowite pobranie wody w m3 słodkiej wody, które firma pobrała na całym świecie w
+danym okresie. Źródła obejmują:
+
+- Wody powierzchniowe
+
+- Wody gruntowe
+
+- Wody morskie
+
+- Wody produkcyjne
+
+- Wody pochodzące od osób trzecich
 
 ### value_question_en
 
@@ -108,6 +174,26 @@ How much water did the company consume, during the period?
 Quelle quantité d'eau l'entreprise a-t-elle consommée au cours de la
 période?
 
+### value_question_es
+
+¿Cuánta agua consumió la empresa durante el período?
+
+### value_question_nl
+
+Hoeveel water heeft het bedrijf verbruikt in de betreffende periode?
+
+### value_question_it
+
+Quanta acqua ha consumato l'azienda durante il periodo considerato?
+
+### value_question_ro
+
+Câtă apă a consumat compania în timpul perioadei?
+
+### value_question_pl
+
+Ile wody zużyła firma w okresie?
+
 ### summary_en
 
 Addressing water consumption demonstrates the company's commitment to responsible environmental
@@ -117,6 +203,17 @@ stewardship.
 
 La lutte contre la consommation d'eau démontre l'engagement de l'entreprise en faveur d'une gestion
 responsable de l'environnement.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

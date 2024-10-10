@@ -86,15 +86,109 @@ Selon le (UE) 2022/1288 du 6 avril 2022, il est défini comme "Part des investis
 entreprises dans lesquelles nous investissons sans pratiques ou politiques durables en matière
 d'océans/mers".
 
+### description_es
+
+El objetivo del indicador es evaluar si una organización ha adoptado políticas o prácticas
+para océanos y mares sostenibles.
+
+El [Observatorio de la Economía Azul](https://blue-economy-observatory.ec.europa.eu/eu-blue-economy-sectors_en)
+de la UE proporciona datos detallados de todas las actividades económicas sectoriales e
+intersectoriales basadas en o relacionadas con los océanos, mares y costas.
+
+**Definición reglamentaria**
+
+Según la (UE) 2022/1288 del 6 de abril de 2022, se define como "Porcentaje de inversiones en
+empresas participadas sin prácticas o políticas sostenibles en materia de océanos y mares".
+
+### description_nl
+
+Het doel van de indicator is om te beoordelen of een organisatie beleid of praktijken heeft
+aangenomen voor duurzame oceanen en zeeën.
+
+De [Blue Economy Observatory](https://blue-economy-observatory.ec.europa.eu/eu-blue-economy-sectors_en)
+van de EU levert gedetailleerde gegevens voor alle sectorale en intersectorale economische
+activiteiten die gebaseerd zijn op of verband houden met de oceanen, zeeën en kusten.
+
+**Wettelijke definitie**
+
+Volgens (EU) 2022/1288 van 6 april 2022 wordt dit gedefinieerd als "Aandeel van investeringen in
+deelnemingen zonder duurzame oceanen/zeeën praktijken of beleid".
+
+### description_it
+
+Lo scopo dell'indicatore è valutare se un'organizzazione ha adottato politiche o pratiche per
+oceani e mari sostenibili.
+
+Il [Blue Economy Observatory](https://blue-economy-observatory.ec.europa.eu/eu-blue-economy-sectors_en)
+dell'UE fornisce dati dettagliati per tutte le attività economiche settoriali e
+intersettoriali basate su o collegate agli oceani, ai mari e alle coste.
+
+**Definizione regolamentare**
+
+Secondo il (UE) 2022/1288 del 6 aprile 2022, è definito come "Quota di investimenti in società
+partecipate senza pratiche o politiche sostenibili in materia di oceani e mari".
+
+### description_ro
+
+Scopul indicatorului este de a evalua dacă o organizație a adoptat politici sau practici
+pentru oceane și mări durabile.
+
+[Observatorul Economiei Albastre](https://blue-economy-observatory.ec.europa.eu/eu-blue-economy-sectors_en)
+al UE furnizează date detaliate pentru toate activitățile economice sectoriale și
+intersectoriale bazate pe sau legate de oceane, mări și coaste.
+
+**Definiție regulamentară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, acesta este definit ca „Cota investițiilor în
+companiile investite fără practici sau politici durabile în ceea ce privește oceanele/mările”.
+
+### description_pl
+
+Wskaźnik ten ma na celu ocenę, czy organizacja przyjęła politykę lub praktyki w zakresie
+zrównoważonych oceanów i mórz.
+
+[Obserwatorium Błękitnej Gospodarki](https://blue-economy-observatory.ec.europa.eu/eu-blue-economy-sectors_en)
+UE dostarcza szczegółowe dane dotyczące wszystkich sektorowych i międzysektorowych
+działań gospodarczych opartych na lub związanych z oceanami, morzami i wybrzeżami.
+
+**Definicja regulacyjna**
+
+Zgodnie z rozporządzeniem delegowanym (UE) 2022/1288 z dnia 6 kwietnia 2022 r.
+uzupełniającym rozporządzenie (UE) 2019/2088 Parlamentu Europejskiego i Rady w
+odniesieniu do standardów technicznych w zakresie regulacji określających
+szczegółowe informacje dotyczące treści i prezentacji informacji w związku z
+zasadą niedochodzenia do znacznego szkodzenia, definiuje się ją jako „Udział
+inwestycji w spółki zależne bez zrównoważonych praktyk lub polityki w zakresie
+oceanów/mórz”.
+
 ### value_question_en
 
 Did the company have sustainable oceans and seas practices or policies, during the period?
 
 ### value_question_fr
 
-
 L'entreprise avait-elle des pratiques ou des politiques durables en matière d'océans et mers,
 au cours de la période?
+
+### value_question_es
+
+¿La empresa tuvo prácticas o políticas sostenibles para los océanos y mares, durante el período?
+
+### value_question_nl
+
+Had het bedrijf duurzame praktijken of beleid voor oceanen en zeeën, gedurende de periode?
+
+### value_question_it
+
+L'azienda ha avuto pratiche o politiche sostenibili per oceani e mari, durante il periodo?
+
+### value_question_ro
+
+A avut compania practici sau politici durabile pentru oceane și mări, în timpul perioadei?
+
+### value_question_pl
+
+Czy firma miała zrównoważone praktyki lub politykę dla oceanów i mórz, w okresie?
 
 ### summary_en
 
@@ -108,6 +202,17 @@ La durabilité des océans et des mers nécessite des stratégies de gestion glo
 des questions les plus importantes, notamment la réglementation de la pêche, la pollution et le
 changement climatique. L’objectif de développement durable 14 de l’ONU : La vie sous l’eau se
 concentre particulièrement sur cette question.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

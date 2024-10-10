@@ -58,7 +58,6 @@ emissions_ghg
 
 ### description_en
 
-
 Net-zero standards require companies to cut their GHG or greenhouse gas emissions to as close to
 zero as possible. The EU Green Deal, accompanied by European Climate Law, puts forward an ambitious
 goal of being the first climate-neutral continent by 2050 while slashing its emissions by 55 per
@@ -71,9 +70,7 @@ or sulphur dioxide – that are removed from the atmosphere being equal to those
 activity. Emissions reductions would generally follow a certain trajectory, e.g. 1.5°C. Any
 residual emissions would generally focus on GHG sequestration from the atmosphere.
 
-
 ### description_fr
-
 
 Les normes de carboneutralité obligent les entreprises à réduire leurs émissions de GES ou de gaz
 à effet de serre aussi près de zéro que possible. Le Green Deal de l’UE, accompagné de la loi
@@ -89,6 +86,82 @@ sont égales à celles émises par l’activité humaine. Les réductions d’é
 généralement une certaine trajectoire, par ex. 1,5°C. Toutes les émissions résiduelles se
 concentreraient généralement sur la séquestration des GES de l’atmosphère.
 
+### description_es
+
+Los estándares de cero emisiones netas exigen que las empresas reduzcan sus emisiones de GEI o gases de efecto invernadero lo más cerca posible de
+cero. El Pacto Verde de la UE, acompañado de la Ley Europea del Clima, plantea un ambicioso objetivo
+de ser el primer continente climáticamente neutro para 2050, al tiempo que reduce sus emisiones en un 55
+por ciento para 2030 en comparación con los niveles de 1990.
+
+**Definición regulatoria**
+
+Cero emisiones netas se refiere a la cantidad de gases de efecto invernadero (GEI), como el dióxido de carbono (CO2), el metano
+o el dióxido de azufre, que se eliminan de la atmósfera y son iguales a los emitidos por la actividad
+humana. Las reducciones de emisiones generalmente seguirían una trayectoria determinada, por ejemplo, 1,5 °C. Cualquier
+emisión residual generalmente se centraría en el secuestro de GEI de la atmósfera.
+
+### description_nl
+
+Netto-nulstandaarden vereisen dat bedrijven hun uitstoot van broeikasgassen (BKG) zo dicht mogelijk
+bij nul brengen. De Europese Green Deal, vergezeld van de Europese klimaatwet, stelt een
+ambitieus doel voor om tegen 2050 het eerste klimaatneutrale continent te worden, terwijl de
+emissies tegen 2030 met 55 procent worden teruggebracht ten opzichte van de niveaus van 1990.
+
+**Wettelijke definitie**
+
+Netto nul verwijst naar de hoeveelheid broeikasgassen (BKG) - zoals kooldioxide (CO2), methaan
+of zwaveldioxide - die uit de atmosfeer worden verwijderd, die gelijk is aan die die worden
+uitgestoten door menselijke activiteiten. Emissiereducties zouden over het algemeen een
+bepaalde traject volgen, bijvoorbeeld 1,5 °C. Alle resterende emissies zouden zich
+over het algemeen richten op de opslag van BKG uit de atmosfeer.
+
+### description_it
+
+Gli standard di emissioni nette zero richiedono alle aziende di ridurre le loro emissioni di
+GES o gas serra il più vicino possibile a zero. Il Green Deal dell'UE, accompagnato dalla legge
+europea sul clima, propone un obiettivo ambizioso: diventare il primo continente
+climaticamente neutro entro il 2050, riducendo le emissioni del 55% entro il 2030 rispetto ai
+livelli del 1990.
+
+**Definizione regolamentare**
+
+Netto zero si riferisce alla quantità di gas serra (GES) - come l'anidride carbonica (CO2), il
+metano o l'anidride solforosa - che vengono rimossi dall'atmosfera ed è uguale a quella emessa
+dall'attività umana. Le riduzioni delle emissioni seguirebbero generalmente una certa
+traiettoria, ad esempio 1,5 °C. Tutte le emissioni residue si concentrerebbero generalmente
+sulla sequestrazione dei GES dall'atmosfera.
+
+### description_ro
+
+Standardele Net Zero impun companiilor să își reducă emisiile de GES sau gaze cu efect de seră
+cât mai aproape de zero. Pactul Verde al UE, însoțit de Legea europeană privind clima, prezintă un
+obiectiv ambițios de a deveni primul continent neutru din punct de vedere climatic până în 2050,
+în timp ce își reduce emisiile cu 55% până în 2030, comparativ cu nivelurile din 1990.
+
+**Definiție regulamentară**
+
+Net Zero se referă la cantitatea de gaze cu efect de seră (GES) – cum ar fi dioxidul de carbon
+(CO2), metanul sau dioxidul de sulf – care sunt eliminate din atmosferă, fiind egală cu cea
+emisă de activitatea umană. Reducerea emisiilor ar urma, în general, o anumită traiectorie, de
+exemplu 1,5 °C. Orice emisii reziduale s-ar concentra, în general, pe sechestrarea GES din
+atmosferă.
+
+### description_pl
+
+Standardy emisji netto-zero wymagają od firm redukcji emisji gazów cieplarnianych (GHG) do
+najniższego możliwego poziomu. Europejski Zielony Ład, wraz z Europejskim Prawem Klimatycznym,
+wyznacza ambitny cel, jakim jest bycie pierwszym kontynentem neutralnym pod względem emisji
+klimatycznych do 2050 roku, jednocześnie zmniejszając emisję o 55% do 2030 roku w porównaniu
+z poziomami z 1990 roku.
+
+**Definicja regulacyjna**
+
+Netto-zero odnosi się do ilości gazów cieplarnianych (GHG) – takich jak dwutlenek węgla (CO2),
+metan lub dwutlenek siarki – które są usuwane z atmosfery, będąc równe tym emitowanym przez
+działalność człowieka. Redukcja emisji zazwyczaj przebiegałaby według określonej
+trajektorii, np. 1,5°C. Wszelkie emisje pozostałe zazwyczaj koncentrowałyby się na
+sequestration GHG z atmosfery.
+
 ### value_question_en
 
 Does the company have a target date to reach Net-Zero GHG emissions
@@ -99,6 +172,27 @@ during the period?
 L'entreprise a-t-elle une date cible pour atteindre les émissions nettes
 de GES au cours de la période ?
 
+### value_question_es
+
+¿Tiene la empresa una fecha objetivo para alcanzar las emisiones netas de GEI durante el período?
+
+### value_question_nl
+
+Heeft het bedrijf een streefdatum om netto-nuluitstoot van broeikasgassen te bereiken tijdens de
+periode?
+
+### value_question_it
+
+L'azienda ha una data obiettivo per raggiungere le emissioni nette zero di GES durante il periodo?
+
+### value_question_ro
+
+Compania are o dată țintă pentru a atinge emisiile nete zero de GES în timpul perioadei?
+
+### value_question_pl
+
+Czy firma ma datę docelową osiągnięcia emisji netto-zero gazów cieplarnianych w okresie?
+
 ### summary_en
 
 A net-zero emissions balance is achieved when the amount of greenhouse gas released into the
@@ -108,6 +202,31 @@ atmosphere is neutralized.
 
 Un bilan d’émissions nettes nulles est atteint lorsque la quantité de gaz à effet de serre rejetée
 dans l’atmosphère est neutralisée.
+
+### summary_es
+
+Se logra un equilibrio de emisiones netas cero cuando la cantidad de gases de efecto invernadero
+liberados en la atmósfera se neutraliza.
+
+### summary_nl
+
+Een netto-nuluitstootbalans wordt bereikt wanneer de hoeveelheid broeikasgas die in de atmosfeer
+wordt vrijgegeven, wordt geneutraliseerd.
+
+### summary_it
+
+Un bilancio delle emissioni nette zero si raggiunge quando la quantità di gas serra rilasciata
+nell'atmosfera viene neutralizzata.
+
+### summary_ro
+
+Un echilibru al emisiilor nete zero este atins atunci când cantitatea de gaze cu efect de seră
+eliberată în atmosferă este neutralizată.
+
+### summary_pl
+
+Bilans emisji netto-zero jest osiągany, gdy ilość gazów cieplarnianych wypuszczonych do atmosfery
+jest zneutralizowana.
 
 ### compute_en
 

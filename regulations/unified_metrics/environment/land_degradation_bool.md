@@ -84,19 +84,127 @@ l'UE. Vous pouvez vérifier si vos activités relèvent des zones concernées.
 
 **Définition réglementaire**
 
-Selon le (UE) 2022/1288 du 6 avril 2022, il est défini comme "Part des investissements dans des entreprises dans lesquelles nous investissons et dont les activités entraînent une dégradation des terres, une désertification ou une imperméabilisation des sols".
+Selon le (UE) 2022/1288 du 6 avril 2022, il est défini comme "Part des investissements dans des
+entreprises dans lesquelles nous investissons et dont les activités entraînent une dégradation des terres, une désertification ou une imperméabilisation des sols".
+
+
+### description_es
+
+El indicador evalúa las inversiones de la organización en empresas que participan en actividades que
+contribuyen a los efectos perjudiciales de la tierra antes mencionados.
+
+Como parte de su compromiso con la gestión sostenible del suelo y la prevención de la desertificación, la UE
+ha desarrollado una herramienta denominada [Observatorio del Suelo de la UE (EUSO)](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
+que proporciona datos sobre la proporción de tierras afectadas por la degradación del suelo en la UE. Puede
+comprobar si sus actividades se encuentran en las zonas afectadas.
+
+**Definición reglamentaria**
+
+Según la (UE) 2022/1288 del 6 de abril de 2022, se define como "Proporción de inversiones en empresas participadas
+cuyas actividades causan degradación de la tierra, desertificación o sellado del suelo".
+
+### description_nl
+
+De indicator beoordeelt de investeringen van de organisatie in bedrijven die betrokken zijn bij
+activiteiten die bijdragen aan de bovengenoemde nadelige effecten van land.
+
+Als onderdeel van zijn inzet voor duurzaam bodembeheer en het voorkomen van
+woestijnvorming, heeft de EU een tool ontwikkeld genaamd [EU Soil Observatory (EUSO)](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
+die gegevens levert over het aandeel van het land dat in de EU wordt getroffen door
+bodemdegradatie. U kunt controleren of uw activiteiten in de getroffen gebieden vallen.
+
+**Wettelijke definitie**
+
+Volgens (EU) 2022/1288 van 6 april 2022 wordt dit gedefinieerd als "Aandeel van investeringen in
+deelnemingen waarvan de activiteiten landdegradatie, woestijnvorming of
+bodemafdichting veroorzaken".
+
+### description_it
+
+L'indicatore valuta gli investimenti dell'organizzazione in aziende coinvolte in attività che
+contribuiscono agli effetti dannosi del territorio sopra menzionati.
+
+Come parte del suo impegno per una gestione sostenibile del suolo e la prevenzione della
+desertificazione, l'UE ha sviluppato uno strumento chiamato [EU Soil Observatory (EUSO)](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
+che fornisce dati sulla percentuale di territorio colpito dalla degradazione del suolo nell'UE. È
+possibile verificare se le proprie attività rientrano nelle aree colpite.
+
+**Definizione regolamentare**
+
+Secondo il (UE) 2022/1288 del 6 aprile 2022, è definito come "Quota di investimenti in società
+partecipate le cui attività causano degrado del suolo, desertificazione o sigillatura del
+suolo".
+
+### description_ro
+
+Indicatoarele evaluează investițiile organizației în companii implicate în activități care
+contribuie la efectele dăunătoare ale terenurilor menționate mai sus.
+
+Ca parte a angajamentului său pentru gestionarea durabilă a solului și prevenirea
+deșertificării, UE a dezvoltat un instrument numit [EU Soil Observatory (EUSO)](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
+care furnizează date pentru proporția de teren afectată de degradarea solului în UE. Puteți
+verifica dacă activitățile dumneavoastră se încadrează în zonele afectate.
+
+**Definiție regulamentară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, aceasta este definită ca „Cota investițiilor în
+companiile investite ale căror activități cauzează degradarea terenurilor, deșertificarea sau
+etanșarea solului".
+
+### description_pl
+
+Wskaźnik ten ma na celu ocenę inwestycji organizacji w spółki zaangażowane w działalność,
+która przyczynia się do wyżej wymienionych szkodliwych skutków dla ziemi.
+
+W ramach swojego zaangażowania w zrównoważone zarządzanie glebą i zapobieganie
+pustynnieniu UE opracowała narzędzie o nazwie [EU Soil Observatory (EUSO)](https://esdac.jrc.ec.europa.eu/esdacviewer/euso-dashboard/)
+które dostarcza danych na temat udziału gruntów dotkniętych degradacją gleby w UE. Możesz
+sprawdzić, czy Twoje działania mieszczą się w obszarach dotkniętych.
+
+**Definicja regulacyjna**
+
+Zgodnie z rozporządzeniem delegowanym (UE) 2022/1288 z dnia 6 kwietnia 2022 r.
+uzupełniającym rozporządzenie (UE) 2019/2088 Parlamentu Europejskiego i Rady w
+odniesieniu do standardów technicznych w zakresie regulacji określających
+szczegółowe informacje dotyczące treści i prezentacji informacji w związku z
+zasadą niedochodzenia do znacznego szkodzenia, definiuje się ją jako „Udział
+inwestycji w spółki zależne, których działalność powoduje degradację ziemi,
+pustynnienie lub uszczelnianie gleby".
 
 ### value_question_en
-
 
 Did the company have activities of which cause land degradation, desertification or soil sealing,
 during the period?
 
 ### value_question_fr
 
-
 L'entreprise a-t-elle eu des activités qui provoquent la dégradation des terres, la désertification
 ou l'imperméabilisation des sols, au cours de la période?
+
+### value_question_es
+
+¿Tuvo la empresa actividades que causaron degradación de la tierra, desertificación o sellado del
+suelo, durante el período?
+
+### value_question_nl
+
+Heeft het bedrijf activiteiten gehad die leiden tot landdegradatie, woestijnvorming of bodemafdichting,
+gedurende de periode?
+
+### value_question_it
+
+L'azienda ha avuto attività che causano degrado del suolo, desertificazione o sigillatura del suolo,
+durante il periodo?
+
+### value_question_ro
+
+Compania a avut activități care au cauzat degradarea terenurilor, deșertificare sau etanșare a solului,
+în timpul perioadei?
+
+### value_question_pl
+
+Czy firma prowadziła działalność, która powoduje degradację ziemi, pustynnienie lub uszczelnianie gleby,
+w okresie?
 
 ### summary_en
 
@@ -114,6 +222,27 @@ processus par lequel les terres fertiles se transforment en désert aride en rai
 facteurs comme la déforestation. L’imperméabilisation des sols consiste à recouvrir le sol de
 matériaux imperméables, entravant ses fonctions naturelles et contribuant aux problèmes
 environnementaux liés à l’urbanisation.
+
+### summary_es
+
+La degradación de la tierra se refiere al deterioro de la calidad de la tierra, lo que afecta la productividad de la tierra y las funciones del ecosistema. La desertificación es el proceso por el cual la tierra fértil se convierte en un desierto árido debido a diversos factores, como la deforestación. El sellado del suelo implica cubrirlo con materiales impermeables, lo que dificulta sus funciones naturales y contribuye a los problemas ambientales relacionados con la urbanización.
+
+### summary_nl
+
+Landdegradatie verwijst naar de verslechtering van de kwaliteit van het land, met gevolgen voor de productiviteit van het land en de ecosysteemfuncties. Woestijnvorming is het proces waarbij vruchtbare grond verandert in een droge woestijn als gevolg van verschillende factoren zoals ontbossing. Bodemafdichting houdt in dat de bodem wordt bedekt met ondoordringbare materialen, waardoor de natuurlijke functies worden belemmerd en bijdraagt aan milieuproblemen die verband houden met verstedelijking.
+
+### summary_it
+
+La degradazione del suolo si riferisce al deterioramento della qualità del suolo, con impatto sulla produttività del suolo e sulle funzioni degli ecosistemi. La desertificazione è il processo per cui il terreno fertile si trasforma in un deserto arido a causa di vari fattori come la deforestazione. La sigillatura del suolo comporta la copertura del suolo con materiali impermeabili, ostacolando le sue funzioni naturali e contribuendo a problemi ambientali correlati all'urbanizzazione.
+
+### summary_ro
+
+Degradarea terenurilor se referă la deteriorarea calității terenului, afectând productivitatea terenului și funcțiile ecosistemului. Deșertificarea este procesul prin care terenul fertil se transformă într-un deșert arid din cauza diferiților factori, cum ar fi defrișarea. Etanșarea solului implică acoperirea solului cu materiale impermeabile, împiedicând funcțiile sale naturale și contribuind la problemele de mediu legate de urbanizare.
+
+### summary_pl
+
+Degradacja ziemi odnosi się do pogorszenia jakości ziemi, wpływając na jej produktywność i funkcje ekosystemu. Pustynnienie to proces, w wyniku którego żyzna ziemia zamienia się w suchą pustynię z powodu różnych czynników, takich jak wylesienie. Uszczelnianie gleby polega na pokryciu gleby nieprzepuszczalnymi materiałami, utrudniającymi jej naturalne funkcje i przyczyniającymi się do problemów środowiskowych związanych z urbanizacją.
+
 
 ### compute_en
 

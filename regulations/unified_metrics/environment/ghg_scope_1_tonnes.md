@@ -92,9 +92,6 @@ venting; hydrofluorocarbon (HFC) emissions during the use of refrigeration and a
 equipment; and methane leakages from gas transport.
 
 
-
-
-
 ### description_fr
 
 
@@ -102,10 +99,8 @@ Les "émissions de gaz à effet de serre" sont des émissions en termes de tonne
 CO2 de carbone dioxyde (CO2), méthane (CH4), protoxyde d'azote (N2O), hydrofluorocarbures (HFC),
 perfluorocarbures (PFC), trifluorure d'azote (NF3) et hexafluorure de soufre (SF6).
 
-
 Les "émissions de portée 1" sont les émissions de GES générées par des sources contrôlées par
 l'entreprise qui émet les actifs sous-jacents.
-
 
 Les émissions directes de GES de portée 1 sont principalement le résultat des types d'activités
 suivants entreprises par l'entreprise:  
@@ -127,9 +122,147 @@ les fuites d'équipement au niveau des joints, des joints, de la garniture et de
 lors de l'utilisation de la réfrigération et de la climatisation équipement; et les fuites de
 méthane liées au transport du gaz.
 
+### description_es
 
+"Emisiones de gases de efecto invernadero" son emisiones en términos de toneladas de CO2 equivalente
+de dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonos (HFC), perfluorocarbonos
+(PFC), trifluoruro de nitrógeno (NF3) y hexafluoruro de azufre (SF6).
 
+"Emisiones de Alcance 1" son las emisiones de GEI generadas por fuentes que están controladas por la empresa
+que emite los activos subyacentes.
 
+Las emisiones directas de GEI de Alcance 1 son principalmente el resultado de los siguientes tipos
+de actividades realizadas por la empresa:  
+
+- Generación de electricidad, calor o vapor. Estas emisiones resultan de la combustión de
+combustibles en fuentes fijas, por ejemplo, calderas, hornos, turbinas  
+
+- Procesamiento físico o químico.3 La mayoría de estas emisiones resultan de la fabricación o
+procesamiento de productos químicos y materiales, por ejemplo, fabricación de cemento, aluminio,
+ácido adípico, amoníaco, y procesamiento de residuos  
+
+- Transporte de materiales, productos, residuos y empleados. Estas emisiones resultan de la
+combustión de combustibles en fuentes móviles de combustión propiedad/controladas por la empresa
+(por ejemplo, camiones, trenes, barcos, aviones, autobuses y automóviles)  
+
+- Emisiones fugitivas. Estas emisiones resultan de liberaciones intencionales o no intencionales, por ejemplo,
+fugas de equipos en juntas, sellos, empaquetaduras y juntas; emisiones de metano de las minas de carbón y
+ventilación; emisiones de hidrofluorocarbonos (HFC) durante el uso de equipos de refrigeración y aire acondicionado;
+y fugas de metano del transporte de gas.
+
+### description_nl
+
+"Broeikasgasemissies" zijn emissies in termen van ton CO2-equivalent van kooldioxide (CO2),
+methaan (CH4), lachgas (N2O),  HCFK's (HFC's), perfluorocarbonen (PFC's), stikstof
+trifluoride (NF3) en zwavelhexafluoride (SF6).
+
+"Scope 1-emissies" zijn BKG-emissies die worden gegenereerd door bronnen die worden beheerst
+door het bedrijf dat de onderliggende activa uitgeeft.
+
+Scope 1 directe BKG-emissies zijn voornamelijk het resultaat van de volgende soorten
+activiteiten die door het bedrijf worden ondernomen:  
+
+- Opwekking van elektriciteit, warmte of stoom. Deze emissies zijn het gevolg van de
+verbranding van brandstoffen in vaste bronnen, bijvoorbeeld ketels, ovens, turbines  
+
+- Fysieke of chemische verwerking.3 De meeste van deze emissies zijn het gevolg van de
+productie of verwerking van chemicaliën en materialen, bijvoorbeeld cement, aluminium,
+adipinezuur, ammoniakproductie en afvalverwerking  
+
+- Vervoer van materialen, producten, afval en werknemers. Deze emissies zijn het gevolg van
+de verbranding van brandstoffen in mobiele verbrandingsbronnen die eigendom zijn van/worden
+beheerst door het bedrijf (bijvoorbeeld vrachtwagens, treinen, schepen, vliegtuigen, bussen en
+auto's)  
+
+- Vluchtige emissies. Deze emissies zijn het gevolg van opzettelijke of onopzettelijke
+lozingen, bijvoorbeeld lekken van apparatuur uit voegen, afdichtingen, pakkingen en
+pakkingen; methaanemissies uit kolenmijnen en ventilatie; HCFK-emissies tijdens het gebruik
+van koel- en airconditioningsapparatuur; en methaanlekkages uit gastransport.
+
+### description_it
+
+"Emissioni di gas serra" sono emissioni in termini di tonnellate di CO2 equivalente di anidride
+carbonica (CO2), metano (CH4), protossido di azoto (N2O), idrofluorocarburi (HFC),
+perfluorocarburi (PFC), trifluoruro di azoto (NF3) ed esafluoruro di zolfo (SF6).
+
+"Emissioni di Scope 1" sono emissioni di gas serra generate da fonti che sono controllate
+dall'azienda che emette le attività sottostanti.
+
+Le emissioni dirette di gas serra di Scope 1 sono principalmente il risultato dei seguenti tipi di
+attività intraprese dall'azienda:  
+
+- Generazione di elettricità, calore o vapore. Queste emissioni derivano dalla combustione di
+combustibili in fonti stazionarie, ad esempio caldaie, forni, turbine  
+
+- Elaborazione fisica o chimica.3 La maggior parte di queste emissioni deriva dalla
+produzione o elaborazione di prodotti chimici e materiali, ad esempio cemento, alluminio, acido
+adipico, produzione di ammoniaca e trattamento dei rifiuti  
+
+- Trasporto di materiali, prodotti, rifiuti e dipendenti. Queste emissioni derivano dalla
+combustione di combustibili in fonti mobili di combustione di proprietà/controllate
+dall'azienda (ad esempio camion, treni, navi, aerei, autobus e auto)  
+
+- Emissioni fuggitive. Queste emissioni derivano da rilasci intenzionali o non intenzionali, ad
+esempio perdite di attrezzature da giunti, guarnizioni, imballaggi e guarnizioni; emissioni di
+metano dalle miniere di carbone e ventilazione; emissioni di idrofluorocarburi (HFC) durante
+l'uso di apparecchiature di refrigerazione e condizionamento dell'aria; e perdite di metano dal
+trasporto di gas.
+
+### description_ro
+
+"Emisiile de gaze cu efect de seră" sunt emisii în termeni de tone de CO2 echivalent de dioxid
+de carbon (CO2), metan (CH4), oxid de azot (N2O), hidrofluorocarburi (HFC), perfluorocarburi
+(PFC), trifluorură de azot (NF3) și hexafluorură de sulf (SF6).
+
+"Emisiile de Scop 1" sunt emisiile de GES generate de surse care sunt controlate de compania
+care emite activele subiacente.
+
+Emisiile directe de GES de Scop 1 sunt în principal rezultatul următoarelor tipuri de activități
+întreprinse de companie:  
+
+- Generarea de energie electrică, căldură sau abur. Aceste emisii rezultă din arderea
+combustibililor în surse staționare, de exemplu, cazane, cuptoare, turbine  
+
+- Prelucrarea fizică sau chimică.3 Majoritatea acestor emisii rezultă din fabricarea sau
+prelucrarea produselor chimice și a materialelor, de exemplu, fabricarea de ciment, aluminiu,
+acid adipic, amoniac și prelucrarea deșeurilor  
+
+- Transportul de materiale, produse, deșeuri și angajați. Aceste emisii rezultă din arderea
+combustibililor în surse mobile de combustie deținute/controlate de companie (de exemplu,
+camioane, trenuri, nave, avioane, autobuze și mașini)  
+
+- Emisiile fugitive. Aceste emisii rezultă din eliberări intenționate sau neintenționate, de
+exemplu, scurgeri de echipamente din îmbinări, garnituri, ambalaje și garnituri; emisii de metan
+din minele de cărbune și ventilație; emisii de hidrofluorocarburi (HFC) în timpul utilizării
+echipamentelor de refrigerare și de climatizare; și scurgeri de metan din transportul de gaze.
+
+### description_pl
+
+"Emisje gazów cieplarnianych" to emisje wyrażone w tonach ekwiwalentu CO2 dwutlenku węgla
+(CO2), metanu (CH4), podtlenku azotu (N2O),  HFC (HFC), PFC (PFC), trójfluorku azotu (NF3) i
+sześciofluorku siarki (SF6).
+
+"Emisje zakresu 1" to emisje GHG generowane przez źródła kontrolowane przez firmę, która
+emituje podstawowe aktywa.
+
+Emisje bezpośrednie GHG zakresu 1 są przede wszystkim wynikiem następujących rodzajów
+działalności prowadzonych przez firmę:  
+
+- Generowanie energii elektrycznej, ciepła lub pary. Emisje te wynikają ze spalania paliw w
+stacjonarnych źródłach, np. kotłach, piecach, turbinach  
+
+- Przetwarzanie fizyczne lub chemiczne.3 Większość tych emisji wynika z produkcji lub
+przetwarzania chemikaliów i materiałów, np. cementu, aluminium, kwasu adypinowego, produkcji
+amoniaku i przetwarzania odpadów  
+
+- Transport materiałów, produktów, odpadów i pracowników. Emisje te wynikają ze spalania
+paliw w mobilnych źródłach spalania będących własnością/kontrolowanych przez firmę (np.
+ciężarówki, pociągi, statki, samoloty, autobusy i samochody)  
+
+- Emisje ulotne. Emisje te wynikają z celowych lub przypadkowych zrzutów, np. wycieków z
+urządzeń z połączeń, uszczelnień, uszczelek i uszczelek; emisji metanu z kopalń węgla i
+wentylacji; emisji HFC podczas użytkowania urządzeń chłodniczych i klimatyzacyjnych; i
+wycieków metanu z transportu gazu.
 
 ### value_question_en
 
@@ -140,6 +273,30 @@ How many tonnes of "Scope 1" greenhouse gas carbon dioxide
 
 Combien de tonnes de gaz à effet de serre de Scope 1 l'entreprise
 a-t-elle émises pendant la période?
+
+### value_question_es
+
+¿Cuántas toneladas de dióxido de carbono de gas de efecto invernadero de "Alcance 1" (CO2 equivalente)
+emitió la empresa durante el período?
+
+### value_question_nl
+
+Hoeveel ton "Scope 1" broeikasgas kooldioxide (CO2-equivalent) heeft het bedrijf uitgestoten
+tijdens de periode?
+
+### value_question_it
+
+Quante tonnellate di diossido di carbonio di gas serra di "Scope 1" (CO2 equivalente) ha emesso
+l'azienda durante il periodo?
+
+### value_question_ro
+
+Câte tone de dioxid de carbon gaz cu efect de seră de "Scop 1" (CO2 echivalent) a emis compania
+în timpul perioadei?
+
+### value_question_pl
+
+Ile ton dwutlenku węgla gazów cieplarnianych "Zakres 1" (CO2 ekwiwalent) wyemitowała firma w okresie?
 
 ### summary_en
 
@@ -156,6 +313,26 @@ Le Scope 1 représente les émissions de gaz à effet de serre
 provenant directement de sources appartenant à une organisation ou une entité,
 et qui sont généralement associées à la combustion de combustibles fossiles ou
 à d'autres réactions chimiques.
+
+### summary_es
+
+El alcance 1 representa las emisiones de gases de efecto invernadero (GEI), generalmente expresadas en términos de equivalentes de dióxido de carbono (CO2e) que se originan directamente de fuentes que son propiedad o están controladas por una organización o entidad, generalmente asociadas con la combustión de combustibles fósiles u otras reacciones químicas.
+
+### summary_nl
+
+Scope 1 vertegenwoordigt de uitstoot van broeikasgassen (BKG), meestal uitgedrukt in termen van koolstofdioxide-equivalenten (CO2e) die rechtstreeks afkomstig zijn van bronnen die eigendom zijn of worden gecontroleerd door een organisatie of entiteit, meestal geassocieerd met de verbranding van fossiele brandstoffen of andere chemische reacties.
+
+### summary_it
+
+Lo Scope 1 rappresenta le emissioni di gas serra (GES), generalmente espresse in termini di equivalenti di biossido di carbonio (CO2e) che originano direttamente da fonti di proprietà o controllate da un'organizzazione o entità, generalmente associate alla combustione di combustibili fossili o ad altre reazioni chimiche.
+
+### summary_ro
+
+Scopul 1 reprezintă emisiile de gaze cu efect de seră (GES), de obicei exprimate în termeni de echivalenți de dioxid de carbon (CO2e) care provin direct din surse care sunt deținute sau controlate de o organizație sau entitate, de obicei asociate cu arderea combustibililor fosili sau alte reacții chimice.
+
+### summary_pl
+
+Zakres 1 reprezintă emisiile de gaze cu efect de seră (GES), de obicei exprimate în termeni de echivalenți de dioxid de carbon (CO2e) care provin direct din surse care sunt deținute sau controlate de o organizație sau entitate, de obicei asociate cu arderea combustibililor fosili sau alte reacții chimice.
 
 ### compute_en
 

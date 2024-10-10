@@ -58,27 +58,113 @@ biodiversity
 
 ### description_en
 
-The classification of threatened species is commonly determined based on criteria established by conservation organizations, such as the IUCN. IUCN Red List is a comprehensive global inventory that assesses the conservation status of various species.
+The classification of threatened species is commonly determined based on criteria established by
+conservation organizations, such as the IUCN. IUCN Red List is a comprehensive global inventory
+that assesses the conservation status of various species.
 
 You can check if your activities are located in or near the localities of threatened species [https://www.iucnredlist.org](https://www.iucnredlist.org)
 Check the [European Red List for threatened species](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
 
 **Regulatory Definition**
 
-"Threatened species" means endangered species, including flora and fauna, listed in the European Red List or the IUCN Red List, as referred to in Section 7 of Annex II to Delegated Regulation (EU) 2021/2139.
+"Threatened species" means endangered species, including flora and fauna, listed in the
+European Red List or the IUCN Red List, as referred to in Section 7 of Annex II to Delegated
+Regulation (EU) 2021/2139.
 
 
 ### description_fr
 
-La classification des espèces menacées est généralement déterminée sur la base de critères établis par des organisations de conservation, telles que l'UICN. La Liste rouge de l’UICN est un inventaire mondial complet qui évalue l’état de conservation de diverses espèces.
+La classification des espèces menacées est généralement déterminée sur la base de critères
+établis par des organisations de conservation, telles que l'UICN. La Liste rouge de l’UICN
+est un inventaire mondial complet qui évalue l’état de conservation de diverses espèces.
 
-Vous pouvez vérifier si vos activités se situent dans ou à proximité des localités d'espèces menacées [https://www.iucnredlist.org](https://www.iucnredlist.org)
+Vous pouvez vérifier si vos activités se situent dans ou à proximité des localités d'espèces menacées
+[https://www.iucnredlist.org](https://www.iucnredlist.org)
 Consultez la [Liste rouge européenne des espèces menacées](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
 
 **Définition réglementaire**
 
-"Espèces menacées" désigne les espèces menacées, y compris la flore et la faune, inscrites sur la Liste rouge européenne ou sur la Liste rouge de l'UICN, telles que visées à la section 7 de l'annexe II du règlement délégué (UE) 2021/2139.
+"Espèces menacées" désigne les espèces menacées, y compris la flore et la faune, inscrites sur
+la Liste rouge européenne ou sur la Liste rouge de l'UICN, telles que visées à la section 7 de
+l'annexe II du règlement délégué (UE) 2021/2139.
 
+### description_es
+
+La clasificación de las especies amenazadas se determina habitualmente en función de los criterios establecidos por
+organizaciones de conservación, como la UICN. La Lista Roja de la UICN es un inventario global exhaustivo
+que evalúa el estado de conservación de varias especies.
+
+Puede comprobar si sus actividades se realizan en o cerca de las localidades de especies amenazadas [https://www.iucnredlist.org](https://www.iucnredlist.org)
+Consulte la [Lista Roja Europea de especies amenazadas](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
+
+**Definición reglamentaria**
+
+"Especies amenazadas" significa especies en peligro de extinción, incluida la flora y la fauna,
+incluidas en la Lista Roja Europea o la Lista Roja de la UICN, tal como se menciona en la Sección
+7 del Anexo II del Reglamento Delegado (UE) 2021/2139.
+
+### description_nl
+
+De classificatie van bedreigde soorten wordt doorgaans bepaald op basis van criteria die zijn vastgesteld door
+organisaties voor natuurbehoud, zoals de IUCN. De Rode Lijst van de IUCN is een uitgebreide wereldwijde inventaris
+die de staat van instandhouding van verschillende soorten beoordeelt.
+
+U kunt controleren of uw activiteiten zich in of nabij de locaties van bedreigde soorten bevinden [https://www.iucnredlist.org](https://www.iucnredlist.org)
+Raadpleeg de [Europese Rode Lijst van bedreigde soorten](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
+
+**Wettelijke definitie**
+
+"Bedreigde soorten" betekent bedreigde soorten, waaronder flora en fauna, die zijn opgenomen in de
+Europese Rode Lijst of de Rode Lijst van de IUCN, zoals bedoeld in sectie 7 van bijlage II bij
+gedelegeerd verordening (EU) 2021/2139.
+
+### description_it
+
+La classificazione delle specie minacciate è generalmente determinata in base ai criteri stabiliti da
+organizzazioni di conservazione, come l'IUCN. La Lista Rossa IUCN è un inventario globale completo
+che valuta lo stato di conservazione di diverse specie.
+
+È possibile verificare se le proprie attività si trovano in o vicino alle località di specie minacciate
+[https://www.iucnredlist.org](https://www.iucnredlist.org)
+Consultare la [Lista Rossa Europea delle specie minacciate](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
+
+**Definizione regolamentare**
+
+"Specie minacciate" significa specie in pericolo di estinzione, inclusa la flora e la fauna,
+elencate nella Lista Rossa Europea o nella Lista Rossa IUCN, come indicato nella Sezione 7
+dell'Allegato II del Regolamento Delegato (UE) 2021/2139.
+
+### description_ro
+
+Clasificarea speciilor amenințate este determinată în mod obișnuit pe baza criteriilor stabilite de
+organizațiile de conservare, cum ar fi IUCN. Lista Roșie IUCN este un inventar global cuprinzător
+care evaluează statutul de conservare a diferitelor specii.
+
+Puteți verifica dacă activitățile dumneavoastră se află în sau în apropierea localităților speciilor amenințate
+[https://www.iucnredlist.org](https://www.iucnredlist.org)
+Consultați [Lista Roșie Europeană a speciilor amenințate](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
+
+**Definiție regulamentară**
+
+"Specii amenințate" înseamnă specii pe cale de dispariție, inclusiv flora și fauna, enumerate în
+Lista Roșie Europeană sau Lista Roșie IUCN, așa cum se menționează la secțiunea 7 din anexa II la
+Regulamentul delegat (UE) 2021/2139.
+
+### description_pl
+
+Klasyfikacja gatunków zagrożonych jest zazwyczaj ustalana na podstawie kryteriów
+ustalonych przez organizacje ochrony przyrody, takie jak IUCN. Czerwona Lista IUCN to
+kompleksowy globalny spis, który ocenia stan ochrony różnych gatunków.
+
+Możesz sprawdzić, czy Twoje działania znajdują się w lub w pobliżu lokalizacji gatunków
+zagrożonych [https://www.iucnredlist.org](https://www.iucnredlist.org)
+Sprawdź [Europejską Czerwoną Listę gatunków zagrożonych](https://www.eea.europa.eu/en/datahub/datahubitem-view/202f3c2e-54a9-4ff4-a1da-ed7ca524f634)
+
+**Definicja regulacyjna**
+
+"Gatunki zagrożone" oznaczają gatunki zagrożone wyginięciem, w tym florę i faunę, wymienione na
+Europejskiej Czerwonej Liście lub Czerwonej Liście IUCN, zgodnie z sekcją 7 załącznika II do
+rozporządzenia delegowanego (UE) 2021/2139.
 
 ### value_question_en
 
@@ -88,6 +174,26 @@ Did the organization's operations have a negative impact on threatened species b
 
 Les opérations de l'organisation ont-elles eu un impact négatif sur les espèces menacées sur la base de la Liste rouge de l'UICN et/ou de la Liste rouge européenne, au cours de la période ?
 
+### value_question_es
+
+¿Las operaciones de la organización tuvieron un impacto negativo en las especies amenazadas basado en la Lista Roja de la UICN y/o la Lista Roja Europea, durante el período?
+
+### value_question_nl
+
+Hebben de activiteiten van de organisatie een negatieve impact gehad op bedreigde soorten op basis van de IUCN Red List en/of de Europese Rode Lijst, gedurende de periode?
+
+### value_question_it
+
+Le operazioni dell'organizzazione hanno avuto un impatto negativo sulle specie minacciate sulla base della Lista Rossa dell'UICN e/o della Lista Rossa Europea, durante il periodo?
+
+### value_question_ro
+
+Au avut operațiunile organizației un impact negativ asupra speciilor amenințate pe baza Listei Roșii IUCN și/sau a Listei Roșii Europene, în timpul perioadei?
+
+### value_question_pl
+
+Czy operacje organizacji miały negatywny wpływ na gatunki zagrożone na podstawie Czerwonej Listy IUCN i/lub Europejskiej Czerwonej Listy, w okresie?
+
 ### summary_en
 
 The term threatened species refers to flora and fauna that face a high risk of extinction in the near future. Flora and fauna refer to the collection of all plants and animals living in a particular region or environmental situation The indicator aims to delve into the organization's efforts to identify and minimize the negative impacts that may arise from its operations in the localities of threatened species.
@@ -95,6 +201,17 @@ The term threatened species refers to flora and fauna that face a high risk of e
 ### summary_fr
 
 Le terme espèce menacée fait référence à la flore et à la faune qui courent un risque élevé d’extinction dans un avenir proche. La flore et la faune font référence à la collection de toutes les plantes et animaux vivant dans une région ou une situation environnementale particulière. L'indicateur vise à approfondir les efforts de l'organisation pour identifier et minimiser les impacts négatifs pouvant découler de ses opérations dans les localités d'espèces menacées.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

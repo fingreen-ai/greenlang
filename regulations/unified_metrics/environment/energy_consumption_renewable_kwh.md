@@ -62,30 +62,20 @@ energy_consumption
 
 ### description_en
 
-
 The total energy consumption is the company's energy consumption coming from the following
 renewable sources:  
 
-* fuel consumption for renewable sources (including biomass, biogas, nonfossil fuel waste, hydrogen from renewable sources, etc.)
+* fuel consumption for renewable sources (including biomass, biogas, nonfossil fuel waste, hydrogen
+from renewable sources, etc.)
 * consumption of purchased or acquired electricity, heat, steam, and cooling from renewable sources
 * consumption of self-generated non-fuel renewable energy
-
-
-
-
-
 
 Renewable sources are sources that are inexhaustible. As such, renewable energy covers wind, solar
 (solar thermal and solar photovoltaic) and geothermal energy, ambient
 energy, tide, wave and other ocean energy, hydropower, biomass,
 landfill gas, sewage treatment plant gas, and biogas.
 
-
-
-
-
 ### description_fr
-
 
 La consommation totale d'énergie est la consommation d'énergie de l'entreprise provenant des
 sources renouvelables suivantes:  
@@ -97,20 +87,94 @@ sources renouvelables suivantes:
  acquis à partir de sources renouvelables
 * consommation d'énergie renouvelable autoproduite sans carburant
 
-
-
-
-
-
 Les sources renouvelables sont des sources inépuisables. Ainsi, les énergies renouvelables couvrent
 l'éolien, le solaire
 (solaire thermique et solaire photovoltaïque) et géothermique, énergie ambiante
 énergie, marée, vagues et autres énergies océaniques, hydroélectricité, biomasse,
 gaz de décharge, gaz de station d'épuration et biogaz.
 
+### description_es
 
+El consumo total de energía es el consumo de energía de la empresa proveniente de las siguientes
+fuentes renovables:  
 
+* consumo de combustible proveniente de fuentes renovables (incluida la biomasa, el biogás, los
+residuos de combustibles no fósiles, el hidrógeno proveniente de fuentes renovables, etc.)
+* consumo de electricidad, calor, vapor y refrigeración comprados o adquiridos a partir de
+fuentes renovables
+* consumo de energía renovable autogenerada sin combustible
 
+Las fuentes renovables son fuentes inagotables. Como tal, la energía renovable abarca la energía
+eólica, solar
+(solar térmica y solar fotovoltaica) y geotérmica, la energía ambiental, la energía
+de las mareas, las olas y otras energías oceánicas, la energía hidroeléctrica, la biomasa, el gas de
+vertedero, el gas de las plantas de tratamiento de aguas residuales y el biogás.
+
+### description_nl
+
+Het totale energieverbruik is het energieverbruik van het bedrijf dat afkomstig is van de
+volgende hernieuwbare bronnen:  
+
+* brandstofverbruik voor hernieuwbare bronnen (inclusief biomassa, biogas, niet-fossiele
+afvalbrandstoffen, waterstof uit hernieuwbare bronnen, enz.)
+* verbruik van gekochte of verworven elektriciteit, warmte, stoom en koeling uit hernieuwbare
+bronnen
+* verbruik van zelf opgewekte niet-brandstof hernieuwbare energie
+
+Hernieuwbare bronnen zijn bronnen die onuitputtelijk zijn. Hernieuwbare energie omvat wind, zon
+(zonne-thermisch en zonne-fotovoltaïsch) en geothermische energie, omgevingsenergie, getij, golf
+en andere oceaanenergie, waterkracht, biomassa, stortgas, rioolwaterzuiveringsgas en biogas.
+
+### description_it
+
+Il consumo totale di energia è il consumo di energia dell'azienda proveniente dalle seguenti
+fonti rinnovabili:  
+
+* consumo di combustibile proveniente da fonti rinnovabili (compresa la biomassa, il biogas, i
+rifiuti di combustibili non fossili, l'idrogeno proveniente da fonti rinnovabili, ecc.)
+* consumo di elettricità, calore, vapore e raffreddamento acquistati o acquisiti da
+fonti rinnovabili
+* consumo di energia rinnovabile autogenerata senza combustibile
+
+Le fonti rinnovabili sono fonti inesauribili. Come tale, l'energia rinnovabile comprende
+l'energia eolica, solare
+(solare termica e solare fotovoltaica) e geotermica, l'energia ambientale, l'energia
+delle maree, delle onde e altre energie oceaniche, l'energia idroelettrica, la biomassa, il gas di
+discarica, il gas degli impianti di trattamento delle acque reflue e il biogas.
+
+### description_ro
+
+Consumul total de energie este consumul de energie al companiei provenit din următoarele surse
+regenerabile:  
+
+* consumul de combustibil provenit din surse regenerabile (inclusiv biomasa, biogazul,
+deșeurile de combustibili non-fosili, hidrogenul provenit din surse regenerabile etc.)
+* consumul de energie electrică, căldură, abur și răcire achiziționate sau obținute din
+surse regenerabile
+* consumul de energie regenerabilă autogenerată fără combustibil
+
+Sursele regenerabile sunt surse inepuizabile. Ca atare, energia regenerabilă acoperă energia
+eoliană, solară
+(solară termică și solară fotovoltaică) și geotermală, energia ambientală, energia
+mareei, valurilor și alte energii oceanice, energia hidroelectrică, biomasa, gazul de depozitare,
+gazul din stațiile de tratare a apelor uzate și biogazul.
+
+### description_pl
+
+Całkowite zużycie energii to zużycie energii przez firmę pochodzące z następujących źródeł
+odnawialnych:  
+
+* zużycie paliwa pochodzącego ze źródeł odnawialnych (w tym biomasa, biogaz, odpady
+pochodzące z paliw niekopalnych, wodór pochodzący ze źródeł odnawialnych itp.)
+* zużycie zakupionej lub nabytej energii elektrycznej, ciepła, pary i chłodzenia ze
+źródeł odnawialnych
+* zużycie energii odnawialnej wytwarzanej samodzielnie bez paliwa
+
+Źródła odnawialne to źródła niewyczerpalne. W związku z tym energia odnawialna obejmuje energię
+wiatrową, słoneczną
+(słoneczną termiczną i słoneczną fotowoltaiczną) i geotermalną, energię środowiskową, energię
+pływową, falową i inną energię oceaniczną, energię wodną, biomasę, gaz
+pochodzący ze składowisk odpadów, gaz z oczyszczalni ścieków i biogaz.
 
 ### value_question_en
 
@@ -121,20 +185,62 @@ How much renewable energy did the company consume during the period?
 Quelle quantité d'énergie renouvelable l'entreprise a-t-elle consommée
 au cours de la période?
 
-### summary_en
+### value_question_es
 
+¿Cuánta energía renovable consumió la empresa durante el período?
+
+### value_question_nl
+
+Hoeveel hernieuwbare energie heeft het bedrijf verbruikt in de betreffende periode?
+
+### value_question_it
+
+Quanta energia rinnovabile ha consumato l'azienda durante il periodo considerato?
+
+### value_question_ro
+
+Câtă energie regenerabilă a consumat compania în perioada?
+
+### value_question_pl
+
+Ile energii odnawialnej zużyła firma w tym okresie?
+
+### summary_en
 
 Total energy consumption is the combined energy usage of a company, including energy from renewable
 sources such as biomass and self-generated non-fuel renewable energy.
 
-
 ### summary_fr
-
 
 La consommation totale d'énergie est la consommation énergétique combinée d'une entreprise, y
 compris l'énergie provenant de sources renouvelables telles que la biomasse et l'énergie
 renouvelable autogénérée sans carburant.
 
+### summary_es
+
+El consumo total de energía es el uso combinado de energía de una empresa, incluida la energía de
+fuentes renovables como la biomasa y la energía renovable autogenerada sin combustible.
+
+### summary_nl
+
+Het totale energieverbruik is het gecombineerde energieverbruik van een bedrijf, inclusief energie
+uit hernieuwbare bronnen zoals biomassa en zelf opgewekte niet-brandstof hernieuwbare energie.
+
+### summary_it
+
+Il consumo totale di energia è l'uso combinato di energia di un'azienda, compresa l'energia da fonti
+rinnovabili come la biomassa e l'energia rinnovabile autogenerata senza combustibile.
+
+### summary_ro
+
+Consumul total de energie reprezintă consumul combinat de energie al unei companii, inclusiv
+energia din surse regenerabile, cum ar fi biomasa și energia regenerabilă autogenerată fără
+combustibil.
+
+### summary_pl
+
+Całkowite zużycie energii to łączne zużycie energii przez firmę, w tym energia z odnawialnych
+źródeł, takich jak biomasa i samodzielnie wytwarzana energia odnawialna bez paliwa.
 
 ### compute_en
 

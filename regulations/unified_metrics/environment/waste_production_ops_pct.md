@@ -58,7 +58,6 @@ waste_mgmt
 
 ### description_en
 
-
 This indicator reflects the potential negative environmental impact of the real estate
 assets on waste generation and management. It focues on the presence of waste sorting
 facilities and the existence of waste recovery or recyling contracts for the assets.
@@ -71,7 +70,6 @@ recovery or recycling contract"
 
 ### description_fr
 
-
 Cet indicateur reflète l’impact environnemental négatif potentiel des actifs immobiliers
 sur la production et la gestion des déchets. Elle met l'accent sur la présence
 d'installations de tri des déchets et l'existence de contrats de valorisation des
@@ -83,8 +81,68 @@ Selon le (UE) 2022/1288 du 6 avril 2022, elle est définie comme « Part du patr
 immobilier non équipé d'installations de tri des déchets et non couverte par un contrat
 de valorisation ou de recyclage des déchets ».
 
-### value_question_en
+### description_es
 
+Este indicador refleja el impacto ambiental negativo potencial de los activos inmobiliarios
+sobre la generación y gestión de residuos. Se centra en la presencia de instalaciones de
+clasificación de residuos y la existencia de contratos de recuperación o reciclaje de
+residuos para los activos.
+
+**Definición reglamentaria**
+
+De acuerdo con el (UE) 2022/1288 de 6 de abril de 2022, se define como "Porcentaje de
+activos inmobiliarios no equipados con instalaciones para la clasificación de residuos y
+no cubiertos por un contrato de recuperación o reciclaje de residuos".
+
+### description_nl
+
+This indicator reflects the potential negative environmental impact of the real estate
+assets on waste generation and management. It focues on the presence of waste sorting
+facilities and the existence of waste recovery or recyling contracts for the assets.
+
+**Regulatory definition**
+
+According to the (EU) 2022/1288 of 6 April 2022, it is defined as "Share of real estate
+assets not equipped with facilities for waste sorting and not covered by a waste
+recovery or recycling contract"
+
+### description_it
+
+This indicator reflects the potential negative environmental impact of the real estate
+assets on waste generation and management. It focues on the presence of waste sorting
+facilities and the existence of waste recovery or recyling contracts for the assets.
+
+**Regulatory definition**
+
+According to the (EU) 2022/1288 of 6 April 2022, it is defined as "Share of real estate
+assets not equipped with facilities for waste sorting and not covered by a waste
+recovery or recycling contract"
+
+### description_ro
+
+This indicator reflects the potential negative environmental impact of the real estate
+assets on waste generation and management. It focues on the presence of waste sorting
+facilities and the existence of waste recovery or recyling contracts for the assets.
+
+**Regulatory definition**
+
+According to the (EU) 2022/1288 of 6 April 2022, it is defined as "Share of real estate
+assets not equipped with facilities for waste sorting and not covered by a waste
+recovery or recycling contract"
+
+### description_pl
+
+This indicator reflects the potential negative environmental impact of the real estate
+assets on waste generation and management. It focues on the presence of waste sorting
+facilities and the existence of waste recovery or recyling contracts for the assets.
+
+**Regulatory definition**
+
+According to the (EU) 2022/1288 of 6 April 2022, it is defined as "Share of real estate
+assets not equipped with facilities for waste sorting and not covered by a waste
+recovery or recycling contract"
+
+### value_question_en
 
 What was the share of real estate assets not equipped with facilities for waste sorting
 and not covered by a waste recovery or recycling contract, during the period?
@@ -93,6 +151,35 @@ and not covered by a waste recovery or recycling contract, during the period?
 
 Quelle a été la part des actifs immobiliers non équipés d'installations de tri des déchets
 et non couverts par un contrat de valorisation ou de recyclage des déchets, sur la période?
+
+### value_question_es
+
+¿Cuál fue la proporción de activos inmobiliarios no equipados con instalaciones para la
+clasificación de residuos y no cubiertos por un contrato de recuperación o reciclaje de
+residuos, durante el período?
+
+### value_question_nl
+
+Wat was het aandeel van vastgoedactiva dat niet was uitgerust met faciliteiten voor
+afvalsortering en niet werd gedekt door een contract voor afvalterugwinning of -recycling,
+gedurende de periode?
+
+### value_question_it
+
+Qual è stata la quota di attività immobiliari non dotate di impianti per il
+trattamento dei rifiuti e non coperte da un contratto di recupero o riciclaggio dei
+rifiuti, durante il periodo?
+
+### value_question_ro
+
+Care a fost ponderea activelor imobiliare care nu erau echipate cu facilități pentru
+sortarea deșeurilor și nu erau acoperite de un contract de recuperare sau reciclare a
+deșeurilor, pe perioadă?
+
+### value_question_pl
+
+Jaki był udział nieruchomości nie wyposażonych w instalacje do segregacji odpadów i nie
+objętych umową na odzysk lub recykling odpadów, w okresie?
 
 ### summary_en
 
@@ -106,6 +193,17 @@ Le tri des déchets consiste à séparer différents types de déchets à la sou
 des zones désignées. Ce processus catégorise les articles comme le papier, le plastique,
 le verre et les déchets organiques pour faciliter leur recyclage ou leur élimination
 appropriée.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

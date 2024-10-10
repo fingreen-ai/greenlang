@@ -79,6 +79,33 @@ commonly used by the undertaking for the specific type of product/good/material.
 La production annuelle totale de déchets, par type, est exprimée dans les unités du système
 métrique couramment utilisées par l'entreprise pour le type spécifique de produit/bien/matériau.
 
+### description_es
+
+La generación anual total de residuos, por tipo, se expresa en las unidades del sistema métrico
+que se utilizan comúnmente en la empresa para el tipo específico de producto/bien/material.
+
+### description_nl
+
+De totale jaarlijkse productie van afval, per type, wordt uitgedrukt in de metrische
+systeem eenheden die door de onderneming worden gebruikt voor het specifieke type
+product/goed/materiaal.
+
+### description_it
+
+La generazione annuale totale di rifiuti, per tipo, è espressa nelle unità del sistema
+metrico comunemente utilizzate dall'impresa per il tipo specifico di prodotto/bene/materiale.
+
+### description_ro
+
+Generarea anuală totală de deșeuri, pe tip, este exprimată în unitățile sistemului metric
+utilizate în mod obișnuit de întreprindere pentru tipul specific de produs/bun/material.
+
+### description_pl
+
+Całkowita roczna generacja odpadów, według typu, jest wyrażona w jednostkach miar systemu
+metrycznego powszechnie stosowanych przez przedsiębiorstwo dla konkretnego typu
+produktu/towaru/materiału.
+
 ### value_question_en
 
 What was the company total generation of waste, by type of waste, during the period?
@@ -87,6 +114,29 @@ What was the company total generation of waste, by type of waste, during the per
 
 Quelle a été la production totale de déchets de l’entreprise, par type de déchets, au cours de
 la période ?
+
+### value_question_es
+
+¿Cuál fue la generación total de residuos de la empresa, por tipo de residuos, durante el
+período?
+
+### value_question_nl
+
+Wat was de totale productie van afval van de onderneming, per type afval, gedurende de
+periode?
+
+### value_question_it
+
+Qual è stata la generazione totale di rifiuti dell'azienda, per tipo di rifiuti, durante il
+periodo?
+
+### value_question_ro
+
+Care a fost generarea totală deșeurilor companiei, pe tip de deșeuri, în timpul perioadei?
+
+### value_question_pl
+
+Jaka była całkowita generacja odpadów przez firmę, według typu odpadów, w okresie?
 
 ### summary_en
 
@@ -97,6 +147,17 @@ responsible waste management practices.
 
 Les entreprises peuvent démontrer leur compréhension de leur empreinte déchets et leur engagement
 envers des pratiques de gestion responsable des déchets.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

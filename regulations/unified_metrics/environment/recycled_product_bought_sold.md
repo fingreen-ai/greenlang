@@ -117,6 +117,138 @@ les consommateurs peuvent prendre des décisions éclairées concernant l'achat 
 la vente de biens et de matériaux recyclés, contribuant ainsi à un avenir plus
 durable.
 
+
+### description_es
+
+Los valores se pueden expresar en las unidades del sistema métrico que utiliza
+habitualmente la empresa para el tipo específico de producto/bien/material.
+
+A pesar de los posibles desafíos, los beneficios ambientales de comprar y vender
+bienes y materiales reciclados generalmente superan las desventajas,
+especialmente si se considera el abastecimiento responsable,
+los procesos eficientes y la demanda de los consumidores de productos sostenibles.
+
+Consideraciones ESG:
+
+- Las empresas que participan en el mercado de bienes reciclados deben esforzarse
+por lograr transparencia y responsabilidad en sus prácticas de abastecimiento,
+procesamiento y comercialización.
+- Implementar sistemas de circuito cerrado o priorizar el reciclaje
+superior en lugar del reciclaje
+inverso maximiza el beneficio ambiental.
+- Invertir en innovación para tecnologías de reciclaje eficientes y respetuosas
+con el medio ambiente puede reducir aún más el impacto negativo.
+- La educación y la concienciación de los consumidores son cruciales para impulsar
+la demanda de productos reciclados y respaldar un mercado sostenible.
+- Al comprender tanto los impactos positivos como los negativos, las empresas y los
+consumidores pueden tomar decisiones informadas sobre la compra y venta de bienes y materiales
+reciclados, contribuyendo a un futuro más sostenible.
+
+### description_nl
+
+Waarden kunnen worden uitgedrukt in de metrische eenheden die doorgaans door de
+onderneming worden gebruikt voor het specifieke type product/goed/materiaal.
+
+Ondanks potentiële uitdagingen wegen de milieubevoordelen van het kopen en verkopen van
+gerecycleerde goederen en
+materialen over het algemeen zwaarder dan de nadelen, vooral wanneer men rekening houdt met
+verantwoorde inkoop,
+efficiënte processen en de vraag van consumenten naar duurzame producten.
+
+ESG-overwegingen:
+
+- Bedrijven die actief zijn op de markt voor gerecycleerde goederen moeten streven naar
+transparantie en verantwoording in hun inkoop-, verwerkings- en marketingpraktijken.
+- Het implementeren van gesloten kringloopsystemen of het prioriteren van upcycling boven
+downcycling maximaliseert het milieubevoordel.
+- Investeren in innovatie voor efficiënte en milieuvriendelijke recyclingtechnologieën kan
+de negatieve impact verder verminderen.
+- Consumentenvoorlichting en bewustwording zijn cruciaal om de vraag naar gerecycleerde
+producten aan te drijven en een duurzame markt te ondersteunen.
+- Door zowel de positieve als de negatieve impact te begrijpen, kunnen bedrijven en
+consumenten weloverwogen beslissingen nemen over het kopen en verkopen van gerecycleerde goederen
+en materialen, wat bijdraagt aan een duurzamere toekomst.
+
+### description_it
+
+I valori possono essere espressi nelle unità del sistema metrico comunemente utilizzate
+dall'impresa per il tipo specifico di prodotto/bene/materiale.
+
+Nonostante le potenziali sfide, i benefici ambientali dell'acquisto e della vendita di beni e
+materiali riciclati superano generalmente gli svantaggi, soprattutto se si considera
+l'approvvigionamento responsabile,
+i processi efficienti e la domanda dei consumatori di prodotti sostenibili.
+
+Considerazioni ESG:
+
+- Le aziende che operano sul mercato dei beni riciclati devono impegnarsi per la
+trasparenza e la responsabilità nelle loro pratiche di approvvigionamento,
+elaborazione e commercializzazione.
+- L'implementazione di sistemi a ciclo chiuso o la priorità al riciclo superiore
+rispetto al riciclo
+inverso massimizza il beneficio ambientale.
+- Investire nell'innovazione per tecnologie di riciclo efficienti e rispettose
+dell'ambiente può ridurre ulteriormente l'impatto negativo.
+- L'educazione e la consapevolezza dei consumatori sono cruciali per alimentare la
+domanda di prodotti riciclati e sostenere un mercato sostenibile.
+- Comprendendo sia gli impatti positivi che quelli negativi, le aziende e i
+consumatori possono prendere decisioni informate sull'acquisto e la vendita di beni e
+materiali riciclati, contribuendo a un futuro più sostenibile.
+
+### description_ro
+
+Valorile pot fi exprimate în unitățile sistemului metric utilizate în mod obișnuit de
+întreprindere pentru tipul specific de produs/bun/material.
+
+În ciuda provocărilor potențiale, beneficiile pentru mediu ale cumpărării și vânzării de
+bunuri și materiale reciclate depășesc, în general, dezavantajele, în special dacă se
+consideră aprovizionarea responsabilă,
+procesele eficiente și cererea consumatorilor pentru produse durabile.
+
+Considerații ESG:
+
+- Companiile implicate pe piața bunurilor reciclate ar trebui să depună eforturi pentru a
+obține transparență și responsabilitate în practicile lor de aprovizionare,
+prelucrare și comercializare.
+- Implementarea sistemelor cu circuit închis sau prioritizarea reciclării superioare
+față de reciclarea
+inversă maximizează beneficiul pentru mediu.
+- Investițiile în inovație pentru tehnologii de reciclare eficiente și prietenoase cu
+mediul pot reduce și mai mult impactul negativ.
+- Educația și conștientizarea consumatorilor sunt esențiale pentru a stimula cererea
+de produse reciclate și pentru a susține o piață durabilă.
+- Înțelegând atât impactul pozitiv, cât și cel negativ, companiile și consumatorii pot
+lua decizii informate cu privire la cumpărarea și vânzarea de bunuri și materiale reciclate,
+contribuind astfel la un viitor mai durabil.
+
+### description_pl
+
+Wartości można wyrazić w jednostkach miar systemu metrycznego powszechnie stosowanych przez
+przedsiębiorstwo dla konkretnego typu produktu/towaru/materiału.
+
+Pomimo potencjalnych wyzwań, korzyści środowiskowe związane z kupowaniem i sprzedawaniem
+recyklingowanych towarów i
+materiałów zazwyczaj przeważają nad wadami, zwłaszcza jeśli weźmie się pod uwagę
+odpowiedzialne pozyskiwanie,
+efektywne procesy i popyt konsumentów na produkty zrównoważone.
+
+Uwarunkowania ESG:
+
+- Firmy działające na rynku towarów recyklingowanych powinny dążyć do
+przejrzystości i odpowiedzialności w swoich praktykach w zakresie pozyskiwania,
+przetwarzania i marketingu.
+- Wdrażanie systemów zamkniętej pętli lub priorytetowe traktowanie recyklingu
+wyższego w porównaniu z recyklingiem
+niższym maksymalizuje korzyści środowiskowe.
+- Inwestowanie w innowacje w zakresie efektywnych i przyjaznych dla środowiska
+technologii recyklingu może dodatkowo zmniejszyć negatywny wpływ.
+- Edukacja i świadomość konsumentów są kluczowe dla stymulowania popytu na
+produkty z recyklingu i wspierania zrównoważonego rynku.
+- Zrozumienie zarówno pozytywnych, jak i negatywnych skutków pozwala firmom i
+konsumentom na podejmowanie świadomych decyzji dotyczących kupowania i sprzedawania
+recyklingowanych towarów i materiałów, przyczyniając się w ten sposób do bardziej
+zrównoważonej przyszłości.
+
 ### value_question_en
 
 If you company operated manufacturing, construction and/or packaging processes during the period,
@@ -127,6 +259,31 @@ provide a description of recycled goods and materials bought and sold?
 Si votre entreprise a exploité des processus de fabrication, de construction et/ou d'emballage au
 cours de la période, fournissez une description des biens et matériaux recyclés achetés et vendus ?
 
+### value_question_es
+
+Si su empresa operó procesos de fabricación, construcción y/o embalaje durante el período,
+proporcione una descripción de los bienes y materiales reciclados comprados y vendidos.
+
+### value_question_nl
+
+Als uw bedrijf productie-, bouw- en/of verpakkingsprocessen heeft uitgevoerd gedurende de periode,
+geef dan een beschrijving van de gerecycleerde goederen en materialen die zijn gekocht en verkocht?
+
+### value_question_it
+
+Se la tua azienda ha operato processi di produzione, costruzione e/o imballaggio durante il periodo,
+fornisci una descrizione dei beni e materiali riciclati acquistati e venduti?
+
+### value_question_ro
+
+Dacă compania dvs. a desfășurat procese de fabricație, construcție și/sau ambalare în timpul perioadei,
+furnizați o descriere a bunurilor și materialelor reciclate cumpărate și vândute?
+
+### value_question_pl
+
+Jeśli Twoja firma prowadziła procesy produkcyjne, budowlane i/lub pakowania w okresie,
+podaj opis recyklingowanych towarów i materiałów kupowanych i sprzedawanych?
+
 ### summary_en
 
 Buying and selling of recycled goods and materials generally has a positive impact on 
@@ -136,6 +293,17 @@ sustainability and reposnds to consumer demand for sustainable products.
 
 L'achat et la vente de biens et de matériaux recyclés ont généralement un impact positif sur la
 durabilité et répondent à la demande des consommateurs pour des produits durables.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

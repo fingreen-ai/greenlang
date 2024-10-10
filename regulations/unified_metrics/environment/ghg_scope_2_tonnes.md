@@ -62,16 +62,13 @@ emissions_ghg
 
 ### description_en
 
-
 "Greenhouse gas emissions" are emissions in terms of tonnes of CO2 equivalent of carbon dioxide
 (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs),
 nitrogen trifluoride (NF3) and sulphur hexafluoride (SF6).
 
-
 "Scope 2 carbon emissions"", namely emissions from the consumption of purchased electricity,
 steam, or other sources of energy generated upstream from the company that issues the underlying
 assets.
-
 
 Scope 2 accounts for GHG emissions from the generation of purchased electricity consumed by
 the company. Purchased electricity is defined as electricity that is purchased or otherwise
@@ -79,20 +76,15 @@ brought into the organizational boundary of the company. Scope 2 emissions physi
 the facility where electricity is generated.
 
 
-
-
 ### description_fr
-
 
 Les "émissions de gaz à effet de serre" sont des émissions exprimées en tonnes d'équivalent CO2
 de dioxyde de carbone (CO2), méthane (CH4), protoxyde d'azote (N2O), hydrofluorocarbures (HFC),
 perfluorocarbures (PFC), trifluorure d'azote (NF3) et hexafluorure de soufre (SF6).
 
-
 "Émissions de carbone de portée 2"", à savoir les émissions liées à la consommation
 d'électricité achetée, la vapeur, ou d'autres sources d'énergie générées en amont de l'entreprise
 qui émet le sous-jacent actifs.
-
 
 Le champ d'application 2 comptabilise les émissions de GES provenant de la production
 d'électricité achetée consommée par l'entreprise. L'électricité achetée est définie comme
@@ -100,8 +92,79 @@ l'électricité qui est achetée ou autrement introduit dans le périmètre orga
 l'entreprise. Les émissions de portée 2 se produisent physiquement à l'installation où
 l'électricité est produite.
 
+### description_es
 
+"Emisiones de gases de efecto invernadero" son emisiones en términos de toneladas de CO2 equivalente
+de dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonos (HFC), perfluorocarbonos
+(PFC), trifluoruro de nitrógeno (NF3) y hexafluoruro de azufre (SF6).
 
+"Emisiones de carbono de Alcance 2"", es decir, las emisiones derivadas del consumo de electricidad
+comprada, vapor u otras fuentes de energía generadas aguas arriba de la empresa que emite los activos
+subyacentes.
+
+El Alcance 2 contabiliza las emisiones de GEI de la generación de electricidad comprada consumida por
+la empresa. La electricidad comprada se define como la electricidad que se compra o que se introduce de
+otro modo en el límite organizativo de la empresa. Las emisiones de Alcance 2 se producen físicamente en
+la instalación donde se genera la electricidad.
+
+### description_nl
+
+"Broeikasgasemissies" zijn emissies in termen van ton CO2-equivalent van kooldioxide (CO2),
+methaan (CH4), lachgas (N2O),  HCFK's (HFC's), perfluorocarbonen (PFC's), stikstof
+trifluoride (NF3) en zwavelhexafluoride (SF6).
+
+"Scope 2-koolstofemissies"", namelijk emissies van de consumptie van gekochte elektriciteit,
+stoom of andere energiebronnen die stroomopwaarts worden gegenereerd van het bedrijf dat de
+onderliggende activa uitgeeft.
+
+Scope 2 houdt rekening met BKG-emissies uit de opwekking van gekochte elektriciteit die door
+het bedrijf wordt verbruikt. Gekochte elektriciteit wordt gedefinieerd als elektriciteit die wordt
+gekocht of anderszins wordt binnengebracht in de organisatorische grens van het bedrijf. Scope 2-
+emissies vinden fysiek plaats in de faciliteit waar elektriciteit wordt opgewekt.
+
+### description_it
+
+"Emissioni di gas serra" sono emissioni in termini di tonnellate di CO2 equivalente di anidride
+carbonica (CO2), metano (CH4), protossido di azoto (N2O), idrofluorocarburi (HFC),
+perfluorocarburi (PFC), trifluoruro di azoto (NF3) ed esafluoruro di zolfo (SF6).
+
+"Emissioni di carbonio di Scope 2"", ovvero le emissioni derivanti dal consumo di elettricità
+acquistata, vapore o altre fonti di energia generate a monte dell'azienda che emette le attività
+sottostanti.
+
+Scope 2 tiene conto delle emissioni di gas serra dalla generazione di elettricità acquistata
+consumata dall'azienda. L'elettricità acquistata è definita come l'elettricità che viene acquistata
+o altrimenti introdotta nel confine organizzativo dell'azienda. Le emissioni di Scope 2 si
+verificano fisicamente presso l'impianto in cui viene generata l'elettricità.
+
+### description_ro
+
+"Emisiile de gaze cu efect de seră" sunt emisii în termeni de tone de CO2 echivalent de dioxid
+de carbon (CO2), metan (CH4), oxid de azot (N2O), hidrofluorocarburi (HFC), perfluorocarburi
+(PFC), trifluorură de azot (NF3) și hexafluorură de sulf (SF6).
+
+"Emisiile de carbon de Scop 2"", adică emisiile provenite din consumul de energie electrică
+achiziționată, abur sau alte surse de energie generate în amonte de compania care emite activele
+subiacente.
+
+Scopul 2 contabilizează emisiile de GES din generarea energiei electrice achiziționate
+consumate de companie. Energia electrică achiziționată este definită ca energia electrică care
+este achiziționată sau introdusă altfel în limita organizațională a companiei. Emisiile de Scop 2
+au loc fizic la instalația unde se generează energia electrică.
+
+### description_pl
+
+"Emisje gazów cieplarnianych" to emisje wyrażone w tonach ekwiwalentu CO2 dwutlenku węgla
+(CO2), metanu (CH4), podtlenku azotu (N2O),  HFC (HFC), PFC (PFC), trójfluorku azotu (NF3) i
+sześciofluorku siarki (SF6).
+
+"Emisje zakresu 2"", a mianowicie emisje związane ze zużyciem zakupionej energii elektrycznej,
+pary lub innych źródeł energii generowanych w górę rzeki od firmy emitującej podstawowe aktywa.
+
+Zakres 2 uwzględnia emisje GHG z generowania zakupionej energii elektrycznej zużywanej przez
+firmę. Zakupiona energia elektryczna jest definiowana jako energia elektryczna, która jest
+zakupiona lub w inny sposób wprowadzona do granicy organizacyjnej firmy. Emisje zakresu 2
+fizycznie występują w obiekcie, w którym energia elektryczna jest generowana.
 
 ### value_question_en
 
@@ -112,6 +175,27 @@ How many tonnes of "Scope 2" greenhouse gas carbon dioxide
 
 Combien de tonnes de gaz à effet de serre de Scope 2
 l'entreprise a-t-elle émises pendant la période?
+
+### value_question_es
+
+¿Cuántas toneladas de dióxido de carbono (CO2 equivalente) de gas de efecto invernadero de "Alcance 2"
+emitió la empresa durante el período?
+
+### value_question_nl
+
+Hoeveel ton "Scope 2" broeikasgas kooldioxide (C02-equivalent) heeft het bedrijf tijdens de periode uitgestoten?
+
+### value_question_it
+
+Quante tonnellate di diossido di carbonio (CO2 equivalente) di gas serra di "Scope 2" ha emesso l'azienda durante il periodo?
+
+### value_question_ro
+
+Câte tone de dioxid de carbon (CO2 echivalent) de gaze cu efect de seră de "Scop 2" a emis compania în perioadă?
+
+### value_question_pl
+
+Ile ton dwutlenku węgla (ekwiwalent CO2) gazów cieplarnianych "Zakres 2" wyemitowała firma w okresie?
 
 ### summary_en
 
@@ -127,6 +211,28 @@ effet de serre (GES) associées à la production d'électricité, de vapeur, de
 chaleur ou de refroidissement achetés ou acquis par l'entreprise. Ces
 émissions sont donc le résultat de l'énergie consommée par cette entreprise,
 mais sont produites hors site par un tiers.
+
+### summary_es
+
+El alcance 2 representa las emisiones indirectas de gases de efecto invernadero (GEI) asociadas con la generación de electricidad, vapor, calor o refrigeración comprados o adquiridos. Estas emisiones son resultado de la energía consumida por una organización, pero son producidas fuera de las instalaciones por un tercero.
+
+### summary_nl
+
+Scope 2 vertegenwoordigt de indirecte uitstoot van broeikasgassen (BKG) die verband houden met de opwekking van aangekochte of verworven elektriciteit, stoom, warmte of koeling. Deze emissies zijn het gevolg van de energie die door een organisatie wordt verbruikt, maar worden elders geproduceerd door een derde partij.
+
+### summary_it
+
+Scope 2 rappresenta l'emissione indiretta di gas serra (GHG) associata alla generazione di elettricità, vapore, calore o raffreddamento acquistati o acquisiti. Queste emissioni sono il risultato dell'energia consumata da un'organizzazione ma sono prodotte fuori sede da una terza parte.
+
+
+### summary_ro
+
+Scope 2 reprezintă emisiile indirecte de gaze cu efect de seră (GES) asociate cu generarea de electricitate, abur, căldură sau răcire achiziționate sau dobândite. Aceste emisii sunt rezultatul energiei consumate de o organizație, dar sunt produse în afara locației de către o terță parte.
+
+### summary_pl
+
+Zakres 2 reprezentuje pośrednie emisje gazów cieplarnianych (BKG) związane z generowaniem zakupionej lub nabytej energii elektrycznej, pary, ciepła lub chłodzenia. Te emisje są wynikiem energii zużywanej przez organizację, ale są produkowane poza obiektem przez osobę trzecią.
+
 
 ### compute_en
 

@@ -83,6 +83,68 @@ Selon le (UE) 2022/1288 du 6 avril 2022, la métrique est définie comme "Tonnes
 substances appauvrissant la couche d'ozone par million d'euros investi, exprimées en moyenne
 pondérée".
 
+### description_es
+
+El indicador tiene como objetivo evaluar el uso por parte de la empresa de sustancias que
+están incluidas en la lista de "agotamiento de la capa de ozono" en el Protocolo de Montreal sobre
+Sustancias. La medición de las sustancias debe realizarse en toneladas.
+
+**Definición reglamentaria**
+
+Según la (UE) 2022/1288 del 6 de abril de 2022, la métrica se define como "Toneladas de sustancias
+que agotan la capa de ozono equivalentes por millón de euros invertidos, expresadas como media
+ponderada".
+
+### description_nl
+
+De indicator beoogt het gebruik door het bedrijf van stoffen te evalueren die zijn
+geclassificeerd als "ozonafbrekend" in het Protocol van Montreal inzake stoffen. De meting van de
+stoffen moet in ton worden uitgevoerd.
+
+**Wettelijke definitie**
+
+Volgens (EU) 2022/1288 van 6 april 2022 wordt de metriek gedefinieerd als "Ton ozonafbrekende
+stoffen equivalent per miljoen EUR geïnvesteerd, uitgedrukt als een gewogen gemiddelde"
+
+### description_it
+
+L'indicatore mira a valutare l'utilizzo da parte dell'azienda di sostanze che sono elencate come
+"depleting ozone" nel Protocollo di Montreal sulle sostanze. La misurazione delle sostanze deve
+essere effettuata in tonnellate.
+
+**Definizione regolamentare**
+
+Secondo il (UE) 2022/1288 del 6 aprile 2022, la metrica è definita come "Tonnellate di sostanze
+che impoveriscono l'ozono equivalenti per milione di EUR investiti, espresse come media ponderata"
+
+### description_ro
+
+Indicatoarele urmăresc să evalueze utilizarea de către companie a substanțelor care sunt
+listate ca „epuizând stratul de ozon” în Protocolul de la Montreal privind substanțele.
+Măsurarea substanțelor trebuie efectuată în tone.
+
+**Definiție regulamentară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, metrica este definită ca „Tone de substanțe care
+epuizează stratul de ozon echivalente la un milion de EUR investiți, exprimate ca o medie
+ponderată”
+
+### description_pl
+
+Wskaźnik ten ma na celu ocenę wykorzystania przez spółkę substancji, które są
+wymienione jako "niszczące warstwę ozonową" w Protokołach Montrealskich dotyczących
+substancji. Pomiar substancji należy przeprowadzić w tonach.
+
+**Definicja regulacyjna**
+
+Zgodnie z rozporządzeniem delegowanym (UE) 2022/1288 z dnia 6 kwietnia 2022 r.
+uzupełniającym rozporządzenie (UE) 2019/2088 Parlamentu Europejskiego i Rady w
+odniesieniu do standardów technicznych w zakresie regulacji określających
+szczegółowe informacje dotyczące treści i prezentacji informacji w związku z
+zasadą niedochodzenia do znacznego szkodzenia, definiuje się ją jako „Tony
+substancji niszczących warstwę ozonową równoważne na milion EUR zainwestowanych,
+wyrażone jako średnia ważona”.
+
 ### value_question_en
 
 How much ozone depletion substances did the company emit as a result of its activities,
@@ -92,6 +154,31 @@ during the period?
 
 Quelle quantité de substances appauvrissant la couche d’ozone l’entreprise a-t-elle émise du fait
 de ses activités, au cours de la période ?
+
+### value_question_es
+
+¿Cuántas sustancias que agotan la capa de ozono emitió la empresa como resultado de sus actividades,
+durante el período?
+
+### value_question_nl
+
+Hoeveel ozonafbrekende stoffen heeft het bedrijf uitgestoten als gevolg van zijn activiteiten,
+gedurende de periode?
+
+### value_question_it
+
+Quante sostanze che impoveriscono l'ozono ha emesso l'azienda a seguito delle sue attività,
+durante il periodo?
+
+### value_question_ro
+
+Câte substanțe care epuizează stratul de ozon a emis compania ca urmare a activităților sale,
+în timpul perioadei?
+
+### value_question_pl
+
+Ile zanieczyszczeń niszczących warstwę ozonową wyemitowała firma w wyniku swoich działań,
+w okresie?
 
 ### summary_en
 
@@ -105,6 +192,17 @@ like chlorofluorocarbons (CFCs), halons and other transitional chemicals.
 de Montréal relatif aux substances qui appauvrissent la couche d’ozone. Le Protocole vise à éliminer
 progressivement la production et l’utilisation de substances telles que les chlorofluorocarbones
 (CFC), les halons et autres produits chimiques de transition.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 

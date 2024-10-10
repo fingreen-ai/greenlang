@@ -62,7 +62,6 @@ energy_consumption
 
 ### description_en
 
-
 The total energy consumption is the company's energy consumption coming from the following
 non-renewable sources:  
 
@@ -73,46 +72,122 @@ non-renewable sources:
 * consumption from nuclear products
 * consumption of purchased or acquired electricity, heat, steam, and cooling from non-renewable sources
 
-
-
-
-
-
 Renewable sources are sources that are inexhaustible. As such, renewable energy covers wind, solar
 (solar thermal and solar photovoltaic) and geothermal energy, ambient
 energy, tide, wave and other ocean energy, hydropower, biomass,
 landfill gas, sewage treatment plant gas, and biogas.
 
-
-
-
-
 ### description_fr
 
-
-La consommation totale d'énergie est la consommation d'énergie de l'entreprise provenant des éléments suivants
-sources non renouvelables:  
+La consommation totale d'énergie est la consommation d'énergie de l'entreprise provenant des sources
+non renouvelables:  
 
 * Consommation de carburant provenant du charbon et des produits dérivés du charbon
 * Consommation de carburant provenant du pétrole brut et des produits pétroliers
 * Consommation de carburant provenant du gaz naturel
 * Consommation de carburant provenant d'autres sources non renouvelables
 * consommation de produits nucléaires
-* consommation d'électricité, de chaleur, de vapeur et de refroidissement achetés ou acquis à partir de sources non renouvelables
+* consommation d'électricité, de chaleur, de vapeur et de refroidissement achetés ou acquis à partir
+de sources non renouvelables
 
-
-
-
-
-
-Les sources renouvelables sont des sources inépuisables. Ainsi, les énergies renouvelables couvrent l'éolien, le solaire
+Les sources renouvelables sont des sources inépuisables. Ainsi, les énergies renouvelables couvrent
+l'éolien, le solaire
 (solaire thermique et solaire photovoltaïque) et géothermique, énergie ambiante
 énergie, marée, vagues et autres énergies océaniques, hydroélectricité, biomasse,
 gaz de décharge, gaz de station d'épuration et biogaz.
 
+### description_es
 
+El consumo total de energía es el consumo de energía de la empresa proveniente de las siguientes
+fuentes no renovables:  
 
+* consumo de combustible de carbón y productos derivados del carbón
+* consumo de combustible de petróleo crudo y productos derivados del petróleo
+* consumo de combustible de gas natural
+* consumo de combustible de otras fuentes no renovables
+* consumo de productos nucleares
+* consumo de electricidad, calor, vapor y refrigeración comprados o adquiridos a partir de fuentes
+no renovables
 
+Las fuentes renovables son fuentes inagotables. Como tal, la energía renovable abarca la energía
+eólica, solar
+(solar térmica y solar fotovoltaica) y geotérmica, la energía ambiental, la energía
+de las mareas, las olas y otras energías oceánicas, la energía hidroeléctrica, la biomasa, el gas de
+vertedero, el gas de las plantas de tratamiento de aguas residuales y el biogás.
+
+### description_nl
+
+Het totale energieverbruik is het energieverbruik van het bedrijf dat afkomstig is van de
+volgende niet-hernieuwbare bronnen:  
+
+* brandstofverbruik van steenkool en steenkoolproducten
+* brandstofverbruik van ruwe olie en olieproducten
+* brandstofverbruik van aardgas
+* brandstofverbruik van andere niet-hernieuwbare bronnen
+* verbruik van nucleaire producten
+* verbruik van gekochte of verworven elektriciteit, warmte, stoom en koeling uit niet-hernieuwbare
+bronnen
+
+Hernieuwbare bronnen zijn bronnen die onuitputtelijk zijn. Hernieuwbare energie omvat wind, zon
+(zonne-thermisch en zonne-fotovoltaïsch) en geothermische energie, omgevingsenergie, getij, golf
+en andere oceaanenergie, waterkracht, biomassa, stortgas, rioolwaterzuiveringsgas en biogas.
+
+### description_it
+
+Il consumo totale di energia è il consumo di energia dell'azienda proveniente dalle seguenti
+fonti non rinnovabili:  
+
+* consumo di combustibile da carbone e prodotti derivati dal carbone
+* consumo di combustibile da petrolio greggio e prodotti petroliferi
+* consumo di combustibile da gas naturale
+* consumo di combustibile da altre fonti non rinnovabili
+* consumo di prodotti nucleari
+* consumo di elettricità, calore, vapore e raffreddamento acquistati o acquisiti da fonti non
+rinnovabili
+
+Le fonti rinnovabili sono fonti inesauribili. Come tale, l'energia rinnovabile comprende
+l'energia eolica, solare
+(solare termica e solare fotovoltaica) e geotermica, l'energia ambientale, l'energia
+delle maree, delle onde e altre energie oceaniche, l'energia idroelettrica, la biomassa, il gas di
+discarica, il gas degli impianti di trattamento delle acque reflue e il biogas.
+
+### description_ro
+
+Consumul total de energie este consumul de energie al companiei provenit din următoarele surse
+nerenovabile:  
+
+* consumul de combustibil din cărbune și produse din cărbune
+* consumul de combustibil din petrol brut și produse petroliere
+* consumul de combustibil din gaze naturale
+* consumul de combustibil din alte surse nerenovabile
+* consumul de produse nucleare
+* consumul de energie electrică, căldură, abur și răcire achiziționate sau obținute din surse
+nerenovabile
+
+Sursele regenerabile sunt surse inepuizabile. Ca atare, energia regenerabilă acoperă energia
+eoliană, solară
+(solară termică și solară fotovoltaică) și geotermală, energia ambientală, energia
+mareei, valurilor și alte energii oceanice, energia hidroelectrică, biomasa, gazul de depozitare,
+gazul din stațiile de tratare a apelor uzate și biogazul.
+
+### description_pl
+
+Całkowite zużycie energii to zużycie energii przez firmę pochodzące z następujących źródeł
+nieodnawialnych:  
+
+* zużycie paliwa z węgla i produktów węglowych
+* zużycie paliwa z ropy naftowej i produktów naftowych
+* zużycie paliwa z gazu ziemnego
+* zużycie paliwa z innych źródeł nieodnawialnych
+* zużycie produktów jądrowych
+* zużycie zakupionej lub nabytej energii elektrycznej, ciepła, pary i chłodzenia ze źródeł
+nieodnawialnych
+
+Źródła odnawialne to źródła niewyczerpalne. W związku z tym energia odnawialna obejmuje energię
+wiatrową, słoneczną
+(słoneczną termiczną i słoneczną fotowoltaiczną) i geotermalną, energię środowiskową, energię
+pływową, falową i inną energię oceaniczną, energię wodną, biomasę, gaz
+pochodzący ze składowisk odpadów, gaz z oczyszczalni ścieków i biogaz.
 
 ### value_question_en
 
@@ -124,20 +199,56 @@ period?
 Quelle quantité d'énergie non renouvelable l'entreprise a-t-elle
 consommée au cours de la période?
 
-### summary_en
+### value_question_es
 
+¿Cuánta energía no renovable consumió la empresa durante el período?
+
+### value_question_nl
+
+Hoeveel niet-hernieuwbare energie heeft het bedrijf verbruikt tijdens de periode?
+
+### value_question_it
+
+Quanta energia non rinnovabile ha consumato l'azienda durante il periodo considerato?
+
+### value_question_ro
+
+Câtă energie nerenovabilă a consumat compania în perioada? 
+
+### value_question_pl
+
+Ile energii nieodnawialnej zużyła firma w okresie?
+
+### summary_en
 
 Total non-renewable energy consumption is the combined energy usage of a company, including
 non-renewable sources like fossil fuels and purchased non-renewable energy.
 
-
 ### summary_fr
-
 
 La consommation totale d'énergie non renouvelable est la consommation énergétique combinée d'une
 entreprise, y compris les sources non renouvelables comme les combustibles fossiles et l'énergie
 non renouvelable achetée.
 
+### summary_es
+
+El consumo total de energía no renovable es el uso combinado de energía de una empresa, incluidas las fuentes no renovables como los combustibles fósiles y la energía no renovable comprada.
+
+### summary_nl
+
+Het totale niet-hernieuwbare energieverbruik is het gecombineerde energieverbruik van een bedrijf, inclusief niet-hernieuwbare bronnen zoals fossiele brandstoffen en aangekochte niet-hernieuwbare energie.
+
+### summary_it
+
+Il consumo totale di energia non rinnovabile è l'uso combinato di energia di un'azienda, comprese le fonti non rinnovabili come i combustibili fossili e l'energia non rinnovabile acquistata.
+
+### summary_ro
+
+Consumul total de energie nerenovabilă este consumul combinat de energie al unei companii, inclusiv surse nerenovabile precum combustibilii fosili și energia nerenovabilă achiziționată.
+
+### summary_pl
+
+Całkowite zużycie energii nieodnawialnej to łączne zużycie energii przez firmę, w tym źródła nieodnawialne, takie jak paliwa kopalne i zakupiona energia nieodnawialna.
 
 ### compute_en
 

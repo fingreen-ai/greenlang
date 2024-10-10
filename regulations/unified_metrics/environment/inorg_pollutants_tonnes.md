@@ -85,6 +85,72 @@ L’indicateur vise à évaluer les émissions de polluants inorganiques de l’
 Selon le (UE) 2022/1288 du 6 avril 2022, la métrique est définie comme "Tonnes équivalentes de
 polluants inorganiques par million d'euros investi, exprimées en moyenne pondérée".
 
+### description_es
+
+El indicador tiene como objetivo evaluar las emisiones de contaminantes inorgánicos
+de la empresa. La medición de las emisiones debe realizarse en toneladas.
+
+[El Anexo I - Clases básicas de compuestos inorgánicos del Documento de referencia sobre las mejores técnicas disponibles para la fabricación de productos químicos inorgánicos de gran volumen - Industria de sólidos y otros proporciona una lista completa de los compuestos inorgánicos cubiertos. ](https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf)
+
+**Definición reglamentaria**
+
+Según la (UE) 2022/1288 del 6 de abril de 2022, la métrica se define como "Toneladas de
+contaminantes inorgánicos equivalentes por millón de euros invertidos, expresadas como media ponderada"
+
+### description_nl
+
+De indicator beoogt de emissies van anorganische verontreinigende stoffen van het bedrijf te
+evalueren. De meting van de emissies moet in ton worden uitgevoerd.
+
+[Bijlage I - Basiscategorieën van anorganische verbindingen van het Referentiedocument over beste beschikbare technieken voor de productie van grote hoeveelheden anorganische chemicaliën - Vaste stoffen en andere industrie geeft een uitgebreide lijst van de behandelde anorganische verbindingen.](https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf)
+
+**Wettelijke definitie**
+
+Volgens (EU) 2022/1288 van 6 april 2022 wordt de metriek gedefinieerd als "Ton anorganische
+verontreinigende stoffen equivalent per miljoen EUR geïnvesteerd, uitgedrukt als een
+gewogen gemiddelde"
+
+### description_it
+
+L'indicatore mira a valutare le emissioni di inquinanti inorganici dell'azienda. La misurazione
+delle emissioni deve essere effettuata in tonnellate.
+
+[Allegato I - Classi di base di composti inorganici del Documento di riferimento sulle migliori tecniche disponibili per la produzione di prodotti chimici inorganici in grandi quantità - Solidi e altri industrie fornisce un elenco completo dei composti inorganici trattati.](https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf)
+
+**Definizione regolamentare**
+
+Secondo il (UE) 2022/1288 del 6 aprile 2022, la metrica è definita come "Tonnellate di
+inquinanti inorganici equivalenti per milione di EUR investiti, espresse come media ponderata"
+
+### description_ro
+
+Indicatoarele urmăresc să evalueze emisiile de poluanți anorganici ale companiei. Măsurarea
+emisiilor trebuie efectuată în tone.
+
+[Anexa I - Clase de bază de compuși anorganici din Documentul de referință privind cele mai bune tehnici disponibile pentru fabricarea de produse chimice anorganice în volum mare - Industria solidelor și a altor produse oferă o listă completă a compușilor anorganici acoperiți.](https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf)
+
+**Definiție regulamentară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, metrica este definită ca „Tone de poluanți anorganici
+echivalenți la un milion de EUR investiți, exprimate ca o medie ponderată”
+
+### description_pl
+
+Wskaźnik ten ma na celu ocenę emisji zanieczyszczeń nieorganicznych przez
+spółkę. Pomiar emisji należy przeprowadzić w tonach.
+
+[Załącznik I - Podstawowe klasy związków nieorganicznych z Dokumentu Referencyjnego dotyczącego Najlepszych Dostępnych Technik dla Produkcji Chemikaliów Nieorganicznych w Dużych Ilościach - Ciała Stałe i Inne Przemysł zawiera wyczerpującą listę objętych związków nieorganicznych.](https://eippcb.jrc.ec.europa.eu/sites/default/files/2019-11/lvic-s_bref_0907.pdf)
+
+**Definicja regulacyjna**
+
+Zgodnie z rozporządzeniem delegowanym (UE) 2022/1288 z dnia 6 kwietnia 2022 r.
+uzupełniającym rozporządzenie (UE) 2019/2088 Parlamentu Europejskiego i Rady w
+odniesieniu do standardów technicznych w zakresie regulacji określających
+szczegółowe informacje dotyczące treści i prezentacji informacji w związku z
+zasadą niedochodzenia do znacznego szkodzenia, definiuje się ją jako „Tony
+zanieczyszczeń nieorganicznych równoważnych na milion EUR zainwestowanych,
+wyrażone jako średnia ważona”.
+
 ### value_question_en
 
 How much inorganic pollutants did the company emit as a result of its activities, during the period?
@@ -93,6 +159,28 @@ How much inorganic pollutants did the company emit as a result of its activities
 
 Quelle quantité de polluants inorganiques l’entreprise a-t-elle émis du fait de ses activités,
 au cours de la période ?
+
+### value_question_es
+
+¿Cuántos contaminantes inorgánicos emitió la empresa como resultado de sus actividades, durante el
+período?
+
+### value_question_nl
+
+Hoeveel anorganische verontreinigende stoffen heeft het bedrijf uitgestoten als gevolg van zijn
+activiteiten, gedurende de periode?
+
+### value_question_it
+
+Quanti inquinanti inorganici ha emesso l'azienda a seguito delle sue attività, durante il periodo?
+
+### value_question_ro
+
+Câte emisii de poluanți anorganici a emis compania ca urmare a activităților sale, în timpul perioadei?
+
+### value_question_pl
+
+Ile zanieczyszczeń nieorganicznych wyemitowała firma w wyniku swoich działań, w okresie?
 
 ### summary_en
 
@@ -107,6 +195,26 @@ Others industry.
 associés aux meilleures techniques disponibles (NEA-MTD) tels que définis à l'article 3, point
 (13) de la directive 2010/75/UE du Parlement européen et du Conseil, pour l'industrie des produits
 chimiques inorganiques en grand volume, des solides et autres.
+
+### summary_es
+
+"Contaminantes inorgánicos" significa emisiones dentro o por debajo de los niveles de emisión asociados con las mejores técnicas disponibles (MTD-NEA) según se define en el artículo 3, punto (13) de la Directiva 2010/75/UE del Parlamento Europeo y del Consejo, para la industria de productos químicos inorgánicos de gran volumen, sólidos y otros.
+
+### summary_nl
+
+Onder "anorganische verontreinigende stoffen" worden emissies verstaan ​​die binnen of lager liggen dan de emissieniveaus die samenhangen met de beste beschikbare technieken (BBT-AEL) zoals gedefinieerd in artikel 3, punt (13) van Richtlijn 2010/75/EU van het Europees Parlement en de Raad, voor de industrie van anorganische bulkchemicaliën - vaste stoffen en andere.
+
+### summary_it
+
+Per "inquinanti inorganici" si intendono le emissioni entro o inferiori ai livelli di emissione associati alle migliori tecniche disponibili (BAT-AEL) come definito all'articolo 3, punto (13) della Direttiva 2010/75/UE del Parlamento europeo e del Consiglio, per l'industria dei prodotti chimici inorganici a grande volume, solidi e altri.
+
+### summary_ro
+
+Prin "poluanți anorganici" se înțeleg emisiile la sau sub nivelurile de emisie asociate cu cele mai bune tehnici disponibile (BAT-AEL) așa cum sunt definite în articolul 3, punctul (13) din Directiva 2010/75/UE a Parlamentului European și a Consiliului, pentru industria de produse chimice anorganice în volum mare, solide și altele.
+
+### summary_pl
+
+Przez "zanieczyszczenia nieorganiczne" rozumie się emisje na poziomie lub poniżej poziomów emisji związanych z najlepszymi dostępnymi technikami (BAT-AEL), zdefiniowanymi w art. 3, pkt (13) Dyrektywy 2010/75/UE Parlamentu Europejskiego i Rady, dla przemysłu chemicznego wolumetrycznych substancji nieorganicznych - ciała stałe i inne.
 
 ### compute_en
 

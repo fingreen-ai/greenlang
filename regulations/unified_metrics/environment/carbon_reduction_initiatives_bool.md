@@ -58,24 +58,149 @@ carbon_footprint
 
 ### description_en
 
-Carbon emissions reduction initiatives play a vital role at the core of the organisation’s sustainability strategy. In that sense, the Paris Agreement’s central aim is to strengthen the global response to the threat of climate change by keeping a global temperature rise this century well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the temperature increase even further to 1.5 degrees Celsius.
+Carbon emissions reduction initiatives play a vital role at the core of the organisation’s
+sustainability strategy. In that sense, the Paris Agreement’s central aim is to strengthen the
+global response to the threat of climate change by keeping a global temperature rise this century
+well below 2 degrees Celsius above pre-industrial levels and to pursue efforts to limit the
+temperature increase even further to 1.5 degrees Celsius.
 
-Organisations can align their operations and projects to carbon emissions reduction initiatives by submitting to the [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs). SBTi enables organisations of all sizes in different sectors to implement Net Zero standards or near-term targets. 
+Organisations can align their operations and projects to carbon emissions reduction initiatives by
+submitting to the [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs).
+SBTi enables organisations of all sizes in different sectors to implement Net Zero standards or
+near-term targets. 
 
 **Regulatory Definition**
 
-According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as "Share of investments in investee companies without carbon emission reduction initiatives aimed at aligning with the Paris Agreement" 
+According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as "Share of investments
+in investee companies without carbon emission reduction initiatives aimed at aligning with the Paris Agreement" 
 
 
 ### description_fr
 
-Les initiatives de réduction des émissions de carbone jouent un rôle essentiel au cœur de la stratégie de développement durable de l’organisation. En ce sens, l'objectif principal de l'Accord de Paris est de renforcer la réponse mondiale à la menace du changement climatique en maintenant l'augmentation de la température mondiale au cours de ce siècle bien en dessous de 2 degrés Celsius par rapport aux niveaux préindustriels et de poursuivre les efforts visant à limiter encore davantage l'augmentation de la température. à 1,5 degrés Celsius.
+Les initiatives de réduction des émissions de carbone jouent un rôle essentiel au cœur de la
+stratégie de développement durable de l’organisation. En ce sens, l'objectif principal de l'Accord
+de Paris est de renforcer la réponse mondiale à la menace du changement climatique en maintenant
+l'augmentation de la température mondiale au cours de ce siècle bien en dessous de 2 degrés Celsius
+par rapport aux niveaux préindustriels et de poursuivre les efforts visant à limiter encore davantage
+l'augmentation de la température. à 1,5 degrés Celsius.
 
-Les organisations peuvent aligner leurs opérations et leurs projets sur les initiatives de réduction des émissions de carbone en se soumettant à la [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs). SBTi permet aux organisations de toutes tailles dans différents secteurs de mettre en œuvre des normes Net Zero ou des objectifs à court terme.
+Les organisations peuvent aligner leurs opérations et leurs projets sur les initiatives de réduction
+des émissions de carbone en se soumettant à la [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs).
+SBTi permet aux organisations de toutes tailles dans différents secteurs de mettre en œuvre des
+normes Net Zero ou des objectifs à court terme.
 
 **Définition réglementaire**
 
-Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme "Part des investissements dans les entreprises dans lesquelles nous investissons sans initiatives de réduction des émissions de carbone visant à s'aligner sur l'Accord de Paris"
+Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme "Part des investissements
+dans les entreprises dans lesquelles nous investissons sans initiatives de réduction des émissions
+de carbone visant à s'aligner sur l'Accord de Paris"
+
+### description_es.
+
+Las iniciativas de reducción de emisiones de carbono desempeñan un papel fundamental en el núcleo de
+la estrategia de sostenibilidad de la organización. En ese sentido, el objetivo central del Acuerdo
+de París es fortalecer la respuesta global a la amenaza del cambio climático manteniendo el aumento
+de la temperatura global este siglo muy por debajo de los 2 grados Celsius con respecto a los
+niveles preindustriales y continuar los esfuerzos para limitar el aumento de la temperatura aún
+más a 1,5 grados Celsius.
+
+Las organizaciones pueden alinear sus operaciones y proyectos con las iniciativas de reducción de
+emisiones de carbono presentándose a la [Iniciativa de objetivos basados ​​en la ciencia (SBTi)](https://sciencebasedtargets.org/faqs).
+La ​​SBTi permite a las organizaciones de todos los tamaños en diferentes sectores implementar
+estándares de cero emisiones netas o
+objetivos a corto plazo.
+
+**Definición regulatoria**
+
+Según la (UE) 2022/1288 del 6 de abril de 2022, la métrica se define como "Proporción de inversiones
+en empresas participadas sin iniciativas de reducción de emisiones de carbono destinadas a alinearse
+con el Acuerdo de París"
+
+### description_nl
+
+Initiatieven voor het verminderen van de uitstoot van koolstof spelen een vitale rol in de kern van de
+duurzaamheidsstrategie van de organisatie. In die zin is het centrale doel van het Akkoord van Parijs
+om de mondiale reactie op de dreiging van klimaatverandering te versterken door een mondiale
+temperatuurstijging in deze eeuw ruim onder de 2 graden Celsius boven het pre-industriële niveau
+te houden en inspanningen te leveren om de temperatuurstijging nog verder te beperken tot 1,5
+graden Celsius.
+
+Organisaties kunnen hun activiteiten en projecten afstemmen op initiatieven voor het verminderen
+van de uitstoot van koolstof door zich te onderwerpen aan de [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs). SBTi stelt organisaties van alle
+groottes in verschillende sectoren in staat om Net Zero-normen of
+kortetermijndoelen te implementeren.
+
+**Wettelijke definitie**
+
+Volgens (EU) 2022/1288 van 6 april 2022 wordt de metriek gedefinieerd als "Aandeel van
+investeringen in deelnemingen zonder initiatieven voor het verminderen van de uitstoot van
+koolstof die gericht zijn op afstemming met het Akkoord van Parijs"
+
+### description_it
+
+Le iniziative di riduzione delle emissioni di carbonio svolgono un ruolo fondamentale al centro
+della strategia di sostenibilità dell'organizzazione. In tal senso, l'obiettivo principale
+dell'accordo di Parigi è rafforzare la risposta globale alla minaccia del cambiamento climatico
+mantenendo l'aumento della temperatura globale in questo secolo ben al di sotto dei 2 gradi Celsius
+rispetto ai livelli preindustriali e proseguire gli sforzi per limitare ulteriormente l'aumento della temperatura a 1,5 gradi Celsius.
+
+Le organizzazioni possono allineare le proprie operazioni e progetti alle iniziative di riduzione
+delle emissioni di carbonio inviando
+la propria candidatura alla [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs).
+SBTi consente alle organizzazioni di tutte le dimensioni in diversi settori di implementare
+standard Net Zero o obiettivi a breve termine.
+
+**Definizione normativa**
+
+Secondo la (UE) 2022/1288 del 6 aprile 2022, la metrica è definita come "Quota di investimenti
+in società partecipate senza iniziative di riduzione delle emissioni di carbonio volte ad
+allinearsi all'accordo di Parigi"
+
+### description_ro
+
+Inițiativele de reducere a emisiilor de carbon joacă un rol vital în centrul strategiei de
+sustenabilitate a organizației. În acest sens, obiectivul principal al Acordului de la Paris este
+de a consolida răspunsul global la amenințarea schimbărilor climatice, menținând creșterea
+temperaturii globale în acest secol cu mult sub 2 grade Celsius peste nivelurile
+preindustriale și de a depune eforturi pentru a limita creșterea temperaturii și mai mult la 1,5
+grade Celsius.
+
+Organizațiile își pot alinia operațiunile și proiectele la inițiativele de reducere a emisiilor de
+carbon prin prezentarea la [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs).
+SBTi permite organizațiilor de toate dimensiunile din diverse sectoare să implementeze standarde
+Net Zero sau
+obiective pe termen scurt.
+
+**Definiție regulamentară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, metrica este definită ca „Cota investițiilor în
+societățile investite fără inițiative de reducere a emisiilor de carbon care vizează alinierea
+la Acordul de la Paris"
+
+### description_pl
+
+Inicjatywy zmniejszania emisji dwutlenku węgla odgrywają kluczową rolę w centrum strategii
+zrównoważonego rozwoju organizacji. W tym sensie głównym celem Porozumienia Paryskiego jest
+wzmocnienie globalnej odpowiedzi na zagrożenie zmianą klimatu poprzez utrzymanie wzrostu
+globalnej temperatury w tym wieku znacznie poniżej 2 stopni Celsjusza w stosunku do poziomów
+przedprzemysłowych i kontynuowanie wysiłków na rzecz dalszego ograniczenia wzrostu
+temperatury do 1,5 stopnia Celsjusza.
+
+Organizacje mogą dostosować swoje operacje i projekty do inicjatyw zmniejszania emisji
+dwutlenku węgla, zgłaszając się do [Science-Based Target Initiative (SBTi)](https://sciencebasedtargets.org/faqs).
+SBTi umożliwia organizacjom wszystkich rozmiarów w różnych sektorach wdrażanie standardów
+Net Zero lub
+celów krótkoterminowych.
+
+**Definicja regulacyjna**
+
+Zgodnie z rozporządzeniem delegowanym (UE) 2022/1288 z dnia 6 kwietnia 2022 r.
+uzupełniającym rozporządzenie (UE) 2019/2088 Parlamentu Europejskiego i Rady w
+odniesieniu do standardów technicznych w zakresie regulacji określających
+szczegółowe informacje dotyczące treści i prezentacji informacji w związku z
+zasadą niedochodzenia do znacznego szkodzenia, definiuje się ją jako „Udział
+inwestycji w spółki zależne bez inicjatyw zmniejszania emisji dwutlenku węgla
+zmierzających do dostosowania do Porozumienia Paryskiego"
 
 ### value_question_en
 
@@ -85,6 +210,26 @@ Did the company have carbon emission reduction initiatives aimed at aligning wit
 
 L’entreprise a-t-elle mené des initiatives de réduction des émissions de carbone visant à s’aligner sur l’Accord de Paris, au cours de la période ?
 
+### value_question_es
+
+¿La empresa ha tenido iniciativas de reducción de emisiones de carbono destinadas a alinearse con el Acuerdo de París, durante el periodo?
+
+### value_question_nl
+
+Heeft het bedrijf initiatieven genomen om de uitstoot van koolstof te verminderen met als doel zich te aligneren met het Akkoord van Parijs, gedurende de periode?
+
+### value_question_it
+
+L'azienda ha intrapreso iniziative di riduzione delle emissioni di carbonio volte ad allinearsi con l'Accordo di Parigi, durante il periodo?
+
+### value_question_ro
+
+A avut compania inițiative de reducere a emisiilor de carbon menite să se alinieze cu Acordul de la Paris, pe parcursul perioadei?
+
+### value_question_pl
+
+Czy firma prowadziła inicjatywy zmniejszania emisji dwutlenku węgla zmierzające do dostosowania do Porozumienia paryskiego, w okresie?
+
 ### summary_en
 
 Carbon emissions reduction initiatives mean projects and/or company-wide solutions that are particularly aiming to switch to low-carbon strategies. It’s equally important to have these efforts aligned with the targets of the Paris Agreement which provides science-based targets.
@@ -92,6 +237,26 @@ Carbon emissions reduction initiatives mean projects and/or company-wide solutio
 ### summary_fr
 
 Les initiatives de réduction des émissions de carbone désignent des projets et/ou des solutions à l'échelle de l'entreprise qui visent notamment à passer à des stratégies bas carbone. Il est tout aussi important d’aligner ces efforts sur les objectifs de l’Accord de Paris, qui prévoit des objectifs fondés sur la science.
+
+### summary_es
+
+Las iniciativas de reducción de emisiones de carbono significan proyectos y/o soluciones a nivel de empresa que apuntan particularmente a cambiar a estrategias bajas en carbono. Es igualmente importante que estos esfuerzos estén alineados con los objetivos del Acuerdo de París que proporciona objetivos basados en la ciencia.
+
+### summary_nl
+
+Initiatieven voor het verminderen van de uitstoot van koolstof betekenen projecten en/of oplossingen op bedrijfsniveau die met name gericht zijn op het overschakelen naar koolstofarme strategieën. Het is even belangrijk dat deze inspanningen in lijn zijn met de doelstellingen van het Akkoord van Parijs dat wetenschappelijk onderbouwde doelen biedt.
+
+### summary_it
+
+Le iniziative di riduzione delle emissioni di carbonio significano progetti e/o soluzioni a livello aziendale che mirano in particolare a passare a strategie a basse emissioni di carbonio. È altrettanto importante che questi sforzi siano allineati con gli obiettivi dell'Accordo di Parigi che fornisce obiettivi basati sulla scienza.
+
+### summary_ro
+
+Inițiativele de reducere a emisiilor de carbon înseamnă proiecte și/sau soluții la nivel de companie care vizează în special trecerea la strategii cu emisii reduse de carbon. Este la fel de important ca aceste eforturi să fie aliniate cu obiectivele Acordului de la Paris care oferă obiective bazate pe știință.
+
+### summary_pl
+
+Inicjatywy zmniejszania emisji dwutlenku węgla oznaczają projekty i/lub rozwiązania na poziomie firmy, które szczególnie zmierzają do przejścia na strategie niskoemisyjne. Równie ważne jest, aby te wysiłki były zgodne z celami Porozumienia paryskiego, które określają cele oparte na nauce.
 
 ### compute_en
 

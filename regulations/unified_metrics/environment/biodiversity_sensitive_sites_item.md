@@ -57,12 +57,30 @@ text_multi
 
 ### description_fr
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
 
 ### value_question_en
 
 
 ### value_question_fr
 
+### value_question_es
+
+### value_question_nl
+
+### value_question_it
+
+### value_question_ro
+
+### value_question_pl
 
 ### text_1_label_en
 
@@ -84,6 +102,17 @@ Zone sensible à la biodiversité
 
 
 ### summary_fr
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 
 ### compute_en

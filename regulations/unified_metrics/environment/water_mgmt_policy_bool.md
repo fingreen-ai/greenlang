@@ -79,6 +79,61 @@ investissements de l’entreprise qui manquent de politiques de gestion de l’e
 Selon le (UE) 2022/1288 du 6 avril 2022, elle est définie comme "Part des investissements dans
 les entreprises bénéficiaires sans politiques de gestion de l'eau"
 
+### description_es
+
+Este indicador tiene como objetivo evaluar si la empresa tiene o no políticas de gestión del
+agua. En el caso de que sea una empresa de cartera, permite identificar la proporción de las
+inversiones de la empresa que carecen de políticas de gestión del agua.
+
+**Definición reglamentaria**
+
+De acuerdo con el (UE) 2022/1288 de 6 de abril de 2022, se define como "Porcentaje de
+inversiones en empresas participadas sin políticas de gestión del agua"
+
+### description_nl
+
+Deze indicator is bedoeld om te beoordelen of het bedrijf een waterbeheerbeleid heeft of niet. In
+het geval dat het een portefeuillebedrijf is, maakt het de identificatie mogelijk van het deel van
+de investeringen van het bedrijf dat geen waterbeheerbeleid heeft.
+
+**Regulerende definitie**
+
+Volgens de (EU) 2022/1288 van 6 april 2022 wordt het gedefinieerd als "Aandeel investeringen in
+investeringsbedrijven zonder waterbeheerbeleid"
+
+### description_it
+
+Questo indicatore mira a valutare se l'azienda ha o meno politiche di gestione dell'acqua in atto. Nel
+caso in cui si tratti di una società di portafoglio, consente di identificare la proporzione degli
+investimenti della società che mancano di politiche di gestione dell'acqua.
+
+**Definizione normativa**
+
+Secondo il (UE) 2022/1288 del 6 aprile 2022, è definito come "Quota di investimenti in
+società partecipate senza politiche di gestione dell'acqua"
+
+### description_ro
+
+Acest indicator vizează evaluarea dacă compania are sau nu politici de gestionare a apei în vigoare. În
+cazul în care este o companie de portofoliu, permite identificarea proporției investițiilor companiei
+care nu au politici de gestionare a apei.
+
+**Definiție reglementară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, acesta este definit ca „Cota de investiții în
+companiile investite fără politici de gestionare a apei”
+
+### description_pl
+
+Acest indicator vizează evaluarea dacă compania are sau nu politici de gestionare a apei în vigoare. În
+cazul în care este o companie de portofoliu, permite identificarea proporției investițiilor companiei
+care nu au politici de gestionare a apei.
+
+**Definiție reglementară**
+
+Conform (UE) 2022/1288 din 6 aprilie 2022, acesta este definit ca „Cota de investiții în
+companiile investite fără politici de gestionare a apei”
+
 ### value_question_en
 
 Did the company have a water management policy related to water usage and discharge methodology,
@@ -89,6 +144,31 @@ during the period?.
 L'entreprise avait-elle une politique de gestion de l'eau liée à la méthodologie d'utilisation et
 de rejet de l'eau, au cours de la période ?
 
+### value_question_es
+
+¿La empresa tenía una política de gestión del agua relacionada con la metodología de uso y
+descarga de agua, durante el período?
+
+### value_question_nl
+
+Heeft het bedrijf een waterbeheerbeleid gehad met betrekking tot de methodologie voor het
+gebruik en de lozingsmethodologie van water, gedurende de periode?
+
+### value_question_it
+
+L'azienda aveva una politica di gestione dell'acqua relativa alla metodologia di utilizzo e
+scarico dell'acqua, durante il periodo?
+
+### value_question_ro
+
+Compania a avut o politică de gestionare a apei legată de metodologia de utilizare și de descărcare
+a apei, în timpul perioadei?
+
+### value_question_pl
+
+Czy firma miała politykę zarządzania wodą dotyczącą metodologii zużycia i metodologii
+wyprowadzania wody, w okresie?
+
 ### summary_en
 
 A water management policy is a set of guidelines and practices implemented by a company to responsibly use, conserve and protect water resources in its operations. 
@@ -96,6 +176,17 @@ A water management policy is a set of guidelines and practices implemented by a 
 ### summary_fr
 
 Une politique de gestion de l'eau est un ensemble de lignes directrices et de pratiques mises en œuvre par une entreprise pour utiliser, conserver et protéger les ressources en eau de manière responsable dans le cadre de ses opérations.
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
+
 
 ### compute_en
 
