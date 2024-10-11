@@ -227,6 +227,7 @@ d'affaires (€m)"`
 
 ### compute_pl
 
+
 ### examples_en
 
 Suppose your organisation falls under one of the high-impact climate sectors based on EC No
@@ -240,18 +241,82 @@ base du règlement CE n° 1893/2006 du Parlement européen qui classe les activi
 Dans ce cas, votre organisation doit déclarer l’intensité de la consommation énergétique en GWh
 par million d’euros de chiffre d’affaires.
 
+### examples_es
+
+Supongamos que su organización se encuentra dentro de uno de los sectores de alto impacto
+climático según la normativa CE n.º 1893/2006 del Parlamento Europeo que clasifica las
+actividades económicas. En ese caso, su organización debería informar la intensidad del
+consumo energético en GWh por millón de euros de ingresos.
+
+### examples_nl
+
+Stel dat uw organisatie valt onder een van de sectoren met een hoog klimaatimpact op basis
+van de regelgeving van het Europees Parlement EC nr. 1893/2006 die economische activiteiten
+classificeert. In dat geval moet uw organisatie de energieverbruiksintensiteit rapporteren
+in GWh per miljoen euro omzet.
+
+### examples_it
+
+Supponiamo che la tua organizzazione rientri in uno dei settori ad alto impatto climatico in
+base al regolamento del Parlamento europeo CE n. 1893/2006 che classifica le attività
+economiche. In tal caso, la tua organizzazione dovrebbe segnalare l'intensità del consumo
+energetico in GWh per milione di euro di ricavi.
+
+### examples_ro
+
+Presupunem că organizația dvs. se încadrează în unul dintre sectoarele cu impact climatic
+ridicat pe baza reglementărilor Parlamentului European EC nr. 1893/2006 care clasifică
+activitățile economice. În acest caz, organizația dvs. ar trebui să raporteze intensitatea
+consumului de energie în GWh pe milion de euro din venituri.
+
+### examples_pl
+
+Załóżmy, że Twoja organizacja podlega jednemu z sektorów o wysokim wpływie klimatycznym na
+podstawie rozporządzeń Parlamentu Europejskiego EC nr 1893/2006, które klasyfikują
+działalność gospodarczą. W takim przypadku Twoja organizacja powinna zgłosić intensywność
+zużycia energii w GWh na milion EUR przychodów.
+
 ### support_docs_en
 
 - Measurement of total energy usage
 - Scope 1 and Scope 2 emissions calculation
 - Energy Intensity KPI data
 
-
 ### support_docs_fr
 
 - Mesure de la consommation totale d'énergie
 - Calcul des émissions Scope 1 et Scope 2
 - Données KPI d'intensité énergétique
+
+### support_docs_es
+
+- Medición del uso total de energía
+- Cálculo de las emisiones de alcance 1 y alcance 2
+- Datos KPI de intensidad energética
+
+### support_docs_nl
+
+- Meting van het totale energieverbruik
+- Berekening van de emissies Scope 1 en Scope 2
+- Gegevens KPI energie-intensiteit
+
+### support_docs_it
+
+- Misurazione del consumo totale di energia
+- Calcolo delle emissioni di Scope 1 e Scope 2
+- Dati KPI sull'intensità energetica
+
+### support_docs_ro
+
+- Măsurarea consumului total de energie
+- Calculul emisiilor de tip Scope 1 și Scope 2
+- Date KPI privind intensitatea energetică
+
+### support_docs_pl
+
+- Pomiar całkowitego zużycia energii
+- Obliczanie emisji zakresu 1 i zakresu 2
+- Dane KPI dotyczące intensywności energetycznej
 
 ### sources
 

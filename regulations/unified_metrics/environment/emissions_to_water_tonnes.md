@@ -524,36 +524,30 @@ Emisje do wody odnoszą się do uwalniania lub wydzielania substancji, zanieczys
 
 ### compute_pl
 
+
 ### examples_en
 
 Chemical Discharge: Chemical manufacturing plants may
 release hazardous chemicals and heavy metals into waterways.
 
-
 Oil and Grease: Industries such as oil refineries can release oil and grease
 into water, leading to oil spills and contamination.
 
-
 Agricultural Runoff: Agricultural activities can contribute to water pollution
 through the runoff of fertilizers, pesticides, and animal waste.
-
 
 Wastewater Discharge: Municipal wastewater treatment plants discharge treated
 sewage and wastewater into rivers or coastal areas. If not properly treated,
 this effluent can contain pathogens, organic matter, and chemicals that can
 contaminate water bodies.
 
-
 Mining Activities: Mining operations can release heavy metals and other
 pollutants into nearby rivers and streams. Acid mine drainage is a common
 issue, resulting in the release of acidic water with high metal concentrations.
 
-
 Construction Activities: Construction sites can generate sediment runoff,
 which can carry soil, debris, and construction-related chemicals into nearby
 waterways.
-
-
 
 ### examples_fr
 
@@ -589,26 +583,159 @@ Construction: Les chantiers de construction peuvent générer un ruissellement
 de sédiments, qui peuvent transporter de la terre, des débris et des produits
 chimiques liés à la construction dans les cours d'eau à proximité.
 
+### examples_es
 
+Vertidos químicos: las plantas de fabricación de productos químicos pueden
+liberar sustancias químicas peligrosas y metales pesados ​​en los cursos de agua.
+
+Aceite y grasa: las industrias como las refinerías de petróleo pueden liberar
+aceite y grasa en el agua, lo que provoca derrames de petróleo y contaminación.
+
+Escorrentía agrícola: las actividades agrícolas pueden contribuir a la
+contaminación del agua mediante la escorrentía de fertilizantes, pesticidas y
+desechos animales.
+
+Vertidos de aguas residuales: las plantas de tratamiento de aguas residuales
+municipales vierten aguas residuales tratadas en ríos o zonas costeras. Si no
+se tratan adecuadamente, este efluente puede contener patógenos, materia orgánica
+y sustancias químicas que pueden contaminar los cuerpos de agua.
+
+Actividades mineras: las operaciones mineras pueden liberar metales pesados ​​y
+otros contaminantes en los ríos y arroyos cercanos. El drenaje ácido de las
+minas es un problema común, que da como resultado la liberación de agua ácida
+con altas concentraciones de metales.
+
+Actividades de construcción: los sitios de construcción pueden generar
+escorrentía de sedimentos, que puede llevar tierra, escombros y productos
+químicos relacionados con la construcción a los cursos de agua cercanos.
+
+### examples_nl
+
+Chemische lozing: Chemische productiebedrijven kunnen gevaarlijke chemicaliën
+en zware metalen in waterwegen lozen.
+
+Olie en vet: Industrieën zoals olieraffinaderijen kunnen olie en vet in water
+lozen, wat leidt tot olielozingen en verontreiniging.
+
+Afvoer van landbouwproducten: Landbouwactiviteiten kunnen bijdragen aan
+watervervuiling door de afvoer van meststoffen, pesticiden en dierlijk afval.
+
+Afvoer van afvalwater: Gemeentelijke afvalwaterzuiveringsinstallaties lozen
+behandeld rioolwater en afvalwater in rivieren of kustgebieden. Als dit
+afvalwater niet goed wordt behandeld, kan het ziekteverwekkers, organisch
+materiaal en chemicaliën bevatten die waterlichamen kunnen verontreinigen.
+
+Mijnbouwactiviteiten: Mijnbouwactiviteiten kunnen zware metalen en andere
+verontreinigende stoffen in nabijgelegen rivieren en beken lozen. Zure
+mijnafvoer is een veelvoorkomend probleem, wat resulteert in de uitstoot van
+zuur water met hoge metaalconcentraties.
+
+Bouwactiviteiten: Bouwplaatsen kunnen sedimentafvoer genereren, die grond,
+puin en bouwgerelateerde chemicaliën in nabijgelegen waterwegen kan brengen.
+
+### examples_it
+
+Scarico chimico: gli impianti di produzione chimica possono rilasciare sostanze
+chimiche pericolose e metalli pesanti nei corsi d'acqua.
+
+Petrolio e grasso: industrie come le raffinerie di petrolio possono rilasciare
+petrolio e grasso nell'acqua, causando fuoriuscite di petrolio e contaminazione.
+
+Deflusso agricolo: le attività agricole possono contribuire all'inquinamento
+delle acque attraverso il deflusso di fertilizzanti, pesticidi e rifiuti animali.
+
+Scarico delle acque reflue: gli impianti di trattamento delle acque reflue
+comunali scaricano liquami trattati e acque reflue nei fiumi o nelle aree
+costiere. Se non trattati correttamente, questi effluenti possono contenere
+agenti patogeni, materia organica e sostanze chimiche che possono contaminare
+i corpi idrici.
+
+Attività minerarie: le attività minerarie possono rilasciare metalli pesanti
+e altri inquinanti nei fiumi e nei corsi d'acqua vicini. Il drenaggio acido
+delle miniere è un problema comune, con conseguente rilascio di acqua acida
+con elevate concentrazioni di metalli.
+
+Attività di costruzione: i cantieri edili possono generare deflusso di sedimenti,
+che possono trasportare terreno, detriti e sostanze chimiche correlate
+all'edilizia nei corsi d'acqua vicini.
+
+### examples_ro
+
+Descărcări chimice: fabricile de producție chimică pot elibera substanțe
+chimice periculoase și metale grele în căile navigabile.
+
+Ulei și grăsimi: industriile precum rafinăriile de petrol pot elibera ulei
+și grăsimi în apă, ceea ce duce la scurgeri de petrol și contaminare.
+
+Scurgerile agricole: Activitățile agricole pot contribui la poluarea apei prin
+scurgerea îngrășămintelor, pesticidelor și a deșeurilor animale.
+
+Evacuarea apelor uzate: Stațiile municipale de epurare a apelor uzate deversează
+ape uzate și ape uzate tratate în râuri sau zone de coastă. Dacă nu este tratat
+corespunzător, acest efluent poate conține agenți patogeni, materie organică și
+substanțe chimice care pot contamina corpurile de apă.
+
+Activități miniere: Operațiunile miniere pot elibera metale grele și alți
+poluanți în râurile și pâraiele din apropiere. Drenajul acid al minelor este
+o problemă comună, care are ca rezultat eliberarea apei acide cu concentrații
+mari de metale.
+
+Activități de construcție: șantierele de construcții pot genera scurgeri de
+sedimente, care pot transporta sol, resturi și substanțe chimice legate de
+construcție în căile navigabile din apropiere.
+
+### examples_pl
+
+Zrzuty chemiczne: Zakłady produkujące chemikalia mogą uwalniać niebezpieczne
+chemikalia i metale ciężkie do dróg wodnych.
+
+Olej i smar: Branże takie jak rafinerie ropy naftowej mogą uwalniać olej i
+smar do wody, co prowadzi do wycieków oleju i skażenia.
+
+Odpływy rolnicze: Działalność rolnicza może przyczyniać się do zanieczyszczenia
+wody poprzez odpływ nawozów, pestycydów i odchodów zwierzęcych.
+
+Odpływy ścieków: Miejskie oczyszczalnie ścieków odprowadzają oczyszczone ścieki
+i wodę do rzek lub obszarów przybrzeżnych. Jeśli ścieki te nie zostaną
+odpowiednio oczyszczone, mogą zawierać patogeny, materię organiczną i chemikalia,
+które mogą zanieczyścić zbiorniki wodne.
+
+Działalność górnicza: Działalność górnicza może uwalniać metale ciężkie i inne
+zanieczyszczenia do pobliskich rzek i strumieni. Częstym problemem jest kwaśny
+drenaż kopalni, powodujący uwalnianie kwaśnej wody o wysokim stężeniu metali.
+
+Działalność budowlana: Place budowy mogą generować odpływ osadów, które mogą
+przenosić glebę, gruz i chemikalia budowlane do pobliskich dróg wodnych.
 
 ### support_docs_en
 
-
 * Report including methodology of assessment of emissions to water
-
-
-
 
 ### support_docs_fr
 
-
 * Rapport incluant la méthodologie d'évaluation des émissions dans l'eau
 
+### support_docs_es
 
+* Informe que incluye la metodología de evaluación de las emisiones al agua
 
+### support_docs_nl
+
+* Rapport inclusief methodologie voor de beoordeling van emissies naar water
+
+### support_docs_it
+
+* Rapporto che include la metodologia di valutazione delle emissioni in acqua
+
+### support_docs_ro
+
+* Raport care include metodologia de evaluare a emisiilor în apă
+
+### support_docs_pl
+
+* Raport zawierający metodologię oceny emisji do wody
 
 ### sources
-
 
 Emissions to water  
 

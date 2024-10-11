@@ -242,6 +242,7 @@ jest zneutralizowana.
 
 ### compute_pl
 
+
 ### examples_en
 
 There are different ways and feasibility paths to achieve net zero emissions, and different
@@ -257,19 +258,86 @@ l'intensité actuelle de leurs émissions ainsi que leurs circonstances et objec
 Cependant, des organisations comme la Science-Based Targets Initiative (SBTi) proposent un
 ensemble complet d’objectifs à aligner sur les efforts spécifiques au secteur.
 
+### examples_es
+
+Existen diferentes formas y vías de viabilidad para lograr emisiones netas
+cero, y cada organización debe utilizar un enfoque acorde con su tamaño,
+sector, intensidad de emisiones actual y circunstancias y objetivos específicos.
+Sin embargo, organizaciones como la Science-Based Targets Initiative (SBTi)
+ofrecen un conjunto integral de objetivos que se alinean con los esfuerzos
+específicos de cada sector.
+
+### examples_nl
+
+Er zijn verschillende manieren en haalbaarheidspaden om netto-nuluitstoot te
+bereiken, en verschillende organisaties moeten een benadering gebruiken die
+in overeenstemming is met hun omvang, sector, huidige emissie-intensiteit en
+specifieke omstandigheden en doelen. Organisaties zoals de Science-Based
+Targets Initiative (SBTi) bieden echter een uitgebreide reeks doelen om aan te
+sluiten bij sector-specifieke inspanningen.
+
+### examples_it
+
+Esistono diversi modi e percorsi di fattibilità per raggiungere le emissioni
+nette zero, e diverse organizzazioni dovrebbero utilizzare un approccio
+allineato con la loro dimensione, settore, intensità delle emissioni attuali,
+e circostanze e obiettivi specifici. Tuttavia, organizzazioni come la
+Science-Based Targets Initiative (SBTi) forniscono un insieme completo di
+obiettivi da allineare con gli sforzi specifici del settore.
+
+### examples_ro
+
+Există diferite modalități și căi de fezabilitate pentru a atinge emisiile nete
+zero, iar diferite organizații ar trebui să utilizeze o abordare aliniată cu
+dimensiunea lor, sectorul, intensitatea actuală a emisiilor și circumstanțele
+și obiectivele specifice. Cu toate acestea, organizațiile precum Science-Based
+Targets Initiative (SBTi) oferă un set cuprinzător de obiective pentru a se
+alinia cu eforturile specifice ale sectorului.
+
+### examples_pl
+
+Istnieją różne sposoby i ścieżki wykonalności osiągnięcia emisji netto-zero, a
+różne organizacje powinny stosować podejście zgodne z ich rozmiarem, sektorem,
+aktualną intensywnością emisji oraz okolicznościami i celami. Organizacje takie
+jak Science-Based Targets Initiative (SBTi) oferują jednak kompleksowy zestaw
+celów do zgodzenia się z sektorowymi wysiłkami.
+
 ### support_docs_en
 
 Commitment to Science-Based Targets Initiative’s Corporate Net-Zero Standard ([see here](https://sciencebasedtargets.org/net-zero))
 Net Zero Investment Framework Implementation
-
 
 ### support_docs_fr
 
 Engagement envers la norme Corporate Net Zero de la Science-Based Targets Initiative ([voir ici](https://sciencebasedtargets.org/net-zero))
 Mise en œuvre du cadre d’investissement net zéro
 
-### sources
+### support_docs_es
 
+Compromiso con la norma corporativa Net Zero de la Iniciativa de Objetivos Basados en la Ciencia ([ver aquí](https://sciencebasedtargets.org/net-zero))
+Implementación del marco de inversión Net Zero
+
+### support_docs_nl
+
+Toewijding aan de Corporate Net-Zero Standard van de Science-Based Targets Initiative ([zie hier](https://sciencebasedtargets.org/net-zero))
+Implementatie van het Net Zero Investment Framework
+
+### support_docs_it
+
+Impegno verso lo Standard Net-Zero Corporate dell'Iniziativa degli Obiettivi Basati sulla Scienza ([vedi qui](https://sciencebasedtargets.org/net-zero))
+Implementazione del Quadro di Investimento Net Zero
+
+### support_docs_ro
+
+Angajamentul față de Standardul Net-Zero Corporate al Inițiativei de Obiective Bazate pe Știință ([vezi aici](https://sciencebasedtargets.org/net-zero))
+Implementarea Cadrului de Investiții Net Zero
+
+### support_docs_pl
+
+Zobowiązanie do Standardu Net-Zero Corporate Inicjatywy Celów Opartych na Nauce ([zobacz tutaj](https://sciencebasedtargets.org/net-zero))
+Implementacja Ramy Inwestycji Net Zero
+
+### sources
 
 - [Regulation (EU) 2023/857 amending Regulation (EU) 2018/842 on binding annual greenhouse gas
 emission reductions by Member States from 2021 to 2030 contributing to climate action to meet

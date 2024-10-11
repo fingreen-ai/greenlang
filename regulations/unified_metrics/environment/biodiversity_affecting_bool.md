@@ -328,7 +328,6 @@ Działania negatywnie oddziałujące na obszary wrażliwe pod względem różnor
 
 ### compute_en
 
-
 ### compute_fr
 
 ### compute_es
@@ -353,13 +352,28 @@ alors ces activités impactent négativement une zone sensible à la biodiversit
 
 ### examples_es
 
+Si tiene actividades en o cerca de un área protegida y están involucradas en controversias relacionadas con la biodiversidad,
+estas actividades afectan negativamente a un área relacionada con la biodiversidad
+
 ### examples_nl
+
+Als u activiteiten heeft in of in de buurt van een beschermd gebied en deze betrokken zijn bij biodiversiteitsgerelateerde controverses,
+hebben deze activiteiten een negatieve invloed op het biodiversiteitsgerelateerde gebied
 
 ### examples_it
 
+Se hai attività in o vicino a un'area protetta e sono coinvolte in controversie legate alla biodiversità,
+queste attività influenzano negativamente l'area legata alla biodiversità
+
 ### examples_ro
 
+Dacă aveți activități în sau în apropierea unei zone protejate și sunt implicate în controverse legate de biodiversitate,
+aceste activități afectează negativ zona legată de biodiversitate
+
 ### examples_pl
+
+Jeśli prowadzisz działalność w obszarze chronionym i jest ona zaangażowana w kontrowersje związane z różnorodnością biologiczną,
+te działania negatywnie wpływają na obszar związany z różnorodnością biologiczną
 
 ### support_docs_en
 
@@ -459,14 +473,235 @@ alors ces activités impactent négativement une zone sensible à la biodiversit
 
 ### support_docs_es
 
+* **Informes de evaluación del impacto sobre la biodiversidad.**
+Una empresa puede realizar evaluaciones del impacto sobre la biodiversidad y proporcionar informes que detallen los resultados.
+Estos informes deben describir el impacto potencial de las operaciones de la empresa sobre la biodiversidad.
+* **Evaluaciones de impacto ambiental (EIA).**
+Las autoridades regulatorias suelen exigir las EIA cuando una empresa planea emprender
+proyectos importantes. Estas evaluaciones incluyen información sobre el impacto ambiental y
+sobre la biodiversidad del proyecto propuesto.
+* **Informes de sostenibilidad.**
+Muchas empresas publican informes de sostenibilidad que incluyen información sobre sus esfuerzos y
+compromisos relacionados con la conservación de la biodiversidad. Estos informes pueden proporcionar información sobre sus operaciones en áreas sensibles.
+
+* **Datos de la cadena de suministro.**
+La cadena de suministro de una empresa puede extenderse a regiones sensibles a la biodiversidad. Pueden proporcionar
+información sobre las ubicaciones geográficas de sus proveedores y los pasos tomados para abordar
+los problemas de biodiversidad en la cadena de suministro.
+* **Datos geoespaciales.**
+Los datos y mapas de los sistemas de información geográfica (SIG) pueden indicar las ubicaciones específicas
+donde opera una empresa, lo que ayuda a identificar si estas áreas son sensibles a la biodiversidad. * **Documentos reglamentarios.**
+Es posible que se exija a las empresas que divulguen información sobre sus operaciones y su
+impacto ambiental en los documentos reglamentarios o las divulgaciones a las agencias gubernamentales.
+* **Documentos de certificación y cumplimiento.**
+Algunas empresas operan en áreas que cumplen con certificaciones específicas, como las de comercio justo o las de silvicultura sostenible, o se abastecen de ellas.
+Estos documentos pueden brindar información sobre sus actividades en regiones sensibles.
+* **Registros de participación y consulta locales.**
+Los registros de participación y consulta con comunidades locales, pueblos indígenas y
+organizaciones ambientales pueden arrojar luz sobre las actividades de una empresa en áreas sensibles.
+* **Planes de gestión ambiental.**
+Estos planes detallan la estrategia de una empresa para gestionar y mitigar el impacto ambiental y
+sobre la biodiversidad de sus operaciones.
+* **Estudios específicos del sitio.**
+Si una empresa opera en áreas particularmente sensibles, puede encargar o hacer referencia a estudios específicos del sitio que evalúen el impacto sobre la biodiversidad.
+* **Estados financieros auditados.**
+Algunas empresas incluyen información ambiental e información sobre sus actividades en
+áreas sensibles a la biodiversidad en sus estados financieros auditados.
+* **Iniciativas de transparencia.**
+Las empresas comprometidas con la conservación de la biodiversidad pueden participar en iniciativas de
+transparencia, como la Iniciativa para la Transparencia de las Industrias Extractivas (EITI), y proporcionar
+información sobre sus actividades en regiones sensibles.
+* **Comunicación con las partes interesadas.**
+La comunicación de una empresa con las partes interesadas, incluidas las comunidades locales y las organizaciones
+ambientales, puede brindar información sobre sus actividades y su compromiso con la conservación de la biodiversidad.
+
 ### support_docs_nl
+
+* **Rapporten over biodiversiteitseffecten.**
+Een bedrijf kan biodiversiteitseffectenbeoordelingen uitvoeren en rapporten verstrekken waarin de bevindingen worden beschreven.
+Deze rapporten moeten de potentiële impact van de activiteiten van het bedrijf op de biodiversiteit schetsen.
+* **Milieu-effectbeoordelingen (EIA's).**
+EIA's worden vaak vereist door regelgevende instanties wanneer een bedrijf van plan is om
+belangrijke projecten uit te voeren. Deze beoordelingen bevatten informatie over de milieu- en
+biodiversiteitsimpact van het voorgestelde project.
+* **Duurzaamheidsrapporten.**
+Veel bedrijven publiceren duurzaamheidsrapporten met informatie over hun inspanningen en
+verbintenissen met betrekking tot het behoud van biodiversiteit. Deze rapporten kunnen inzicht bieden in
+hun activiteiten in gevoelige gebieden.
+* **Gegevens uit de toeleveringsketen.**
+De toeleveringsketen van een bedrijf kan zich uitstrekken tot regio's die gevoelig zijn voor biodiversiteit. Ze kunnen
+informatie verstrekken over de geografische locaties van hun leveranciers en de stappen die zijn genomen om
+biodiversiteitsproblemen in de toeleveringsketen aan te pakken.
+* **Geospatiale gegevens.**
+Gegevens en kaarten van geografische informatiesystemen (GIS) kunnen de specifieke locaties aangeven
+waar een bedrijf actief is, wat helpt bij het identificeren of deze gebieden gevoelig zijn voor biodiversiteit.
+* **Regulatory Filings.**
+Bedrijven kunnen verplicht zijn om informatie over hun activiteiten en hun
+milieu-impact openbaar te maken in regulatorische deponeringen of openbaarmakingen aan overheidsinstanties.
+* **Certificerings- en nalevingsdocumenten.**
+Sommige bedrijven opereren in of betrekken producten uit gebieden die voldoen aan specifieke
+certificeringen, zoals Fair Trade of duurzame bosbouwcertificeringen.
+Deze documenten kunnen inzicht bieden in hun activiteiten in gevoelige regio's.
+* **Lokale betrokkenheids- en consultatieverslagen.**
+Verslagen van betrokkenheid en consultatie met lokale gemeenschappen, inheemse volkeren en
+milieuorganisaties kunnen licht werpen op de activiteiten van een bedrijf in gevoelige gebieden.
+* **Milieubeheerplannen.**
+Deze plannen beschrijven de strategie van een bedrijf voor het beheren en beperken van de milieu- en
+biodiversiteitsimpact van zijn activiteiten.
+* **Locatiespecifieke studies.**
+Als een bedrijf actief is in bijzonder gevoelige gebieden, kan het locatiespecifieke studies laten uitvoeren of ernaar verwijzen
+die de biodiversiteitsimpact beoordelen.
+* **Gecontroleerde financiële overzichten.**
+Sommige bedrijven nemen milieu-openbaarmakingen en informatie over hun activiteiten in
+biodiversiteitsgevoelige gebieden op in hun gecontroleerde financiële overzichten. * **Transparantie-initiatieven.**
+Bedrijven die zich inzetten voor het behoud van biodiversiteit kunnen deelnemen aan transparantie-
+initiatieven, zoals het Extractive Industries Transparency Initiative (EITI), en
+informatie verstrekken over hun activiteiten in gevoelige regio's.
+* **Communicatie met belanghebbenden.**
+De communicatie van een bedrijf met belanghebbenden, waaronder lokale gemeenschappen en milieuorganisaties, kan inzicht bieden in hun activiteiten en inzet voor het behoud van
+biodiversiteit.
 
 ### support_docs_it
 
+* **Rapporti di valutazione dell'impatto sulla biodiversità.**
+Un'azienda può condurre valutazioni dell'impatto sulla biodiversità e fornire rapporti che descrivono in dettaglio i risultati.
+Questi rapporti dovrebbero delineare il potenziale impatto delle operazioni dell'azienda sulla biodiversità.
+* **Valutazioni di impatto ambientale (VIA).**
+Le VIA sono spesso richieste dalle autorità di regolamentazione quando un'azienda pianifica di intraprendere progetti significativi. Queste valutazioni includono informazioni sull'impatto ambientale e sulla biodiversità del progetto proposto.
+* **Rapporti sulla sostenibilità.**
+Molte aziende pubblicano rapporti sulla sostenibilità che includono informazioni sui loro sforzi e impegni relativi alla conservazione della biodiversità. Questi rapporti possono fornire informazioni sulle loro operazioni in aree sensibili.
+* **Dati sulla catena di fornitura.**
+La catena di fornitura di un'azienda può estendersi in regioni sensibili alla biodiversità. Possono fornire informazioni sulle posizioni geografiche dei loro fornitori e sui passaggi intrapresi per affrontare i problemi di biodiversità nella catena di fornitura.
+* **Dati geospaziali.**
+I dati e le mappe dei sistemi informativi geografici (GIS) possono indicare le posizioni specifiche in cui opera un'azienda, aiutando a identificare se queste aree sono sensibili alla biodiversità. * **Documenti normativi.**
+Le aziende potrebbero essere tenute a divulgare informazioni sulle loro attività e sul loro
+impatto ambientale nei documenti normativi o nelle comunicazioni alle agenzie governative.
+* **Documenti di certificazione e conformità.**
+Alcune aziende operano o si riforniscono di prodotti da aree che aderiscono a specifiche
+certificazioni, come le certificazioni Fair Trade o di silvicoltura sostenibile.
+Questi documenti possono fornire informazioni sulle loro attività in regioni sensibili.
+* **Documenti di coinvolgimento e consultazione locali.**
+I registri di coinvolgimento e consultazione con comunità locali, popolazioni indigene e
+organizzazioni ambientali possono far luce sulle attività di un'azienda in aree sensibili.
+* **Piani di gestione ambientale.**
+Questi piani descrivono in dettaglio la strategia di un'azienda per la gestione e la mitigazione dell'impatto ambientale e
+sulla biodiversità delle sue attività.
+* **Studi specifici del sito.**
+Se un'azienda opera in aree particolarmente sensibili, può commissionare o fare riferimento a studi specifici del sito che valutano l'impatto sulla biodiversità. * **Bilanci verificati.**
+Alcune aziende includono nei loro bilanci verificati dichiarazioni ambientali e informazioni sulle loro attività in
+aree sensibili alla biodiversità.
+* **Iniziative per la trasparenza.**
+Le aziende impegnate nella conservazione della biodiversità possono partecipare a iniziative per la trasparenza,
+come l'Extractive Industries Transparency Initiative (EITI), e fornire
+informazioni sulle loro attività in regioni sensibili.
+* **Comunicazione con gli stakeholder.**
+La comunicazione di un'azienda con gli stakeholder, tra cui comunità locali e organizzazioni
+ambientali, può fornire informazioni sulle loro attività e sul loro impegno per la conservazione della biodiversità.
+
 ### support_docs_ro
+
+* **Rapoarte de evaluare a impactului asupra biodiversităţii.**
+ O companie poate efectua evaluări de impact asupra biodiversităţii şi poate furniza rapoarte care detaliază constatările.
+ Aceste rapoarte ar trebui să sublinieze impactul potențial al operațiunilor companiei asupra biodiversității.
+* **Evaluări de impact asupra mediului (EIM).**
+ EIM sunt adesea solicitate de autoritățile de reglementare atunci când o companie intenționează să le întreprindă
+ proiecte semnificative. Aceste evaluări includ informații privind mediul și
+ impactul asupra biodiversităţii al proiectului propus.
+* **Rapoarte de durabilitate.**
+ Multe companii publică rapoarte de sustenabilitate care includ informații despre eforturile lor și
+ angajamente legate de conservarea biodiversităţii. Aceste rapoarte pot oferi informații despre
+ operațiunile lor în zone sensibile.
+* **Datele lanțului de aprovizionare.**
+ Lanțul de aprovizionare al unei companii se poate extinde în regiuni sensibile la biodiversitate. Ei pot oferi
+ informații despre locațiile geografice ale furnizorilor lor și măsurile luate pentru
+ să abordeze problemele de biodiversitate în lanțul de aprovizionare.
+* **Date geospațiale.**
+ Datele și hărțile sistemelor de informații geografice (GIS) pot indica locațiile specifice
+ unde operează o companie, ajutând la identificarea dacă aceste zone sunt sensibile la biodiversitate.
+* **Documente de reglementare.**
+ Companiile pot fi obligate să dezvăluie informații despre operațiunile lor și despre acestea
+ impactul asupra mediului în dosarele de reglementare sau dezvăluirile către agențiile guvernamentale.
+* **Documente de certificare și conformitate.**
+ Unele companii operează sau își aprovizionează produse din zone care aderă la anumite
+ certificări, precum comerțul echitabil sau certificările forestiere durabile.
+ Aceste documente pot oferi informații despre activitățile lor în regiuni sensibile.
+* **Înregistrări locale de implicare și consultare.**
+ Înregistrările angajamentului și consultării cu comunitățile locale, popoarele indigene și
+ organizațiile de mediu pot face lumină asupra activităților unei companii în zone sensibile.
+* **Planuri de management de mediu.**
+ Aceste planuri detaliază strategia unei companii pentru gestionarea și atenuarea mediului și
+ impactul operațiunilor sale asupra biodiversității.
+* **Studii specifice site-ului.**
+ Dacă o companie operează în zone deosebit de sensibile, aceasta poate pune în funcțiune sau trimite
+ studii specifice site-ului care evaluează impactul asupra biodiversităţii.
+* **Situații financiare auditate.**
+ Unele companii includ dezvăluiri de mediu și informații despre activitățile lor în
+ zonele sensibile la biodiversitate în situațiile lor financiare auditate.
+* **Inițiative de transparență.**
+ Companiile care se angajează în conservarea biodiversității pot participa la transparență
+ inițiative, cum ar fi Inițiativa pentru Transparența Industriilor Extractive (EITI) și oferă
+ informații despre activitățile lor în regiunile sensibile.
+* **Comunicare cu părțile interesate.**
+ Comunicarea unei companii cu părțile interesate, inclusiv comunitățile locale și mediul
+ organizațiile, pot oferi informații despre activitățile și angajamentul lor față de biodiversitate
+ conservare.
 
 ### support_docs_pl
 
+* **Raporty z oceny wpływu na bioróżnorodność.**
+Firma może przeprowadzać oceny wpływu na bioróżnorodność i dostarczać raporty szczegółowo opisujące ustalenia.
+Raporty te powinny przedstawiać potencjalny wpływ działalności firmy na bioróżnorodność.
+
+* **Oceny oddziaływania na środowisko (OOŚ).**
+Oceny oddziaływania na środowisko są często wymagane przez organy regulacyjne, gdy firma planuje podjąć
+znaczące projekty. Oceny te obejmują informacje na temat wpływu proponowanego projektu na środowisko i
+bioróżnorodność.
+
+* **Raporty dotyczące zrównoważonego rozwoju.**
+Wiele firm publikuje raporty dotyczące zrównoważonego rozwoju, które zawierają informacje na temat ich wysiłków i
+zobowiązań związanych z ochroną bioróżnorodności. Raporty te mogą dostarczać wglądu w ich działalność
+na obszarach wrażliwych.
+
+* **Dane dotyczące łańcucha dostaw.**
+Łańcuch dostaw firmy może rozciągać się na regiony wrażliwe pod względem bioróżnorodności. Mogą one dostarczać
+informacji o lokalizacji geograficznej swoich dostawców i krokach podjętych w celu
+rozwiązania problemów z bioróżnorodnością w łańcuchu dostaw.
+* **Dane geoprzestrzenne.**
+Dane i mapy systemów informacji geograficznej (GIS) mogą wskazywać konkretne lokalizacje,
+w których działa firma, pomagając ustalić, czy obszary te są wrażliwe pod względem bioróżnorodności.
+
+* **Zgłoszenia regulacyjne.**
+Firmy mogą być zobowiązane do ujawniania informacji o swoich działaniach i ich
+wpływie na środowisko w zgłoszeniach regulacyjnych lub ujawnieniach dla agencji rządowych.
+
+* **Dokumenty certyfikacji i zgodności.**
+Niektóre firmy działają lub pozyskują produkty z obszarów, które przestrzegają określonych
+certyfikatów, takich jak certyfikaty Fair Trade lub zrównoważonego leśnictwa.
+Dokumenty te mogą dostarczać wglądu w ich działania w regionach wrażliwych.
+
+* **Lokalne zapisy zaangażowania i konsultacji.**
+Zapisy zaangażowania i konsultacji ze społecznościami lokalnymi, ludnością tubylczą i
+organizacjami ekologicznymi mogą rzucić światło na działania firmy w obszarach wrażliwych.
+
+* **Plany zarządzania środowiskiem.**
+Plany te szczegółowo opisują strategię firmy w zakresie zarządzania i łagodzenia wpływu jej działań na środowisko i bioróżnorodność.
+* **Badania dotyczące konkretnych miejsc.**
+Jeśli firma działa na szczególnie wrażliwych obszarach, może zlecić lub odwołać się do
+badań dotyczących konkretnych miejsc, które oceniają wpływ na bioróżnorodność.
+
+* **Sprawozdania finansowe poddane audytowi.**
+Niektóre firmy uwzględniają w swoich audytowanych sprawozdaniach finansowych informacje dotyczące środowiska i informacje o swojej działalności na
+obszarach wrażliwych na bioróżnorodność.
+
+* **Inicjatywy przejrzystości.**
+Firmy, które są zaangażowane w ochronę bioróżnorodności, mogą uczestniczyć w inicjatywach przejrzystości,
+takich jak Inicjatywa przejrzystości przemysłu wydobywczego (EITI), i udostępniać
+informacje o swojej działalności w regionach wrażliwych.
+
+* **Komunikacja z interesariuszami.**
+Komunikacja firmy z interesariuszami, w tym lokalnymi społecznościami i organizacjami ochrony
+środowiska, może zapewnić wgląd w jej działalność i zaangażowanie w ochronę
+różnorodności biologicznej.
 
 ### sources
 

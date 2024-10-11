@@ -366,28 +366,92 @@ chauffage. La combustion du gaz naturel produit du dioxyde de carbone, soit
 25600 tonnes de CO2e proviennent directement des opérations de l'entreprise,
 celle-ci possédant et contrôlant le processus de combustion du gaz naturel.
 
-### support_docs_en
+### examples_es
 
+La empresa opera una planta de fabricación y utiliza gas natural como fuente
+de combustible para sus procesos industriales y de calefacción. La combustión
+de gas natural produce 25.600 t de CO2eq este año, es decir, el alcance 1
+incluye estas 25.600 t de CO2eq porque se originan directamente en las
+operaciones de la empresa, ya que la empresa posee y controla el proceso de
+combustión de gas natural.
+
+### examples_nl
+
+Het bedrijf exploiteert een productiefaciliteit en gebruikt aardgas als
+brandstofbron voor zijn industriële processen en verwarming. De verbranding
+van aardgas produceert 25600 t CO2eq dit jaar, d.w.z. scope 1 omvat deze 25600
+t CO2eq omdat ze rechtstreeks afkomstig zijn van de bedrijfsactiviteiten,
+aangezien het bedrijf het proces van aardgasverbranding bezit en controleert.
+
+### examples_it
+
+L'azienda gestisce un impianto di produzione e utilizza il gas naturale come
+fonte di combustibile per i suoi processi industriali e di riscaldamento. La
+combustione del gas naturale produce 25600 t di CO2eq quest'anno, cioè lo
+scope 1 include queste 25600 t di CO2eq perché originano direttamente dalle
+operazioni dell'azienda, poiché l'azienda possiede e controlla il processo di
+combustione del gas naturale.
+
+### examples_ro
+
+Compania operează o unitate de producție și folosește gazul natural ca sursă
+de combustibil pentru procesele sale industriale și de încălzire. Combustia
+gazului natural produce 25600 t CO2eq anul acesta, adică scopul 1 include
+aceste 25600 t CO2eq deoarece provin direct din operațiunile companiei,
+deoarece compania deține și controlează procesul de ardere a gazului natural.
+
+### examples_pl
+
+Firma prowadzi zakład produkcyjny i używa gazu ziemnego jako źródła paliwa do
+swoich procesów przemysłowych i ogrzewania. Spalanie gazu ziemnego wytwarza
+25600 t CO2eq w tym roku, to znaczy, zakres 1 obejmuje te 25600 t CO2eq,
+ponieważ pochodzą one bezpośrednio z działalności firmy, ponieważ firma posiada
+i kontroluje proces spalania gazu ziemnego.
+
+
+### support_docs_en
 
 * Full Greenhouse gas emissions report. FINGREEN AI provides its own GHG
  Scope 1/2/3 emissions calculation feature if you don't already have your
  own.
 
-
-
-
 ### support_docs_fr
-
 
 * Rapport complet sur les émissions de gaz à effet de serre. FINGREEN AI
  propose sa propre fonction de calcul des émissions GES Scope 1/2/3 si vous
  n'en avez pas déjà une.
 
+### support_docs_es
 
+* Informe completo de emisiones de gases de efecto invernadero. FINGREEN AI
+ proporciona su propia función de cálculo de emisiones de GEI de alcance 1/2/3
+ si aún no tiene la suya.
 
+### support_docs_nl
+
+* Volledig rapport over broeikasgasemissies. FINGREEN AI biedt zijn eigen
+ berekening van de emissies van broeikasgassen Scope 1/2/3 als u er nog geen
+ heeft.
+
+### support_docs_it
+
+* Rapporto completo sulle emissioni di gas serra. FINGREEN AI fornisce la
+ propria funzione di calcolo delle emissioni di gas serra Scope 1/2/3 se non
+ ne hai già una.
+
+### support_docs_ro
+
+* Raport complet privind emisiile de gaze cu efect de seră. FINGREEN AI
+ oferă propria sa funcție de calcul a emisiilor de GES de Scop 1/2/3 dacă nu
+ aveți deja una.
+
+### support_docs_pl
+
+* Pełny raport o emisjach gazów cieplarnianych. FINGREEN AI oferuje własną
+funkcję obliczania emisji gazów cieplarnianych zakresu 1/2/3, jeśli jeszcze
+nie masz własnej.
 
 ### sources
-
 
 Greenhouse gas emissions  
 

@@ -120,45 +120,70 @@ emissions_ghg
 
 ### compute_pl
 
+
 ### examples_en
-
-
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
-
 
 * Full Greenhouse gas emissions report. FINGREEN AI provides its own GHG
  Scope 1/2/3 emissions calculation feature if you don't already have your
  own.
 
-
-
-
 ### support_docs_fr
-
 
 * Rapport complet sur les émissions de gaz à effet de serre. FINGREEN AI
  propose sa propre fonction de calcul des émissions GES Scope 1/2/3 si vous
  n'en avez pas déjà une.
 
+### support_docs_es
 
+* Informe completo sobre emisiones de gases de efecto invernadero. FINGREEN AI
+ofrece su propia función de cálculo de emisiones de GEI de alcance 1/2/3 si
+aún no tiene la suya.
 
+### support_docs_nl
+
+* Volledig rapport over broeikasgasemissies. FINGREEN AI biedt zijn eigen
+berekeningsfunctie voor broeikasgasemissies Scope 1/2/3 als u er nog geen heeft.
+
+### support_docs_it
+
+* Rapporto completo sulle emissioni di gas serra. FINGREEN AI fornisce la
+propria funzione di calcolo delle emissioni di gas serra Scope 1/2/3 se non ne hai già una.
+
+### support_docs_ro
+
+* Raport complet privind emisiile de gaze cu efect de seră. FINGREEN AI
+oferă propria sa funcție de calcul a emisiilor de gaze cu efect de seră
+Scope 1/2/3 dacă nu aveți deja una.
+
+### support_docs_pl
+
+* Pełny raport o emisjach gazów cieplarnianych. FINGREEN AI oferuje własną
+funkcję obliczania emisji gazów cieplarnianych zakresu 1/2/3, jeśli jeszcze
+nie masz swojej.
 
 ### sources
 
-
-
-            
+        
 ### index
 
 17
 
 ### collection_templates
-
 
 
 ### publish

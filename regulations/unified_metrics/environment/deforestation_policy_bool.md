@@ -246,12 +246,20 @@ La "déforestation" désigne la conversion temporaire ou permanente, induite par
 
 ### compute_pl
 
+
 ### examples_en
-
-
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
@@ -268,9 +276,53 @@ La "déforestation" désigne la conversion temporaire ou permanente, induite par
 - Politique de non-déforestation spécifique à l'entreprise ([voir exemple ici](https://www.colgatepalmolive.com/en-us/sustainability/our-sustainability-policies/no-deforestation))
 - Mise en œuvre du règlement sur les produits sans déforestation (EUDR)
 - Politique supply chain couvrant toutes les géographies
-- Politique d'achats durables conforme à l'EUDR (à base de matières premières telles que le soja, le bœuf, l'huile de palme, le bois, le cacao, le café, le caoutchouc ou produits dérivés)
+- Politique d'achats durables conforme à l'EUDR (à base de matières premières telles
+que le soja, le bœuf, l'huile de palme, le bois, le cacao, le café, le caoutchouc ou produits dérivés)
 - Alignement de la divulgation des forêts du Carbon Disclosure Project (CDP) ([voir les instructions du questionnaire ici](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/406/original/2023_CDP_Bite-Sized_Forests_Guidance_for_New_Disclosers.pdf))
 
+### support_docs_es
+
+- Política de no deforestación específica de la empresa ([ver ejemplo aquí](https://www.colgatepalmolive.com/en-us/sustainability/our-sustainability-policies/no-deforestation))
+- Implementación del Reglamento sobre productos libres de deforestación (EUDR)
+- Política de la cadena de suministro que cubra todas las geografías
+- Política de compras sostenibles en línea con el EUDR (basada en productos básicos
+como soja, carne de res, aceite de palma, madera, cacao, café, caucho o productos derivados)
+- Alineación con la divulgación de bosques del Carbon Disclosure Project (CDP) ([ver la guía del cuestionario aquí](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/406/original/2023_CDP_Bite-Sized_Forests_Guidance_for_New_Disclosers.pdf))
+
+### support_docs_nl
+
+- Bedrijfsspecifiek beleid zonder ontbossing ([zie hier een voorbeeld](https://www.colgatepalmolive.com/en-us/sustainability/our-sustainability-policies/no-deforestation))
+- Implementatie van de Verordening inzake producten zonder ontbossing (EUDR)
+- Supply chain-beleid dat alle geografieën bestrijkt
+- Duurzaam inkoopbeleid in overeenstemming met EUDR (op basis van grondstoffen
+zoals soja, rundvlees, palmolie, hout, cacao, koffie, rubber of afgeleide producten)
+- Afstemming met de bosdisclosure van het Carbon Disclosure Project (CDP) ([zie hier de vragenlijstbegeleiding](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/406/original/2023_CDP_Bite-Sized_Forests_Guidance_for_New_Disclosers.pdf))
+
+### support_docs_it
+
+- Politica aziendale specifica sulla deforestazione ([vedi esempio qui](https://www.colgatepalmolive.com/en-us/sustainability/our-sustainability-policies/no-deforestation))
+- Attuazione del Regolamento sui prodotti senza deforestazione (EUDR)
+- Politica della catena di approvvigionamento che copre tutte le geografie
+- Politica di approvvigionamento sostenibile in linea con l'EUDR (basata su materie
+prime come soia, carne bovina, olio di palma, legno, cacao, caffè, gomma o prodotti derivati)
+- Allineamento con la divulgazione delle foreste del Carbon Disclosure Project (CDP) ([vedi qui la guida al questionario](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/406/original/2023_CDP_Bite-Sized_Forests_Guidance_for_New_Disclosers.pdf))
+
+### support_docs_ro
+
+- Politica specifică companiei fără defrișare ([vezi exemplu aici](https://www.colgatepalmolive.com/en-us/sustainability/our-sustainability-policies/no-deforestation))
+- Implementarea Regulamentului privind produsele fără defrișare (EUDR)
+- Politica lanțului de aprovizionare care acoperă toate geografiile
+- Politica de achiziții durabile în conformitate cu EUDR (bazată pe mărfuri precum soia,
+carne de vită, ulei de palmier, lemn, cacao, cafea, cauciuc sau produse derivate)
+- Alinearea cu divulgarea pădurilor a Carbon Disclosure Project (CDP) ([vezi aici ghidul chestionarului](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/406/original/2023_CDP_Bite-Sized_Forests_Guidance_for_New_Disclosers.pdf))
+
+### support_docs_pl
+
+- Polityka bez wylesiania specyficzna dla firmy ([zobacz przykład tutaj](https://www.colgatepalmolive.com/en-us/sustainability/our-sustainability-policies/no-deforestation))
+- Wdrożenie Rozporządzenia w sprawie produktów wolnych od wylesiania (EUDR)
+- Polityka łańcucha dostaw obejmująca wszystkie geografie
+- Polityka zakupów zrównoważonych zgodna z EUDR (oparta na towarach takich jak soja, wołowina, olej palmowy, drewno, kakao, kawa, kauczuk lub produkty pochodne)
+- Zgodność z divulgacją lasów Carbon Disclosure Project (CDP) ([zobacz tutaj instrukcje kwestionariusza](https://cdn.cdp.net/cdp-production/cms/guidance_docs/pdfs/000/004/406/original/2023_CDP_Bite-Sized_Forests_Guidance_for_New_Disclosers.pdf))
 
 ### sources
 

@@ -272,23 +272,100 @@ Inicjatywy zmniejszania emisji dwutlenku węgla oznaczają projekty i/lub rozwi�
 
 ### compute_pl
 
+
 ### examples_en
 
 Carbon emission reduction initiatives might be specific to a project and/or a company’s operations. Examples include adopting renewable energy strategies, changing land management methods, implementing recycling and reuse strategies etc.
 
 ### examples_fr
 
-Les initiatives de réduction des émissions de carbone peuvent être spécifiques à un projet et/ou aux opérations d’une entreprise. Les exemples incluent l’adoption de stratégies en matière d’énergies renouvelables, le changement des méthodes de gestion des terres, la mise en œuvre de stratégies de recyclage et de réutilisation, etc.
+Les initiatives de réduction des émissions de carbone peuvent être spécifiques à un projet et/ou
+aux opérations d’une entreprise. Les exemples incluent l’adoption de stratégies en matière
+d’énergies renouvelables, le changement des méthodes de gestion des terres, la mise en œuvre
+de stratégies de recyclage et de réutilisation, etc.
+
+### examples_es
+
+Las iniciativas de reducción de emisiones de carbono pueden ser específicas de un proyecto y/o
+de las operaciones de una empresa. Los ejemplos incluyen la adopción de estrategias de energía
+renovable, el cambio de métodos de gestión de tierras, la implementación de estrategias de
+reciclaje y reutilización, etc.
+
+### examples_nl
+
+Initiatieven voor het verminderen van de uitstoot van koolstof kunnen specifiek zijn voor
+een project en/of de bedrijfsactiviteiten. Voorbeelden zijn het aannemen van strategieën
+voor hernieuwbare energie, het veranderen van methoden voor landbeheer, het implementeren
+van recycling- en hergebruikstrategieën, enz.
+
+### examples_it
+
+Le iniziative di riduzione delle emissioni di carbonio possono essere specifiche per un
+progetto e/o per le operazioni di un'azienda. Gli esempi includono l'adozione di strategie
+di energia rinnovabile, il cambiamento dei metodi di gestione del territorio, l'implementazione
+di strategie di riciclaggio e riutilizzo, ecc.
+
+### examples_ro
+
+Inițiativele de reducere a emisiilor de carbon pot fi specifice unui proiect și/sau operațiunilor
+unei companii. Exemplele includ adoptarea de strategii de energie regenerabilă, schimbarea
+metodelor de gestionare a terenurilor, implementarea de strategii de reciclare și reutilizare etc.
+
+### examples_pl
+
+Inicjatywy zmniejszania emisji dwutlenku węgla mogą dotyczyć konkretnego projektu i/lub
+operacji firmy. Przykłady obejmują przyjęcie strategii energii odnawialnej, zmianę metod
+zarządzania ziemią, wdrożenie strategii recyklingu i ponownego wykorzystania itp.
+
 
 ### support_docs_en
 
-- Meaningful climate targets will include a base year, target year, % target emissions, and other information.
-- Submission to the Science-Based Targets Initiative (SBTi) is an important indication of reliable information (see here for SBTi).
+- Meaningful climate targets will include a base year, target year, % target emissions,
+and other information.
+- Submission to the Science-Based Targets Initiative (SBTi) is an important indication of
+reliable information (see here for SBTi).
 
 ### support_docs_fr
 
-- Des objectifs climatiques significatifs comprendront une année de référence, une année cible, un pourcentage d’émissions cibles et d’autres informations.
-- La soumission à la Science-Based Targets Initiative (SBTi) est une indication importante d'informations fiables (voir ici pour SBTi).
+- Des objectifs climatiques significatifs comprendront une année de référence, une année cible,
+un pourcentage d’émissions cibles et d’autres informations.
+- La soumission à la Science-Based Targets Initiative (SBTi) est une indication importante
+d'informations fiables (voir ici pour SBTi).
+
+### support_docs_es
+
+- Los objetivos climáticos significativos incluirán un año base, un año objetivo, un porcentaje
+de emisiones objetivo y otra información.
+- La presentación a la Iniciativa de objetivos basados ​​en la ciencia (SBTi, por sus siglas en
+inglés) es una indicación importante de que la información es confiable (consulte aquí para obtener información sobre SBTi).
+
+### support_docs_nl
+
+- Betekenisvolle klimaatdoelstellingen omvatten een basisjaar, doeljaar, % doelstellingen
+emissies en andere informatie.
+- Indiening bij de Science-Based Targets Initiative (SBTi) is een belangrijke indicatie van
+betrouwbare informatie (zie hier voor SBTi).
+
+### support_docs_it
+
+- Gli obiettivi climatici significativi includeranno un anno base, un anno obiettivo, % di
+emissioni obiettivo e altre informazioni.
+- La presentazione all'iniziativa Science-Based Targets (SBTi) è un'importante indicazione di
+informazioni affidabili (vedi qui per SBTi).
+
+### support_docs_ro
+
+- Obiectivele climatice semnificative vor include un an de bază, un an țintă, % emisii țintă
+și alte informații.
+- Prezentarea la Inițiativa de obiective bazate pe știință (SBTi) este un indiciu important
+al informațiilor fiabile (vezi aici pentru SBTi).
+
+### support_docs_pl
+
+- Znaczące cele klimatyczne będą obejmować rok bazowy, rok docelowy, % docelowe emisji
+i inne informacje.
+- Przesłanie do Inicjatywy Celów Opartych na Nauce (SBTi) jest ważnym wskazaniem na
+rzetelne informacje (zobacz tutaj dla SBTi).
 
 ### sources
 

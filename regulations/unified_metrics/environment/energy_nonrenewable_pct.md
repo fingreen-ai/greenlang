@@ -308,8 +308,8 @@ Odnawialne źródła energii, takie jak wiatr, słońce i energia wodna, są zr�
 
 ### compute_pl
 
-### examples_en
 
+### examples_en
 
 `nrC`: 200,000 kWh  
 
@@ -318,14 +318,10 @@ Odnawialne źródła energii, takie jak wiatr, słońce i energia wodna, są zr�
 `rC`: 300,000 kWh  
 
 `rP`: 10,000 kWh  
-
-  
 
 `Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
 
-
 ### examples_fr
-
 
 `nrC`: 200,000 kWh  
 
@@ -335,21 +331,85 @@ Odnawialne źródła energii, takie jak wiatr, słońce i energia wodna, są zr�
 
 `rP`: 10,000 kWh  
 
-  
+`Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
+
+### examples_es
+
+`nrC`: 200,000 kWh  
+
+`nrP`: 50,000 kWh  
+
+`rC`: 300,000 kWh  
+
+`rP`: 10,000 kWh  
+
+`Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
+
+### examples_nl
+
+`nrC`: 200,000 kWh  
+
+`nrP`: 50,000 kWh  
+
+`rC`: 300,000 kWh  
+
+`rP`: 10,000 kWh  
+
+`Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
+
+### examples_it
+
+`nrC`: 200,000 kWh  
+
+`nrP`: 50,000 kWh  
+
+`rC`: 300,000 kWh  
+
+`rP`: 10,000 kWh  
+
+`Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
+
+### examples_ro
+
+`nrC`: 200,000 kWh  
+
+`nrP`: 50,000 kWh  
+
+`rC`: 300,000 kWh  
+
+`rP`: 10,000 kWh  
+
+`Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
+
+### examples_pl
+
+`nrC`: 200,000 kWh  
+
+`nrP`: 50,000 kWh  
+
+`rC`: 300,000 kWh  
+
+`rP`: 10,000 kWh  
 
 `Share = (200,000 + 50,000) / (300,000 + 10,000) xx100 = 80.64 %`
 
 
 ### support_docs_en
 
-
-
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
 
 [EFRAG ESRS E1 Climate change.](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf) Non-renewable sources from paragraph 33, page 9
             

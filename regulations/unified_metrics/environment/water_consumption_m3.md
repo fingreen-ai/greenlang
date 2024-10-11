@@ -240,6 +240,7 @@ Zajęcie się zużyciem wody dowodzi zaangażowania firmy w odpowiedzialne zarz�
 
 ### compute_pl
 
+
 ### examples_en
 
 560 m3
@@ -248,16 +249,33 @@ Zajęcie się zużyciem wody dowodzi zaangażowania firmy w odpowiedzialne zarz�
 
 560 m3
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
+
+
 ### support_docs_en
-
-
 
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
 
 Total water withdrawal  
 

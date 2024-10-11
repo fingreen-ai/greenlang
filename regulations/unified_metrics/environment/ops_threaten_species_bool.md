@@ -236,25 +236,98 @@ Termin gatunki zagrożone odnosi się do flory i fauny, które stoją w obliczu 
 
 ### compute_pl
 
+
 ### examples_en
 
-If you have direct operations and/or share of investments in investee companies whose operations affect threatened species in localities mentioned in the European Red List or IUCN Red List.
+If you have direct operations and/or share of investments in investee companies whose operations
+affect threatened species in localities mentioned in the European Red List or IUCN Red List.
 
 ### examples_fr
 
-Si vous avez des opérations directes et/ou une part d'investissements dans des sociétés dans lesquelles vous investissez dont les opérations affectent des espèces menacées dans des localités mentionnées sur la Liste rouge européenne ou la Liste rouge de l'UICN.
+Si vous avez des opérations directes et/ou une part d'investissements dans des sociétés dans
+lesquelles vous investissez dont les opérations affectent des espèces menacées dans des
+localités mentionnées sur la Liste rouge européenne ou la Liste rouge de l'UICN.
+
+### examples_es
+
+Si tiene operaciones directas y/o participación en inversiones en empresas participadas cuyas
+operaciones afecten a especies amenazadas en localidades mencionadas en la Lista Roja Europea
+o en la Lista Roja de la UICN.
+
+### examples_nl
+
+Als u directe activiteiten en/of een aandeel in investeringen heeft in investeringsmaatschappijen
+waarvan de activiteiten van invloed zijn op bedreigde soorten in de lokale gebieden die worden
+genoemd in de Europese Rode Lijst of de IUCN Rode Lijst.
+
+### examples_it
+
+Se si hanno operazioni dirette e/o una quota di investimenti in società partecipate le cui
+operazioni influenzano specie min
+acciate in località menzionate nella Lista Rossa Europea o nella Lista Rossa IUCN.
+
+### examples_ro
+
+Dacă aveți operațiuni directe și/sau o cotă de investiții în companii investite ale căror
+operațiuni afectează speciile amenințate în localitățile menționate în Lista Roșie Europeană sau Lista Roșie IUCN.
+
+### examples_pl
+
+Jeśli prowadzisz bezpośrednie operacje i/lub udział w inwestycjach w spółkach portfelowych,
+których operacje wpływają na gatunki zagrożone w lokalizacjach wymienionych w Europejskiej
+Czerwonej Liście lub Czerwonej Liście IUCN.
+
 
 ### support_docs_en
 
-- Mapping of the company's asset locations against the localities of the species referenced in the IUCN Red List and European Red List of threatened species. 
+- Mapping of the company's asset locations against the localities of the species
+referenced in the IUCN Red List and European Red List of threatened species. 
 - EU Taxonomy alignment (DNSH)
 - Biodiversity Impact Assessment (BiA)
 
 ### support_docs_fr
 
-- Cartographie des localisations des actifs de l'entreprise par rapport aux localités des espèces référencées dans la Liste Rouge de l'UICN et la Liste Rouge Européenne des espèces menacées.
+- Cartographie des localisations des actifs de l'entreprise par rapport aux localités
+des espèces référencées dans la Liste Rouge de l'UICN et la Liste Rouge Européenne des
+espèces menacées.
 - Alignement de la taxonomie européenne (DNSH)
 - Évaluation de l'impact sur la biodiversité (BiA)
+
+### support_docs_es
+
+- Mapeo de las ubicaciones de los activos de la empresa frente a las localidades de las
+especies referenciadas en la Lista Roja de la UICN y la Lista Roja Europea de especies amenazadas.
+- Alineación con la Taxonomía de la UE (DNSH)
+- Evaluación del impacto en la biodiversidad (BiA)
+
+### support_docs_nl
+
+- In kaart brengen van de locaties van de activa van het bedrijf ten opzichte van de locaties
+van de soorten die worden genoemd in de IUCN Rode Lijst en de Europese Rode Lijst van bedreigde
+soorten.
+- EU Taxonomie alignement (DNSH)
+- Biodiversiteit Impact Assessment (BiA)
+
+### support_docs_it
+
+- Mappatura delle località degli asset dell'azienda rispetto alle località delle specie citate
+nella Lista Rossa IUCN e nella Lista Rossa Europea delle specie minacciate.
+- Allineamento con la tassonomia dell'UE (DNSH)
+- Valutazione dell'impatto sulla biodiversità (BiA)
+
+### support_docs_ro
+
+- Maparea locațiilor activelor companiei față de localitățile speciilor menționate în Lista
+Roșie IUCN și Lista Roșie Europeană a speciilor amenințate.
+- Aliniere cu Taxonomia UE (DNSH)
+- Evaluarea impactului asupra biodiversității (BiA)
+
+### support_docs_pl
+
+- Mapowanie lokalizacji aktywów firmy w odniesieniu do lokalizacji gatunków wymienionych na
+Czerwonej Liście IUCN i Europejskiej Czerwonej Liście gatunków zagrożonych.
+- Zgodność z taksonomią UE (DNSH)
+- Ocena wpływu na różnorodność biologiczną (BiA)
 
 ### sources
 

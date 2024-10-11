@@ -230,6 +230,7 @@ Le "sostanze che impoveriscono l'ozono" sono sostanze elencate nel Protocollo di
 
 ### compute_pl
 
+
 ### examples_en
 
 If your organization generates emissions that are categorized as ozone-depleting substances
@@ -240,6 +241,31 @@ according to the Montreal Protocol on Substances.
 Si votre organisation génère des émissions classées comme substances appauvrissant la couche
 d'ozone selon le Protocole de Montréal sur les substances.
 
+### examples_es
+
+Si su organización genera emisiones que se clasifican como sustancias que agotan la capa de ozono
+según el Protocolo de Montreal sobre Sustancias.
+
+### examples_nl
+
+Als uw organisatie emissies genereert die zijn gecategoriseerd als ozonafbrekende stoffen
+volgens het Protocol van Montreal inzake stoffen.
+
+### examples_it
+
+Se la tua organizzazione genera emissioni che sono classificate come sostanze che impoveriscono
+l'ozono secondo il Protocollo di Montreal sulle sostanze.
+
+### examples_ro
+
+Dacă organizația dvs. generează emisii care sunt clasificate ca substanțe care epuizează stratul
+de ozon conform Protocolului de la Montreal privind substanțele.
+
+### examples_pl
+
+Jeśli Twoja organizacja generuje emisje, które są sklasyfikowane jako substancje niszczące warstwę
+ozonową zgodnie z Protokołem z Montrealu dotyczącym substancji.
+
 ### support_docs_en
 
 - Company’s KPIs related to the indicator. Substances must be actively tracked and monitored during
@@ -249,6 +275,31 @@ the reporting year.
 
 - Les KPI de l’entreprise liés à l’indicateur. Les substances doivent être activement suivies et
 surveillées au cours de l’année de référence.
+
+### support_docs_es
+
+- KPI de la empresa relacionados con el indicador. Las sustancias deben ser rastreadas y monitoreadas
+activamente durante el año de informe.
+
+### support_docs_nl
+
+- KPI's van het bedrijf met betrekking tot de indicator. Stoffen moeten actief worden gevolgd en
+gemonitord tijdens het rapportagejaar.
+
+### support_docs_it
+
+- KPI dell'azienda correlati all'indicatore. Le sostanze devono essere attivamente tracciate e
+monitorate durante l'anno di riferimento.
+
+### support_docs_ro
+
+- KPI-urile companiei legate de indicator. Substanțele trebuie să fie urmărite și monitorizate
+activ în timpul anului de raportare.
+
+### support_docs_pl
+
+- KPI firmy związane z wskaźnikiem. Substancje muszą być aktywnie śledzone i monitorowane w ciągu roku
+raportowania.
 
 ### sources
 

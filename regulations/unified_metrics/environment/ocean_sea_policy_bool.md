@@ -237,6 +237,7 @@ Zrównoważone oceany i morza wymagają kompleksowych strategii zarządzania, kt
 
 ### compute_pl
 
+
 ### examples_en
 
 If the company lacks any policies and guidelines related to sustainable oceans and seas.
@@ -246,6 +247,17 @@ If the company lacks any policies and guidelines related to sustainable oceans a
 Si l'entreprise ne dispose pas de politiques et de directives liées à la durabilité des océans et
 des mers.
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
+
+
 ### support_docs_en
 
 - Implementation of IFC’s Guidelines for Blue Finance (see here)
@@ -253,13 +265,47 @@ des mers.
 - Company policy related to SDG 14: Life Below Water
 - ESG Reports / Sustainability Statements
 
-
 ### support_docs_fr
 
 - Mise en œuvre des lignes directrices d'IFC pour la finance bleue (voir ici)
 - Mise en œuvre des principes de finance bleue durable dirigés par l'ONU (voir ici)
 - Politique de l'entreprise liée à l'ODD 14 : La vie sous l'eau
 - Rapports ESG / Déclarations de développement durable
+
+### support_docs_es
+
+- Implementación de las Directrices de la IFC para la Financiación Azul (ver aquí)
+- Implementación de los Principios de Financiación Azul Sostenible dirigidos por la ONU (ver aquí)
+- Política de la empresa relacionada con el ODS 14: Vida submarina
+- Informes ESG / Declaraciones de sostenibilidad
+
+### support_docs_nl
+
+- Implementatie van de richtlijnen van de IFC voor Blue Finance (zie hier)
+- Implementatie van door de VN geleide principes voor duurzame Blue Finance (zie hier)
+- Bedrijfsbeleid met betrekking tot SDG 14: Leven onder water
+- ESG-rapporten / Duurzaamheidsverklaringen
+
+### support_docs_it
+
+- Implementazione delle Linee guida per la finanza blu della IFC (vedi qui)
+- Implementazione dei Principi di Finanza Blu Sostenibile guidati dalle Nazioni Unite (vedi qui)
+- Politica aziendale relativa all'ODS 14: Vita sottomarina
+- Rapporti ESG / Dichiarazioni di sostenibilità
+
+### support_docs_ro
+
+- Implementarea Ghidurilor IFC pentru Finanțarea Albastră (vezi aici)
+- Implementarea Principiilor de Finanțare Albastră Durabilă conduse de ONU (vezi aici)
+- Politica companiei legată de ODD 14: Viața sub apă
+- Rapoarte ESG / Declarații de sustenabilitate
+
+### support_docs_pl
+
+- Wdrożenie Wytycznych IFC dotyczących Finansów Błękitnych (zobacz tutaj)
+- Wdrożenie zasad zrównoważonych finansów błękitnych prowadzonych przez ONZ (zobacz tutaj)
+- Polityka firmy związana z ODD 14: Życie pod wodą
+- Raporty ESG / Oświadczenia o zrównoważonym rozwoju
 
 ### sources
 

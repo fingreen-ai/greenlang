@@ -211,11 +211,20 @@ Polityka zarządzania wodą to zbiór wytycznych i praktyk wdrożonych przez fir
 
 ### compute_pl
 
-### examples_en
 
+### examples_en
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
@@ -236,6 +245,41 @@ concernant les sources d'eau, les niveaux d'utilisation, les sources et les mét
 d'évacuation de l'eau)
 - Certifications de l'eau au niveau national/local
 - Permis aux normes environnementales pour les installations de rejet d'eau ([voir ici](https://www.gov.uk/government/publications/application-for-an-environmental-permit-part-b1-standard-facilities-permit))
+
+### support_docs_es
+
+- Divulgación de agua del Carbon Disclosure Project (CDP) con una referencia particular a la política de gestión del agua W6.1 ([ver aquí](https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/008/157/original/SFDR_CDP_apping_June2023.pdf))
+- La política de gestión del agua de la empresa (es decir, explicando el enfoque general sobre las fuentes de agua, los niveles de uso, las fuentes y las metodologías de descarga de agua)
+- Certificaciones de agua a nivel nacional/local
+- Permiso de estándares ambientales para instalaciones de descarga de agua ([ver aquí](https://www.gov.uk/government/publications/application-for-an environmental-permit-part-b1-standard-facilities-permit))
+
+### support_docs_nl
+
+- Water Disclosure van het Carbon Disclosure Project (CDP) met een specifieke verwijzing naar het waterbeheerbeleid van W6.1 ([zie hier](https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/008/157/original/SFDR_CDP_apping_June2023.pdf))
+- Het waterbeheerbeleid van het bedrijf (d.w.z. uitleg over de algemene aanpak van waterbronnen, gebruiksniveaus, bronnen en waterlozingsmethodieken)
+- Watercertificeringen op nationaal/lokaal niveau
+- Milieunormenvergunning voor waterlozingsfaciliteiten ([zie hier](https://www.gov.uk/government/publications/application-for-an environmental-permit-part-b1-standard-facilities-permit))
+
+### support_docs_it
+
+- Divulgazione dell'acqua del Carbon Disclosure Project (CDP) con particolare riferimento alla politica di gestione dell'acqua W6.1 ([vedi qui](https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/008/157/original/SFDR_CDP_apping_June2023.pdf))
+- La politica di gestione dell'acqua dell'azienda (ovvero spiegare l'approccio generale alle fonti d'acqua, ai livelli di utilizzo, alle fonti e alle metodologie di scarico dell'acqua)
+- Certificazioni dell'acqua a livello nazionale/locale
+- Norme ambientali per le autorizzazioni delle strutture di scarico dell'acqua ([vedi qui](https://www.gov.uk/government/publications/application-for-an environmental-permit-part-b1-standard-facilities-permit))
+
+### support_docs_ro
+
+- Divulgarea apei de la Carbon Disclosure Project (CDP) cu referire specială la politica de gestionare a apei W6.1 ([vezi aici](https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/008/157/original/SFDR_CDP_apping_June2023.pdf))
+- Politica de gestionare a apei a companiei (adică explicarea abordării generale a surselor de apă, nivelurilor de utilizare, surselor și metodologiilor de descărcare a apei)
+- Certificări de apă la nivel național/local
+- Norme de mediu pentru autorizațiile de descărcare a apei ([vezi aici](https://www.gov.uk/government/publications/application-for-an environmental-permit-part-b1-standard-facilities-permit))
+
+### support_docs_pl
+
+- Carbon Disclosure Project’s (CDP) Water Disclosure z szczególnym odniesieniem do polityki zarządzania wodą W6.1 ([zobacz tutaj](https://cdn.cdp.net/cdp-production/comfy/cms/files/files/000/008/157/original/SFDR_CDP_apping_June2023.pdf))
+- Polityka zarządzania wodą firmy (tj. wyjaśnienie ogólnego podejścia do źródeł wody, poziomów zużycia, źródeł i metodologii wyprowadzania wody)
+- Certyfikaty wodne na poziomie krajowym/lokalnym
+- Standardy środowiskowe zezwolenie na instalacje wyprowadzania wody ([zobacz tutaj](https://www.gov.uk/government/publications/application-for-an environmental-permit-part-b1-standard-facilities-permit))
 
 ### sources
 

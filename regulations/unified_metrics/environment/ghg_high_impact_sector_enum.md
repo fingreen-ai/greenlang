@@ -379,6 +379,7 @@ Sektory z istotnymi wkładami w emisje gazów cieplarnianych i wpływ na środow
 
 ### compute_pl
 
+
 ### examples_en
 
 Agriculture is part of high impact climate sectors due
@@ -392,16 +393,52 @@ impact en raison à la fois de ses émissions de méthane provenant du bétail
 et de sa contribution au changement climatique (par exemple, la
 raréfaction de l'eau).
 
+### examples_es
+
+La agricultura forma parte de sectores de alto impacto climático debido tanto a
+sus emisiones de metano procedentes del ganado como a su contribución al cambio
+climático (por ejemplo, la escasez de agua).
+
+### examples_nl
+
+Landbouw maakt deel uit van sectoren met een hoog klimaatimpact vanwege zowel
+de uitstoot van methaan door vee als de bijdrage aan klimaatverandering
+(bijv. waterschaarste).
+
+### examples_it
+
+L'agricoltura fa parte dei settori climatici ad alto impatto sia per le sue
+emissioni di metano da parte del bestiame che per il suo contributo ai cambiamenti
+climatici (ad es. scarsità d'acqua).
+
+### examples_ro
+
+Agricultura face parte din sectoarele cu impact climatic ridicat datorită atât
+emisiilor de metan din creșterea animalelor, cât și contribuției sale la
+schimbările climatice (de exemplu, scăderea cantității de apă).
+
+### examples_pl
+
+Rolnictwo jest częścią sektorów o wysokim wpływie klimatycznym zarówno ze
+względu na emisje metanu z hodowli, jak i na swój wkład w zmiany klimatyczne
+(np. niedobór wody).
+
 ### support_docs_en
-
-
 
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
 
 High impact climate sectors  
 

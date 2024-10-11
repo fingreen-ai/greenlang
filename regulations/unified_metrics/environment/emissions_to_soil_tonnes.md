@@ -164,25 +164,38 @@ Firma powinna wziąć pod uwagę zanieczyszczenia, które emituje w swoich włas
 
 ### compute_pl
 
+
 ### examples_en
-
-
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
 
-
-
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
-
 
 ### publish
 

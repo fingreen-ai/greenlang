@@ -210,6 +210,7 @@ Recykling wody polega na oczyszczaniu i ponownym wykorzystywaniu ścieków do r�
 
 ### compute_pl
 
+
 ### examples_en
 
 100 m3
@@ -217,6 +218,17 @@ Recykling wody polega na oczyszczaniu i ponownym wykorzystywaniu ścieków do r�
 ### examples_fr
 
 100 m3
+
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
+
 
 ### support_docs_en
 
@@ -229,6 +241,36 @@ applications.
 - ISO 9001 :2015 certifie que les entreprises disposent d'installations de traitement d'eau
 adéquates pour les applications industrielles.
 - KPI de l'eau spécifiques à l'entreprise mesurés et suivis en mètres cubes
+
+### support_docs_es
+
+- La norma ISO 9001:2015 certifica que las empresas disponen de instalaciones adecuadas de
+tratamiento de agua para aplicaciones industriales.
+- KPI específicos del agua de la empresa medidos y rastreados en metros cúbicos
+
+### support_docs_nl
+
+- ISO 9001:2015 certificeert dat bedrijven over adequate waterbehandelingsinstallaties beschikken
+voor industriële toepassingen.
+- Bedrijfsspecifieke water-KPI's gemeten en bijgehouden in kubieke meters
+
+### support_docs_it
+
+- La norma ISO 9001:2015 certifica che le aziende dispongono di impianti di trattamento dell'acqua
+adeguati per applicazioni industriali.
+- KPI specifici dell'acqua dell'azienda misurati e tracciati in metri cubi
+
+### support_docs_ro
+
+- ISO 9001:2015 certifică faptul că companiile au instalații adecvate de tratare a apei pentru
+aplicații industriale.
+- KPI-urile specifice ale apei ale companiei măsurate și urmărite în metri cubi
+
+### support_docs_pl
+
+- ISO 9001:2015 certyfikuje, że firmy posiadają odpowiednie instalacje do oczyszczania wody do
+zastosowań przemysłowych.
+- KPI dotyczące wody specyficzne dla firmy mierzone i śledzone w metrach sześciennych
 
 ### sources
 

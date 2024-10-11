@@ -553,6 +553,7 @@ Odpady niebezpieczne odnoszą się do każdego materiału lub substancji odpadow
 
 ### compute_pl
 
+
 ### examples_en
 
 A chemical manufacturing plant produces a variety of
@@ -560,24 +561,17 @@ chemical products used in agriculture, pharmaceuticals, and industrial
 applications. The hazardous waste generated in this industrial facility
 includes:
 
-
 Toxic Waste: Chemicals containing heavy metals, such as lead and mercury, are
 used in the production process, resulting in toxic by-products (10 tonnes).
-
-
 
 Flammable Waste: Some chemical reactions produce volatile organic compounds
 that are highly flammable (5 tonnes).
 
-
 Reactive Waste: Certain chemical reactions result in waste that can react
 violently when exposed to air, water, or other substances (2 tonnes).
 
-
 Therefore, the company produced 17 tonnes of hazardous waste this
 year.
-
-
 
 ### examples_fr
 
@@ -586,46 +580,143 @@ d'une variété de produits chimiques utilisés dans l'agriculture, la pharmacie
 et l'industrie. Les déchets dangereux générés dans cet établissement
 comprennent:
 
-
 Des déchets toxiques : Des produits chimiques contenant des métaux lourds,
 tels que le plomb et le mercure, sont utilisés dans le processus de production,
 ce qui entraîne la formation de sous-produits toxiques (10 tonnes).
 
-
 Des déchets inflammables : Certaines réactions chimiques produisent des
 composés organiques volatils hautement inflammables (5 tonnes)<.
-
 
 Des déchets réactifs : Certaines réactions chimiques produisent des déchets
 qui peuvent réagir violemment au contact de l'air, de l'eau ou d'autres
 substances (2 tonnes).
 
-
 Par conséquent, l'entreprise a produit 17 tonnes de déchets dangereux
 cette année.
 
+### examples_es
 
+Una planta de fabricación de productos químicos produce una variedad de productos químicos que
+se utilizan en la agricultura, la industria farmacéutica y otras aplicaciones industriales. Los
+residuos peligrosos generados en esta instalación industrial
+incluyen:
+
+Residuos tóxicos: en el proceso de producción se utilizan productos químicos que contienen
+metales pesados, como plomo y mercurio, lo que genera subproductos tóxicos (10 toneladas).
+
+Residuos inflamables: algunas reacciones químicas producen compuestos orgánicos volátiles que
+son altamente inflamables (5 toneladas).
+
+Residuos reactivos: ciertas reacciones químicas generan residuos que pueden reaccionar
+violentamente cuando se exponen al aire, al agua u otras sustancias (2 toneladas).
+
+Por lo tanto, la empresa produjo 17 toneladas de residuos peligrosos este año.
+
+### examples_nl
+
+Een chemische productiefabriek produceert een verscheidenheid aan chemische producten die worden
+gebruikt in de landbouw, farmaceutische industrie en industriële toepassingen. Het gevaarlijke
+afval dat in deze industriële faciliteit wordt gegenereerd, omvat:
+
+Giftig afval: Chemicaliën die zware metalen bevatten, zoals lood en kwik, worden gebruikt in het
+productieproces, wat resulteert in giftige bijproducten (10 ton).
+
+Ontvlambaar afval: Sommige chemische reacties produceren vluchtige organische stoffen die zeer
+ontvlambaar zijn (5 ton).
+
+Reactief afval: Bepaalde chemische reacties resulteren in afval dat heftig kan reageren bij
+blootstelling aan lucht, water of andere stoffen (2 ton).
+
+Daarom produceerde het bedrijf dit jaar 17 ton gevaarlijk afval.
+
+### examples_it
+
+Uno stabilimento di produzione chimica produce una varietà di prodotti chimici utilizzati in
+agricoltura, prodotti farmaceutici e applicazioni industriali. I rifiuti pericolosi generati
+in questa struttura industriale includono:
+
+Rifiuti tossici: sostanze chimiche contenenti metalli pesanti, come piombo e mercurio, vengono
+utilizzate nel processo di produzione, con conseguenti sottoprodotti tossici (10 tonnellate).
+
+Rifiuti infiammabili: alcune reazioni chimiche producono composti organici volatili altamente
+infiammabili (5 tonnellate).
+
+Rifiuti reattivi: alcune reazioni chimiche producono rifiuti che possono reagire violentemente
+se esposti ad aria, acqua o altre sostanze (2 tonnellate).
+
+Pertanto, quest'anno l'azienda ha prodotto 17 tonnellate di rifiuti pericolosi.
+
+### examples_ro
+
+O fabrică de producție chimică produce o varietate de produse chimice utilizate în agricultură,
+produse farmaceutice și aplicații industriale. Deșeurile periculoase generate în această instalație
+industrială
+include:
+
+Deșeuri toxice: în procesul de producție sunt utilizate substanțe chimice care conțin metale grele,
+cum ar fi plumbul și mercurul, rezultând produse secundare toxice (10 tone).
+
+Deșeuri inflamabile: Unele reacții chimice produc compuși organici volatili care sunt foarte
+inflamabili (5 tone).
+
+Deșeuri reactive: Anumite reacții chimice duc la deșeuri care pot reacționa violent atunci când
+sunt expuse la aer, apă sau alte substanțe (2 tone).
+
+Prin urmare, compania a produs anul acesta 17 tone de deșeuri periculoase.
+
+### examples_pl
+
+Zakład produkcji chemicznej wytwarza różnorodne produkty chemiczne wykorzystywane w rolnictwie,
+farmaceutyce i przemyśle. Niebezpieczne odpady wytwarzane w tym zakładzie przemysłowym
+obejmują:
+
+Odpady toksyczne: W procesie produkcyjnym stosuje się substancje chemiczne zawierające metale
+ciężkie, takie jak ołów i rtęć, co powoduje powstawanie toksycznych produktów ubocznych (10 ton).
+
+Odpady łatwopalne: Niektóre reakcje chemiczne powodują powstawanie lotnych związków organicznych,
+które są wysoce łatwopalne (5 ton).
+
+Odpady reaktywne: Niektóre reakcje chemiczne powodują powstawanie odpadów, które mogą gwałtownie
+reagować po wystawieniu na działanie powietrza, wody lub innych substancji (2 tony).
+
+W związku z tym firma wyprodukowała w tym roku 17 ton odpadów niebezpiecznych.
 
 ### support_docs_en
-
 
 * Report including methodology of assessment of hazardous waste and
  radioactive waste
 
-
-
-
 ### support_docs_fr
-
 
 * Rapport comprenant la méthodologie d'évaluation des déchets dangereux et
  déchets radioactifs
 
+### support_docs_es
 
+* Informe que incluya la metodología de evaluación de los residuos peligrosos y
+ residuos radioactivos
 
+### support_docs_nl
+
+* Rapport inclusief methodologie van beoordeling van gevaarlijk afval en
+ radioactief afval
+
+### support_docs_it
+
+* Rapporto che include la metodologia di valutazione dei rifiuti pericolosi e
+ rifiuti radioattivi
+
+### support_docs_ro
+
+* Raport care include metodologia de evaluare a deșeurilor periculoase și
+ deșeurilor radioactive
+
+### support_docs_pl
+
+* Raport zawierający metodologię oceny odpadów niebezpiecznych i
+ odpadów radioaktywnych
 
 ### sources
-
 
 [EU DIRECTIVE 2008/98/EC on waste and repealing certain Directives](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098)  
 

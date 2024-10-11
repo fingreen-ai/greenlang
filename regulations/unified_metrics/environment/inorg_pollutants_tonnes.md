@@ -230,6 +230,7 @@ Przez "zanieczyszczenia nieorganiczne" rozumie się emisje na poziomie lub poni�
 
 ### compute_pl
 
+
 ### examples_en
 
 If your organization generates emissions that are categorized as inorganic pollutants according to
@@ -242,6 +243,36 @@ Si votre organisation génère des émissions classées comme polluants inorgani
 de référence sur les MTD pour l'industrie de la fabrication de produits chimiques inorganiques en
 grand volume, solides et autres.
 
+### examples_es
+
+Si su organización genera emisiones que se clasifican como contaminantes inorgánicos según el
+Documento de referencia sobre las MTD para la fabricación de productos químicos inorgánicos en
+gran volumen, sólidos y otros.
+
+### examples_nl
+
+Als uw organisatie emissies genereert die zijn gecategoriseerd als anorganische verontreinigende
+stoffen volgens het Referentiedocument over BBT voor de productie van grote hoeveelheden
+anorganische chemicaliën - vaste stoffen en andere industrie.
+
+### examples_it
+
+Se la tua organizzazione genera emissioni che sono classificate come inquinanti inorganici secondo
+il Documento di riferimento sulle MTD per la produzione di grandi volumi di prodotti chimici
+inorganici - solidi e altri.
+
+### examples_ro
+
+Dacă organizația dvs. generează emisii care sunt clasificate ca poluanți anorganici conform
+Documentului de referință privind BAT pentru fabricarea de produse chimice anorganice în volum
+mare - Solide și alte industrii.
+
+### examples_pl
+
+Jeśli Twoja organizacja generuje emisje, które są sklasyfikowane jako zanieczyszczenia
+nieorganiczne zgodnie z Dokumentem Referencyjnym dotyczącym BAT dla produkcji dużych ilości
+chemikaliów nieorganicznych - ciała stałe i inne przemysł.
+
 ### support_docs_en
 
 - Company’s KPIs related to the indicator. Substances must be actively tracked and monitored during
@@ -251,6 +282,31 @@ the reporting year.
 
 - KPI de l’entreprise liés à l’indicateur. Les substances doivent être activement suivies et
 surveillées au cours de l’année de référence.
+
+### support_docs_es
+
+- KPI de la empresa relacionados con el indicador. Las sustancias deben ser rastreadas y monitoreadas
+activamente durante el año de informe.
+
+### support_docs_nl
+
+- KPI's van het bedrijf die verband houden met de indicator. Stoffen moeten actief worden gevolgd en
+gemonitord tijdens het rapportagejaar.
+
+### support_docs_it
+
+- KPI dell'azienda correlati all'indicatore. Le sostanze devono essere attivamente monitorate e
+controllate durante l'anno di riferimento.
+
+### support_docs_ro
+
+- Indicatorii KPI ai companiei legați de indicator. Substanțele trebuie să fie urmărite și monitorizate
+activ pe parcursul anului de raportare.
+
+### support_docs_pl
+
+- KPI firmy związane z wskaźnikiem. Substancje muszą być aktywnie śledzone i monitorowane w ciągu
+roku sprawozdawczego.
 
 ### sources
 

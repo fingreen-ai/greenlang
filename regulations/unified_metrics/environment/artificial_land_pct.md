@@ -270,13 +270,33 @@ non végétalisée / Surface totale du patrimoine x 100
 
 ### compute_es
 
+No existe una fórmula de cálculo clara y universal. El INRAE ​​señala que "es necesario un
+consenso sobre cómo medir la artificialización". Véase aquí https://www.inrae.fr/fr/news/artificialised-land-and-artificialisation-processes .
+Sin embargo, se podría proponer una fórmula simple: Superficie total sin vegetación / superficie total de activos x 100
+
 ### compute_nl
+
+Er is geen duidelijke en universele berekeningsformule. INRAE rapporteert dat "een consensus nodig
+is over hoe artificialisatie te meten". Zie hier https://www.inrae.fr/en/news/artificialised-land-and-artificialisation-processes.
+Een eenvoudige formulering zou echter kunnen worden voorgesteld: Totale niet-begroeide oppervlakte / totale oppervlakte van activa x 100
 
 ### compute_it
 
+Non esiste una formula di calcolo chiara e universale. L'INRAE riporta che "è necessario un
+consenso su come misurare l'artificializzazione". Vedi qui https://www.inrae.fr/en/news/artificialised-land-and-artificialisation-processes.
+Tuttavia, potrebbe essere avanzata una formulazione semplice: Superficie totale non vegetata / superficie totale degli asset x 100
+
 ### compute_ro
 
+Nu există o formulă de calcul clară și universală. INRAE raportează că "este nevoie de un consens
+cu privire la modul de măsurare a artificializării". Vezi aici https://www.inrae.fr/en/news/artificialised-land-and-artificialisation-processes.
+Cu toate acestea, ar putea fi propusă o formulare simplă: Suprafață totală nevegetată / suprafață totală a activelor x 100
+
 ### compute_pl
+
+Nie ma jednoznacznej i uniwersalnej formuły obliczeniowej. INRAE raportuje, że "potrzebny jest
+konsensus w sprawie sposobu pomiaru sztuczności". Zobacz tutaj https://www.inrae.fr/en/news/artificialised-land-and-artificialisation-processes.
+Można jednak zaproponować prostą formułę: Całkowita powierzchnia nieporośnięta / całkowita powierzchnia aktywów x 100
 
 ### examples_en
 
@@ -291,13 +311,32 @@ l’expansion des infrastructures telles que les routes.
 
 ### examples_es
 
+Las inversiones con un enfoque particular en la cartera inmobiliaria deben evaluar el
+impacto ambiental de las obras de construcción, vertederos, estacionamientos y ampliaciones de
+infraestructura como carreteras.
+
 ### examples_nl
+
+Investeringen met een bijzondere focus op de vastgoedportefeuille moeten de
+milieueffecten van bouwplaatsen, stortplaatsen, parkeerplaatsen en infrastructuuruitbreiding
+zoals wegen evalueren.
 
 ### examples_it
 
+Gli investimenti con particolare attenzione al portafoglio immobiliare dovrebbero valutare
+l'impatto ambientale dei cantieri edili, delle discariche, dei parcheggi e dell'espansione
+delle infrastrutture come le strade.
+
 ### examples_ro
 
+Investițiile cu un accent deosebit pe portofoliul imobiliar ar trebui să evalueze impactul
+mediului al șantierelor de construcții, depozitelor de deșeuri, parcărilor și extinderii
+infrastructurii, cum ar fi drumurile.
+
 ### examples_pl
+
+Inwestycje z szczególnym naciskiem na portfel nieruchomości powinny ocenić wpływ
+środowiskowy placów budowy, wysypisk śmieci, parkingów i rozbudowy infrastruktury, takich jak drogi.
 
 ### support_docs_en
 
@@ -313,13 +352,33 @@ l’expansion des infrastructures telles que les routes.
 
 ### support_docs_es
 
+- Mappe dell'uso del suolo
+- Rapporti di sostenibilità con sezione dedicata all'uso del suolo
+- Registri di conformità ambientale
+
 ### support_docs_nl
+
+- Landgebruikkaarten
+- Duurzaamheidsrapporten met een speciaal gedeelte voor landgebruik
+- Milieunalevingsrecords
 
 ### support_docs_it
 
+- Mapas de uso del suelo
+- Informes de sostenibilidad con sección dedicada al uso del suelo
+- Registros de cumplimiento ambiental
+
 ### support_docs_ro
 
+- Hărți de utilizare a terenurilor
+- Rapoarte de sustenabilitate cu secțiune dedicată utilizării terenurilor
+- Înregistrări de conformitate cu mediul
+
 ### support_docs_pl
+
+- Mapy użytkowania gruntów
+- Raporty zrównoważone z dedykowaną sekcją dotyczącą użytkowania gruntów
+- Rejestry zgodności środowiskowej
 
 ### sources
 

@@ -223,7 +223,6 @@ Obecnie obowiązujące dyrektywy UE regulujące stężenia zanieczyszczeń w pow
 
 ### compute_en
 
-
 ### compute_fr
 
 ### compute_es
@@ -276,13 +275,28 @@ Zobacz artykuł 3 Dyrektywy (UE) 2016/2284 Parlamentu Europejskiego dla szczegó
 
 ### support_docs_es
 
+- Documentación y monitoreo continuo de las emisiones al aire, corrientes de residuos
+- Monitoreo de la calidad del aire basado en instalaciones y/o ubicación ([ver aquí un ejemplo](https://www.clarity.io/))
+
 ### support_docs_nl
+
+- Continue documentatie en monitoring van emissies naar de lucht, afvalstromen
+- Monitoring van de luchtkwaliteit op basis van faciliteiten en/of locatie ([zie hier voor een voorbeeld](https://www.clarity.io/))
 
 ### support_docs_it
 
+- Documentazione e monitoraggio continuo delle emissioni in aria, flussi di rifiuti
+- Monitoraggio della qualità dell'aria basato su impianti e/o posizione ([vedi qui per un esempio](https://www.clarity.io/))
+
 ### support_docs_ro
 
+- Documentarea și monitorizarea continuă a emisiilor în aer, fluxurile de deșeuri
+- Monitorizarea calității aerului bazată pe facilități și/sau locație ([vezi aici un exemplu](https://www.clarity.io/))
+
 ### support_docs_pl
+
+- Ciągła dokumentacja i monitorowanie emisji do powietrza, strumieni odpadów
+- Monitorowanie jakości powietrza w oparciu o obiekty i/lub lokalizację ([zobacz tutaj przykład](https://www.clarity.io/))
 
 ### sources
 

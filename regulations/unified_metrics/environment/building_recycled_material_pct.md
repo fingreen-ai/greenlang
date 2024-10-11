@@ -223,6 +223,7 @@ Natura intensivă în resurse a sectorului construcțiilor are un impact major a
 
 Intensywność zasobowa sektora budowlanego ma duży wpływ na zrównoważoność. Przyjęcie przyjaznych dla środowiska substytutów i zrównoważone pozyskiwanie tych materiałów to kluczowe czynniki, które należy wziąć pod uwagę przy stosowaniu technik budownictwa zrównoważonego.
 
+
 ### compute_en
 
 ### compute_fr
@@ -237,6 +238,7 @@ Intensywność zasobowa sektora budowlanego ma duży wpływ na zrównoważonoś�
 
 ### compute_pl
 
+
 ### examples_en
 
 If your organization have used steel, sand and cement, which has not been through any process of
@@ -249,6 +251,31 @@ Si votre organisation a utilisé de l'acier, du sable et du ciment, qui n'ont su
 de recyclage, de bio-approvisionnement et/ou de valorisation, l'indicateur vous demande de fournir
 un pourcentage de ces matériaux par rapport au poids total des matériaux de construction utilisés.
 
+### examples_es
+
+Si su organización ha utilizado acero, arena y cemento, que no han pasado por ningún proceso de reciclaje, bio-sourcing y/o recuperación, el indicador le pide que proporcione un porcentaje de esos materiales en comparación con el peso total de los materiales de construcción utilizados.
+
+### examples_nl
+
+Als uw organisatie staal, zand en cement heeft gebruikt, die niet door een proces van recycling,
+bio-sourcing en/of herstel zijn gegaan, vraagt de indicator u om een percentage van die materialen
+te geven in vergelijking met het totale gewicht van de gebruikte bouwmaterialen.
+
+### examples_it
+
+Se la vostra organizzazione ha utilizzato acciaio, sabbia e cemento, che non sono stati sottoposti
+a alcun processo di riciclaggio, bio-sourcing e/o recupero, l'indicatore vi chiede di fornire una
+percentuale di quei materiali in confronto al peso totale dei materiali da costruzione utilizzati.
+
+### examples_ro
+
+Dacă organizația dvs. a utilizat oțel, nisip și ciment, care nu au trecut printr-un proces de reciclare, bio-sursă și/sau recuperare, indicatorul vă solicită să furnizați un procentaj al acestor materiale în comparație cu greutatea totală a materialelor de construcție utilizate.
+
+### examples_pl
+
+Jeśli Twoja organizacja użyła stali, piasku i cementu, które nie zostały poddane żadnemu procesowi recyklingu, pozyskiwania z biomas, ani odzysku, wskaźnik prosi o podanie procentu tych materiałów w porównaniu z całkowitą masą materiałów budowlanych użytych.
+
+
 ### support_docs_en
 
 - Life Cycle Assessment (LCA) reports of materials used
@@ -256,6 +283,27 @@ un pourcentage de ces matériaux par rapport au poids total des matériaux de co
 ### support_docs_fr
 
 - Rapports d'Analyse du Cycle de Vie (ACV) des matériaux utilisés
+
+### support_docs_es
+
+- Informes de Evaluación del Ciclo de Vida (ACV) de los materiales utilizados
+
+### support_docs_nl
+
+- Levenscyclusanalyse (LCA) rapporten van gebruikte materialen
+
+### support_docs_it
+
+- Relazioni di Analisi del Ciclo di Vita (ACV) dei materiali utilizzati
+
+### support_docs_ro
+
+- Rapoarte de Evaluare a Ciclului de Viață (ACV) ale materialelor utilizate
+
+### support_docs_pl
+
+- Raporty oceny cyklu życia (LCA) używanych materiałów
+
 
 ### sources
 

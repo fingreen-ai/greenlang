@@ -228,6 +228,7 @@ Sortowanie odpadów polega na oddzieleniu różnych rodzajów materiałów odpad
 
 ### compute_pl
 
+
 ### examples_en
 
 The organization has identified properties lacking adequate waste sorting facilities
@@ -237,6 +238,31 @@ and waste management policies in place.
 
 L'organisation a identifié des propriétés dépourvues d'installations adéquates de tri
 des déchets et de politiques de gestion des déchets en place.
+
+### examples_es
+
+La organización ha identificado propiedades que carecen de instalaciones adecuadas
+para la clasificación de residuos y políticas de gestión de residuos en su lugar.
+
+### examples_nl
+
+De organisatie heeft vastgoedobjecten geïdentificeerd die niet beschikken over
+adequate afvalscheidingsfaciliteiten en afvalbeheerbeleid.
+
+### examples_it
+
+L'organizzazione ha identificato proprietà prive di adeguati impianti di separazione
+dei rifiuti e politiche di gestione dei rifiuti in atto.
+
+### examples_ro
+
+Organizația a identificat proprietăți care nu dispun de facilități adecvate pentru
+sortarea deșeurilor și politici de gestionare a deșeurilor în loc.
+
+### examples_pl
+
+Organizacja zidentyfikowała nieruchomości, które nie posiadają odpowiednich
+instalacji do segregacji odpadów i polityki zarządzania odpadami.
 
 ### support_docs_en
 
@@ -249,6 +275,36 @@ relation to the overall portfolio, Zero Waste Certification, ISO 14001.
 Un calcul ou une synthèse démontrant le pourcentage d'actifs immobiliers sans
 installation de tri des déchets ou couverts par des contrats de valorisation/recyclage
 des déchets par rapport au portefeuille global, Certification Zéro Déchet, ISO 14001.
+
+### support_docs_es
+
+Un cálculo o resumen que demuestre el porcentaje de activos inmobiliarios sin instalaciones de
+clasificación de residuos o cubiertos por contratos de recuperación/reciclaje de residuos en
+relación con la cartera general, Certificación Cero Residuos, ISO 14001.
+
+### support_docs_nl
+
+Een berekening of samenvatting waaruit blijkt welk percentage van de vastgoedactiva geen
+faciliteiten voor afvalscheiding heeft of gedekt is door contracten voor afvalterugwinning/recycling
+in relatie tot de totale portefeuille, Zero Waste Certification, ISO 14001.
+
+### support_docs_it
+
+Un calcolo o un riepilogo che dimostri la percentuale di attività immobiliari senza impianti di
+separazione dei rifiuti o coperte da contratti di recupero/riciclaggio dei rifiuti rispetto al
+portafoglio complessivo, Certificazione Zero Waste, ISO 14001.
+
+### support_docs_ro
+
+Un calcul sau un rezumat care demonstrează procentul de active imobiliare fără facilități de
+sortare a deșeurilor sau acoperite de contracte de recuperare/reciclare a deșeurilor în raport
+cu portofoliul general, Certificare Zero Deșeuri, ISO 14001.
+
+### support_docs_pl
+
+Obliczenie lub podsumowanie, które pokazuje procent nieruchomości, które nie mają instalacji do
+segregacji odpadów lub są objęte umowami na odzysk/recykling odpadów w odniesieniu do całego
+portfela, Certyfikacja Zero Waste, ISO 14001.
 
 ### sources
 

@@ -393,6 +393,7 @@ Firma aktywna w sektorze paliw kopalnych to firma, która jest głównie zaanga�
 
 ### compute_pl
 
+
 ### examples_en
 
 A company is active in fossil fuel sector if it is involved
@@ -407,28 +408,84 @@ et la commercialisation de produits dérivés des combustibles fossiles,
 notamment le pétrole brut, le gaz naturel, l'essence, le diesel et les
 produits pétrochimiques.
 
-### support_docs_en
+### examples_es
 
+Una empresa está activa en el sector de combustibles fósiles si participa en
+la exploración, producción, refinación y comercialización de productos de
+combustibles fósiles, incluidos petróleo crudo, gas natural, gasolina, diésel
+y petroquímicos.
+
+### examples_nl
+
+Een bedrijf is actief in de fossiele brandstofsector als het betrokken is bij
+de exploratie, productie, raffinage en marketing van producten op basis van
+fossiele brandstoffen, waaronder ruwe olie, aardgas, benzine, diesel en petrochemicaliën.
+
+### examples_it
+
+Un'azienda è attiva nel settore dei combustibili fossili se è coinvolta
+nell'esplorazione, produzione, raffinazione e commercializzazione di prodotti
+derivati dai combustibili fossili, tra cui petrolio greggio, gas naturale,
+benzina, diesel e prodotti petrolchimici.
+
+### examples_ro
+
+O companie este activă în sectorul combustibililor fosili dacă este implicată
+în explorare, producție, rafinare și comercializare de produse derivate din
+combustibili fosili, inclusiv petrol brut, gaze naturale, benzină, motorină
+și produse petrochimice.
+
+### examples_pl
+
+Firma jest aktywna w sektorze paliw kopalnych, jeśli jest zaangażowana w
+eksplorację, produkcję, rafinację i marketing produktów na bazie paliw
+kopalnych, w tym ropy naftowej, gazu ziemnego, benzyny, oleju napędowego
+i produktów petrochemicznych.
+
+
+### support_docs_en
 
 * Environmental risk policy
 * Social risk policy
 * Climate change risk policy
 
-
-
-
 ### support_docs_fr
-
 
 * Politique de risques environnementaux
 * Politique de risques sociaux
 * Politique de risques liés au changement climatique
 
+### support_docs_es
 
+* Política de riesgos ambientales
+* Política de riesgos sociales
+* Política de riesgos climáticos
 
+### support_docs_nl
+
+* Milieurisicobeleid
+* Sociaal risicobeleid
+* Klimaatveranderingsrisicobeleid
+
+### support_docs_it
+
+* Politica dei rischi ambientali
+* Politica dei rischi sociali
+* Politica dei rischi legati ai cambiamenti climatici
+
+### support_docs_ro
+
+* Politica de riscuri de mediu
+* Politica de riscuri sociale
+* Politica de riscuri legate de schimbările climatice
+
+### support_docs_pl
+
+* Polityka ryzyka środowiskowego
+* Polityka ryzyka społecznego
+* Polityka ryzyka związanego z zmianami klimatu
 
 ### sources
-
 
 [Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing
 Regulation (EU) 2019/2088 of the European Parliament and of the Council with

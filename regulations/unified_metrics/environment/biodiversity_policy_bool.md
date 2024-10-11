@@ -267,8 +267,6 @@ Obszary chronione są kluczowe dla ochrony naturalnych krajobrazów i dzikiej pr
 
 ### compute_en
 
-
-
 ### compute_fr
 
 ### compute_es
@@ -281,6 +279,7 @@ Obszary chronione są kluczowe dla ochrony naturalnych krajobrazów i dzikiej pr
 
 ### compute_pl
 
+
 ### examples_en
 
 If you have activities in or near a protected area and do not have a biodiversity protection
@@ -288,9 +287,32 @@ policy covering operational sites owned, leased, or managed in those areas.
 
 ### examples_fr
 
-Si vous exercez des activités dans ou à proximité d’une zone protégée et que vous n’avez pas de
+Si vous exercez des activités dans ou à proximité d'une zone protégée et que vous n’avez pas de
 politique de protection de la biodiversité couvrant les sites opérationnels détenus, loués ou
 gérés dans ces zones.
+
+### examples_es
+
+Si tiene actividades en o cerca de un área protegida y no tiene una política de protección de la
+biodiversidad que cubra los sitios operativos de propiedad, arrendados o gestionados en esas
+áreas.
+
+### examples_nl
+
+Als u activiteiten heeft in of nabij een beschermd gebied en geen beleid voor biodiversiteitsbescherming heeft dat van toepassing is op operationele locaties die eigendom zijn van, geleased of beheerd in die gebieden.
+
+### examples_it
+
+Se si svolgono attività in o vicino a un'area protetta e non si dispone di una politica di protezione della biodiversità che copra i siti operativi posseduti, affittati o gestiti in quelle aree.
+
+### examples_ro
+
+Dacă desfășurați activități în sau în apropierea unei zone protejate și nu aveți o politică de protecție a biodiversității care să acopere siturile operaționale deținute, închiriate sau administrate în acele zone.
+
+### examples_pl
+
+Jeśli prowadzisz działalność w obszarze chronionym lub w jego pobliżu i nie posiadasz polityki ochrony różnorodności biologicznej obejmującej obiekty operacyjne będące własnością, dzierżawione lub zarządzane na tych obszarach.
+
 
 ### support_docs_en
 
@@ -299,7 +321,6 @@ gérés dans ces zones.
 - Carbon Disclosure Project’s (CDP) Climate Change Questionnaire (Biodiversity policy-related
 questions, C15)
 
-
 ### support_docs_fr
 
 - Mise en œuvre de la politique de biodiversité dans les opérations, le portefeuille et les actifs
@@ -307,6 +328,37 @@ de l'entité
 - Évaluation de l'impact sur la biodiversité (BiA)
 - Questionnaire sur le changement climatique du Carbon Disclosure Project (CDP) (questions liées à
 la politique de la biodiversité, C15)
+
+### support_docs_es
+
+- Implementación de la política de biodiversidad en las operaciones, cartera y activos de la entidad
+- Evaluación de Impacto en la Biodiversidad (BiA)
+- Cuestionario sobre el cambio climático del Carbon Disclosure Project (CDP) (preguntas relacionadas con la política de biodiversidad, C15)
+
+### support_docs_nl
+
+- Implementatie van het biodiversiteitsbeleid in de operaties, portefeuille en activa van de entiteit
+- Biodiversiteit Impact Assessment (BiA)
+- Klimaatvragenlijst van het Carbon Disclosure Project (CDP) (vragen gerelateerd aan het biodiversiteitsbeleid, C15)
+
+### support_docs_it
+
+- Implementazione della politica sulla biodiversità nelle operazioni, portafoglio e attività dell'entità
+- Valutazione dell'impatto sulla biodiversità (BiA)
+- Questionario sul cambiamento climatico del Carbon Disclosure Project (CDP) (domande relative alla politica sulla biodiversità, C15)
+
+### support_docs_ro
+
+- Implementarea politicii de biodiversitate în operațiunile, portofoliul și activele entității
+- Evaluarea impactului asupra biodiversității (BiA)
+- Chestionarul privind schimbările climatice al Carbon Disclosure Project (CDP) (întrebări legate de politica de biodiversitate, C15)
+
+### support_docs_pl
+
+- Wdrożenie polityki bioróżnorodności w operacjach, portfelu i aktywach podmiotu
+- Ocena wpływu na bioróżnorodność (BiA)
+- Kwestionariusz dotyczący zmian klimatu Carbon Disclosure Project (CDP) (pytania związane z polityką bioróżnorodności, C15)
+
 
 ### sources
 

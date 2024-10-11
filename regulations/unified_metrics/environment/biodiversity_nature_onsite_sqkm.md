@@ -227,8 +227,6 @@ bioróżnorodności.
 
 ### compute_en
 
-
-
 ### compute_fr
 
 ### compute_es
@@ -241,25 +239,38 @@ bioróżnorodności.
 
 ### compute_pl
 
+
 ### examples_en
-
-
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
 
-
-
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
-
 
 ### publish
 

@@ -273,6 +273,7 @@ Agrochemikalia to substancje stosowane w rolnictwie do poprawy plonów i zwalcza
 
 ### compute_pl
 
+
 ### examples_en
 
 Manufacture of pesticides and other agrochemical products. The EU Pesticides Database
@@ -283,6 +284,32 @@ provides insights for active substances used for plant protection products.
 Fabrication de pesticides et autres produits agrochimiques. La base de données de
 l'UE sur les pesticides fournit des informations sur les substances actives utilisées
 dans les produits phytopharmaceutiques.
+
+### examples_es
+
+Fabricación de plaguicidas y otros productos agroquímicos. La base de datos de
+plaguicidas de la UE ofrece información sobre las sustancias activas utilizadas
+en los productos fitosanitarios.
+
+### examples_nl
+
+Productie van pesticiden en andere agrochemische producten. De EU-pesticiden database
+biedt inzicht in de actieve stoffen die worden gebruikt voor gewasbeschermingsmiddelen.
+
+### examples_it
+
+Produzione di pesticidi e di altri prodotti agrochimici. Il database sui pesticidi
+dell'UE fornisce informazioni sulle sostanze attive utilizzate nei prodotti fitosanitari.
+
+### examples_ro
+
+Producția de pesticide și alte produse agrochimice. Baza de date a UE privind pesticidele
+oferă informații despre substanțele active utilizate pentru produsele de protecție a plantelor.
+
+### examples_pl
+
+Produkcja pest ycydów i innych produktów agrochemicznych. Baza danych UE dotycząca pestycydów
+zapewnia informacje o substancjach czynnych stosowanych w środkach ochrony roślin.
 
 ### support_docs_en
 
@@ -301,6 +328,46 @@ la fabrication
 - Divulgations des sociétés dans lesquelles nous investissons mettant en évidence leurs
 activités dans la fabrication agrochimique mentionnée, y compris les pesticides et les
 engrais
+
+### support_docs_es
+
+- Informe de auditoría de control de plagas respetuoso con el medio ambiente realizado por una
+organización externa con certificación CEPA EN 16636
+- Evaluaciones ambientales internas que describan la prevención de pesticidas en la fabricación
+- Divulgaciones de empresas participadas que destaquen sus actividades en la fabricación de los
+productos agroquímicos mencionados, incluidos pesticidas y fertilizantes
+
+### support_docs_nl
+
+- Milieuvriendelijke auditrapporten voor ongediertebestrijding door een derde partij met CEPA EN
+16636-certificering
+- Interne milieubeoordelingen waarin de preventie van pesticiden in de productie wordt beschreven
+- Openbaarmakingen van investeringsbedrijven waarin hun activiteiten in de genoemde agrochemische
+productie, inclusief pesticiden en meststoffen, worden belicht
+
+### support_docs_it
+
+- Relazione di audit per il controllo dei parassiti rispettoso dell'ambiente da parte di
+un'organizzazione terza con certificazione CEPA EN 16636
+- Valutazioni ambientali interne che descrivono la prevenzione dei pesticidi nella produzione
+- Divulgazioni delle società partecipate che evidenziano le loro attività nella produzione
+agrochimica menzionata, compresi pesticidi e fertilizzanti
+
+### support_docs_ro
+
+- Raport de audit pentru controlul dăunătorilor prietenos cu mediul înconjurător realizat de o
+organizație terță cu certificare CEPA EN 16636
+- Evaluări interne de mediu care descriu prevenirea pesticidelor în producție
+- Divulgări de la companiile în care investim care evidențiază activitățile lor în producția
+agrochimică menționată, inclusiv pesticide și îngrășăminte
+
+### support_docs_pl
+
+- Sprawozdanie z audytu kontroli szkodników przyjaznej dla środowiska przeprowadzonego przez
+organizację z certyfikatem CEPA EN 16636
+- Wewnętrzne oceny środowiskowe opisujące zapobieganie pestycydom w produkcji
+- Informacje od spółek portfelowych podkreślające ich działalność w produkcji wspomnianych
+produktów agrochemicznych, w tym pestycydów i nawozów
 
 ### sources
 

@@ -240,16 +240,70 @@ Une entreprise de bureau peut commencer par placer des bacs de recyclage dédié
 plus utilisés au bureau. Les déchets triés comprennent le papier, le carton, le verre, le plastique,
 le bois, la ferraille, le compost, les déchets dangereux, les déchets résiduels, etc.
 
+### examples_es
+
+Una empresa de oficinas podría comenzar colocando contenedores de reciclaje dedicados a los
+materiales más utilizados en la oficina. Los residuos clasificados incluyen papel, cartón, vidrio,
+plástico, madera, chatarra, compost, residuos peligrosos, residuos residuales y más.
+
+### examples_nl
+
+Een kantoorbedrijf kan beginnen met het plaatsen van recyclingbakken die zijn gewijd aan de meest
+gebruikte materialen op kantoor. Gesorteerd afval omvat papier, karton, glas, plastic, hout, schroot,
+compost, gevaarlijk afval, restafval en meer.
+
+### examples_it
+
+Un'azienda di uffici potrebbe iniziare posizionando bidoni per il riciclaggio dedicati ai materiali
+più utilizzati in ufficio. I rifiuti ordinati includono carta, cartone, vetro, plastica, legno,
+ferro rottame, compost, rifiuti pericolosi, rifiuti residui e altro.
+
+### examples_ro
+
+O afacere de birouri ar putea începe prin plasarea unor containere de reciclare dedicate materialelor
+cele mai utilizate în birou. Deșeurile sortate includ hârtie, carton, sticlă, plastic, lemn, metal
+făraș, compost, deșeuri periculoase, deșeuri reziduale și altele.
+
+### examples_pl
+
+Firma biurowa może zacząć od umieszczenia pojemników do recyklingu dedykowanych najczęściej
+używanym materiałom w biurze. Posortowane odpady obejmują papier, tekturę, szkło, plastik, drewno,
+złom, kompost, odpady niebezpieczne, odpady resztkowe i inne.
+
 ### support_docs_en
 
 - Waste Management Policy (Self-Declared)
 - ISO 14001 Waste Management Procedures
 
-
 ### support_docs_fr
 
 - Politique de gestion des déchets (autodéclarée)
 - Procédures de gestion des déchets ISO 14001
+
+### support_docs_es
+
+- Política de Gestión de Residuos (Auto-declarada)
+- Procedimientos de Gestión de Residuos ISO 14001
+
+### support_docs_nl
+
+- Afvalbeheerbeleid (Zelfverklaard)
+- ISO 14001 Afvalbeheerprocedures
+
+### support_docs_it
+
+- Politica di Gestione dei Rifiuti (Auto-dichiarata)
+- Procedure di Gestione dei Rifiuti ISO 14001
+
+### support_docs_ro
+
+- Politica de Management al Deșeurilor (Autodeclarată)
+- Proceduri de Management al Deșeurilor ISO 14001
+
+### support_docs_pl
+
+- Polityka Zarządzania Odpadami (Samodeklarowana)
+- Procedury Zarządzania Odpadami ISO 14001
 
 ### sources
 

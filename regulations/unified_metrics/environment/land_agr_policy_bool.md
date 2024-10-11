@@ -250,6 +250,7 @@ Zrównoważone praktyki rolnicze i zarządzanie gruntami obejmują praktyki, kt�
 
 ### compute_pl
 
+
 ### examples_en
 
 The organization shall disclose whether it has implemented policies and/or practices concerning
@@ -260,18 +261,72 @@ sustainable agriculture or management of land.
 L'organisation doit indiquer si elle a mis en œuvre des politiques et/ou des pratiques concernant
 l'agriculture durable ou la gestion des terres.
 
+### examples_es
+
+La organización deberá revelar si ha implementado políticas y/o prácticas relacionadas con la
+agricultura sostenible o la gestión de tierras.
+
+### examples_nl
+
+De organisatie moet openbaar maken of zij beleid en/of praktijken heeft geïmplementeerd met
+betrekking tot duurzame landbouw of landbeheer.
+
+### examples_it
+
+L'organizzazione deve divulgare se ha implementato politiche e/o pratiche riguardanti
+l'agricoltura sostenibile o la gestione del territorio.
+
+### examples_ro
+
+Organizația va dezvălui dacă a implementat politici și/sau practici referitoare la agricultura
+durabilă sau gestionarea terenurilor.
+
+### examples_pl
+
+Organizacja powinna ujawnić, czy wdrożyła polityki i/lub praktyki dotyczące zrównoważonego
+rolnictwa lub zarządzania gruntami.
+
 ### support_docs_en
 
 - Company’s sustainability policies, ESG reports, sustainability statements
 - Equator Principles or environmental project financing
 - Carbon Disclosure Project’s (CDP) agriculture sector-specific questionnaire
 
-
 ### support_docs_fr
 
 - Politiques de développement durable de l'entreprise, rapports ESG, déclarations de développement durable
 - Principes de l'Équateur ou financement de projets environnementaux
 - Questionnaire spécifique au secteur agricole du Carbon Disclosure Project (CDP)
+
+### support_docs_es
+
+- Políticas de sostenibilidad de la empresa, informes ESG, declaraciones de sostenibilidad
+- Principios del Ecuador o financiamiento de proyectos ambientales
+- Cuestionario específico del sector agrícola del Carbon Disclosure Project (CDP)
+
+### support_docs_nl
+
+- Duurzaamheidsbeleid van het bedrijf, ESG-rapporten, duurzaamheidsverklaringen
+- Equator Principles of milieuprojectfinanciering
+- Sector-specifieke vragenlijst van het Carbon Disclosure Project (CDP) voor de landbouwsector
+
+### support_docs_it
+
+- Politiche di sostenibilità dell'azienda, rapporti ESG, dichiarazioni di sostenibilità
+- Principi dell'Equatore o finanziamento di progetti ambientali
+- Questionario specifico del settore agricolo del Carbon Disclosure Project (CDP)
+
+### support_docs_ro
+
+- Politicile de sustenabilitate ale companiei, rapoartele ESG, declarațiile de sustenabilitate
+- Principiile Ecuatorului sau finanțarea proiectelor de mediu
+- Chestionarul specific sectorului agricol al Carbon Disclosure Project (CDP)
+
+### support_docs_pl
+
+- Polityki zrównoważonego rozwoju firmy, raporty ESG, oświadczenia o zrównoważonym rozwoju
+- Zasady równika lub finansowanie projektów środowiskowych
+- Kwestionariusz sektorowy Carbon Disclosure Project (CDP) dla sektora rolniczego
 
 ### sources
 

@@ -258,6 +258,7 @@ Degradacja ziemi odnosi się do pogorszenia jakości ziemi, wpływając na jej p
 
 ### compute_pl
 
+
 ### examples_en
 
 The organization shall disclose whether it has identified material negative and positive impacts
@@ -268,18 +269,74 @@ concerning land degradation, desertification or soil sealing.
 L'organisation doit indiquer si elle a identifié des impacts négatifs et positifs importants
 concernant la dégradation des terres, la désertification ou l'imperméabilisation des sols.
 
+### examples_es
+
+La organización deberá revelar si ha identificado impactos negativos y positivos materiales
+relacionados con la degradación de la tierra, la desertificación o el sellado del suelo.
+
+### examples_nl
+
+De organisatie moet bekendmaken of zij materiële negatieve en positieve gevolgen heeft geïdentificeerd
+met betrekking tot landdegradatie, woestijnvorming of bodemafdichting.
+
+### examples_it
+
+L'organizzazione deve divulgare se ha identificato impatti negativi e positivi materiali
+riguardanti la degradazione del suolo, la desertificazione o la sigillatura del suolo.
+
+### examples_ro
+
+Organizația trebuie să dezvăluie dacă a identificat impacte negative și pozitive materiale
+referitoare la degradarea terenurilor, deșertificare sau etanșare a solului.
+
+### examples_pl
+
+Organizacja powinna ujawnić, czy zidentyfikowała istotne negatywne i pozytywne skutki
+dotyczące degradacji ziemi, pustynnienia lub uszczelniania gleby.
+
 ### support_docs_en
 
 - KPIs related to soil sealing, desertification and land degradation must have been implemented and tracked
 - Environmental impact assessments disclosing the details of soil erosion rate in areas of activity
 - Application of TOP3 indicators by ENVASSO
 
-
 ### support_docs_fr
 
 - Les KPI liés à l'imperméabilisation des sols, à la désertification et à la dégradation des terres doivent avoir été mis en œuvre et suivis
 - Études d'impact environnemental révélant les détails du taux d'érosion des sols dans les zones d'activité
 - Application des indicateurs TOP3 par ENVASSO
+
+### support_docs_es
+
+- Los KPI relacionados con el sellado del suelo, la desertificación y la degradación de la tierra deben haber sido implementados y rastreados
+- Evaluaciones de impacto ambiental que revelen los detalles de la tasa de erosión del suelo en las áreas de actividad
+- Aplicación de los indicadores TOP3 por ENVASSO
+
+### support_docs_nl
+
+- KPI's met betrekking tot bodemafdichting, woestijnvorming en landdegradatie
+moeten zijn geïmplementeerd en bijgehouden
+- Milieueffectbeoordelingen die de details van de erosiesnelheid van de bodem in de
+activiteitsgebieden onthullen
+- Toepassing van de TOP3-indicatoren door ENVASSO
+
+### support_docs_it
+
+- Gli KPI relativi alla sigillatura del suolo, alla desertificazione e alla degradazione del suolo devono essere stati implementati e monitorati
+- Valutazioni dell'impatto ambientale che rivelano i dettagli del tasso di erosione del suolo nelle aree di attività
+- Applicazione degli indicatori TOP3 da parte di ENVASSO
+
+### support_docs_ro
+
+- Indicatorii KPI legați de etanșarea solului, deșertificare și degradarea terenurilor trebuie să fi fost implementați și urmăriți
+- Evaluările de impact ambiental care dezvăluie detaliile ratei de eroziune a solului în zonele de activitate
+- Aplicarea indicatorilor TOP3 de către ENVASSO
+
+### support_docs_pl
+
+- Wskaźniki KPI związane z uszczelnianiem gleby, pustynnieniem i degradacją ziemi muszą być wdrożone i śledzone
+- Oceny oddziaływania na środowisko ujawniające szczegóły wskaźnika erozji gleby w obszarach działalności
+- Zastosowanie wskaźników TOP3 przez ENVASSO
 
 ### sources
 

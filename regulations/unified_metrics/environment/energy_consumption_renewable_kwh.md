@@ -256,44 +256,86 @@ Całkowite zużycie energii to łączne zużycie energii przez firmę, w tym ene
 
 ### compute_pl
 
-### examples_en
 
+### examples_en
 
 Renewable sources:
 * 3,000 kWh of electricity from renewable sources (e.g., solar and wind)
 * 1,500 kWh of heat and steam from renewable sources
 * 500 kWh of self-generated non-fuel renewable energy (e.g., solar panels on-site)
 
-
 The total energy consumption for this company would be the sum of all these values, which in this example would be 5,000 kWh.
 
-
-
-
 ### examples_fr
-
 
 Sources renouvelables:
 * 3000 kWh d'électricité provenant de sources renouvelables (par exemple, solaire et éolienne)
 * 1500 kWh de chaleur et de vapeur provenant de sources renouvelables
 * 500 kWh d'énergie renouvelable autogénérée sans carburant (par exemple, panneaux solaires sur site)
 
-
 La consommation totale d'énergie de cette entreprise serait la somme de toutes ces valeurs, qui dans cet exemple serait de 5000 kWh.
 
+### examples_es
 
+Fuentes renovables:
+* 3000 kWh de electricidad procedente de fuentes renovables (p. ej., solar y eólica)
+* 1500 kWh de calor y vapor procedentes de fuentes renovables
+* 500 kWh de energía renovable no derivada de combustibles autogenerada (p. ej., paneles solares in situ)
 
+El consumo total de energía de esta empresa sería la suma de todos estos valores, que en este ejemplo sería de 5000 kWh.
+
+### examples_nl
+
+Hernieuwbare bronnen:
+* 3.000 kWh elektriciteit uit hernieuwbare bronnen (bijv. zon en wind)
+* 1.500 kWh warmte en stoom uit hernieuwbare bronnen
+* 500 kWh zelf gegenereerde niet-brandstof hernieuwbare energie (bijv. zonnepanelen op locatie)
+
+Het totale energieverbruik voor dit bedrijf zou de som zijn van al deze waarden, wat in dit voorbeeld 5.000 kWh zou zijn.
+
+### examples_it
+
+Fonti rinnovabili:
+* 3.000 kWh di elettricità da fonti rinnovabili (ad esempio, solare ed eolica)
+* 1.500 kWh di calore e vapore da fonti rinnovabili
+* 500 kWh di energia rinnovabile non combustibile autogenerata (ad esempio, pannelli solari in loco)
+
+Il consumo energetico totale per questa azienda sarebbe la somma di tutti questi valori, che in questo esempio sarebbe di 5.000 kWh.
+
+### examples_ro
+
+Surse regenerabile:
+* 3.000 kWh de energie electrică din surse regenerabile (de exemplu, solar și eolian)
+* 1.500 kWh de căldură și abur din surse regenerabile
+* 500 kWh de energie regenerabilă, fără combustibil, autogenerată (de exemplu, panouri solare la fața locului)
+
+Consumul total de energie pentru această companie ar fi suma tuturor acestor valori, care în acest exemplu ar fi de 5.000 kWh.
+
+### examples_pl
+
+Źródła odnawialne:
+* 3 000 kWh energii elektrycznej z odnawialnych źródeł (np. słonecznych i wiatrowych)
+* 1 500 kWh ciepła i pary z odnawialnych źródeł
+* 500 kWh samodzielnie wytworzonej energii odnawialnej bez paliwa (np. panele słoneczne na miejscu)
+
+Całkowite zużycie energii dla tej firmy byłoby sumą wszystkich tych wartości, która w tym przykładzie wynosiłaby 5 000 kWh.
 
 ### support_docs_en
 
-
-
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
 
 [EFRAG ESRS E1 Climate change.](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FED_ESRS_E1.pdf) We derive the total "energy consumption" definition from paragraph 33.  
 

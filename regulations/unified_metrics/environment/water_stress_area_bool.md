@@ -257,6 +257,7 @@ Narażenie na obszary o wysokim stresie wodnym odnosi się do działań i/lub op
 
 ### compute_pl
 
+
 ### examples_en
 
 If you have activities in or near a high-water stress area, regions where the percentage of total
@@ -266,6 +267,33 @@ water withdrawn is 40-80% or greater than 80% according to WRI’s Aqueduct tool
 
 Si vous avez des activités dans ou à proximité d’une zone de stress hydrique élevé, des régions
 où le pourcentage d’eau totale prélevée est de 40 à 80 % ou supérieur à 80 % selon l’outil Aqueduc du WRI.
+
+### examples_es
+
+Si tiene actividades en o cerca de un área de alto estrés hídrico, regiones donde el porcentaje de
+agua total extraída es del 40 al 80% o mayor del 80% según la herramienta Aqueduct del WRI.
+
+### examples_nl
+
+Als u activiteiten heeft in of in de buurt van een gebied met hoge waterstress, regio's waar het
+percentage van het totale water dat wordt onttrokken 40 tot 80% of meer dan 80% is volgens de
+Aqueduct-tool van WRI.
+
+### examples_it
+
+Se si hanno attività in o vicino a un'area ad alto stress idrico, regioni in cui la percentuale di
+acqua totale prelevata è del 40-80% o superiore all'80% secondo lo strumento Aqueduct del WRI.
+
+### examples_ro
+
+Dacă aveți activități în sau în apropierea unei zone cu stres hidric ridicat, regiuni în care
+procentul din totalul apei extrase este de 40-80% sau mai mare de 80% conform instrumentului
+Aqueduct al WRI.
+
+### examples_pl
+
+Jeśli prowadzisz działalność w obszarze o wysokim stresie wodnym, regionach, w których odsetek
+całkowitego poboru wody wynosi 40-80% lub więcej niż 80% według narzędzia Aqueduct WRI.
 
 ### support_docs_en
 
@@ -281,8 +309,42 @@ où le pourcentage d’eau totale prélevée est de 40 à 80 % ou supérieur à 
 - Water Disclosure du Carbon Disclosure Project (CDP) (voir ici)
 - Mise en œuvre de la norme Alliance for Water Stewardship v2.0
 
-### sources
+### support_docs_es
 
+- Certificación de la huella hídrica bajo la norma ISO 14046.
+- Políticas internas de la empresa relacionadas con fuentes de agua y marinas
+- Divulgación de agua del Carbon Disclosure Project (CDP) (ver aquí)
+- Implementación de la norma Alliance for Water Stewardship v2.0
+
+### support_docs_nl
+
+- Certificering van waterfootprint volgens de ISO 14046-norm.
+- Interne bedrijfsbeleid met betrekking tot water- en mariene bronnen
+- Water Disclosure van het Carbon Disclosure Project (CDP) (zie hier)
+- Implementatie van de Alliance for Water Stewardship Standard v2.0
+
+### support_docs_it
+
+- Certificazione dell'impronta idrica secondo lo standard ISO 14046.
+- Politiche interne dell'azienda relative alle fonti d'acqua e marine
+- Divulgazione dell'acqua del Carbon Disclosure Project (CDP) (vedi qui)
+- Implementazione dello standard Alliance for Water Stewardship v2.0
+
+### support_docs_ro
+
+- Certificarea amprentei de apă conform standardului ISO 14046.
+- Politici interne ale companiei legate de sursele de apă și marine
+- Divulgarea apei de la Carbon Disclosure Project (CDP) (vezi aici)
+- Implementarea standardului Alliance for Water Stewardship v2.0
+
+### support_docs_pl
+
+- Certyfikacja śladu wodnego zgodnie ze standardem ISO 14046.
+- Wewnętrzne polityki firmy dotyczące źródeł wody i morskich
+- Ujawnienie wody w ramach Carbon Disclosure Project (CDP) (zobacz tutaj)
+- Wdrożenie standardu Alliance for Water Stewardship v2.0
+
+### sources
 
 [Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU)
 2019/2088 of the European Parliament and of the Council with regard to regulatory technical

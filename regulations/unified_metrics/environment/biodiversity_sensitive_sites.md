@@ -243,6 +243,7 @@ sau pajiștile, și zonele cu specii pentru care a fost desemnată o zonă prote
 Obszary wrażliwe na różnorodność biologiczną, takie jak tropikalne lasy deszczowe, rafy koralowe,
 tereny podmokłe lub łąki, oraz obszary z gatunkami, dla których wyznaczono obszar chroniony.
 
+
 ### compute_en
 
 ### compute_fr
@@ -257,12 +258,20 @@ tereny podmokłe lub łąki, oraz obszary z gatunkami, dla których wyznaczono o
 
 ### compute_pl
 
+
 ### examples_en
-
-
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
@@ -273,9 +282,28 @@ tereny podmokłe lub łąki, oraz obszary z gatunkami, dla których wyznaczono o
 
 - Auto-déclaration de l'entreprise basée sur la carte des zones clés pour la biodiversité (KBA)
 
+### support_docs_es
+
+- Declaración propia de la empresa basada en el mapa de Áreas Clave para la Biodiversidad (KBA)
+
+### support_docs_nl
+
+- Zelfverklaring van het bedrijf op basis van de kaart van belangrijke biodiversiteitsgebieden (KBA)
+
+### support_docs_it
+
+- Dichiarazione dell'azienda basata sulla mappa delle Aree Chiave per la Biodiversità (KBA)
+
+### support_docs_ro
+
+- Declarația proprie a companiei bazată pe harta Zonelor Cheie pentru Biodiversitate (KBA)
+
+### support_docs_pl
+
+- Samoocena firmy oparta na mapie Kluczowych Obszarów Bioróżnorodności (KBA)
+
+
 ### sources
-
-
 
 ### publish
 

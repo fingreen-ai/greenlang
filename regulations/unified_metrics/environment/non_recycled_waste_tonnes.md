@@ -266,11 +266,20 @@ przeszły procedur recyklingu.
 
 ### compute_pl
 
-### examples_en
 
+### examples_en
 
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
@@ -279,12 +288,41 @@ przeszły procedur recyklingu.
 - Zero Waste certification and/or ISO 14001
 - Agreements by third-party Waste Recycling Centers
 
-
 ### support_docs_fr
 
 - KPI de recyclage des déchets mesurés et suivis en tonnes métriques
 - Certification Zéro Déchet et/ou ISO 14001
 - Accords avec des déchetteries tierces
+
+### support_docs_es
+
+- KPI de reciclaje de residuos medidos y rastreados en toneladas métricas
+- Certificación de Residuos Cero y/o ISO 14001
+- Acuerdos con Centros de Reciclaje de Residuos de terceros
+
+### support_docs_nl
+
+- Afvalrecycling KPI's gemeten en bijgehouden in metrische tonnen
+- Zero Waste-certificering en/of ISO 14001
+- Overeenkomsten met derde afvalrecyclingcentra
+
+### support_docs_it
+
+- KPI di riciclaggio dei rifiuti misurati e tracciati in tonnellate metriche
+- Certificazione Zero Waste e/o ISO 14001
+- Accordi con Centri di Riciclaggio dei Rifiuti di terze parti
+
+### support_docs_ro
+
+- Indicatorii KPI pentru reciclarea deșeurilor măsurați și urmăriți în tone metrice
+- Certificare Zero Waste și/sau ISO 14001
+- Acorduri cu Centre de Reciclare a Deșeurilor de la terți
+
+### support_docs_pl
+
+- KPI recyklingu odpadów mierzone i śledzone w tonach metrycznych
+- Certyfikacja Zero Waste i/lub ISO 14001
+- Umowy z ośrodkami recyklingu odpadów osób trzecich
 
 ### sources
 

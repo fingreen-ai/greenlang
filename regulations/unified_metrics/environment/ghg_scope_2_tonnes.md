@@ -248,6 +248,7 @@ Zakres 2 reprezentuje pośrednie emisje gazów cieplarnianych (BKG) związane z 
 
 ### compute_pl
 
+
 ### examples_en
 
 The company operates an office building and relies on
@@ -267,40 +268,104 @@ associées à la production d'électricité, qui représentent 10000 tonnes
 de CO2e par an, sont considérées comme des émissions du Scope 2 pour
 l'entreprise.
 
-### support_docs_en
+### examples_es
 
+La empresa opera un edificio de oficinas y depende de la electricidad
+suministrada por una empresa de servicios públicos externa. La empresa de
+servicios públicos genera electricidad utilizando una mezcla de fuentes de
+energía, incluyendo carbón, gas natural y energía renovable. Las emisiones
+asociadas con la generación de electricidad, que representan 10000 t CO2eq
+por año, se consideran emisiones de Alcance 2 para la empresa.
+
+### examples_nl
+
+Het bedrijf exploiteert een kantoorgebouw en vertrouwt op elektriciteit die
+wordt geleverd door een externe nutsbedrijf. Het nutsbedrijf genereert
+elektriciteit met een mix van energiebronnen, waaronder kolen, aardgas en
+hernieuwbare energie. De emissies die gepaard gaan met de elektriciteitsopwekking,
+die 10000 t CO2eq per jaar vertegenwoordigen, worden beschouwd als Scope
+2-emissies voor het bedrijf.
+
+### examples_it
+
+L'azienda gestisce un edificio per uffici e si affida all'elettricità fornita
+da un'azienda di servizi pubblici esterna. L'azienda di servizi pubblici genera
+elettricità utilizzando una miscela di fonti energetiche, tra cui carbone, gas
+naturale ed energia rinnovabile. Le emissioni associate alla generazione di
+elettricità, che rappresentano 10000 t CO2eq all'anno, sono considerate
+emissioni di Scope 2 per l'azienda.
+
+### examples_ro
+
+Compania operează un clădire de birouri și se bazează pe electricitatea
+furnizată de o companie de utilități externe. Compania de utilități generează
+electricitate folosind o combinație de surse de energie, inclusiv cărbune,
+gaz natural și energie regenerabilă. Emisiile asociate cu generarea de
+electricitate, care reprezintă 10000 t CO2eq pe an, sunt considerate emisii
+de Scop 2 pentru companie.
+
+### examples_pl
+
+Firma prowadzi budynek biurowy i polega na dostarczanej przez zewnętrzną firmę
+energetyczną energii elektrycznej. Firma energetyczna generuje energię
+elektryczną przy użyciu mieszanki źródeł energii, w tym węgla, gazu ziemnego
+i energii odnawialnej. Emisje związane z generowaniem energii elektrycznej,
+które wynoszą 10000 t CO2eq rocznie, są uważane za emisje zakresu 2 dla firmy.
+
+
+### support_docs_en
 
 * Full Greenhouse gas emissions report. FINGREEN AI provides its own GHG
  Scope 1/2/3 emissions calculation feature if you don't already have your
  own.
 
-
-
-
 ### support_docs_fr
-
 
 * Rapport complet sur les émissions de gaz à effet de serre. FINGREEN AI
  propose sa propre fonction de calcul des émissions GES Scope 1/2/3 si vous
  n'en avez pas déjà une.
 
+### support_docs_es
 
+* Informe completo sobre emisiones de gases de efecto invernadero. FINGREEN AI
+ ofrece su propia función de cálculo de emisiones de GEI de alcance 1/2/3 si
+ aún no tiene la suya.
 
+### support_docs_nl
+
+* Volledig rapport over broeikasgasemissies. FINGREEN AI biedt zijn eigen
+ berekeningsfunctie voor broeikasgasemissies Scope 1/2/3 als u er nog geen heeft.
+
+### support_docs_it
+
+* Rapporto completo sulle emissioni di gas serra. FINGREEN AI fornisce la
+ propria funzione di calcolo delle emissioni di GES Scope 1/2/3 se non ne hai
+ già una.
+
+### support_docs_ro
+
+* Raport complet privind emisiile de gaze cu efect de seră. FINGREEN AI oferă
+ propria sa funcție de calcul a emisiilor GES de Scop 1/2/3 dacă nu aveți deja
+ una.
+
+### support_docs_pl
+
+* Pełny raport o emisjach gazów cieplarnianych. FINGREEN AI oferuje własną
+ funkcję obliczania emisji gazów cieplarnianych zakresu 1/2/3, jeśli jeszcze
+ nie masz własnej.
 
 ### sources
-
 
 Greenhouse gas emissions  
 
 [EU regulation 2018/842](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32018R0842), Article 3. Definitions. (1).  
 
-  
+
 
 Scope 2 Greenhouse gas emissions  
 
 [EU regulation 2016/1011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1011-20220101). Annex III. (1) (e) (ii).  
 
-  
 
 [GHG Protocol](https://ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf#page=27). Page 27
 
