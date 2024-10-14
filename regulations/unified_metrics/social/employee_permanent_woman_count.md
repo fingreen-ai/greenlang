@@ -90,13 +90,53 @@ la parité hommes-femmes au sein de l’entreprise.
 
 ### description_es
 
+Esta pregunta indaga sobre el aspecto de diversidad e inclusión de la fuerza laboral de la empresa,
+centrándose específicamente en la representación de género.
+
+Al observar el número de empleados varones equivalentes a tiempo completo (FTE), su objetivo es
+comprender la composición de la fuerza laboral a través de una métrica estandarizada que representa
+tanto los puestos de tiempo completo como los de tiempo parcial. Esta información se puede utilizar
+para evaluar el equilibrio de género dentro de la empresa.
+
 ### description_nl
+
+Deze vraag vraagt ​​naar het diversiteits- en inclusiviteitsaspect van het personeelsbestand van het
+bedrijf, waarbij de nadruk specifiek ligt op de gendervertegenwoordiging.
+
+Door te kijken naar het aantal mannelijke werknemers in voltijdsequivalenten (FTE's) wil het de
+samenstelling van het personeelsbestand begrijpen via een gestandaardiseerde maatstaf die rekening
+houdt met zowel voltijdse als deeltijdse functies. Deze informatie kan worden gebruikt om het
+genderevenwicht binnen het bedrijf te beoordelen.
 
 ### description_it
 
+Questa domanda riguarda l'aspetto della diversità e dell'inclusione della forza lavoro dell'azienda,
+concentrandosi in particolare sulla rappresentanza di genere.
+
+Osservando il numero di dipendenti maschi equivalenti a tempo pieno (FTE), si mira a comprendere la
+composizione della forza lavoro attraverso un parametro standardizzato che tiene conto sia delle
+posizioni a tempo pieno che di quelle part-time. Queste informazioni possono essere utilizzate per
+valutare l’equilibrio di genere all’interno dell’azienda.
+
 ### description_ro
 
+Această întrebare solicită aspectul de diversitate și incluziune a forței de muncă a companiei,
+concentrându-se în special pe reprezentarea de gen.
+
+Analizând numărul de angajați bărbați echivalent normă întreagă (FTE), își propune să înțeleagă
+componența forței de muncă printr-o măsurătoare standardizată care ține cont atât de posturile cu
+normă întreagă, cât și pentru cele cu fracțiune de normă. Aceste informații pot fi folosite pentru
+a evalua echilibrul de gen în cadrul companiei.
+
 ### description_pl
+
+To pytanie dotyczy aspektu różnorodności i włączenia pracowników firmy, ze szczególnym uwzględnieniem
+reprezentacji płci.
+
+Analizując liczbę pracowników płci męskiej zatrudnionych w pełnym wymiarze czasu pracy (FTE), ma na
+celu zrozumienie składu siły roboczej za pomocą ustandaryzowanego miernika, który uwzględnia zarówno
+stanowiska w pełnym, jak i niepełnym wymiarze godzin. Informacje te można wykorzystać do oceny
+równowagi płci w firmie.
 
 
 ### value_question_en
@@ -109,6 +149,32 @@ at the end of the period?
 Quel était le nombre total d'employés de l'entreprise, en équivalents temps plein, identifiés comme
 femmes, à la fin de la période ?
 
+### value_question_es
+
+¿Cuál fue el número total de empleados de la empresa en equivalentes a tiempo completo que se
+identifican como mujeres, al final del período?
+
+### value_question_nl
+
+Wat was het totale aantal werknemers van het bedrijf in voltijdse equivalenten die zich identificeren
+als vrouwen, aan het einde van de periode?
+
+### value_question_it
+
+Qual era il numero totale di dipendenti dell'azienda in equivalente a tempo pieno che si identificano
+come donne, alla fine del periodo?
+
+### value_question_ro
+
+Care a fost numărul total de angajați ai companiei în echivalenți cu normă întreagă care se
+identifică ca femei, la sfârșitul perioadei?
+
+### value_question_pl
+
+Jaka była całkowita liczba pracowników firmy w pełnych ekwiwalentach etatów, które identyfikują się
+jako kobiety, na koniec okresu?
+
+
 ### summary_en
 
 How does the company achieve equal representation and opportunities for all genders, driving
@@ -119,32 +185,78 @@ positive environmental, social, and governance outcomes.
 Comment l’entreprise parvient-elle à une représentation et des opportunités égales pour tous les
 genres, générant ainsi des résultats environnementaux, sociaux et de gouvernance positifs.
 
+### summary_es
+
+¿Cómo logra la empresa una representación y oportunidades equitativas para todos los géneros,
+impulsando resultados ambientales, sociales y de gobernanza positivos?
+
+### summary_nl
+
+Hoe zorgt het bedrijf voor een gelijke vertegenwoordiging en gelijke kansen voor alle geslachten,
+wat leidt tot positieve resultaten op het gebied van milieu, sociaal en bestuur?
+
+### summary_it
+
+Come l'azienda garantisce una rappresentanza e opportunità uguali per tutti i generi, guidando
+risultati positivi in termini ambientali, sociali e di governance.
+
+### summary_ro
+
+Cum reușește compania să obțină o reprezentare și oportunități egale pentru toate genurile,
+generând rezultate pozitive în ceea ce privește mediul, socialul și guvernanța.
+
+### summary_pl
+
+Jak firma osiąga równą reprezentację i równe szanse dla wszystkich płci, co przyczynia się do
+pozytywnych wyników w obszarze środowiskowym, społecznym i zarządzania.
+
+
 ### compute_en
-
-
 
 ### compute_fr
 
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 
 ### examples_en
 
-
-
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
 
-
-
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
-
 
 
 ### publish

@@ -72,45 +72,79 @@ human_rights
 ### description_pl
 
 
-
 ### value_question_en
-
- 
 
 ### value_question_fr
 
- 
+### value_question_es
+
+### value_question_nl
+
+### value_question_it
+
+### value_question_ro
+
+### value_question_pl
+
 
 ### summary_en
 
-
-
 ### summary_fr
 
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
 
 
 ### compute_en
 
-
-
 ### compute_fr
 
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 
 ### examples_en
 
-
-
 ### examples_fr
 
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
 
-
-
 ### support_docs_fr
 
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources

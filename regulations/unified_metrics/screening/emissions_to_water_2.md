@@ -79,14 +79,48 @@ boolean
 
 ### description_es
 
+- ¿Lavas productos químicos por el fregadero o el desagüe?
+- ¿Deseche los productos químicos no utilizados o vencidos de forma inadecuada (basura)?
+- ¿Ha sufrido derrames o fugas de productos químicos?
+- ¿Aplica los productos químicos directamente en cuerpos de agua (lagos, ríos, arroyos)?
+- ¿Utiliza métodos de aplicación de alto riesgo (por ejemplo, pulverización aérea) cerca de cuerpos de agua?
+- ¿Utiliza los productos químicos muy cerca de cuerpos de agua (a unos pocos metros)?
+
 ### description_nl
+
+- Chemicaliën door de gootsteen of afvoer spoelen?
+- Ongebruikte of verlopen chemicaliën op de verkeerde manier weggooien (afval)?
+- Ervaart u morsen of lekken van de chemicaliën?
+- De chemicaliën rechtstreeks op waterlichamen (meren, rivieren, beken) aanbrengen?
+- Risicovolle toepassingsmethoden (bijv. luchtverneveling) in de buurt van waterlichamen gebruiken?
+- De chemicaliën heel dicht bij waterlichamen gebruiken (binnen een paar meter)?
 
 ### description_it
 
+- Lavare sostanze chimiche nel lavandino o nello scarico?
+- Smaltire in modo improprio sostanze chimiche non utilizzate o scadute (spazzatura)?
+- Avere perdite o fuoriuscite di sostanze chimiche?
+- Applicare direttamente le sostanze chimiche sui corpi idrici (laghi, fiumi, torrenti)?
+- Utilizzare metodi di applicazione ad alto rischio (ad es. spruzzatura aerea) vicino ai corpi idrici?
+- Utilizzare le sostanze chimiche molto vicino ai corpi idrici (entro pochi metri)?
+
 ### description_ro
+
+- Spălați substanțe chimice în chiuvetă sau canalizare?
+- Eliminați substanțele chimice neutilizate sau expirate în mod necorespunzător (gunoi)?
+- Ați avut scurgeri sau scurgeri de substanțe chimice?
+- Aplicați substanțele chimice direct pe corpuri de apă (lacuri, râuri, pâraie)?
+- Utilizați metode de aplicare cu risc ridicat (de exemplu, pulverizare aeriană) în apropierea corpurilor de apă?
+- Utilizați substanțele chimice foarte aproape de corpurile de apă (în câțiva metri)?
 
 ### description_pl
 
+- Czy zmywasz jakiekolwiek substancje chemiczne w zlewie lub rurze kanalizacyjnej?
+- Czy usuwasz niewykorzystane lub przeterminowane substancje chemiczne w niewłaściwy sposób (śmieci)?
+- Czy doświadczyłeś wycieków lub przecieków substancji chemicznych?
+- Czy stosujesz substancje chemiczne bezpośrednio do zbiorników wodnych (jeziora, rzeki, strumienie)?
+- Czy stosujesz metody aplikacji o wysokim ryzyku (np. opryskiwanie z powietrza) w pobliżu zbiorników wodnych?
+- Czy stosujesz substancje chemiczne bardzo blisko zbiorników wodnych (w odległości kilku metrów)?
 
 ### value_question_en
 
@@ -96,28 +130,85 @@ Did any of the following events occur within the business, during the period?
 
 L'un des événements suivants s'est-il produit au sein de l'entreprise au cours de la période ?
 
+### value_question_es
+
+¿Ocurrió alguno de los siguientes eventos dentro del negocio, durante el período?
+
+### value_question_nl
+
+Zijn er binnen het bedrijf tijdens de periode gebeurtenissen voorgevallen?
+
+### value_question_it
+
+Si è verificato uno dei seguenti eventi all'interno dell'azienda, durante il periodo?
+
+### value_question_ro
+
+A avut loc vreunul dintre următoarele evenimente în cadrul afacerii, pe parcursul perioadei?
+
+### value_question_pl
+
+Czy którykolwiek z poniższych zdarzeń miał miejsce w firmie, w okresie?
+
+
 ### summary_en
 
-
 ### summary_fr
+
+### summary_es
+
+### summary_nl
+
+### summary_it
+
+### summary_ro
+
+### summary_pl
 
 
 ### compute_en
 
-
 ### compute_fr
+
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 
 ### examples_en
 
-
 ### examples_fr
+
+### examples_es
+
+### examples_nl
+
+### examples_it
+
+### examples_ro
+
+### examples_pl
 
 
 ### support_docs_en
 
-
 ### support_docs_fr
+
+### support_docs_es
+
+### support_docs_nl
+
+### support_docs_it
+
+### support_docs_ro
+
+### support_docs_pl
 
 
 ### sources
