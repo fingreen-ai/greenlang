@@ -85,6 +85,17 @@ des connaissances et le développement des compétences. La formation aide les h
 compétences nécessaires pour faire progresser l’égalité des sexes dans leur vie quotidienne et
 professionnelle.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company offer diversity training, during the period?

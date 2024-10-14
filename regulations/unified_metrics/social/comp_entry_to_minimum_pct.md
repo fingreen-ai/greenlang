@@ -90,6 +90,17 @@ Le salaire minimum désigne la rémunération minimale fixée par la loi ou les 
 qu'un employeur, y compris dans le secteur public, est tenu de verser aux travailleurs pour le
 travail effectué pendant une période donnée.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 If a significant proportion of employees were compensated based on wages subject to

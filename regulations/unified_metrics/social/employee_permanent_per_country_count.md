@@ -124,6 +124,17 @@ responsables.
 éclairées avec les parties prenantes sur les impacts sociaux et environnementaux de l'entreprise
 dans l'ensemble de ses opérations mondiales.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What was the company's total number of employees in full-time equivalents by country,

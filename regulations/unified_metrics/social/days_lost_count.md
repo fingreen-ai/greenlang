@@ -73,7 +73,6 @@ According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as "Numbe
 to injuries, accidents, fatalities or illness of investee companies expressed as a weighted
 average".
 
-
 ### description_fr
 
 Les estimations des jours de travail perdus sont exprimées en jours de travail équivalents temps
@@ -88,8 +87,18 @@ Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme le "Nombre
 perdus en raison de blessures, d'accidents, de décès ou de maladies des entreprises dans lesquelles
 nous investissons, exprimé sous forme de moyenne pondérée".
 
-### value_question_en
+### description_es
 
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
+### value_question_en
 
 How many total equivalent workdays were lost to work-related injuries, accidents, fatalities or
 illness, during the period?

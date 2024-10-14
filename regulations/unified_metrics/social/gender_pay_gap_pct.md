@@ -58,7 +58,6 @@ diversity
 
 ### description_en
 
-
 The average unadjusted gender pay gap is calculated by comparing the average gross hourly earnings
 of men and women employees, as measured on the period, and transforming that difference into a
 percentage format.
@@ -66,10 +65,19 @@ percentage format.
 
 ### description_fr
 
-
 L'écart salarial moyen non ajusté entre les hommes et les femmes est calculé en comparant les
 salaires horaires bruts moyens des salariés hommes et femmes, mesurés sur la période, et en
 transformant cette différence en pourcentage.
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
 
 
 ### value_question_en

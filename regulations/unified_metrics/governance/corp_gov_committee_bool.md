@@ -82,6 +82,17 @@ La gouvernance d’entreprise est traditionnellement définie comme le système 
 entreprises sont dirigées et contrôlées et comme un ensemble de relations entre la direction
 d’une entreprise, son conseil d’administration, ses actionnaires et ses autres parties prenantes.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 During the period, did the company have a committee responsible for

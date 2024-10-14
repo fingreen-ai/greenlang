@@ -83,6 +83,17 @@ Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme "Part des 
 dans les entreprises dans lesquelles nous investissons sans politique de prévention des accidents
 du travail".
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company have a workplace accident prevention policy, during the period?

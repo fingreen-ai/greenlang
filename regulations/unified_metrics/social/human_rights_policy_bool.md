@@ -83,6 +83,17 @@ conseil d'administration en matière de droits de l'homme selon lequel les activ
 de la société dans laquelle nous investissons doivent être conformes aux principes directeurs
 des Nations Unies relatifs aux entreprises et aux droits de l'homme.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company have a human rights policy statement in line with UN Guiding Principles on Business

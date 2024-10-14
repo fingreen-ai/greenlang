@@ -103,6 +103,17 @@ Ces informations peuvent être utilisées pour évaluer des facteurs tels que la
 sécurité de l'emploi, le bien-être des employés et les risques sociaux
 potentiels liés à la rotation de la main-d'œuvre.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What was the company's total number of employees in full-time equivalents in permanent contract,

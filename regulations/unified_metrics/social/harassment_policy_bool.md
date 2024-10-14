@@ -82,6 +82,17 @@ laquelle un comportement non désiré lié au sexe d'une personne se produit dan
 effet de porter atteinte à la dignité d'une personne et de créer un climat d'intimidation,
 d'hostilité et de dégradant, humiliant ou offensant".
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 

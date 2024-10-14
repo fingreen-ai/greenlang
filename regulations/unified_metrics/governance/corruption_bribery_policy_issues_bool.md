@@ -77,6 +77,17 @@ Part des investissements dans les sociétés dans lesquelles nous investissons a
 insuffisances identifiées dans les mesures prises pour remédier aux violations des procédures
 et des normes de lutte contre la corruption et les pots-de-vin.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company identify insufficiencies in actions taken to

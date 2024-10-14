@@ -67,7 +67,6 @@ The European Network for Workplace Health Promotion (ENWHP) defines workplace he
 (WHP) as "the combined efforts of employers, employees and society to improve the health and
 well-being of people at work".
 
-
 ### description_fr
 
 L’assurance maladie est un avantage courant pour les employés, disponible depuis longtemps. Il sert
@@ -78,6 +77,17 @@ de filet de sécurité aux employés en cas de maladie ou de blessure.
 Le Réseau européen pour la promotion de la santé sur le lieu de travail (ENWHP) définit la
 promotion de la santé au travail (WHP) comme "les efforts combinés des employeurs, des employés
 et de la société pour améliorer la santé et le bien-être des personnes au travail".
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 

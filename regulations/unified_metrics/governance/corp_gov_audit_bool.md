@@ -43,9 +43,7 @@ boolean
 ### enums
 
 
-
 ### unit
-
 
 
 ### category_1
@@ -94,6 +92,17 @@ notamment si la conformité de ces investissements aux exigences énoncées à
 l'article 3 du règlement (UE) 2020/852 sera soumise à une assurance fournie par
 un ou plusieurs auditeurs ou un examen par un ou plusieurs tiers et, le cas échéant,
 le nom ou les noms de l'auditeur ou du tiers"
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 

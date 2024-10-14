@@ -83,6 +83,17 @@ que ce soit par le biais de pots-de-vin ou d'autres moyens.
 Nombre de condamnations et montant des amendes pour violations des lois anti-corruption et
 anti-corruption par les sociétés dans lesquelles nous investissons.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 How many convictions and fines for violations of anticorruption and anti-bribery laws did the

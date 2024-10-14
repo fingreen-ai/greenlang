@@ -82,6 +82,17 @@ contre le traitement non autorisé ou illégal et contre la perte, la destructio
 accidentels, en utilisant des techniques ou mesures organisationnelles
 ("intégrité et confidentialité").
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 

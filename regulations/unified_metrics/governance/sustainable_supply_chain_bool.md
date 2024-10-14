@@ -83,6 +83,17 @@ En termes simples, la diligence raisonnable est la façon dont une entreprise co
 communique sur les risques. Cela inclut les risques qu’il génère pour les autres et les risques
 qu’il rencontre à travers ses décisions et actions stratégiques et opérationnelles.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company demonstrate a certain level of transparency and traceability in its supply chains,

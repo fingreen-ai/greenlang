@@ -96,6 +96,17 @@ La formation est définie comme les initiatives mises en place par l'organisatio
 et/ou l'amélioration des compétences et des connaissances de ses propres travailleurs. Cela peut
 inclure différentes méthodologies, telles qu'une formation sur site et une formation en ligne.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What average number of annual training hours per male employee related to the development of skills

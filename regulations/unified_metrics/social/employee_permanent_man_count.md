@@ -88,6 +88,17 @@ la composition de la main-d’œuvre grâce à une mesure standardisée qui pren
 les postes à temps plein et à temps partiel. Ces informations peuvent être utilisées pour évaluer
 la parité hommes-femmes au sein de l’entreprise.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What was the company's total number of employees in full-time equivalents that identify as men,

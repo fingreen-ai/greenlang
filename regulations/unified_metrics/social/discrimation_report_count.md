@@ -72,7 +72,6 @@ incidents related to discrimination is a reliable performance indicator on this 
 According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as "Number of incidents of
 discrimination reported in investee companies expressed as a weighted average"
 
-
 ### description_fr
 
 Les pratiques discriminatoires peuvent être directes ou indirectes. Il y a discrimination directe
@@ -86,6 +85,17 @@ constituent sur cette base un indicateur de performance fiable.
 Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme le "Nombre d'incidents de
 discrimination signalés dans les entreprises dans lesquelles nous investissons, exprimé sous forme
 de moyenne pondérée".
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 

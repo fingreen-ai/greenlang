@@ -83,6 +83,17 @@ disponibilité ou de l'intégrité.
 la perte, l'altération, la divulgation non autorisée ou l'accès non autorisé aux données
 personnelles transmises, stockées ou autrement traitées.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 How many data breaches such as leaks, thefts, or losses of customer data, has the company

@@ -77,6 +77,17 @@ boolean
 - Utiliser des méthodes d'application à haut risque (par exemple, pulvérisation aérienne) à proximité des plans d'eau?
 - Utiliser les produits chimiques très près des plans d'eau (à quelques mètres près)?
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did any of the following events occur within the business, during the period? 

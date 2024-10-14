@@ -88,6 +88,17 @@ Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme le "Nombre
 discrimination ayant conduit à des sanctions dans les entreprises dans lesquelles nous investissons,
 exprimé en moyenne pondérée".
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 How many incidents of discrimination in the workplace leading to sanctions were reported,

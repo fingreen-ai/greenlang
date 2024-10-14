@@ -54,8 +54,18 @@ text_multi
 
 ### description_en
 
-
 ### description_fr
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 
 ### value_question_en

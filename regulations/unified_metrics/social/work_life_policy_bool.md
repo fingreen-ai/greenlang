@@ -84,6 +84,17 @@ atteint lorsque le droit d’un individu à une vie épanouie, au sein et en deh
 rémunéré, est accepté et respecté comme la norme – pour le bénéfice mutuel de l’individu, de
 l’entreprise et de la société.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company have existing policies to support workplace practices and culture in terms of

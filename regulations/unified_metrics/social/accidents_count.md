@@ -112,6 +112,17 @@ En présentant ces informations de manière exhaustive, l'entreprise démontre s
 faveur de la sécurité des employés et des pratiques commerciales responsables, contribuant ainsi
 à une évaluation ESG positive.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 How many work accidents occured during the period?

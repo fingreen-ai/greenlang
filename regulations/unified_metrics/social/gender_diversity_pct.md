@@ -68,6 +68,17 @@ Intégrer la diversité des genres au travail signifie un engagement à traiter 
 avec équité, dignité et respect, quel que soit leur sexe, et à reconnaître que la diversité des
 perspectives conduit à des organisations plus solides et plus performantes.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What was the proportion of individuals in the company that identify as women,

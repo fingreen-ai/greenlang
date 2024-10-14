@@ -70,6 +70,17 @@ de stratégies et de réglementations visant à reconnaître et à éliminer les
 ceux liés à la mobilité, à la communication et à l'état d'esprit, qui entravent leur capacité à
 s'engager pleinement dans la société au même titre que les personnes non handicapées. .
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 

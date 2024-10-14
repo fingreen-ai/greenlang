@@ -83,6 +83,17 @@ La fraude fiscale est une forme d’évasion fiscale délibérée qui est géné
 pénalement. Ce terme inclut les situations dans lesquelles des déclarations délibérément fausses
 sont soumises ou de faux documents sont produits.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Has the company been involved in any tax related lawsuits or offenses

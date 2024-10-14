@@ -75,6 +75,17 @@ de la directive (UE) 2019/1937 du Parlement européen et du Conseil. Une personn
 désigne une personne physique qui signale ou divulgue publiquement des informations sur des
 violations acquises dans le cadre de ses activités liées à son travail.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company have policies on the protection of whistleblowers, during the period?

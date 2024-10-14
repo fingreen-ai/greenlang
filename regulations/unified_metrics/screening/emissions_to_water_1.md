@@ -159,6 +159,17 @@ boolean
 | Heptachlor and heptachlor epoxide	| Insecticide (banned in many countries) |
 | Terbutryn	        | Herbicide used in agriculture |
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Was your company dealing with one of the following substances, during the period?

@@ -85,6 +85,17 @@ ces cas.
 Nombre de cas de problèmes et d'incidents graves en matière de droits de l'homme liés aux
 entreprises dans lesquelles nous investissons, sur une base moyenne pondérée.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 How many cases of severe human rights issues and incidents was the company involved in,

@@ -67,7 +67,6 @@ happening without their knowledge.
 
 Share of investments in investee companies without policies against trafficking in human beings.
 
-
 ### description_fr
 
 Les entreprises disposent de chaînes d’approvisionnement mondiales complexes qui incluent plusieurs
@@ -79,6 +78,17 @@ des risques accrus de voir un trafic se produire à leur insu.
 
 Part des investissements dans les entreprises bénéficiaires sans politique de lutte contre la
 traite des êtres humains.
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 

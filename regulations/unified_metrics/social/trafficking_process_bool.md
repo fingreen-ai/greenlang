@@ -59,11 +59,17 @@ human_rights
 
 ### description_en
 
-
-
-
 ### description_fr
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
 
 
 

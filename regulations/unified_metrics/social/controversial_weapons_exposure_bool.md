@@ -58,7 +58,6 @@ employee_matters
 
 ### description_en
 
-
 Controversial weapons are:  
 
  - Biological weapons  
@@ -81,10 +80,7 @@ Controversial weapons are:
  - Nuclear weapons programmes outside the Non-Proliferation Treaty (“NPT”), i.e. in countries other
  than the five recognized nuclear-weapon states, regardless of company domicile  
 
-
-
 ### description_fr
-
 
 Les armes controversées sont:  
 
@@ -109,7 +105,15 @@ Les armes controversées sont:
  dans des pays autres
  que les cinq États dotés d'armes nucléaires reconnus, quel que soit le domicile de l'entreprise
    
+### description_es
 
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
 
 
 ### value_question_en

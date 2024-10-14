@@ -88,6 +88,17 @@ Nombre d'employés temporaires : cela révèle la dépendance de l'entreprise �
 non permanents, ce qui peut avoir des implications sur la sécurité de l'emploi, le bien-être des
 employés et les investissements dans la formation.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What was the company's total number of employees in full-time equivalents in temporary contract,

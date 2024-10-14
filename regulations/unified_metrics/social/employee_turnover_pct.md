@@ -78,6 +78,18 @@ d'incertitude et d'insatisfaction parmi les employés.
 
 Le roulement du personnel est la définition des employés qui quittent l'organisation volontairement ou en raison d'un licenciement, d'une retraite ou d'un décès en service.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
+
 ### value_question_en
 
 What was the employee turnover rate, during the period?

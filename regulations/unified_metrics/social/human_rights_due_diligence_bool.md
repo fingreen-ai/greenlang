@@ -79,6 +79,17 @@ d’approvisionnement mondiale.
 Part des investissements dans des entités sans processus de diligence raisonnable pour identifier,
 prévenir, atténuer et traiter les impacts négatifs sur les droits de l'homme.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 

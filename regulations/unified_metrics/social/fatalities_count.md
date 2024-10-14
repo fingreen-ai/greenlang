@@ -86,7 +86,6 @@ improvement in safety culture.
 By presenting this information comprehensively, the company demonstrates its commitment to employee
 safety and responsible business practices, contributing to a positive ESG evaluation.
 
-
 ### description_fr
 
 Cette question concerne directement le pilier "Social" de l’ESG. Il évalue l'engagement de
@@ -105,6 +104,17 @@ des efforts proactifs en faveur d’une amélioration continue de la culture de 
 En présentant ces informations de manière exhaustive, l'entreprise démontre son engagement en
 faveur de la sécurité des employés et des pratiques commerciales responsables, contribuant ainsi
 à une évaluation ESG positive.
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 

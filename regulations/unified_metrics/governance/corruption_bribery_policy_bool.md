@@ -96,6 +96,17 @@ soit, ou accepter la promesse d'un tel avantage, pour soi-même ou pour un tiers
 en toute qualité de diriger ou de travailler pour une entité du secteur privé, afin d'accomplir ou
 de s'abstenir d'accomplir tout acte, en violation de ses devoirs
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company have policies on anti-corruption and antibribery

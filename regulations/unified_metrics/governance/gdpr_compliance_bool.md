@@ -85,6 +85,17 @@ réglementations et protéger la vie privée des individus lors du traitement de
 Le règlement général de l'UE sur la protection des données (RGPD) régit la manière dont les données
 personnelles des individus dans l'UE peuvent être traitées et transférées.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Did the company have platforms for GDPR compliant and have nominated a

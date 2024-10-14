@@ -81,6 +81,17 @@ Part des investissements dans les sociétés dans lesquelles nous investissons s
 opérations et à des fournisseurs présentant un risque important d'incidents liés au travail des
 enfants en termes de zones géographiques ou de type d'opération.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 Was the company exposed to operations and suppliers at significant risk of incidents of child

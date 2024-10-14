@@ -81,6 +81,17 @@ L’égalité des sexes implique l’égalité des droits pour les femmes et les
 les garçons, ainsi que la même visibilité, autonomisation, responsabilité et participation, dans
 toutes les sphères de la vie publique et privée.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 

@@ -121,6 +121,17 @@ peut permettre de mieux comprendre sa performance relative.
 - Tenir compte des aspects qualitatifs : bien que le pourcentage soit important, comprendre le 
 contenu et l'efficacité des conventions collectives ajoute encore plus de profondeur à l'analyse.
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 What was the percentage of employees covered by collective bargaining agreements, during the period?

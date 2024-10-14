@@ -87,6 +87,17 @@ investissements dans des entreprises dans lesquelles nous investissons sans aucu
 code de conduite des fournisseurs (contre les conditions de travail dangereuses,
 le travail précaire, le travail des enfants et le travail forcé)"
 
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
+
 ### value_question_en
 
 

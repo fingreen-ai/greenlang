@@ -63,13 +63,11 @@ paying a living wage to all of its employees is seen as an important indicator. 
 the minimum wage ratio means its role in creating a sustainable business whilst ensuring that all
 employees are provided a reasonable standard of living.
 
-
 **Regulatory Definition**
 
 "Minimum wage" means the minimum remuneration set by law or collective agreements that an employer,
 including in the public sector, is required to pay to workers for the work performed during a given
 period.
-
 
 ### description_fr
 
@@ -78,12 +76,21 @@ années et le fait de verser un salaire décent à tous ses employés est consid
 important. Pour une organisation, le ratio de salaire minimum signifie son rôle dans la création
 d'une entreprise durable tout en garantissant à tous les employés un niveau de vie raisonnable.
 
-
 **Définition réglementaire**
 
 "Salaire minimum": la rémunération minimale fixée par la loi ou les conventions collectives
 qu'un employeur, y compris dans le secteur public, est tenu de verser aux travailleurs pour le
 travail effectué pendant une période donnée.
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
 
 
 ### value_question_en

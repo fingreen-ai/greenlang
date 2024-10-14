@@ -90,6 +90,16 @@ entreprises dans lesquelles nous investissons entre la rémunération totale ann
 la mieux rémunérée et la rémunération totale annuelle médiane de tous les salariés (à l'exclusion
 des personnes les mieux rémunérées). individuel)"
  
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 

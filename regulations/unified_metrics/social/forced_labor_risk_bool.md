@@ -69,7 +69,6 @@ According to the ILO Forced Labour Convention, 1930 (No. 29), forced or compulso
 "all work or service which is exacted from any person under the threat of a penalty and for
 which the person has not offered himself or herself voluntarily."
 
-
 ### description_fr
 
 Le processus de gestion des risques doit identifier les opérations et les fournisseurs considérés
@@ -83,6 +82,17 @@ de travail forcé.
 Selon la Convention (n° 29) sur le travail forcé de l'OIT, 1930, le travail forcé ou obligatoire
 est : "tout travail ou service qui est exigé d'une personne sous la menace d'une sanction et pour
 lequel la personne ne s'est pas offerte volontairement".
+
+### description_es
+
+### description_nl
+
+### description_it
+
+### description_ro
+
+### description_pl
+
 
 ### value_question_en
 
