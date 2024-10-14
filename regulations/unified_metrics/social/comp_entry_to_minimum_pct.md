@@ -5,31 +5,31 @@
 
 comp_entry_to_minimum_pct
 
-### name_en
+### title_en
 
 Entry level wage to minimum wage ratio
 
-### name_fr
+### title_fr
 
 Rapport entre le salaire d'entrée et minimum
 
-### name_es
+### title_es
 
 Relación entre el salario de entrada y el salario mínimo
 
-### name_nl
+### title_nl
 
 Verhouding tussen instapsalaris en minimumloon
 
-### name_it
+### title_it
 
 Rapporto tra salario di ingresso e salario minimo
 
-### name_ro
+### title_ro
 
 Raportul dintre salariul de intrare și salariul minim
 
-### name_pl
+### title_pl
 
 Stosunek płacy początkowej do minimalnej płacy
 

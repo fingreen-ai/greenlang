@@ -4,31 +4,31 @@
 
 biodiversity_affecting_bool
 
-### name_en
+### title_en
 
 Biodiversity sensitive areas
 
-### name_fr
+### title_fr
 
 Activités ayant un impact négatif sur les zones sensibles à la biodiversité
 
-### name_es
+### title_es
 
 Áreas sensibles a la biodiversidad
 
-### name_nl
+### title_nl
 
 Biodiversiteitssensitieve gebieden
 
-### name_it
+### title_it
 
 Aree sensibili alla biodiversità
 
-### name_ro
+### title_ro
 
 Zone sensibile pentru biodiversitate
 
-### name_pl
+### title_pl
 
 Obszary wrażliwe na różnorodność biologiczną
 

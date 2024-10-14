@@ -4,31 +4,31 @@
 
 biodiversity_policy_bool
 
-### name_en
+### title_en
 
 Protected areas
 
-### name_fr
+### title_fr
 
 Zones protégées
 
-### name_es
+### title_es
 
 Áreas protegidas
 
-### name_nl
+### title_nl
 
 Beschermde gebieden
 
-### name_it
+### title_it
 
 Aree protette
 
-### name_ro
+### title_ro
 
 Zone protejate
 
-### name_pl
+### title_pl
 
 Obszary chronione
 

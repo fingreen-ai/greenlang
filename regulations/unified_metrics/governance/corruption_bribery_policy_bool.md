@@ -4,31 +4,31 @@
 
 corruption_bribery_policy_bool
 
-### name_en
+### title_en
 
 Anti-corruption and anti-bribery policies
 
-### name_fr
+### title_fr
 
 Politiques anti-corruption et anti-pots-de-vin
 
-### name_es
+### title_es
 
 Políticas anticorrupción y anti-soborno
 
-### name_nl
+### title_nl
 
 Anti-corruptie- en anti-omkopingsbeleid
 
-### name_it
+### title_it
 
 Politiche anticorruzione e anti-corruttela
 
-### name_ro
+### title_ro
 
 Politici anti-corupție și anti-mită
 
-### name_pl
+### title_pl
 
 Polityka antykorupcyjna i antyprzestępcza
 

@@ -4,31 +4,31 @@
 
 land_degradation_bool
 
-### name_en
+### title_en
 
 Land degradation, desertification, soil sealing
 
-### name_fr
+### title_fr
 
 Dégradation des terres, désertification, imperméabilisation des sols
 
-### name_es
+### title_es
 
 Degradación de la tierra, desertificación, sellado del suelo
 
-### name_nl
+### title_nl
 
 Landdegradatie, woestijnvorming, bodemafdichting
 
-### name_it
+### title_it
 
 Degradazione del suolo, desertificazione, sigillatura del suolo
 
-### name_ro
+### title_ro
 
 Degradarea terenurilor, deșertificare, etanșare a solului
 
-### name_pl
+### title_pl
 
 Degradacja ziemi, pustynnienie, uszczelnianie gleby
 

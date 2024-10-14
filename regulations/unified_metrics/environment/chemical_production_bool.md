@@ -4,31 +4,31 @@
 
 chemical_production_bool
 
-### name_en
+### title_en
 
 Chemicals production
 
-### name_fr
+### title_fr
 
 Fabrication de produits chimiques
 
-### name_es
+### title_es
 
 Producción de productos químicos
 
-### name_nl
+### title_nl
 
 Chemische productie
 
-### name_it
+### title_it
 
 Produzione
 
-### name_ro
+### title_ro
 
 Producția de produse chimice
 
-### name_pl
+### title_pl
 
 Produkcja
 

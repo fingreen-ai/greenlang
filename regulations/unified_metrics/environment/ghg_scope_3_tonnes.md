@@ -4,31 +4,31 @@
 
 ghg_scope_3_tonnes
 
-### name_en
+### title_en
 
 GHG emissions - Scope 3
 
-### name_fr
+### title_fr
 
 Émissions de GES - Scope 3
 
-### name_es
+### title_es
 
 Emisiones de GEI - Alcance 3
 
-### name_nl
+### title_nl
 
 Broeikasgasemissies - Scope 3
 
-### name_it
+### title_it
 
 Emissioni di gas serra - Scope 3
 
-### name_ro
+### title_ro
 
 Emisiile de gaze cu efect de seră -
 
-### name_pl
+### title_pl
 
 Emisje gazów cieplarnianych - Zakres 3
 

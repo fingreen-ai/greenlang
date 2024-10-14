@@ -4,31 +4,31 @@
 
 air_pollutants_tonnes
 
-### name_en
+### title_en
 
 Emissions of air pollutants
 
-### name_fr
+### title_fr
 
 Émissions de polluants atmosphériques
 
-### name_es
+### title_es
 
 Emisiones de contaminantes atmosféricos
 
-### name_nl
+### title_nl
 
 Uitstoot van luchtverontreinigende stoffen
 
-### name_it
+### title_it
 
 Emissioni di inquinanti atmosferici
 
-### name_ro
+### title_ro
 
 Emisiile de poluanți atmosferici
 
-### name_pl
+### title_pl
 
 Emisje zanieczyszczeń powietrza
 

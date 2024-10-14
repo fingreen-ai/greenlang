@@ -4,31 +4,31 @@
 
 carbon_reduction_initiatives_bool
 
-### name_en
+### title_en
 
-Carbon emission reduction initiatives
+Carbon emission reduction initiatives('')
 
-### name_fr
+### title_fr
 
 Initiatives de réduction des émissions de carbone
 
-### name_es
+### title_es
 
 Iniciativas de reducción de emisiones de carbono
 
-### name_nl
+### title_nl
 
 Initiatieven voor het verminderen van de uitstoot van koolstof
 
-### name_it
+### title_it
 
 Iniziative di riduzione delle emissioni di carbonio
 
-### name_ro
+### title_ro
 
 Inițiative de reducere a emisiilor de carbon
 
-### name_pl
+### title_pl
 
 Inicjatywy zmniejszania emisji dwutlenku węgla
 

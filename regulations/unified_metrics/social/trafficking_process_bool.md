@@ -5,31 +5,31 @@
 
 trafficking_process_bool
 
-### name_en
+### title_en
 
 Lack of processes and measures for preventing trafficking in human beings
 
-### name_fr
+### title_fr
 
 Absence de processus et de mesures de prévention de la traite des êtres humains
 
-### name_es
+### title_es
 
 Falta de procesos y medidas para prevenir la trata de seres humanos
 
-### name_nl
+### title_nl
 
 Gebrek aan processen en maatregelen ter voorkoming van mensenhandel
 
-### name_it
+### title_it
 
 Mancanza di processi e misure per prevenire la tratta di esseri umani
 
-### name_ro
+### title_ro
 
 Lipsa proceselor și măsurilor de prevenire a traficului de persoane
 
-### name_pl
+### title_pl
 
 Brak procesów i środków zapobiegania handlowi ludźmi
 

@@ -4,31 +4,31 @@
 
 human_rights_issues_count
 
-### name_en
+### title_en
 
 Cases of severe human rights issues and incidents
 
-### name_fr
+### title_fr
 
 Cas de graves problèmes et incidents relatifs aux droits de l'homme
 
-### name_es
+### title_es
 
 Casos de problemas e incidentes graves de derechos humanos
 
-### name_de
+### title_de
 
 Fälle schwerwiegender Menschenrechtsprobleme und -vorfälle
 
-### name_nl
+### title_nl
 
 Gevallen van ernstige mensenrechtenschendingen en incidenten
 
-### name_it
+### title_it
 
 Casi di gravi problemi e incidenti relativi ai diritti umani
 
-### name_pl
+### title_pl
 
 Przypadki poważnych problemów i incydentów związanych z prawami człowieka
 

@@ -4,31 +4,31 @@
 
 discrimation_report_count
 
-### name_en
+### title_en
 
 Discrimination incidents
 
-### name_fr
+### title_fr
 
 Incidents de discrimination
 
-### name_es
+### title_es
 
 Incidentes de discriminación
 
-### name_nl
+### title_nl
 
 Discriminatie-incidenten
 
-### name_it
+### title_it
 
 Incidenti di discriminazione
 
-### name_ro
+### title_ro
 
 Incidente de discriminare
 
-### name_pl
+### title_pl
 
 Incydenty dyskryminacji
 

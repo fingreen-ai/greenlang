@@ -4,31 +4,31 @@
 
 biodiversity_sensitive_sites_item
 
-### name_en
+### title_en
 
 Location near a sensitive biodiversity area
 
-### name_fr
+### title_fr
 
 Localisation à proximité d'une zone sensible à la biodiversité
 
-### name_es
+### title_es
 
 Ubicación cerca de un área sensible de biodiversidad
 
-### name_nl
+### title_nl
 
 Locatie in de buurt van een gevoelig biodiversiteitsgebied
 
-### name_it
+### title_it
 
 Posizione vicino a un'area sensibile alla biodiversità
 
-### name_ro
+### title_ro
 
 Locație lângă o zonă sensibilă de biodiversitate
 
-### name_pl
+### title_pl
 
 Lokalizacja w pobliżu obszaru wrażliwego na różnorodność biologiczną
 

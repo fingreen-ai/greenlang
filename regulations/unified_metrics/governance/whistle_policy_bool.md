@@ -4,31 +4,31 @@
 
 whistle_policy_bool
 
-### name_en
+### title_en
 
 Whistleblower protection
 
-### name_fr
+### title_fr
 
 Protection des dénonciateurs
 
-### name_es
+### title_es
 
 Protección de los denunciantes
 
-### name_nl
+### title_nl
 
 Klokkenluidersbescherming
 
-### name_it
+### title_it
 
 Protezione dei segnalatori
 
-### name_ro
+### title_ro
 
 Protecția informatorilor
 
-### name_pl
+### title_pl
 
 Ochrona informatorów
 

@@ -5,31 +5,31 @@
 
 energy_consumption_elec_renewable_kwh
 
-### name_en
+### title_en
 
 Total renewable electricity consumption
 
-### name_fr
+### title_fr
 
 Consommation totale d'électricité renouvelable
 
-### name_es
+### title_es
 
 Consumo total de electricidad renovable
 
-### name_nl
+### title_nl
 
 Totaal hernieuwbaar elektriciteitsverbruik
 
-### name_it
+### title_it
 
 Consumo totale di elettricità rinnovabile
 
-### name_ro
+### title_ro
 
 Consum total de electricitate regenerabilă
 
-### name_pl
+### title_pl
 
 Całkowite zużycie energii elektrycznej z odnawialnych źródeł
 

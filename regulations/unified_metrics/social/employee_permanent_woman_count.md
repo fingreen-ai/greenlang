@@ -5,31 +5,31 @@
 
 employee_permanent_woman_count
 
-### name_en
+### title_en
 
 Full-time female employees
 
-### name_fr
+### title_fr
 
 Employées féminines à temps plein
 
-### name_es
+### title_es
 
 Empleadas a tiempo completo
 
-### name_nl
+### title_nl
 
 Vrouwelijke werknemers met een voltijdscontract
 
-### name_it
+### title_it
 
 Dipendenti
 
-### name_ro
+### title_ro
 
 Angajate cu normă întreagă
 
-### name_pl
+### title_pl
 
 Pracownice zatrudnione na pełen etat
 

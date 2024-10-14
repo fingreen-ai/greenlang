@@ -4,31 +4,31 @@
 
 product_sales_int
 
-### name_en
+### title_en
 
 Product sales count
 
-### name_fr
+### title_fr
 
 Nombre de ventes de produits
 
-### name_es
+### title_es
 
 Cantidad de ventas de productos
 
-### name_nl
+### title_nl
 
 Aantal verkochte producten
 
-### name_it
+### title_it
 
 Numero di vendite di prodotti
 
-### name_ro
+### title_ro
 
 Numărul de vânzări de produse
 
-### name_pl
+### title_pl
 
 Liczba sprzedaży produktów
 

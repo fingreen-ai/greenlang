@@ -5,31 +5,31 @@
 
 biodiversity_nature_offsite_sqkm
 
-### name_en
+### title_en
 
 Total nature-oriented area off site
 
-### name_fr
+### title_fr
 
 Superficie totale orientée vers la nature hors site
 
-### name_es
+### title_es
 
 Área total orientada a la naturaleza fuera del sitio
 
-### name_nl
+### title_nl
 
 Totale natuur-georiënteerde oppervl
 
-### name_it
+### title_it
 
 Area totale orientata alla natura fuori sito
 
-### name_ro
+### title_ro
 
 Suprafața totală orientată spre natură în afara site-ului
 
-### name_pl
+### title_pl
 
 Całkowita powierzchnia zorientowana na naturę poza terenem
 

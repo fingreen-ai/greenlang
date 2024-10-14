@@ -4,31 +4,31 @@
 
 gdpr_compliance_bool
 
-### name_en
+### title_en
 
 GDPR compliance
 
-### name_fr
+### title_fr
 
 Conformité RGPD
 
-### name_es
+### title_es
 
 Cumplimiento del RGPD
 
-### name_nl
+### title_nl
 
 GDPR-naleving
 
-### name_it
+### title_it
 
 Conformità al GDPR
 
-### name_ro
+### title_ro
 
 Conformitate GDPR
 
-### name_pl
+### title_pl
 
 Zgodność z RODO
 

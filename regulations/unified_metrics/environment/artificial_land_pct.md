@@ -4,31 +4,31 @@
 
 artificial_land_pct
 
-### name_en
+### title_en
 
 Land artificialisation
 
-### name_fr
+### title_fr
 
 Artificialisation des terres
 
-### name_es
+### title_es
 
 Artificialización de tierras
 
-### name_nl
+### title_nl
 
 Landartificialisatie
 
-### name_it
+### title_it
 
 Artificializzazione del suolo
 
-### name_ro
+### title_ro
 
 Artificializarea terenurilor
 
-### name_pl
+### title_pl
 
 Zagospodarowanie terenu
 

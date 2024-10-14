@@ -4,31 +4,31 @@
 
 ghg_netzero_bool
 
-### name_en
+### title_en
 
 Net-Zero target
 
-### name_fr
+### title_fr
 
 Objectif Net-Zero
 
-### name_es
+### title_es
 
 Objetivo de emisiones netas cero
 
-### name_nl
+### title_nl
 
 Netto-nuldoelstelling
 
-### name_it
+### title_it
 
 Obiettivo Net-Zero
 
-### name_ro
+### title_ro
 
 Obiectiv Net-Zero
 
-### name_pl
+### title_pl
 
 Cel netto-zero
 

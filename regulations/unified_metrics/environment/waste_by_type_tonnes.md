@@ -5,31 +5,31 @@
 
 waste_by_type_tonnes
 
-### name_en
+### title_en
 
 Generation of waste, by type
 
-### name_fr
+### title_fr
 
 Production de déchets, par type
 
-### name_es
+### title_es
 
 Generación de residuos, por tipo
 
-### name_nl
+### title_nl
 
 Afvalproductie, per type
 
-### name_it
+### title_it
 
 Generazione di rifiuti, per tipo
 
-### name_ro
+### title_ro
 
 Generarea deșeurilor, pe tip
 
-### name_pl
+### title_pl
 
 Generacja odpadów, według typu
 

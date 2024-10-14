@@ -4,31 +4,31 @@
 
 human_rights_policy_bool
 
-### name_en
+### title_en
 
 Human rights policy
 
-### name_fr
+### title_fr
 
 Politique des droits de l'homme
 
-### name_es
+### title_es
 
 Política de derechos humanos
 
-### name_nl
+### title_nl
 
 Mensenrechtenbeleid
 
-### name_it
+### title_it
 
 Politica sui diritti umani
 
-### name_ro
+### title_ro
 
 Politica de drepturile omului
 
-### name_pl
+### title_pl
 
 Polityka praw człowieka
 

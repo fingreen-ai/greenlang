@@ -5,31 +5,31 @@
 
 emissions_to_soil_tonnes
 
-### name_en
+### title_en
 
 Pollutants emissions to soil
 
-### name_fr
+### title_fr
 
 Émissions de polluants dans le sol
 
-### name_es
+### title_es
 
 Emisiones de contaminantes al suelo
 
-### name_nl
+### title_nl
 
 Uitstoot van verontreinigende stoffen naar de bodem
 
-### name_it
+### title_it
 
 Emissioni di inquinanti nel suolo
 
-### name_ro
+### title_ro
 
 Emisiile de poluanți în sol
 
-### name_pl
+### title_pl
 
 Emisje zanieczyszczeń do gleby
 

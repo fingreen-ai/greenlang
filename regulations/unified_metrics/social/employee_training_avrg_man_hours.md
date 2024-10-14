@@ -5,31 +5,31 @@
 
 employee_training_avrg_man_hours
 
-### name_en
+### title_en
 
 Male employee training hours
 
-### name_fr
+### title_fr
 
 Heures de formation par employé homme
 
-### name_es
+### title_es
 
 Horas de formación por empleado masculino
 
-### name_nl
+### title_nl
 
 Traininguren per mannelijke werknemer
 
-### name_it
+### title_it
 
 Ore di formazione per dipendente maschile
 
-### name_ro
+### title_ro
 
 Orele de formare a angajaților de sex masculin
 
-### name_pl
+### title_pl
 
 Godziny szkolenia na pracownika męskiego
 

@@ -4,31 +4,31 @@
 
 water_consumption_recycled_m3
 
-### name_en
+### title_en
 
 Total water recycled
 
-### name_fr
+### title_fr
 
 Eau totale recyclée
 
-### name_es
+### title_es
 
 Agua total reciclada
 
-### name_nl
+### title_nl
 
 Totaal gerecycled water
 
-### name_it
+### title_it
 
 Acqua totale riciclata
 
-### name_ro
+### title_ro
 
 Apă total reciclată
 
-### name_pl
+### title_pl
 
 Całkowicie zrecyklowana woda
 

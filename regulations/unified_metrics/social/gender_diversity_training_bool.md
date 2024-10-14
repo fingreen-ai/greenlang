@@ -4,31 +4,31 @@
 
 gender_diversity_training_bool
 
-### name_en
+### title_en
 
 Gender diversity training
 
-### name_fr
+### title_fr
 
 Formation sur la diversité des genres
 
-### name_es
+### title_es
 
 Formación en diversidad de género
 
-### name_nl
+### title_nl
 
 Genderdiversiteitstraining
 
-### name_it
+### title_it
 
 Formazione sulla diversità di genere
 
-### name_ro
+### title_ro
 
 Instruire în diversitate de gen
 
-### name_pl
+### title_pl
 
 Szkolenie z różnorodności płci
 

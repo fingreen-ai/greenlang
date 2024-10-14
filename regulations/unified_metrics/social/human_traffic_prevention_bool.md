@@ -4,31 +4,31 @@
 
 human_traffic_prevention_bool
 
-### name_en
+### title_en
 
 Trafficking in human beings prevention
 
-### name_fr
+### title_fr
 
 Prévention de la traite des êtres humains
 
-### name_es
+### title_es
 
 Prevención de la trata de seres humanos
 
-### name_nl
+### title_nl
 
 Preventie van mensenhandel
 
-### name_it
+### title_it
 
 Prevenzione della tratta di esseri umani
 
-### name_ro
+### title_ro
 
 Prevenirea traficului de persoane
 
-### name_pl
+### title_pl
 
 Zapobieganie handlowi ludźmi
 

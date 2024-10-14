@@ -4,31 +4,31 @@
 
 accident_prevention_policy_bool
 
-### name_en
+### title_en
 
 Workplace accident prevention policies
 
-### name_fr
+### title_fr
 
 Politiques de prévention des accidents du travail
 
-### name_es
+### title_es
 
 Políticas de prevención de accidentes laborales
 
-### name_nl
+### title_nl
 
 Beleid ter voorkoming van arbeidsongevallen
 
-### name_it
+### title_it
 
 Politiche di prevenzione degli incidenti sul lavoro
 
-### name_ro
+### title_ro
 
 Politici de prevenire a accidentelor de muncă
 
-### name_pl
+### title_pl
 
 Polityka zapobiegania wypadkom przy pracy
 

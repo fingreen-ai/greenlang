@@ -4,31 +4,31 @@
 
 energy_consumption_renewable_kwh
 
-### name_en
+### title_en
 
 Renewable energy consumption
 
-### name_fr
+### title_fr
 
 Consommation d'énergie renouvelable
 
-### name_es
+### title_es
 
 Consumo de energía renovable
 
-### name_nl
+### title_nl
 
 Hernieuwbare energieconsumptie
 
-### name_it
+### title_it
 
 Consumo di energia rinnovabile
 
-### name_ro
+### title_ro
 
 Consum de energie regenerabilă
 
-### name_pl
+### title_pl
 
 Zużycie energii odnawialnej
 

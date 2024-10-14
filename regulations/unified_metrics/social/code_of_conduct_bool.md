@@ -4,31 +4,31 @@
 
 code_of_conduct_bool
 
-### name_en
+### title_en
 
 Lack of a supplier code of conduct 
 
-### name_fr
+### title_fr
 
 Absence de code de conduite des fournisseurs
 
-### name_es
+### title_es
 
 Falta de un código de conducta del proveedor
 
-### name_nl
+### title_nl
 
 Gebrek aan een leveranciersgedragscode
 
-### name_it
+### title_it
 
 Mancanza di un codice di condotta del fornitore
 
-### name_ro
+### title_ro
 
 Lipsa unui cod de conduită al furnizorului
 
-### name_pl
+### title_pl
 
 Brak kodeksu postępowania dostawcy
 

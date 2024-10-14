@@ -4,31 +4,31 @@
 
 water_mgmt_policy_bool
 
-### name_en
+### title_en
 
 Water management policy
 
-### name_fr
+### title_fr
 
 Politique de gestion de l'eau
 
-### name_es
+### title_es
 
 Política de gestión del agua
 
-### name_nl
+### title_nl
 
 Waterbeheerbeleid
 
-### name_it
+### title_it
 
 Politica di gestione dell'acqua
 
-### name_ro
+### title_ro
 
 Politica de gestionare a apei
 
-### name_pl
+### title_pl
 
 Polityka zarządzania wodą
 

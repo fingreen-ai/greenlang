@@ -5,31 +5,31 @@
 
 biodiversity_land_sealed_use_sqkm
 
-### name_en
+### title_en
 
 Total sealed area
 
-### name_fr
+### title_fr
 
 Surface totale scellée
 
-### name_es
+### title_es
 
 Área total sellada
 
-### name_nl
+### title_nl
 
 Totaal verzegeld gebied
 
-### name_it
+### title_it
 
 Area totale sigillata
 
-### name_ro
+### title_ro
 
 Suprafața totală sigilată
 
-### name_pl
+### title_pl
 
 Całkowita powierzchnia zabezpieczona
 

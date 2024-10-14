@@ -4,31 +4,31 @@
 
 waste_production_ops_pct
 
-### name_en
+### title_en
 
 Waste production in operations
 
-### name_fr
+### title_fr
 
 Production de déchets dans les opérations
 
-### name_es
+### title_es
 
 Producción de residuos en operaciones
 
-### name_nl
+### title_nl
 
 Afvalproductie in operaties
 
-### name_it
+### title_it
 
 Produzione di rifiuti nelle operazioni
 
-### name_ro
+### title_ro
 
 Producția deșeurilor în operațiuni
 
-### name_pl
+### title_pl
 
 Produkcja odpadów w operacjach
 

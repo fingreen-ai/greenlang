@@ -4,31 +4,31 @@
 
 non_recycled_waste_tonnes
 
-### name_en
+### title_en
 
 Non-recycled waste
 
-### name_fr
+### title_fr
 
 Déchets non recyclés
 
-### name_es
+### title_es
 
 Residuos no reciclados
 
-### name_nl
+### title_nl
 
 Niet-gerecycleerd afval
 
-### name_it
+### title_it
 
 Rifiuti non riciclati
 
-### name_ro
+### title_ro
 
 Deșeuri nereciclate
 
-### name_pl
+### title_pl
 
 Odpady nierecyklingowane
 

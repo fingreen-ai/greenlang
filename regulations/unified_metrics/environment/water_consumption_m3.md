@@ -4,31 +4,31 @@
 
 water_consumption_m3
 
-### name_en
+### title_en
 
 Total water withdrawal
 
-### name_fr
+### title_fr
 
 Consommation totale d'eau
 
-### name_es
+### title_es
 
 Extracción total de agua
 
-### name_nl
+### title_nl
 
 Totaal waterverbruik
 
-### name_it
+### title_it
 
 Prelievo totale di acqua
 
-### name_ro
+### title_ro
 
 Extragerea totală a apei
 
-### name_pl
+### title_pl
 
 Całkowite pobranie wody
 

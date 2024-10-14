@@ -4,31 +4,31 @@
 
 employee_turnover_pct
 
-### name_en
+### title_en
 
 Employee turnover rate
 
-### name_fr
+### title_fr
 
 Taux de rotation des employés
 
-### name_es
+### title_es
 
 Tasa de rotación de empleados
 
-### name_nl
+### title_nl
 
 Verlooppercentage van werknemers
 
-### name_it
+### title_it
 
 Tasso di turnover dei dipendenti
 
-### name_ro
+### title_ro
 
 Rata de rotație a angajaților
 
-### name_pl
+### title_pl
 
 Wskaźnik rotacji pracowników
 

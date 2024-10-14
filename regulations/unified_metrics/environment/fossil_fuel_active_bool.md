@@ -4,31 +4,31 @@
 
 fossil_fuel_active_bool
 
-### name_en
+### title_en
 
 Fossil fuel sector
 
-### name_fr
+### title_fr
 
 Secteur des énergies fossiles
 
-### name_es
+### title_es
 
 Sector de combustibles fósiles
 
-### name_nl
+### title_nl
 
 Fossiele brandstofsector
 
-### name_it
+### title_it
 
 Settore dei combustibili fossili
 
-### name_ro
+### title_ro
 
 Sectorul combustibililor fosili
 
-### name_pl
+### title_pl
 
 Sektor paliw kopalnych
 

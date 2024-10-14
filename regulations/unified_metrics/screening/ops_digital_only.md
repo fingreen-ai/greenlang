@@ -5,31 +5,31 @@
 
 ops_digital_only
 
-### name_en
+### title_en
 
 VSME Screening - Digital only
 
-### name_fr
+### title_fr
 
 Dépistage des TPME - Numérique uniquement
 
-### name_es
+### title_es
 
 VSME Screening - Solo digital
 
-### name_nl
+### title_nl
 
 VSME Screening - Alleen digitaal
 
-### name_it
+### title_it
 
 VSME Screening - Solo digitale
 
-### name_ro
+### title_ro
 
 VSME Screening - Doar digital
 
-### name_pl
+### title_pl
 
 VSME Screening - Wyłącznie cyfrowe
 

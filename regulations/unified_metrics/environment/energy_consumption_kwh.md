@@ -4,31 +4,31 @@
 
 energy_consumption_kwh
 
-### name_en
+### title_en
 
 Energy Consumption
 
-### name_fr
+### title_fr
 
 Consommation d'énergie
 
-### name_es
+### title_es
 
 Consumo de energía
 
-### name_nl
+### title_nl
 
 Energieverbruik
 
-### name_it
+### title_it
 
 Consumo di energia
 
-### name_ro
+### title_ro
 
 Consum de energie
 
-### name_pl
+### title_pl
 
 Zużycie energii
 

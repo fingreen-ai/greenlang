@@ -5,31 +5,31 @@
 
 employee_training_avrg_woman_hours
 
-### name_en
+### title_en
 
 Female employee training hours
 
-### name_fr
+### title_fr
 
 Heures de formation par femme employée 
 
-### name_es
+### title_es
 
 Horas de formación por empleada
 
-### name_nl
+### title_nl
 
 Traininguren per vrouwelijke werknemer
 
-### name_it
+### title_it
 
 Ore di formazione per dipendente femminile
 
-### name_ro
+### title_ro
 
 Orele de formare a angajatei
 
-### name_pl
+### title_pl
 
 Godziny szkolenia na pracownika żeńskiego
 

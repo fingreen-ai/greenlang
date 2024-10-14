@@ -5,31 +5,31 @@
 
 ops_physical_product
 
-### name_en
+### title_en
 
 VSME Screening - Physical products
 
-### name_fr
+### title_fr
 
 Dépistage TPE - Produits physiques
 
-### name_es
+### title_es
 
 VSME Screening - Productos físicos
 
-### name_nl
+### title_nl
 
 VSME Screening - Fysieke producten
 
-### name_it
+### title_it
 
 VSME Screening - Prodotti fisici
 
-### name_ro
+### title_ro
 
 VSME Screening - Produse fizice
 
-### name_pl
+### title_pl
 
 VSME Screening - Produkty fizyczne
 

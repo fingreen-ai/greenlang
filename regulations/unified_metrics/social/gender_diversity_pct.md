@@ -4,11 +4,11 @@
 
 gender_diversity_pct
 
-### name_en
+### title_en
 
 General gender diversity
 
-### name_fr
+### title_fr
 
 Diversité générale des genres
 
@@ -16,23 +16,23 @@ Diversité générale des genres
 
 metric
 
-### name_es
+### title_es
 
 Diversidad de género general
 
-### name_nl
+### title_nl
 
 Algemene genderdiversiteit
 
-### name_it
+### title_it
 
 Diversità di genere generale
 
-### name_ro
+### title_ro
 
 Diversitate de gen generală
 
-### name_pl
+### title_pl
 
 Ogólna różnorodność płci
 

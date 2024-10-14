@@ -4,31 +4,31 @@
 
 data_breaches_fine_count
 
-### name_en
+### title_en
 
 Convictions and fines for violation of user privacy
 
-### name_fr
+### title_fr
 
 Condamnations pour violation de la vie privée
 
-### name_es
+### title_es
 
 Condenas por violación de la privacidad del usuario
 
-### name_nl
+### title_nl
 
 Veroordelingen voor schending van de privacy van de gebruiker
 
-### name_it
+### title_it
 
 Condanne per violazione della privacy dell'utente
 
-### name_ro
+### title_ro
 
 Condamnări pentru încălcarea vieții private a utilizatorului
 
-### name_pl
+### title_pl
 
 Wyroki za naruszenie prywatności użytkownika
 

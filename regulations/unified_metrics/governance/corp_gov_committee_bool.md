@@ -4,31 +4,31 @@
 
 corp_gov_committee_bool
 
-### name_en
+### title_en
 
 Corporate governance committee
 
-### name_fr
+### title_fr
 
 Comité de gouvernance d'entreprise
 
-### name_es
+### title_es
 
 Comité de gobierno corporativo
 
-### name_nl
+### title_nl
 
 Commissie voor corporate governance
 
-### name_it
+### title_it
 
 Comitato di governance aziendale
 
-### name_ro
+### title_ro
 
 Comitet de guvernanță corporativă
 
-### name_pl
+### title_pl
 
 Komitet ds. zarządzania korporacyjnego
 

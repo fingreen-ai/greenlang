@@ -4,31 +4,31 @@
 
 sustainable_supply_chain_bool
 
-### name_en
+### title_en
 
 Sustainable Supply Chain
 
-### name_fr
+### title_fr
 
 Chaîne d'approvisionnement durable
 
-### name_es
+### title_es
 
 Cadena de suministro sostenible
 
-### name_nl
+### title_nl
 
 Duurzame toeleveringsketen
 
-### name_it
+### title_it
 
 Catena di approvvigionamento sostenibile
 
-### name_ro
+### title_ro
 
 Lanț de aprovizionare durabil
 
-### name_pl
+### title_pl
 
 Zrównoważony łańcuch dostaw
 

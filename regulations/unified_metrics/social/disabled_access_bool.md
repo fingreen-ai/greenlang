@@ -4,31 +4,31 @@
 
 disabled_access_bool
 
-### name_en
+### title_en
 
 Disabled people access
 
-### name_fr
+### title_fr
 
 Accès personnes à mobilité réduite
 
-### name_es
+### title_es
 
 Acceso para personas con discapacidad
 
-### name_nl
+### title_nl
 
 Toegang voor mensen met een handicap
 
-### name_it
+### title_it
 
 Accesso per persone disabili
 
-### name_ro
+### title_ro
 
 Acces pentru persoane cu dizabilități
 
-### name_pl
+### title_pl
 
 Dostęp dla osób niepełnosprawnych
 

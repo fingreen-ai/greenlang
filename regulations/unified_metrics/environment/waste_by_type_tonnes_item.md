@@ -4,31 +4,31 @@
 
 waste_by_type_tonnes_item
 
-### name_en
+### title_en
 
 Item - Generation of waste, by type
 
-### name_fr
+### title_fr
 
 Element - Production de déchets, par type
 
-### name_es
+### title_es
 
 Elemento - Generación de residuos, por tipo
 
-### name_nl
+### title_nl
 
 Item - Afvalproductie, per type
 
-### name_it
+### title_it
 
 Elemento - Generazione di rifiuti, per tipo
 
-### name_ro
+### title_ro
 
 Element - Generarea deșeurilor, pe tip
 
-### name_pl
+### title_pl
 
 Element - Generacja odpadów, według typu
 

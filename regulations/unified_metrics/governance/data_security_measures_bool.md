@@ -4,31 +4,31 @@
 
 data_security_measures_bool
 
-### name_en
+### title_en
 
 Data security measures
 
-### name_fr
+### title_fr
 
 Mesures de sécurité des données
 
-### name_es
+### title_es
 
 Medidas de seguridad de datos
 
-### name_nl
+### title_nl
 
 Gegevensbeveiligingsmaatregelen
 
-### name_it
+### title_it
 
 Misure di sicurezza dei dati
 
-### name_ro
+### title_ro
 
 Măsuri de securitate a datelor
 
-### name_pl
+### title_pl
 
 Środki bezpieczeństwa danych
 

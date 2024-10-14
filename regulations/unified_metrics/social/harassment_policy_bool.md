@@ -4,31 +4,31 @@
 
 harassment_policy_bool
 
-### name_en
+### title_en
 
 Anti-harassment policy
 
-### name_fr
+### title_fr
 
 Politique anti-harcèlement
 
-### name_es
+### title_es
 
 Política contra el acoso
 
-### name_nl
+### title_nl
 
 Anti-pestbeleid
 
-### name_it
+### title_it
 
 Politica anti-molestie
 
-### name_ro
+### title_ro
 
 Politica anti-hărțuire
 
-### name_pl
+### title_pl
 
 Polityka antyprzemocowa
 

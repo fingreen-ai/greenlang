@@ -4,31 +4,31 @@
 
 energy_consumption_non_renewable_kwh
 
-### name_en
+### title_en
 
 Non-renewable energy consumption
 
-### name_fr
+### title_fr
 
 Consommation d'énergie non renouvelable
 
-### name_es
+### title_es
 
 Consumo de energía no renovable
 
-### name_nl
+### title_nl
 
 Niet-hernieuwbare energieconsumptie
 
-### name_it
+### title_it
 
 Consumo di energia non rinnovabile
 
-### name_ro
+### title_ro
 
 Consum de energie nerenovabilă
 
-### name_pl
+### title_pl
 
 Zużycie energii nieodnawialnej
 

@@ -4,31 +4,31 @@
 
 land_agr_policy_bool
 
-### name_en
+### title_en
 
 Sustainable land/agriculture practices
 
-### name_fr
+### title_fr
 
 Pratiques agricoles durables
 
-### name_es
+### title_es
 
 Prácticas agrícolas sostenibles
 
-### name_nl
+### title_nl
 
 Duurzame landbouwpraktijken
 
-### name_it
+### title_it
 
 Pratiche agricole sostenibili
 
-### name_ro
+### title_ro
 
 Practici agricole durabile
 
-### name_pl
+### title_pl
 
 Zrównoważone praktyki rolnicze
 

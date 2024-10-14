@@ -4,31 +4,31 @@
 
 tax_lawsuit_bool
 
-### name_en
+### title_en
 
 Tax investigations
 
-### name_fr
+### title_fr
 
 Enquêtes fiscales
 
-### name_es
+### title_es
 
 Investigaciones fiscales
 
-### name_nl
+### title_nl
 
 Belastingonderzoeken
 
-### name_it
+### title_it
 
 Indagini fiscali
 
-### name_ro
+### title_ro
 
 Investigații fiscale
 
-### name_pl
+### title_pl
 
 Śledztwa podatkowe
 

@@ -4,31 +4,31 @@
 
 ozone_depletion_tonnes
 
-### name_en
+### title_en
 
 Emissions of ozone depletion substances
 
-### name_fr
+### title_fr
 
 Émissions de substances appauvrissant la couche d'ozone
 
-### name_es
+### title_es
 
 Emisiones de sustancias que agotan la capa de ozono
 
-### name_nl
+### title_nl
 
 Emissies van ozonafbrekende stoffen
 
-### name_it
+### title_it
 
 Emissioni di sostanze che impoveriscono l'ozono
 
-### name_ro
+### title_ro
 
 Emisiile de substanțe care epuizează stratul de ozon
 
-### name_pl
+### title_pl
 
 Emisje substancji niszczących warstwę ozonową
 

@@ -5,31 +5,31 @@
 
 recycled_product_bought_sold
 
-### name_en
+### title_en
 
 Recycled goods and materials
 
-### name_fr
+### title_fr
 
 Biens et matériaux recyclés
 
-### name_es
+### title_es
 
 Bienes y materiales reciclados
 
-### name_nl
+### title_nl
 
 Gerecycleerde goederen en materialen
 
-### name_it
+### title_it
 
 Beni e materiali riciclati
 
-### name_ro
+### title_ro
 
 Bunuri și materiale reciclate
 
-### name_pl
+### title_pl
 
 Recyklingowane towary i materiały
 

@@ -4,31 +4,31 @@
 
 minimum_wage_ratio_pct
 
-### name_en
+### title_en
 
 Minimum wage ratio
 
-### name_fr
+### title_fr
 
 Taux de salaire minimum
 
-### name_es
+### title_es
 
 Proporción del salario mínimo
 
-### name_nl
+### title_nl
 
 Minimumloonratio
 
-### name_it
+### title_it
 
 Rapporto salariale minimo
 
-### name_ro
+### title_ro
 
 Rata salariului minim
 
-### name_pl
+### title_pl
 
 Wskaźnik płacy minimalnej
 

@@ -5,31 +5,31 @@
 
 emissions_to_water_2
 
-### name_en
+### title_en
 
 Emissions to Water - Screen 2
 
-### name_fr
+### title_fr
 
 Émissions dans l'eau - Screen 2
 
-### name_es
+### title_es
 
 Emisiones al agua - Pantalla 2
 
-### name_nl
+### title_nl
 
 Emissies naar water - Scherm 2
 
-### name_it
+### title_it
 
 Emissioni in acqua - Schermata 2
 
-### name_ro
+### title_ro
 
 Emisii în apă - Ecran 2
 
-### name_pl
+### title_pl
 
 Emisje do wody - Ekran 2
 

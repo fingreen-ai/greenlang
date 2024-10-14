@@ -4,31 +4,31 @@
 
 gender_pay_gap_pct
 
-### name_en
+### title_en
 
 Average unadjusted gender pay gap
 
-### name_fr
+### title_fr
 
 Écart salarial moyen non ajusté entre sexes
 
-### name_es
+### title_es
 
 Brecha salarial de género no ajustada promedio
 
-### name_nl
+### title_nl
 
 Gemiddeld ongecorrigeerd genderloonkloof
 
-### name_it
+### title_it
 
 Differenza salariale di genere non corretta media   
 
-### name_ro
+### title_ro
 
 Diferența salarială medie neajustată între sexe
 
-### name_pl
+### title_pl
 
 Średnia niezrównoważona różnica płac między płciami
 

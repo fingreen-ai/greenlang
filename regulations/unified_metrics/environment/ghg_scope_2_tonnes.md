@@ -4,31 +4,31 @@
 
 ghg_scope_2_tonnes
 
-### name_en
+### title_en
 
 GHG emissions - Scope 2
 
-### name_fr
+### title_fr
 
 Émissions de GES - Scope 2
 
-### name_es
+### title_es
 
 Emisiones de GEI - Alcance 2
 
-### name_nl
+### title_nl
 
 Broeikasgasemissies - Scope 2
 
-### name_it
+### title_it
 
 Emissioni di gas serra - Scope 2
 
-### name_ro
+### title_ro
 
 Emisiile de gaze cu efect de seră -
 
-### name_pl
+### title_pl
 
 Emisje gazów cieplarnianych - Zakres 2
 

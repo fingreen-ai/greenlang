@@ -4,31 +4,31 @@
 
 waste_hazardous_tonnes
 
-### name_en
+### title_en
 
 Hazardous waste
 
-### name_fr
+### title_fr
 
 Déchets dangereux
 
-### name_es
+### title_es
 
 Residuos peligrosos
 
-### name_nl
+### title_nl
 
 Gevaarlijk afval
 
-### name_it
+### title_it
 
 Rifiuti pericolosi
 
-### name_ro
+### title_ro
 
 Deșeuri periculoase
 
-### name_pl
+### title_pl
 
 Odpady niebezpieczne
 

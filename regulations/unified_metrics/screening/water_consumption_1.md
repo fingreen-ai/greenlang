@@ -5,31 +5,31 @@
 
 water_consumption_1
 
-### name_en
+### title_en
 
 Water consumption - Screen 1
 
-### name_fr
+### title_fr
 
 Consommation d'eau - Screen 1
 
-### name_es
+### title_es
 
 Consumo de agua - Pantalla 1
 
-### name_nl
+### title_nl
 
 Waterverbruik - Scherm 1
 
-### name_it
+### title_it
 
 Consumo di acqua - Schermata 1
 
-### name_ro
+### title_ro
 
 Consum de apă - Ecran 1
 
-### name_pl
+### title_pl
 
 Konsumpcja wody - Ekran 1
 

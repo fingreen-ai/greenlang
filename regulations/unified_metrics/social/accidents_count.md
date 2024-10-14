@@ -4,31 +4,31 @@
 
 accidents_count
 
-### name_en
+### title_en
 
 Work accidents
 
-### name_fr
+### title_fr
 
 Accidents du travail
 
-### name_es
+### title_es
 
 Accidentes laborales
 
-### name_nl
+### title_nl
 
 Arbeidsongevallen
 
-### name_it
+### title_it
 
 Incidenti sul lavoro
 
-### name_ro
+### title_ro
 
 Accidente de muncă
 
-### name_pl
+### title_pl
 
 Wypadki przy pracy
 

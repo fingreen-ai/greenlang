@@ -4,31 +4,31 @@
 
 gender_diversity_policy_bool
 
-### name_en
+### title_en
 
 Gender diversity policy
 
-### name_fr
+### title_fr
 
 Politique de mixité
 
-### name_es
+### title_es
 
 Política de diversidad de género
 
-### name_nl
+### title_nl
 
 Genderdiversiteitsbeleid
 
-### name_it
+### title_it
 
 Politica di diversità di genere
 
-### name_ro
+### title_ro
 
 Politica de diversitate de gen
 
-### name_pl
+### title_pl
 
 Polityka różnorodności płci
 

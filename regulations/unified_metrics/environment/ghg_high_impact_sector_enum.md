@@ -4,31 +4,31 @@
 
 ghg_high_impact_sector_enum
 
-### name_en
+### title_en
 
 High impact climate sectors
 
-### name_fr
+### title_fr
 
 Secteurs climatiques à fort impact
 
-### name_es
+### title_es
 
 Sectores climáticos de alto impacto
 
-### name_nl
+### title_nl
 
 Sectoren met een hoog klimaatimpact
 
-### name_it
+### title_it
 
 Settori climatici ad alto impatto
 
-### name_ro
+### title_ro
 
 Sectoare cu impact climatic ridicat
 
-### name_pl
+### title_pl
 
 Sektory o wysokim wpływie klimatycznym
 

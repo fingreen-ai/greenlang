@@ -4,31 +4,31 @@
 
 ceo_pay_pct
 
-### name_en
+### title_en
 
 CEO pay rate
 
-### name_fr
+### title_fr
 
 Rémunération du PDG
 
-### name_es
+### title_es
 
 Tasa de remuneración del CEO
 
-### name_nl
+### title_nl
 
 CEO beloningspercentage
 
-### name_it
+### title_it
 
 Tasso di retribuzione del CEO
 
-### name_ro
+### title_ro
 
 Rata de remunerare a CEO
 
-### name_pl
+### title_pl
 
 Wskaźnik wynagrodzeń CEO
 

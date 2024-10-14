@@ -4,31 +4,31 @@
 
 emissions_to_water_tonnes
 
-### name_en
+### title_en
 
 Emissions to water
 
-### name_fr
+### title_fr
 
 Émissions dans l'eau
 
-### name_es
+### title_es
 
 Emisiones al agua
 
-### name_nl
+### title_nl
 
 Emissies naar water
 
-### name_it
+### title_it
 
 Emissioni in acqua
 
-### name_ro
+### title_ro
 
 Emisiile în apă
 
-### name_pl
+### title_pl
 
 Emisje do wody
 

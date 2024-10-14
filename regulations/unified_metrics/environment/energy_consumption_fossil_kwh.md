@@ -5,31 +5,31 @@
 
 energy_consumption_fossil_kwh
 
-### name_en
+### title_en
 
 Total Fossil fuel energy consumption
 
-### name_fr
+### title_fr
 
 Consommation totale d’énergie fossile
 
-### name_es
+### title_es
 
 Consumo total de energía de combustibles fósiles
 
-### name_nl
+### title_nl
 
 Totaal verbruik van fossiele brandstoffen
 
-### name_it
+### title_it
 
 Consumo totale di energia da combustibili fossili
 
-### name_ro
+### title_ro
 
 Consum total de energie din combustibili fosili
 
-### name_pl
+### title_pl
 
 Całkowite zużycie energii z paliw kopalnych
 

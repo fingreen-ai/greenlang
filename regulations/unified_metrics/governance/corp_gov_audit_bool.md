@@ -4,31 +4,31 @@
 
 corp_gov_audit_bool
 
-### name_en
+### title_en
 
 Governance external audit
 
-### name_fr
+### title_fr
 
 Audit externe de gouvernance
 
-### name_es
+### title_es
 
 Auditoría externa de gobernanza
 
-### name_nl
+### title_nl
 
 Externe audit van governance
 
-### name_it
+### title_it
 
 Audit esterno della governance
 
-### name_ro
+### title_ro
 
 Audit extern al guvernării
 
-### name_pl
+### title_pl
 
 Zewnętrzna audyt w zakresie zarządzania
 

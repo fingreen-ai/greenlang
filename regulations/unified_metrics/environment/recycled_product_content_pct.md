@@ -5,31 +5,31 @@
 
 recycled_product_content_pct
 
-### name_en
+### title_en
 
 Recycling in products and packaging
 
-### name_fr
+### title_fr
 
 Recyclage dans les produits et les emballages
 
-### name_es
+### title_es
 
 Reciclaje en productos y envases
 
-### name_nl
+### title_nl
 
 Recycling in producten en verpakkingen
 
-### name_it
+### title_it
 
 Riciclaggio nei prodotti e nell'imballaggio
 
-### name_ro
+### title_ro
 
 Reciclare în produse și ambalaje
 
-### name_pl
+### title_pl
 
 Recykling w produktach i opakowaniach
 

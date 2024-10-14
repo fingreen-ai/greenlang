@@ -4,31 +4,31 @@
 
 inorg_pollutants_tonnes
 
-### name_en
+### title_en
 
 Emissions of inorganic pollutants
 
-### name_fr
+### title_fr
 
 Émissions de polluants inorganiques
 
-### name_es
+### title_es
 
 Emisiones de contaminantes inorgánicos
 
-### name_nl
+### title_nl
 
 Emissies van anorganische verontreinigende stoffen
 
-### name_it
+### title_it
 
 Emissioni di inquinanti inorganici
 
-### name_ro
+### title_ro
 
 Emisiile de poluanți anorganici
 
-### name_pl
+### title_pl
 
 Emisje zanieczyszczeń nieorganicznych
 

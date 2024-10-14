@@ -4,31 +4,31 @@
 
 building_recycled_material_pct
 
-### name_en
+### title_en
 
 Raw materials consumption
 
-### name_fr
+### title_fr
 
 Consommation de matières premières
 
-### name_es
+### title_es
 
 Consumo de materias primas
 
-### name_nl
+### title_nl
 
 Grondstoffenverbruik
 
-### name_it
+### title_it
 
 Consumo di materie prime
 
-### name_ro
+### title_ro
 
 Consum de materiale prime
 
-### name_pl
+### title_pl
 
 Konsumpcja surowców
 

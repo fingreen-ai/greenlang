@@ -4,31 +4,31 @@
 
 energy_nonrenewable_pct
 
-### name_en
+### title_en
 
 Non-renewable energy consumption proportion
 
-### name_fr
+### title_fr
 
 Proportion de la consommation d'énergie non renouvelable
 
-### name_es
+### title_es
 
 Proporción de consumo de energía no renovable
 
-### name_nl
+### title_nl
 
 Niet-hernieuwbare energieconsumptie proportie
 
-### name_it
+### title_it
 
 Proporzione di consumo di energia non rinnovabile
 
-### name_ro
+### title_ro
 
 Proporția consumului de energie nerenovabilă
 
-### name_pl
+### title_pl
 
 Proporcja zużycia energii nieodnawialnej
 

@@ -4,31 +4,31 @@
 
 human_rights_due_diligence_bool
 
-### name_en
+### title_en
 
 Lack of due diligence 
 
-### name_fr
+### title_fr
 
 Manque de diligence raisonnable
 
-### name_es
+### title_es
 
 Falta de diligencia debida
 
-### name_nl
+### title_nl
 
 Gebrek aan zorgvuldigheid
 
-### name_it
+### title_it
 
 Mancanza di diligenza
 
-### name_ro
+### title_ro
 
 Lipsa diligenței
 
-### name_pl
+### title_pl
 
 Brak należytej staranności
 

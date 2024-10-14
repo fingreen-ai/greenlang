@@ -5,31 +5,31 @@
 
 biodiversity_land_use_sqkm
 
-### name_en
+### title_en
 
 Total use of land
 
-### name_fr
+### title_fr
 
 Utilisation totale des terres
 
-### name_es
+### title_es
 
 Uso total de la tierra
 
-### name_nl
+### title_nl
 
 Totaal landgebruik
 
-### name_it
+### title_it
 
 Utilizzo totale del suolo
 
-### name_ro
+### title_ro
 
 Utilizarea totală a terenurilor
 
-### name_pl
+### title_pl
 
 Całkowite wykorzystanie ziemi
 

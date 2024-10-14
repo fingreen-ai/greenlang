@@ -4,31 +4,31 @@
 
 water_stress_area_bool
 
-### name_en
+### title_en
 
 Exposure to areas of high water stress
 
-### name_fr
+### title_fr
 
 Exposition aux zones de stress hydrique élevé
 
-### name_es
+### title_es
 
 Exposición a áreas de alto estrés hídrico
 
-### name_nl
+### title_nl
 
 Blootstelling aan gebieden met hoge waterstress
 
-### name_it
+### title_it
 
 Esposizione a zone ad alto stress idrico
 
-### name_ro
+### title_ro
 
 Expunere la zone cu stres hidric ridicat
 
-### name_pl
+### title_pl
 
 Narażenie na obszary o wysokim stresie wodnym
 

@@ -4,31 +4,31 @@
 
 gender_board_diversity_pct
 
-### name_en
+### title_en
 
 Board gender diversity
 
-### name_fr
+### title_fr
 
 Mixité au sein du conseil
 
-### name_es
+### title_es
 
 Diversidad de género en el consejo
 
-### name_nl
+### title_nl
 
 Bestuursdiversiteit
 
-### name_it
+### title_it
 
 Diversità di genere nel consiglio
 
-### name_ro
+### title_ro
 
 Diversitate de gen în consiliu
 
-### name_pl
+### title_pl
 
 Różnorodność płci w zarządzie
 

@@ -4,31 +4,31 @@
 
 forced_labor_risk_bool
 
-### name_en
+### title_en
 
 Forced labour
 
-### name_fr
+### title_fr
 
 Travail forcé
 
-### name_es
+### title_es
 
 Trabajo for
 
-### name_nl
+### title_nl
 
 Gedwongen arbeid
 
-### name_it
+### title_it
 
 Lavoro forzato
 
-### name_ro
+### title_ro
 
 Muncă forțată
 
-### name_pl
+### title_pl
 
 Praca przym
 

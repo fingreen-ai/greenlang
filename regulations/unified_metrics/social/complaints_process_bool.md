@@ -4,31 +4,31 @@
 
 complaints_process_bool
 
-### name_en
+### title_en
 
 Lack of grievance/complaints handling mechanism related to employee matters
 
-### name_fr
+### title_fr
 
 Absence de mécanisme de traitement des réclamations/plaintes liées aux affaires des employés
 
-### name_es
+### title_es
 
 Ausencia de mecanismo de tratamiento de quejas/reclamaciones relacionadas con asuntos de empleados
 
-### name_nl
+### title_nl
 
 Gebrek aan mechanisme voor de behandeling van klachten/klachten met betrekking tot werknemerszaken
 
-### name_it
+### title_it
 
 Assenza di meccanismo di gestione delle lamentele/reclami relativi alle questioni dei dipendenti
 
-### name_ro
+### title_ro
 
 Lipsa unui mecanism de gestionare a plângerilor/reclamațiilor legate de problemele angajaților
 
-### name_pl
+### title_pl
 
 Brak mechanizmu obsługi skarg/zażaleń związanych z kwestiami pracowniczymi
 

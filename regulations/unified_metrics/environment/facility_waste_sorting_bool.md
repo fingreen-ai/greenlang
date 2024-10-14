@@ -4,31 +4,31 @@
 
 facility_waste_sorting_bool
 
-### name_en
+### title_en
 
 Office waste sorting policy
 
-### name_fr
+### title_fr
 
 Politique de tri des déchets de bureau
 
-### name_es
+### title_es
 
 Política de clasificación de residuos de oficina
 
-### name_nl
+### title_nl
 
 Kantoorafval sorteerbeleid
 
-### name_it
+### title_it
 
 Politica di smaltimento dei rifiuti dell'ufficio
 
-### name_ro
+### title_ro
 
 Politica de sortare a deșeurilor de birou
 
-### name_pl
+### title_pl
 
 Polityka segregacji odpadów biurowych
 

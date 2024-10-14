@@ -4,31 +4,31 @@
 
 healthcare_insurance_bool
 
-### name_en
+### title_en
 
 Healthcare insurance
 
-### name_fr
+### title_fr
 
 Assurance maladie
 
-### name_es
+### title_es
 
 Seguro de salud
 
-### name_nl
+### title_nl
 
 Ziektekostenverzekering
 
-### name_it
+### title_it
 
 Assicurazione sanitaria
 
-### name_ro
+### title_ro
 
 Asigurare medicală
 
-### name_pl
+### title_pl
 
 Ubezpieczenie zdrowotne
 

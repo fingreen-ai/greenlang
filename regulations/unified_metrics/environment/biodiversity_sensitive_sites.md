@@ -5,31 +5,31 @@
 
 biodiversity_sensitive_sites
 
-### name_en
+### title_en
 
 Biodiversity sensitive areas proximity
 
-### name_fr
+### title_fr
 
 Proximité des zones sensibles à la biodiversité
 
-### name_es
+### title_es
 
 Proximidad de las áreas sensibles a la biodiversidad
 
-### name_nl
+### title_nl
 
 Proximiteit van gevoelige biodiversiteitsgebieden
 
-### name_it
+### title_it
 
 Prossimità delle aree sensibili alla biodiversità
 
-### name_ro
+### title_ro
 
 Proximitatea zonelor sensibile de biodiversitate
 
-### name_pl
+### title_pl
 
 Bliskość obszarów wrażliwych na różnorodność biologiczną
 

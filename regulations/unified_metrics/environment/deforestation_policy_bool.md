@@ -4,31 +4,31 @@
 
 deforestation_policy_bool
 
-### name_en
+### title_en
 
 Deforestation policy
 
-### name_fr
+### title_fr
 
 Politique de déforestation
 
-### name_es
+### title_es
 
 Política de deforestación
 
-### name_nl
+### title_nl
 
 Ontbossingsbeleid
 
-### name_it
+### title_it
 
 Politica di deforestazione
 
-### name_ro
+### title_ro
 
 Politica de defrișare
 
-### name_pl
+### title_pl
 
 Polityka wylesiania
 

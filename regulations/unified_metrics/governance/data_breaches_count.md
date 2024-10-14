@@ -4,31 +4,31 @@
 
 data_breaches_count
 
-### name_en
+### title_en
 
 Data breaches
 
-### name_fr
+### title_fr
 
 Violations de données
 
-### name_es
+### title_es
 
 Violaciones de datos
 
-### name_nl
+### title_nl
 
 Datalekken
 
-### name_it
+### title_it
 
 Violazioni dei dati
 
-### name_ro
+### title_ro
 
 Încălcări ale datelor
 
-### name_pl
+### title_pl
 
 Wycieki danych
 

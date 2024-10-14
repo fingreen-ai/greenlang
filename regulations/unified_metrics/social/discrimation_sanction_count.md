@@ -4,31 +4,31 @@
 
 discrimation_sanction_count
 
-### name_en
+### title_en
 
 Discrimination incidents sanctioned
 
-### name_fr
+### title_fr
 
 Incidents de discrimination sanctionnés
 
-### name_es
+### title_es
 
 Discriminación incidentes sancionados
 
-### name_nl
+### title_nl
 
 Discriminatie-incidenten gesanctioneerd
 
-### name_it
+### title_it
 
 Incidenti di discriminazione sanzionati
 
-### name_ro
+### title_ro
 
 Incidente de discriminare sancționate
 
-### name_pl
+### title_pl
 
 Incydenty dyskryminacji ukarane
 

@@ -4,31 +4,31 @@
 
 controversial_weapons_exposure_bool
 
-### name_en
+### title_en
 
 Controversial weapons
 
-### name_fr
+### title_fr
 
 Armes controversées
 
-### name_es
+### title_es
 
 Armas controvertidas
 
-### name_nl
+### title_nl
 
 Controversiële wapens
 
-### name_it
+### title_it
 
 Armi controverse
 
-### name_ro
+### title_ro
 
 Arme controversate
 
-### name_pl
+### title_pl
 
 Kontrowersyjne bronie
 

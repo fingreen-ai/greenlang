@@ -5,31 +5,31 @@
 
 collective_bargain_agreement_pct
 
-### name_en
+### title_en
 
 Collective bargaining agreements
 
-### name_fr
+### title_fr
 
 Conventions collectives
 
-### name_es
+### title_es
 
 Acuerdos de negociación colectiva
 
-### name_nl
+### title_nl
 
 Collectieve arbeidsovereenkomsten
 
-### name_it
+### title_it
 
 Contratti collettivi
 
-### name_ro
+### title_ro
 
 Contracte colective de muncă
 
-### name_pl
+### title_pl
 
 Umowy zbiorowe
 

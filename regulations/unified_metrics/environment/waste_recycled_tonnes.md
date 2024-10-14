@@ -5,31 +5,31 @@
 
 waste_recycled_tonnes
 
-### name_en
+### title_en
 
 Waste diverted to recycle or reuse
 
-### name_fr
+### title_fr
 
 Déchets détournés pour être recyclés ou réutilisés
 
-### name_es
+### title_es
 
 Residuos desviados para reciclar o reutilizar
 
-### name_nl
+### title_nl
 
 Afval omgeleid om te recyclen of hergebruiken
 
-### name_it
+### title_it
 
 Rifiuti deviati per riciclo o riutilizzo
 
-### name_ro
+### title_ro
 
 Deșeuri redirecționate pentru reciclare sau reutilizare
 
-### name_pl
+### title_pl
 
 Odpady przekierowane do recyklingu lub ponownego użycia
 

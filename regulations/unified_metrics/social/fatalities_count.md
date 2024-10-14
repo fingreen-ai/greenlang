@@ -5,31 +5,31 @@
 
 fatalities_count
 
-### name_en
+### title_en
 
 Work fatalities
 
-### name_fr
+### title_fr
 
 Décès au travail
 
-### name_es
+### title_es
 
 Muertes laborales
 
-### name_nl
+### title_nl
 
 Werkdoden
 
-### name_it
+### title_it
 
 Morti sul lavoro
 
-### name_ro
+### title_ro
 
 Decese la locul de muncă
 
-### name_pl
+### title_pl
 
 Ofiary śmiertelne w pracy
 

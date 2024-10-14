@@ -5,31 +5,31 @@
 
 biodiversity_nature_onsite_sqkm
 
-### name_en
+### title_en
 
 Total nature-oriented area on site
 
-### name_fr
+### title_fr
 
 Espace total orienté vers la nature sur site
 
-### name_es
+### title_es
 
 Área total orientada a la naturaleza en el sitio
 
-### name_nl
+### title_nl
 
 Totale natuur-georiënteerde oppervlakte op locatie
 
-### name_it
+### title_it
 
 Area totale orientata alla natura sul sito
 
-### name_ro
+### title_ro
 
 Suprafața totală orientată spre natură pe site
 
-### name_pl
+### title_pl
 
 Całkowita powierzchnia zorientowana na naturę na miejscu
 

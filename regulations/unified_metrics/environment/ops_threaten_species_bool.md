@@ -4,31 +4,31 @@
 
 ops_threaten_species_bool
 
-### name_en
+### title_en
 
 Threatened species
 
-### name_fr
+### title_fr
 
 Espèces menacées
 
-### name_es
+### title_es
 
 Especies amenazadas
 
-### name_nl
+### title_nl
 
 Bedreigde soorten
 
-### name_it
+### title_it
 
 Specie minacciate
 
-### name_ro
+### title_ro
 
 Specii amenințate
 
-### name_pl
+### title_pl
 
 Gatunki zagrożone
 

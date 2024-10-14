@@ -4,31 +4,31 @@
 
 days_lost_count
 
-### name_en
+### title_en
 
 Number of days lost to injuries, accidents, fatalities or illness 
 
-### name_fr
+### title_fr
 
 Nombre de jours perdus en raison de blessures, d'accidents, de décès ou de maladies
 
-### name_es
+### title_es
 
 Número de días perdidos por lesiones, accidentes, fatalidades o enfermedades
 
-### name_nl
+### title_nl
 
 Aantal dagen verloren door letsel, ongevallen, sterfgevallen of ziekte
 
-### name_it
+### title_it
 
 Numero di giorni persi per lesioni, incidenti, morti o malattie
 
-### name_ro
+### title_ro
 
 Numărul de zile pierdute din cauza leziunilor, accidentelor, deceselor sau bolilor
 
-### name_pl
+### title_pl
 
 Liczba dni utraconych z powodu obrażeń, wypadków, zgonów lub chorób
 

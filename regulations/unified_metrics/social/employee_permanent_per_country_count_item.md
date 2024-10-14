@@ -4,31 +4,31 @@
 
 employee_permanent_per_country_count_item
 
-### name_en
+### title_en
 
 Item - Full-time employees by country
 
-### name_fr
+### title_fr
 
 Element - Employés à temps plein par pays
 
-### name_es
+### title_es
 
 Elemento - Empleados a tiempo completo por país
 
-### name_nl
+### title_nl
 
 Item - Fulltime werknemers per land
 
-### name_it
+### title_it
 
 Elemento - Dipendenti a tempo pieno per paese
 
-### name_ro
+### title_ro
 
 Element - Angajați cu normă întreagă pe țară
 
-### name_pl
+### title_pl
 
 Element - Pracownicy na pełny etat według kraju
 

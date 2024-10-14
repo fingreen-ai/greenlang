@@ -4,31 +4,31 @@
 
 child_labor_risk_bool
 
-### name_en
+### title_en
 
 Child labour risks
 
-### name_fr
+### title_fr
 
 Risques liés au travail des enfants
 
-### name_es
+### title_es
 
 Riesgos de trabajo infantil
 
-### name_nl
+### title_nl
 
 Kinderarbeidsrisico's
 
-### name_it
+### title_it
 
 Rischi di lavoro minorile
 
-### name_ro
+### title_ro
 
 Riscuri de muncă pentru copii
 
-### name_pl
+### title_pl
 
 Ryzyko pracy dzieci
 

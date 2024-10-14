@@ -4,31 +4,31 @@
 
 ocean_sea_policy_bool
 
-### name_en
+### title_en
 
 Sustainable oceans/seas practices 
 
-### name_fr
+### title_fr
 
 Pratiques durables pour les océans/mers
 
-### name_es
+### title_es
 
 Prácticas sostenibles para los océanos/mares
 
-### name_nl
+### title_nl
 
 Duurzame oceanen/zeeën praktijken
 
-### name_it
+### title_it
 
 Pratiche sostenibili per oceani/mari
 
-### name_ro
+### title_ro
 
 Practici durabile pentru oceane/mări
 
-### name_pl
+### title_pl
 
 Zrównoważone praktyki dla oceanów/mórz
 

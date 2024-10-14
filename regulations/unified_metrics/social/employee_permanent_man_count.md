@@ -5,31 +5,31 @@
 
 employee_permanent_man_count
 
-### name_en
+### title_en
 
 Full-time male employees
 
-### name_fr
+### title_fr
 
 Employés à temps plein masculins
 
-### name_es
+### title_es
 
 Empleados a tiempo completo masculinos
 
-### name_nl
+### title_nl
 
 Mannelijke werknemers met een voltijdscontract
 
-### name_it
+### title_it
 
 Dipendenti a tempo pieno maschili
 
-### name_ro
+### title_ro
 
 Angajați bărbați cu normă întreagă
 
-### name_pl
+### title_pl
 
 Pracownicy płci męskiej zatrudnieni na pełen etat
 

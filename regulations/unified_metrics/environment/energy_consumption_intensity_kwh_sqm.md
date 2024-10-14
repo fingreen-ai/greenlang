@@ -4,31 +4,31 @@
 
 energy_consumption_intensity_kwh_sqm
 
-### name_en
+### title_en
 
 Energy Consumption intensity
 
-### name_fr
+### title_fr
 
 Intensité de la consommation d'énergie
 
-### name_es
+### title_es
 
 Intensidad de consumo de energía
 
-### name_nl
+### title_nl
 
 Energieverbruiksintensiteit
 
-### name_it
+### title_it
 
 Intensità del consumo di energia
 
-### name_ro
+### title_ro
 
 Intensitatea consumului de energie
 
-### name_pl
+### title_pl
 
 Intensywność zużycia energii
 
