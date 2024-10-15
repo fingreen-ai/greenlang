@@ -1,0 +1,25 @@
+## Disclosure Requirement E1-4 – Targets related to climate change mitigation and adaptation
+
+**_30._** The undertaking shall disclose the climate-related targets it has set.
+
+**_31._** The objective of this Disclosure Requirement is to enable an understanding of the targets the undertaking has set to support its climate change mitigation and adaptation policies and address its material climate-related impacts, risks and opportunities.
+
+**_32._** The disclosure of the targets required in paragraph 30 shall contain the information required in ESRS 2 MDR-T Tracking effectiveness of policies and actions through targets.
+
+**_33._** For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.
+
+**_34._** If the undertaking has set GHG emission reduction targets (32), ESRS 2 MDR-T and the following requirements shall apply:
+
+	- (a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year) and, where relevant, in intensity value;
+
+	- (b) GHG emission reduction targets shall be disclosed for Scope 1, 2, and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes (1, 2 and/or 3) are covered by the target, the share related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;
+
+	- (c) the undertaking shall disclose its current base year and baseline value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;
+
+	- (d) GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;
+
+	- (e) the undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions;
+
+	- (f) the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy, phase out or substitution of product and process).
+
+**(32)** This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 (SFDR) because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #4 in Table II of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Investments in companies without carbon emission reduction initiatives”); and is aligned with the Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark Regulation), Article 6. 

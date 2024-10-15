@@ -1,0 +1,30 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+purchased-electricity,location-based-method,location,,United Kingdom,,kwh,0.193380,https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2022,2022
+purchased-electricity,location-based-method,location,,Austria,,kwh,0.132000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1641,2020
+purchased-electricity,location-based-method,location,,Belgium,,kwh,0.183000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1642,2020
+purchased-electricity,location-based-method,location,,Bulgaria,,kwh,0.530000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1643,2020
+purchased-electricity,location-based-method,location,,Croatia,,kwh,0.146000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1644,2020
+purchased-electricity,location-based-method,location,,Cyprus,,kwh,0.686000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1645,2020
+purchased-electricity,location-based-method,location,,Czech Republic,,kwh,0.596000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1646,2020
+purchased-electricity,location-based-method,location,,Denmark,,kwh,0.061000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1647,2020
+purchased-electricity,location-based-method,location,,Estonia,,kwh,0.419000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1648,2020
+purchased-electricity,location-based-method,location,,Finland,,kwh,0.067000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1649,2020
+purchased-electricity,location-based-method,location,,France,,kwh,0.067000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1650,2020
+purchased-electricity,location-based-method,location,,Germany,,kwh,0.376000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1651,2020
+purchased-electricity,location-based-method,location,,Greece,,kwh,0.378000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1652,2020
+purchased-electricity,location-based-method,location,,Hungary,,kwh,0.187000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1653,2020
+purchased-electricity,location-based-method,location,,Ireland,,kwh,0.297000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1654,2020
+purchased-electricity,location-based-method,location,,Italy,,kwh,0.268000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1655,2020
+purchased-electricity,location-based-method,location,,Latvia,,kwh,0.076000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1656,2020
+purchased-electricity,location-based-method,location,,Lithuania,,kwh,0.060000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1657,2020
+purchased-electricity,location-based-method,location,,Luxembourg,,kwh,0.016000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1658,2020
+purchased-electricity,location-based-method,location,,Malta,,kwh,0.349000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1659,2020
+purchased-electricity,location-based-method,location,,Netherlands,,kwh,0.339000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1660,2020
+purchased-electricity,location-based-method,location,,Poland,,kwh,0.725000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1661,2020
+purchased-electricity,location-based-method,location,,Portugal,,kwh,0.214000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1662,2020
+purchased-electricity,location-based-method,location,,Romania,,kwh,0.333000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1663,2020
+purchased-electricity,location-based-method,location,,Slovak Republic,,kwh,0.188000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1664,2020
+purchased-electricity,location-based-method,location,,Slovenia,,kwh,0.299000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1665,2020
+purchased-electricity,location-based-method,location,,Spain,,kwh,0.186000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1666,2020
+purchased-electricity,location-based-method,location,,Sweden,,kwh,0.014000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1667,2020
+purchased-electricity,location-based-method,location,,EU-27,,kwh,0.255000,https://data.jrc.ec.europa.eu/dataset/919df040-0252-4e4e-ad82-c054896e1670,2020

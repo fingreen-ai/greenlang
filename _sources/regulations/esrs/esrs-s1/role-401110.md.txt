@@ -1,0 +1,19 @@
+## Disclosure Requirement S1-11 – Social protection
+
+72. The undertaking shall disclose whether its employees are covered by social protection against loss of income due to major life events, and, if not, the countries where this is not the case.
+
+73. The objective of this Disclosure Requirement is to enable an understanding of whether the undertaking’s employees are covered by social protection against loss of income due to major life events, and, if not, the countries where this is not the case.
+
+74. The undertaking shall disclose whether all its employees are covered by social protection, through public programs or through benefits offered by the undertaking, against loss of income due to any of the following major life events:
+
+	- (a) sickness;
+	- (b) unemployment starting from when the own worker is working for the undertaking;
+	- (c) employment injury and acquired disability;
+	- (d) parental leave; and
+	- (e) retirement.
+
+If so, stating this is sufficient to fulfil this disclosure requirement and no further information is needed.
+
+75. If not all of its employees are covered by social protection in accordance with paragraph 72, the undertaking shall in addition disclose the countries where employees do not have social protection with regard to one or more of the types of events listed in paragraph 72 and for each of those countries the types of employees who do not have social protection with regard to each applicable major life event.
+
+76. The undertaking may also disclose the information specified in this disclosure requirement with regard to non-employees in its workforce. 

@@ -1,0 +1,28 @@
+## Disclosure Requirement related to ESRS 2 IRO-1 Description of processes to identify and assess material biodiversity and ecosystem-related impacts, risks, dependencies and opportunities
+
+17. The undertaking shall describe its process to identify material impacts, risks, dependencies and opportunities. The description of the process shall include whether and how the undertaking:
+
+	- (a) identified and assessed actual and potential impacts on biodiversity and ecosystems at own site locations and in the upstream and downstream value chain, including assessment criteria applied; 
+	- (b) identified and assessed dependencies on biodiversity and ecosystems and their services at own site locations and in the upstream and downstream value chain, including assessment criteria applied, and, if this assessment includes ecosystem services that are disrupted or likely to be; 
+	- (c) identified and assessed transition and physical risks and opportunities related to biodiversity and ecosystems, including assessment criteria applied based on its impacts and dependencies; 
+	- (d) considered systemic risks; 
+	- (e) Conducted consultations with affected communities on sustainability assessments of shared biological resources and ecosystems and, in particular:
+		+ i. When a site, a raw material production or sourcing is likely to negatively impact biodiversity and ecosystems, the identification of the specific sites, raw materials production or sourcing with negative or potentially negative impacts on affected communities; 
+		+ ii. When affected communities are likely to be impacted, the undertaking shall disclose how these communities were involved in the materiality assessment; and 
+		+ iii. With respect to impacts on ecosystem services of relevance to affected communities in its own operations, the undertaking shall indicate how negative impacts may be avoided. If these impacts are unavoidable, the undertaking may indicate its plans to minimise them and implement mitigation measures that aim to maintain the value and functionality of priority services. 
+
+18. The undertaking may disclose whether and how it has used biodiversity and ecosystems scenario analysis to inform the identification and assessment of material risks and opportunities over short-, medium- and long-term time horizons. If the undertaking has used such scenario analysis, it may disclose the following information:
+
+- a. Why the considered scenarios were selected; 
+- b. How the considered scenarios are updated according to evolving conditions and emerging trends; and 
+- c. Whether the scenarios are informed by expectations published by authoritative intergovernmental bodies, such as the Convention for Biological Diversity and, where relevant, by scientific consensus, such as that expressed by the Intergovernmental Science-policy Platform on Biodiversity and Ecosystem Services (IPBES). 
+
+19. The undertaking shall specifically disclose:
+
+- a. Whether or not it has sites located in or near biodiversity-sensitive areas and whether activities related to these sites negatively affect these areas by leading to the deterioration of natural habitats and the habitats of species and to the disturbance of the species for which a protected area has been designated;(73) and 
+- b. Whether it has been concluded that it is necessary to implement biodiversity mitigation measures, such as those identified in: Directive 2009/147/EC of the European Parliament and of the Council on the conservation of wild birds; Council Directive 92/43/EEC on the conservation of natural habitats and of wild fauna and flora; an Environmental Impact Assessment (EIA) as defined in Article 1(2), point 	- (g), of Directive 2011/92/EU(76) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment; and for activities located in third countries, in accordance with equivalent national provisions or international standards, such as the International Finance Corporation (IFC) Performance Standard 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources.
+
+---
+(73) This information supports the information needs of financial markets participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #7 in Table 1 Annex 1 of the related Delegated Regulation with regard to disclosure rules on sustainable investments ("Activities negatively affecting biodiversity-sensitive areas").
+
+(76) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).

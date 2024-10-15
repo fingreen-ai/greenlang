@@ -1,0 +1,31 @@
+## Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction with strategy and business model
+
+10. When responding to ESRS 2 SBM-3 paragraph 48, the undertaking shall disclose:
+
+	- (a) whether and how actual and potential impacts on value chain workers, as identified in ESRS 2 IRO-1 Description of the processes to identify and assess material impacts, risks and opportunities: 	- (i) originate from or are connected to the undertaking’s strategy and business models, and (ii) inform and contribute to adapting the undertaking’s strategy and business model; and
+	- (b) the relationship between on the one hand its material risks and opportunities arising from impacts and dependencies on value chain workers, and on the other hand its strategy and business model.
+
+11. When fulfilling the requirements of paragraph ESRS 2 SBM-3 paragraph 48, the undertaking shall disclose whether all value chain workers who are likely to be materially impacted by the undertaking, including impacts that are connected with the undertaking’s own operations and value chain, including through its products or services, as well as through its business relationships, are included in the scope of its disclosure under ESRS 2. In addition, the undertaking shall provide the following information:
+
+	- (a) a brief description of the types of value chain workers who could be materially impacted by the undertaking, including impacts that connected with the undertaking’s own operations and value chain, including through its products or services, as well as through its business relationships, and specify whether they are:
+    -
+		+ i. employees of entities in its value chain;
+    -
+		+ ii. individual contractors, i.e., self-employed workers, supplying labour to entities in its value chain;
+    -
+		+ iii. workers provided by undertakings primarily engaged in “employment activities” to entities in its value chain;
+    - iv. other types of workers specific to the undertaking’s sector	- (s) and business model	- (s) who could be materially impacted by the undertaking, such as small-scale farmers or fishers working in its supply chain or workers engaged in waste or recycling activities in its downstream value chain.
+
+	- (b) any geographies, at country level or other levels, or commodities for which there is a significant risk of child labour, or of forced labour or compulsory labour, among workers in the undertaking’s value chain (104);
+
+	- (c) in the case of material negative impacts, whether they are either 	- (i) widespread or systemic in contexts where the undertaking operates or has sourcing or other business relationships (e.g., child labour or forced labour in particular commodity supply chains in specific countries or regions), or (ii) related to individual incidents (e.g., an industrial accident or an oil spill) or to specific business relationships. This includes consideration of impacts on value chain workers that may arise from the transition to greener and climate-neutral operations. Potential impacts include impacts associated with innovation and restructuring, closure of mines, increased mining of minerals needed for the transition to a sustainable economy and solar panel production;
+
+	- (d) in the case of material positive impacts, a brief description of the activities that result in the positive impacts (e.g., updated purchasing practices, capacity-building to supply chain workers), including providing opportunities for the workforce such as job creation and upskilling in the context of a ‘just transition’, and the types of value chain workers that are positively affected or could be positively affected; the undertaking may also disclose whether the positive impacts occur in specific countries or regions; and
+
+	- (e) any material risks and opportunities for the undertaking arising from impacts and dependencies on value chain workers.
+
+12. In describing the main types of value chain workers who are or could be negatively affected, based on the materiality assessment set out in ESRS 2 IRO-1, the undertaking shall disclose whether and how it has developed an understanding of how workers with particular characteristics, those working in particular contexts, or those undertaking particular activities may be at greater risk of harm.
+
+13. The undertaking shall disclose which, if any, of its material risks and opportunities arising from impacts and dependencies on its value chain workers relate to specific groups of value chain workers (for example, particular age groups, workers in a particular factory or country) rather than to all of the value chain workers. 
+
+**(104)  This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #12 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Significant risk of child labour or forced labour in the value chain”).** 

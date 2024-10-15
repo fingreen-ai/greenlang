@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Calculations" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://greenlang.fingreen.ai/calculations/index.html" />
+<meta property="og:site_name" content="Fingreen AI Greenlang" />
+<meta property="og:description" content="GHG Protocol: Common- Generic calculation implementations- BaseCalculationMethod., Generic forms- PredefinedFactorCalculationMethodForm, CustomFactorCalculationMethodForm, SupplierSpecificMethodFor..." />
+<meta property="og:image" content="https://fingreen.ai/static/web_landing/img/fingreen/about/greenlang_2.png" />
+<meta property="og:image:alt" content="Fingreen AI Greenlang" />
+<meta name="description" content="GHG Protocol: Common- Generic calculation implementations- BaseCalculationMethod., Generic forms- PredefinedFactorCalculationMethodForm, CustomFactorCalculationMethodForm, SupplierSpecificMethodFor..." />
+
+      <title>Calculations</title>
+    
+          <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../_static/documentation_options.js?v=e3a6060d"></script>
+        <script src="../_static/doctools.js?v=9bcbadda"></script>
+        <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../_static/theme-vendors.js"></script> -->
+      <script src="../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/calculations/index.html" />
+    
+  <link rel="index" title="Index" href="../genindex.html" />
+  <link rel="search" title="Search" href="../search.html" />
+  <link rel="next" title="Common" href="ghg/base/base.html" />
+  <link rel="prev" title="&lt;no title&gt;" href="../regulations/esrs/esrs-other/role-601010.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="current">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../regulations/index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 current">
+            
+              <a href="#" class="reference internal current">Calculations</a>
+            
+
+            
+              <ul>
+                
+                  <li class="toctree-l2"><a href="#ghg-protocol" class="reference internal">GHG Protocol</a></li>
+                
+                  <li class="toctree-l2"><a href="#sfdr" class="reference internal">SFDR</a></li>
+                
+              </ul>
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../index.html">Docs</a> &raquo;</li>
+    
+    <li>Calculations</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="../regulations/esrs/esrs-other/role-601010.html"
+       title="previous chapter">← &lt;no title&gt;</a>
+  </li>
+  <li class="next">
+    <a href="ghg/base/base.html"
+       title="next chapter">Common →</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <section id="calculations">
+<h1>Calculations<a class="headerlink" href="#calculations" title="Link to this heading">¶</a></h1>
+<section id="ghg-protocol">
+<h2>GHG Protocol<a class="headerlink" href="#ghg-protocol" title="Link to this heading">¶</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="ghg/base/base.html">Common</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="ghg/base/base.html#generic-calculation-implementations">Generic calculation implementations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/base/base.html#greenlang.calculations.ghg.base.base.BaseCalculationMethod"><code class="docutils literal notranslate"><span class="pre">BaseCalculationMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ghg/base/base.html#generic-forms">Generic forms</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/base/base.html#greenlang.calculations.ghg.base.forms.PredefinedFactorCalculationMethodForm"><code class="docutils literal notranslate"><span class="pre">PredefinedFactorCalculationMethodForm</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/base/base.html#greenlang.calculations.ghg.base.forms.CustomFactorCalculationMethodForm"><code class="docutils literal notranslate"><span class="pre">CustomFactorCalculationMethodForm</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/base/base.html#greenlang.calculations.ghg.base.forms.SupplierSpecificMethodForm"><code class="docutils literal notranslate"><span class="pre">SupplierSpecificMethodForm</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/base/base.html#greenlang.calculations.ghg.base.forms.CustomAverageDataMethodForm"><code class="docutils literal notranslate"><span class="pre">CustomAverageDataMethodForm</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="ghg/scope_1/scope_1.html">Scope 1</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="ghg/scope_1/scope_1.html#calculation-method-implementations">Calculation method implementations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_1/scope_1.html#category-1-stationary-combustion">Category 1: Stationary Combustion</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.stationary_combustion.GenericMethod"><code class="docutils literal notranslate"><span class="pre">GenericMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_1/scope_1.html#category-2-mobile-combustion">Category 2: Mobile Combustion</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.mobile_combustion.FuelAmountMethod"><code class="docutils literal notranslate"><span class="pre">FuelAmountMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_1/scope_1.html#greenlang.calculations.ghg.scope_1.mobile_combustion.VehicleTypeMethod"><code class="docutils literal notranslate"><span class="pre">VehicleTypeMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_1/scope_1.html#category-3-fugitive-emissions">Category 3: Fugitive Emissions</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ghg/scope_1/scope_1.html#forms">Forms</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_1/scope_1.html#id1">Category 3: Fugitive Emissions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="ghg/scope_2/scope_2.html">Scope 2</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="ghg/scope_2/scope_2.html#calculation-implementations">Calculation implementations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_2/scope_2.html#category-1-purchased-electricity">Category 1: Purchased Electricity</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_2/scope_2.html#greenlang.calculations.ghg.scope_2.purchased_electricity.LocationBasedMethod"><code class="docutils literal notranslate"><span class="pre">LocationBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_2/scope_2.html#greenlang.calculations.ghg.scope_2.purchased_electricity.MarketBasedMethod"><code class="docutils literal notranslate"><span class="pre">MarketBasedMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_2/scope_2.html#category-2-purchased-heat-or-steam">Category 2: Purchased Heat or Steam</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_2/scope_2.html#greenlang.calculations.ghg.scope_2.purchased_heat_or_steam.LocationBasedMethod"><code class="docutils literal notranslate"><span class="pre">LocationBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_2/scope_2.html#greenlang.calculations.ghg.scope_2.purchased_heat_or_steam.MarketBasedMethod"><code class="docutils literal notranslate"><span class="pre">MarketBasedMethod</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ghg/scope_2/scope_2.html#forms">Forms</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_2/scope_2.html#id1">Category 1: Purchased Electricity</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_2/scope_2.html#greenlang.calculations.ghg.scope_2.forms.purchased_electricity.EnergySupplierForm"><code class="docutils literal notranslate"><span class="pre">EnergySupplierForm</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_2/scope_2.html#id2">Category 2: Purchased Heat or Steam</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_2/scope_2.html#greenlang.calculations.ghg.scope_2.forms.purchased_heat_or_steam.EnergySupplierForm"><code class="docutils literal notranslate"><span class="pre">EnergySupplierForm</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="ghg/scope_3/scope_3.html">Scope 3</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="ghg/scope_3/scope_3.html#calculation-implementations">Calculation implementations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-1-purchased-goods-and-services">Category 1: Purchased goods and services</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SpendBasedMethod"><code class="docutils literal notranslate"><span class="pre">SpendBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.SupplierSpecificMethod"><code class="docutils literal notranslate"><span class="pre">SupplierSpecificMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.purchased_goods_and_services.AverageDataMethod"><code class="docutils literal notranslate"><span class="pre">AverageDataMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-2-capital-goods">Category 2: Capital goods</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.capital_goods.SpendBasedMethod"><code class="docutils literal notranslate"><span class="pre">SpendBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.capital_goods.SupplierSpecificMethod"><code class="docutils literal notranslate"><span class="pre">SupplierSpecificMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.capital_goods.AverageDataMethod"><code class="docutils literal notranslate"><span class="pre">AverageDataMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-3-fuel-and-energy-related-activities">Category 3: Fuel- and energy-related activities</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.fuel_and_energy_related_activities.AutomaticMethod"><code class="docutils literal notranslate"><span class="pre">AutomaticMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-4-upstream-transportation-and-distribution">Category 4: Upstream transportation and distribution</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.SpendBasedMethod"><code class="docutils literal notranslate"><span class="pre">SpendBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.upstream_transportation_and_distribution.DistanceBasedMethod"><code class="docutils literal notranslate"><span class="pre">DistanceBasedMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-5-waste-generated-in-operations">Category 5: Waste generated in operations</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.WasteTypeMethod"><code class="docutils literal notranslate"><span class="pre">WasteTypeMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.SupplierSpecificMethod"><code class="docutils literal notranslate"><span class="pre">SupplierSpecificMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.waste_generated_in_operations.AverageDataMethod"><code class="docutils literal notranslate"><span class="pre">AverageDataMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-6-business-travels">Category 6: Business travels</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.business_travels.SpendBasedMethod"><code class="docutils literal notranslate"><span class="pre">SpendBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.business_travels.DistanceBasedMethod"><code class="docutils literal notranslate"><span class="pre">DistanceBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.business_travels.AccomodationLocationMethod"><code class="docutils literal notranslate"><span class="pre">AccomodationLocationMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-7-employee-commuting">Category 7: Employee commuting</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.employee_commuting.TransportationDistanceBasedMethod"><code class="docutils literal notranslate"><span class="pre">TransportationDistanceBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.employee_commuting.TransportationFuelAmountMethod"><code class="docutils literal notranslate"><span class="pre">TransportationFuelAmountMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeElectricityUseMethod"><code class="docutils literal notranslate"><span class="pre">HomeOfficeElectricityUseMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeHeatingNeedsMethod"><code class="docutils literal notranslate"><span class="pre">HomeOfficeHeatingNeedsMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.employee_commuting.HomeOfficeCoolingNeedsMethod"><code class="docutils literal notranslate"><span class="pre">HomeOfficeCoolingNeedsMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-8-upstream-leased-assets">Category 8: Upstream leased assets</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.leased_assets.LeasedBuildingsAssetSpecificMethod"><code class="docutils literal notranslate"><span class="pre">LeasedBuildingsAssetSpecificMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.leased_assets.LeasedBuildingsAverageDataMethod"><code class="docutils literal notranslate"><span class="pre">LeasedBuildingsAverageDataMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.leased_assets.LeasedVehiclesFuelAmountMethod"><code class="docutils literal notranslate"><span class="pre">LeasedVehiclesFuelAmountMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.leased_assets.LeasedVehiclesVehicleTypeMethod"><code class="docutils literal notranslate"><span class="pre">LeasedVehiclesVehicleTypeMethod</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#category-9-downstream-transportation-and-distribution">Category 9: Downstream transportation and distribution</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.SpendBasedMethod"><code class="docutils literal notranslate"><span class="pre">SpendBasedMethod</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.downstream_transportation_and_distribution.DistanceBasedMethod"><code class="docutils literal notranslate"><span class="pre">DistanceBasedMethod</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="ghg/scope_3/scope_3.html#forms">Forms</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#id1">Category 3: Fuel- and energy-related activities</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.forms.fuel_and_energy_related_activities.AutomaticMethodForm"><code class="docutils literal notranslate"><span class="pre">AutomaticMethodForm</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#id2">Category 5: Waste generated in operations</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.forms.waste_generated_in_operations.WasteTreatmentForm"><code class="docutils literal notranslate"><span class="pre">WasteTreatmentForm</span></code></a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="ghg/scope_3/scope_3.html#id3">Category 8: Upstream leased assets</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.forms.leased_assets.LeasedBuildingsAssetSpecificMethodForm"><code class="docutils literal notranslate"><span class="pre">LeasedBuildingsAssetSpecificMethodForm</span></code></a></li>
+<li class="toctree-l4"><a class="reference internal" href="ghg/scope_3/scope_3.html#greenlang.calculations.ghg.scope_3.forms.leased_assets.LeasedBuildingsAverageDataMethodForm"><code class="docutils literal notranslate"><span class="pre">LeasedBuildingsAverageDataMethodForm</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+<section id="sfdr">
+<h2>SFDR<a class="headerlink" href="#sfdr" title="Link to this heading">¶</a></h2>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="sfdr/sfdr.html">SFDR</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="sfdr/sfdr.html#calculation-implementations">Calculation implementations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_ghg_scope_1_tonnes.Scope1GhgEmissions"><code class="docutils literal notranslate"><span class="pre">Scope1GhgEmissions</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_ghg_scope_2_tonnes.Scope2GhgEmissions"><code class="docutils literal notranslate"><span class="pre">Scope2GhgEmissions</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_ghg_scope_3_tonnes.Scope3GhgEmissions"><code class="docutils literal notranslate"><span class="pre">Scope3GhgEmissions</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_ghg_total_tonnes.TotalGhgEmissions"><code class="docutils literal notranslate"><span class="pre">TotalGhgEmissions</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_carbon_footprint.CarbonFootprint"><code class="docutils literal notranslate"><span class="pre">CarbonFootprint</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_ghg_intensity_investees.GhgIntensityOfInvesteeCompanies"><code class="docutils literal notranslate"><span class="pre">GhgIntensityOfInvesteeCompanies</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_fossil_fuel_exposure.FossilFuelExposure"><code class="docutils literal notranslate"><span class="pre">FossilFuelExposure</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_non_renewable_energy.NonRenewableEnergy"><code class="docutils literal notranslate"><span class="pre">NonRenewableEnergy</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_energy_intensity_impact_sector.EnergyConsumptionPerSector"><code class="docutils literal notranslate"><span class="pre">EnergyConsumptionPerSector</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_sensitive_area_affect.BiodiversityImpact"><code class="docutils literal notranslate"><span class="pre">BiodiversityImpact</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_emission_to_water.EmissionsToWater"><code class="docutils literal notranslate"><span class="pre">EmissionsToWater</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_hazardous_waste_ratio.HazardousWaste"><code class="docutils literal notranslate"><span class="pre">HazardousWaste</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_inorg_pollutants.InorganicPollutants"><code class="docutils literal notranslate"><span class="pre">InorganicPollutants</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_oecd_violations.OecdViolations"><code class="docutils literal notranslate"><span class="pre">OecdViolations</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_oecd_monitoring.OecdCompliancePolicies"><code class="docutils literal notranslate"><span class="pre">OecdCompliancePolicies</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_gender_pay_gap.GenderPayGap"><code class="docutils literal notranslate"><span class="pre">GenderPayGap</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_board_gender_diversity.BoardGenderDiversity"><code class="docutils literal notranslate"><span class="pre">BoardGenderDiversity</span></code></a></li>
+<li class="toctree-l3"><a class="reference internal" href="sfdr/sfdr.html#greenlang.calculations.sfdr.pai_controversial_weapons_exposure.ControversialWeaponsExposure"><code class="docutils literal notranslate"><span class="pre">ControversialWeaponsExposure</span></code></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+</section>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="../regulations/esrs/esrs-other/role-601010.html"
+       title="previous chapter">← &lt;no title&gt;</a>
+  </li>
+  <li class="next">
+    <a href="ghg/base/base.html"
+       title="next chapter">Common →</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2024, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 8.1.3 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.9.1.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

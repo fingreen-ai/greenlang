@@ -1,0 +1,19 @@
+## Disclosure Requirement S1-7 – Characteristics of non-employees in the undertaking’s own workforce
+
+53. The undertaking shall describe key characteristics of non-employees in its own workforce.
+
+54. The objective of this Disclosure Requirement is to provide insight into the undertaking’s approach to employment, including the scope and nature of impacts arising from its employment practices, to provide contextual information that aids the understanding of the information reported in other disclosures, and to serve as the basis for calculation for quantitative metrics to be disclosed under other disclosure requirements in this Standard. It also allows an understanding of how much the undertaking relies on non-employees as part of its workforce.
+
+55. The disclosure required by paragraph 53 shall include:
+
+	- (a) a disclosure of the total number of non-employees in the undertaking’s own workforce, i.e., either people with contracts with the undertaking to supply labor (“self-employed people”) or people provided by undertakings primarily engaged in “employment activities” (NACE Code N78). 
+
+	- (b) an explanation of the methodologies and assumptions used to compile the data, including whether the number of non-employees is reported: 
+		+ i. in headcount or full-time equivalent (FTE) (including a definition of how FTE is defined); and 
+		+ ii. at the end of the reporting period, as an average across the reporting period, or using another methodology. 
+
+	- (c) where applicable, a provision of contextual information necessary to understand the data (for example, significant fluctuations in the number of non-employees in the undertaking’s own workforce during the reporting period and between the current and the previous reporting period).
+
+56. For the information specified in point 	- (a) of paragraph 55, the undertaking may disclose the most common types of non-employees (for example, self-employed people, people provided by undertakings primarily engaged in employment activities, and other types relevant to the undertaking), their relationship with the undertaking, and the type of work that they perform. 
+
+57. Where data is not available, the undertaking shall estimate the number and state that it has done so. When the undertaking performs estimates, it shall describe the basis of preparation of this estimation. 

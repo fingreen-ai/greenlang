@@ -1,0 +1,22 @@
+## Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and opportunities and their interaction with strategy and business model
+
+8. When responding to ESRS 2 SBM-3 paragraph 48, the undertaking shall disclose:
+
+1. 	- (a) whether and how actual and potential impacts on affected communities as identified in ESRS 2 IRO-1 Description of the processes to identify and assess material impacts, risks and opportunities: 	- (i) originate from or are connected to the undertaking’s strategy and business models, and (ii) inform and contribute to adapting the undertaking’s strategy and business model;
+2. 	- (b) the relationship between its material risks and opportunities arising from impacts and dependencies on affected communities and its strategy and business model.
+
+9. When fulfilling the requirements of paragraph 48, the undertaking shall disclose whether all affected communities who are likely to be materially impacted by the undertaking, including impacts that are connected with the undertaking’s own operations and value chain, including through its products or services, as well as through its business relationships, are included in the scope of its disclosure under ESRS 2. In addition, the undertaking shall provide the following information:
+
+1. 	- (a) a brief description of the types of communities subject to material impacts by its own operations or through its upstream and downstream value chain, and specify whether they are:
+
+- communities living or working around the undertaking’s operating sites, factories, facilities or other physical operations, or more remote communities affected by activities at those sites (for example by downstream water pollution);
+- communities along the undertaking’s value chain (for example, those affected by the operations of suppliers’ facilities or by the activities of logistics or distribution providers);
+- communities at one or both endpoints of the value chain (for example, at the point of extraction of metals or minerals or harvesting of commodities, or communities around waste or recycling sites);
+- communities of indigenous peoples.
+2. 	- (b) in the case of material negative impacts, whether they are either 	- (i) widespread or systemic in contexts where the undertaking operates or has sourcing or other business relationships (for example, marginalised populations suffering impacts on their health and quality of life in a highly industrialised area), or (ii) related to individual incidents in the undertaking’s own operations (e.g., a toxic waste spill affecting a community’s access to clean drinking water) or in a specific business relationship (e.g., a peaceful protest by communities against business operations that was met with a violent response from the undertaking’s security services). This includes consideration of impacts on affected communities that may arise from the transition to greener and climate-neutral operations. Potential impacts include impacts associated with innovation and restructuring, closure of mines, increased mining of minerals needed for the transition to a sustainable economy and solar panel production;
+3. 	- (c) in the case of material positive impacts, a brief description of the activities that result in the positive impacts (for example, capacity-building to support more and new forms of local livelihoods) and the types of communities that are positively affected or could be positively affected; the undertaking may also disclose whether the positive impacts occur in specific countries or regions; and
+4. 	- (d) any material risks and opportunities for the business arising from impacts and dependencies on affected communities.
+
+10. In describing the main types of communities who are or could be negatively affected, based on the materiality assessment set out in Disclosure Requirement ESRS 2 IRO-1, the undertaking shall disclose whether and how it has developed an understanding of how affected communities with particular characteristics or those living in particular contexts, or those undertaking particular activities may be at greater risk of harm.
+
+11. The undertaking shall disclose which, if any, of its material risks and opportunities arising from impacts and dependencies on affected communities relate to specific groups of affected communities rather than to all affected communities.

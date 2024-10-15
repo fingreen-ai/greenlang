@@ -1,0 +1,31 @@
+# Disclosure Requirement S1-6 – Characteristics of the undertaking’s employees
+
+48. The undertaking shall describe key characteristics of employees in its own workforce.
+
+49. The objective of this Disclosure Requirement is to provide insight into the undertaking’s approach to employment, including the scope and nature of impacts arising from its employment practices, to provide contextual information that aids an understanding of the information reported in other disclosures, and to serve as the basis for calculation for quantitative metrics to be disclosed under other disclosure requirements in this Standard.
+
+50. In addition to the information required by paragraph 40	- (a)iii of ESRS 2 General Disclosures, the undertaking shall disclose:
+
+	- (a) the total number of employees by head count, and breakdowns by gender and by country for countries in which the undertaking has 50 or more employees representing at least 10% of its total number of employees;
+
+	- (b) the total number by head count or full-time equivalent (FTE) of:
+		+ i. permanent employees, and breakdown by gender;
+		+ ii. temporary employees, and breakdown by gender;
+		+ iii. non-guaranteed hours employees, and breakdown by gender.
+
+	- (c) the total number of employees who have left the undertaking during the reporting period and the rate of employee turnover in the reporting period;
+
+	- (d) a description of the methodologies and assumptions used to compile the data, including whether the numbers are reported:
+		+ i. in head count or full-time equivalent (FTE) (including an explanation of how FTE is defined); and
+		+ ii. at the end of the reporting period, as an average across the reporting period, or using another methodology.
+
+	- (e) where applicable, a provision of contextual information necessary to understand the data (for example, to understand fluctuations in the number of employees during the reporting period); and
+
+	- (f) a cross-reference of the information reported under 	- (a) above to the most representative number in the financial statements.
+
+51. For the information specified in point 	- (b) of paragraph 50, the undertaking may in addition disclose the breakdown by region.
+
+52. The undertaking may disclose by head count or full-time equivalent (FTE) the following information:
+
+	- (a) full-time employees, and breakdowns by gender and by region;
+	- (b) part-time employees, and breakdowns by gender and by region. 

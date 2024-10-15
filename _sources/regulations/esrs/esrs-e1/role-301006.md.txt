@@ -1,0 +1,18 @@
+## Disclosure requirement related to ESRS 2 IRO-1 – Description of the processes to identify and assess material climate-related impacts, risks and opportunities
+
+20. The undertaking shall describe the process to identify and assess climate-related impacts, risks and opportunities. This description shall include its process in relation to:
+
+	- (a) impacts on climate change, in particular, the undertaking’s GHG emissions (as required by Disclosure Requirement ESRS E1-6);
+	- (b) climate-related physical risks in own operations and along the upstream and downstream value chain, in particular:
+- -
+		+ i. the identification of climate-related hazards, considering at least high emission climate scenarios; and
+-
+		+ ii. the assessment of how its assets and business activities may be exposed and are sensitive to these climate-related hazards, creating gross physical risks for the undertaking.
+
+	- (c) climate-related transition risks and opportunities in own operations and along the upstream and downstream value chain, in particular:
+
+# 21. Disclosure of Climate-Related Scenario Analysis
+
+When disclosing the information required under paragraphs 20 	- (b) and 20 	- (c), the undertaking shall explain how it has used climate-related scenario analysis, including a range of climate scenarios, to inform the identification and assessment of physical risks and transition risks and opportunities over the short-, medium- and long-term. 
+
+31 ( ) This information is aligned with the Regulation (EU) 2021/1119 of the European Parliament and of the Council (EU Climate Law), 29 Article 2 (1); and with Commission Delegated Regulation (EU) 2020/1818 (Climate Benchmark Regulation), Articles 12.1 	- (d) to 	- (g) and 12.2. 

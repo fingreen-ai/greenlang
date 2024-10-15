@@ -1,0 +1,26 @@
+## Disclosure Requirement E5-3 – Targets related to resource use and circular economy
+
+21. The undertaking shall disclose the resource use and circular economy-related targets it has set.
+
+22. The objective of this Disclosure Requirement is to enable an understanding of the targets the undertaking has adopted to support its resource use and circular economy policy and to address its material impacts, risks and opportunities.
+
+23. The description of the targets shall contain the information requirements defined in ESRS 2 MDR-T Tracking effectiveness of policies and actions through targets. 
+
+24. The disclosure required by paragraph 21 shall indicate whether and how the undertaking’s targets relate to resource inflows and resource outflows, including waste and products and materials, and, more specifically to:
+
+	- (a) the increase of circular product design (including for instance design for durability, dismantling, reparability, recyclability etc); 
+	- (b) the increase of circular material use rate;
+	- (c) the minimization of primary raw material;
+	- (d) sustainable sourcing and use (in line with the cascading principle) of renewable resources;
+	- (e) the waste management, including preparation for proper treatment; and
+	- (f) other matters related to resource use or circular economy.
+
+25. The undertaking shall specify to which layer of the waste hierarchy the target relates. 
+
+26. In addition to ESRS 2 MDR-T, the undertaking may specify whether ecological thresholds and entity-specific allocations were taken into consideration when setting targets. If so, the undertaking may specify:
+
+	- (a) the ecological thresholds identified, and the methodology used to identify such thresholds;
+	- (b) whether or not the thresholds are entity-specific and if so, how they were determined; and
+	- (c) how responsibility for respecting identified ecological thresholds is allocated in the undertaking.
+
+27. The undertaking shall specify as part of the contextual information, whether the targets it has set and presented are mandatory (required by legislation) or voluntary.

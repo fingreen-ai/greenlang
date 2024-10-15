@@ -1,0 +1,21 @@
+## Disclosure Requirement S1-16 – Remuneration metrics (pay gap and total remuneration)
+
+95. The undertaking shall disclose the percentage gap in pay between its female and male employees and the ratio between the remuneration of its highest paid individual and the median remuneration for its employees.
+
+96. The objective of this Disclosure Requirement is twofold: to allow an understanding of the extent of any gap in the pay between women and men amongst the undertaking’s employees; and to provide insight into the level of remuneration inequality inside the undertaking and whether wide pay disparities exist.
+
+97. The disclosure required by paragraph 95 shall include:
+
+	- (a) the gender pay gap, defined as the difference of average pay levels between female and male employees, expressed as percentage of the average pay level of male employees (97);
+	- (b) the annual total remuneration ratio of the highest paid individual to the median annual total remuneration for all employees (excluding the highest-paid individual) (98); and
+	- (c) where applicable, any contextual information necessary to understand the data and how the data has been compiled and other changes to the underlying data that are to be considered.
+
+98. The undertaking may disclose a breakdown of the gender pay gap as defined in paragraph 97	- (a) by employee category and/or by country/segment. The undertaking may also disclose the gender pay gap between employees by categories of employees broken down by ordinary basic salary and complementary or variable components.
+
+99. In relation to paragraph 97 	- (b), the undertaking may report this figure adjusted for purchasing power differences between countries, in which case it shall report the methodology used for the calculation. 
+
+---
+
+(97) This information supports the information needs of: financial market participants subject to Regulation (EU) 2019/2088 because it is derived from a mandatory indicator related to principal adverse impacts as set out by indicator #12 in Table I of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Unadjusted gender pay gap”); and benchmark administrators to disclose ESG factors subject to Regulation (EU) 2020/1816 as set out by indicator "Weighted average gender pay gap" in section 1 and 2 of Annex II.
+
+(98) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #8 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Excessive CEO pay ratio”).

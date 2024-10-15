@@ -1,0 +1,21 @@
+## Disclosure Requirement E3-4 – Water consumption
+
+26. The undertaking shall disclose information on its water consumption performance related to its material impacts, risks, and opportunities.
+
+27. The objective of this Disclosure Requirement is to provide an understanding of the undertaking’s water consumption and any progress by the undertaking in relation to its targets.
+
+28. The disclosure required by paragraph 26 relates to own operations and shall include:
+
+	- (a) total water consumption in m3;
+	- (b) total water consumption in m3 in areas at water risk, including areas of high-water stress;
+	- (c) total water recycled and reused in m3; (68)
+	- (d) total water stored and changes in storage in m3; and
+	- (e) any contextual information necessary regarding points 	- (a) to 	- (d), including the water basins’ water quality and quantity, how the data have been compiled, such as any standards, methodologies, and assumptions used, including whether the information is calculated, estimated, modelled, or sourced from direct measurements, and the approach taken for this, such as the use of any sector-specific factors.
+
+29. The undertaking shall provide information on its water intensity: total water consumption in its own operations in m3 per million EUR net revenue (69).
+
+---
+
+(68) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #6.2 in Table II of Annex I of Commission Delegated Regulation (EU) 2022/1288 regarding disclosure rules on sustainable investments (“Water usage and recycling”, 2. Weighted average percentage of water recycled and reused by investee companies).
+
+(69) This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #6.1 in Table II of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Water usage and recycling”, 1. Average amount of water consumed by the investee companies (in cubic meters) per million EUR of revenue of investee companies). 

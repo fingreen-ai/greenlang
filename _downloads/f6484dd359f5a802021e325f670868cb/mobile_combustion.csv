@@ -1,0 +1,403 @@
+ghg_category,method,type,subtype,name,description,unit,total_co2_kg,source,source_year
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Bio Petrol,,l,"  0,01402",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Bio Petrol,,kg,"  0,01891",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel HVO,,l,"  0,03558",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel HVO,,kg,"  0,04562",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel ME,,l,"  0,16751",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel ME,,kg,"  0,18822",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel ME (from tallow),,l,"  0,16751",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel ME (from tallow),,kg,"  0,18822",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,l,"  0,16751",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biodiesel ME (from used cooking oil),,kg,"  0,18822",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Bioethanol,,l,"  0,00901",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Bioethanol,,kg,"  0,01135",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biomethane (compressed),,l,,,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biomethane (compressed),,kg,"  0,00521",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biomethane (liquified),,l,,,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biomethane (liquified),,kg,"  0,00521",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biopropane,,l,"  0,00214",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Biopropane,,kg,"  0,00415",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Methanol (bio),,l,"  0,00676",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Methanol (bio),,kg,"  0,00851",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Off road biodiesel,,l,"  0,16751",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Off road biodiesel,,kg,"  0,18822",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Renewable petrol,,l,"  0,01059",,
+mobile-combustion,fuel-amount-method,fuel,Biofuel,Renewable petrol,,kg,"  0,01188",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,CNG,,tonne,"2539,25",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,CNG,,l,"  0,44",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,LNG,,tonne,"2559,17",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,LNG,,l,"  1,16",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,LPG,,tonne,"2939,29",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,LPG,,l,"  1,56",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,Propane,,tonne,"2997,55",,
+mobile-combustion,fuel-amount-method,fuel,Gaseous fuels,Propane,,l,"  1,54",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Aviation spirit,,tonne,"3192,76",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Aviation spirit,,l,"  2,33",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Aviation turbine fuel,,tonne,"3181,43",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Aviation turbine fuel,,l,"  2,55",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,tonne,"3208,76",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Diesel (100% mineral diesel),,l,"  2,70",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Diesel (average biofuel blend),,tonne,"3032,89",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Diesel (average biofuel blend),,l,"  2,56",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Fuel oil,,tonne,"3229,20",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Fuel oil,,l,"  3,18",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Gas oil,,tonne,"3230,28",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Gas oil,,l,"  2,76",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Marine fuel oil,,tonne,"3159,50",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Marine fuel oil,,l,"  3,11",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Marine gas oil,,tonne,"3249,99",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Marine gas oil,,l,"  2,78",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,tonne,"3153,90",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Petrol (100% mineral petrol),,l,"  2,34",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Petrol (average biofuel blend),,tonne,"2903,08",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Petrol (average biofuel blend),,l,"  2,16",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,tonne,"3230,28",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - distillate oil,,l,"  2,76",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,tonne,"3229,20",,
+mobile-combustion,fuel-amount-method,fuel,Liquid fuels,Processed fuel oils - residual oil,,l,"  3,18",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Dual purpose 4X4,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Dual purpose 4X5,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Executive,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Lower medium,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Luxury,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Mini,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,MPV,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Sports,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Supermini,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Battery,Upper medium,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,202964",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,32665",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,174684",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,28114",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,144614",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,23274",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,212434",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,34189",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,108294",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,17429",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,177844",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,170414",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,27426",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,132764",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,21368",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,161974",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Diesel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,26068",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,2106",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,33892",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,21999",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,35404",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,17162",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,2762",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,32708",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,52638",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,13421",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,21598",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,19118",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,24145",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,38857",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,14802",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,23821",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,19923",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Petrol,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,32063",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,07471",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,12023",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,06897",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,111",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,06258",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,10072",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,092",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,14806",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,0518",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,07674",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,1235",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,02216",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,03567",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,06667",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Plug-in hybrid,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,10731",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Dual purpose 4X4,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",km,"0,20518",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Dual purpose 4X5,"These are sport utility vehicles (SUVs) which have off-road capabilities and four-wheel drive. Examples include: Suzuki Jimny, Land Rover Discovery and Defender, Toyota Land Cruiser, and Nissan Pathfinder.",mile,"0,3302",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",km,"0,18547",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Executive,"These are large cars. Examples include: BMW 5 Series, Audi A5 and A6, Mercedes Benz E Class and Skoda Superb.",mile,"0,29849",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",km,"0,15893",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Lower medium,"This is a small, compact family car. Examples include: Volkswagen Golf, Ford Focus, Opel Astra, Audi A3, BMW 1 Series, Renault Mégane and Toyota Auris.",mile,"0,25577",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",km,"0,26458",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Luxury,"This is a luxury car which is niche in the European market. Examples include: Jaguar XF, Mercedes-Benz S-Class, .BMW 7 series, Audi A8, Porsche Panamera and Lexus LS.",mile,"0,42581",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",km,"0,134",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Mini,"This is the smallest category of car sometimes referred to as a city car. Examples include: Citroën C1, Fiat/Alfa Romeo 500 and Panda, Peugeot 107, Volkswagen up!, Renault TWINGO, Toyota AYGO, smart fortwo and Hyundai i 10.",mile,"0,21566",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,MPV,"These are multipurpose cars. Examples include: Ford C-Max, Renault Scenic, Volkswagen Touran, Opel Zafira, Ford B-Max, and Citroën C3 Picasso and C4 Picasso.",km,"0,18146",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",km,"0,23006",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Sports,"Sport cars are a small, usually two seater with two doors and designed for speed, high acceleration, and manoeuvrability. Examples include: Mercedes-Benz SLK, Audi TT, Porsche 911 and Boxster, and Peugeot RCZ.",mile,"0,37025",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",km,"0,14601",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Supermini,"This is a car that is larger than a city car, but smaller than a small family car. Examples include: Ford Fiesta, Renault CLIO, Volkswagen Polo, Citroën C2 and C3, Opel Corsa, Peugeot 208, and Toyota Yaris",mile,"0,23498",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",km,"0,17031",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by market segment)|Unknown fuel,Upper medium,"This is classed as a large family car. Examples include: BMW 3 Series, ŠKODA Octavia, Volkswagen Passat, Audi A4, Mercedes Benz C Class and Peugeot 508.",mile,"0,27407",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Battery,Average car,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Battery,Large car,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Battery,Medium car,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Battery,Small car,,,,,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|CNG,Average car,Unknown engine size.,km,"0,17517",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|CNG,Average car,Unknown engine size.,mile,"0,2819",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|CNG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,23578",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|CNG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,37944",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|CNG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,15803",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|CNG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,25433",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Average car,Unknown engine size.,km,"0,17082",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Average car,Unknown engine size.,mile,"0,27492",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,20953",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,33722",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,168",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,27039",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,13989",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Diesel,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,22514",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Average car,Unknown engine size.,km,"0,12004",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Average car,Unknown engine size.,mile,"0,19318",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,15491",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,24929",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,10999",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,17702",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,10332",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Hybrid,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,16628",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|LPG,Average car,Unknown engine size.,km,"0,19775",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|LPG,Average car,Unknown engine size.,mile,"0,31823",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|LPG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,2668",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|LPG,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,42936",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|LPG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,17823",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|LPG,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,28682",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Average car,Unknown engine size.,km,"0,17048",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Average car,Unknown engine size.,mile,"0,27436",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",km,"0,27639",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Large car,"Petrol/LPG/CNG - 2.0-litre engine +
+Diesel - 2.0-litre engine +
+Others - vehicles models of a similar size (i.e. generally market segment D and above)",mile,"0,4448",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",km,"0,1847",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Medium car,"Petrol/LPG/CNG - from 1.4-litre to 2.0-litre engine
+Diesel - from 1.7-litre to 2.0-litre engine
+Others - vehicles models of a similar size (i.e. generally market segment C)",mile,"0,29724",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",km,"0,14652",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Petrol,Small car,"Petrol/LPG/CNG - up to a 1.4-litre engine
+Diesel - up to a 1.7-litre engine
+Others - vehicles models of a similar size (i.e. market segment A or B)",mile,"0,2358",,
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Average car,,km,0.0684,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Average car,,mile,0.11007,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Large car,,km,0.0741,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Large car,,mile,0.11924,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Medium car,,km,0.06475,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Medium car,,mile,0.10421,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Small car,,km,0.02216,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Plug-in hybrid,Small car,,mile,0.03567,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Average car,,km,0.17067,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Average car,,mile,0.27465,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Large car,,km,0.22733,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Large car,,mile,0.36584,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Medium car,,km,0.17588,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Medium car,,mile,0.28306,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Small car,,km,0.1444,,2023
+mobile-combustion,vehicle-type-method,vehicle,Cars (by size)|Unknown fuel,Small car,,mile,0.23239,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,92391",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"1,48688",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,89061",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"1,43329",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,84061",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"1,35282",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,78111",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"1,25706",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,93004",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"1,49674",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,99337",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"1,59868",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,49758",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,80078",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,"0,60793",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,"0,97838",,
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.6563,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.0562,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.67032,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.07877,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.69215,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.11389,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.64531,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.03851,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.65677,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.05696,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.79097,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.27294,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.46338,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,0.74574,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.55763,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,0.89742,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,1.0787,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.736,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,1.02944,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.65671,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.95522,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.53726,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.96112,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.54675,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,1.08375,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.74412,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,1.13291,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.82324,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.54291,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,0.87373,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.71483,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.15041,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.8675,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,All artics,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.3961,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.84988,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,All HGVs,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.36774,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.82368,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,All rigids,Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.32557,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.80322,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Articulated (>3.5 - 33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.29263,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.87026,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Articulated (>33t),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.40054,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.96194,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Rigid (>17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.54809,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.50315,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,0.80973,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,km,0.63623,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGV|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),Large goods vehicles with maximum weight exceeding 3.5 tonnes. These factors do not include refrigerated vehicles,mile,1.02392,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"1,06854",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,71964",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"1,04208",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,67706",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"1,0009",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,61079",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,90338",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,45384",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"1,07563",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,73105",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"1,18277",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,90349",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,59245",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"0,95345",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,"0,72384",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Average Laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,"1,16492",,
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.75829,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.22034,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.78375,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.26132,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.82378,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.32574,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.74595,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.20047,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.75882,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.22119,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.9413,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.51488,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.55165,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,0.88779,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.66383,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Empty,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.06833,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.248,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,2.00845,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.20489,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.93908,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.13763,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.83082,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.11207,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.78969,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.25384,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,2.01784,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.34924,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,2.17139,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.64653,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.04049,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.85138,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Full laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.37016,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.00314,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,All artics,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.6144,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.99432,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,All HGVs,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.6002,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.9807,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,All rigids,Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.57828,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.92901,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>3.5 - 33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.49508,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.00633,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Articulated (>33t),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.61952,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,1.14527,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.84314,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.59909,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>3.5 - 7.5 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,0.96414,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,km,0.7576,,2023
+mobile-combustion,vehicle-type-method,vehicle,HGVs refrigerated|Diesel - Half laden,Rigid (>7.5 tonnes-17 tonnes),Refrigerated road vehicles with maximum weight exceeding 3.5 tonnes.,mile,1.21925,,2023
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Average,Unknown engine size,km,"0,11355",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Average,Unknown engine size,mile,"0,18274",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Large,500cc +,km,"0,13245",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Large,500cc +,mile,"0,21315",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Medium,125cc to 500cc,km,"0,1009",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Medium,125cc to 500cc,mile,"0,16237",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Small,Mopeds/scooters up to 125cc.,km,"0,08306",,
+mobile-combustion,vehicle-type-method,vehicle,Motorbike,Small,Mopeds/scooters up to 125cc.,mile,"0,13369",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Battery,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,,,,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Battery,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,,,,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Battery,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,,,,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Battery,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,,,,
+mobile-combustion,vehicle-type-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,23575",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|CNG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,37939",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,23156",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,37268",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,14189",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,22836",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,17513",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,28186",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,25481",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Diesel,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,4101",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,25924",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|LPG,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,41721",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,21332",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,3433",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,19687",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Class I (up to 1.305 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,31683",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,20461",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Class II (1.305 to 1.74 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,32928",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,32607",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Petrol,Class III (1.74 to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,52475",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Unknown fuel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,km,"0,23099",,
+mobile-combustion,vehicle-type-method,vehicle,Vans|Unknown fuel,Average (up to 3.5 tonnes),Large goods vehicles (vans up to 3.5 tonnes).,mile,"0,37174",,

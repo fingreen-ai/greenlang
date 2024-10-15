@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html  lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Number of days lost to injuries, accidents, fatalities or illness" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://greenlang.fingreen.ai/regulations/unified_metrics/social/days_lost_count.html" />
+<meta property="og:site_name" content="Fingreen AI Greenlang" />
+<meta property="og:description" content="name: days_lost_count title_en: Number of days lost to injuries, accidents, fatalities or illness title_fr: Nombre de jours perdus en raison de blessures, d’accidents, de décès ou de maladies title..." />
+<meta property="og:image" content="https://fingreen.ai/static/web_landing/img/fingreen/about/greenlang_2.png" />
+<meta property="og:image:alt" content="Fingreen AI Greenlang" />
+<meta name="description" content="name: days_lost_count title_en: Number of days lost to injuries, accidents, fatalities or illness title_fr: Nombre de jours perdus en raison de blessures, d’accidents, de décès ou de maladies title..." />
+
+      <title>Number of days lost to injuries, accidents, fatalities or illness</title>
+    
+          <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+          <link rel="stylesheet" href="../../../_static/theme.css " type="text/css" />
+          <link rel="stylesheet" href="../../../_static/custom.css" type="text/css" />
+      
+      <!-- sphinx script_files -->
+        <script src="../../../_static/documentation_options.js?v=e3a6060d"></script>
+        <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+        <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+
+      
+      <!-- bundled in js (rollup iife) -->
+      <!-- <script src="../../../_static/theme-vendors.js"></script> -->
+      <script src="../../../_static/theme.js" defer></script>
+      <link rel="canonical" href="https://greenlang.fingreen.ai/regulations/unified_metrics/social/days_lost_count.html" />
+    
+  <link rel="index" title="Index" href="../../../genindex.html" />
+  <link rel="search" title="Search" href="../../../search.html" />
+  <link rel="next" title="Healthcare insurance" href="healthcare_insurance_bool.html" />
+  <link rel="prev" title="Work fatalities" href="fatalities_count.html" />
+
+  </head>
+
+  <body>
+    <div id="app">
+    <div class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+    <router-link to="../../../index.html" class="home-link">
+        <img src="/_static/logo.svg" alt="Greenlang logo" class="logo">
+        <span style="font-size: 1.5em;color:#073615;font-weight: 666">Greenlang</span>
+    </router-link>
+  
+    <div class="links">
+      <navlinks class="can-hide">
+
+
+
+        
+        <a href="https://github.com/fingreen-ai/greenlang" style="display: flex;align-items: center" target="_blank"> 
+            <img src="/_static/github-mark.svg" alt="GitHub" class="github-logo" width="20" style="margin-right:5px">
+            View on GitHub
+        </a>
+      </navlinks>
+    </div>
+  </navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="../../../search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="../../../index.html#greenlang">Contents</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../intro.html" class="reference internal ">Introduction</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../datasets/index.html" class="reference internal ">Datasets</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../index.html" class="reference internal ">Regulations</a>
+            
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 ">
+            
+              <a href="../../../calculations/index.html" class="reference internal ">Calculations</a>
+            
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="../../../index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="../../index.html">Regulations</a> &raquo;</li>
+    
+      <li><a href="../index.html">Environment</a> &raquo;</li>
+    
+    <li>Number of days lost to injuries, accidents, fatalities or illness</li>
+  </ul>
+  
+
+  <ul class="page-nav">
+  <li class="prev">
+    <a href="fatalities_count.html"
+       title="previous chapter">← <span class="xref myst">Work fatalities</span></a>
+  </li>
+  <li class="next">
+    <a href="healthcare_insurance_bool.html"
+       title="next chapter">Healthcare insurance →</a>
+  </li>
+</ul>
+  
+</div>
+<hr>
+          <div class="content" role="main" v-pre>
+            
+  <section id="number-of-days-lost-to-injuries-accidents-fatalities-or-illness">
+<h1>Number of days lost to injuries, accidents, fatalities or illness<a class="headerlink" href="#number-of-days-lost-to-injuries-accidents-fatalities-or-illness" title="Link to this heading">¶</a></h1>
+<section id="name">
+<h2>name<a class="headerlink" href="#name" title="Link to this heading">¶</a></h2>
+<p>days_lost_count</p>
+</section>
+<section id="title-en">
+<h2>title_en<a class="headerlink" href="#title-en" title="Link to this heading">¶</a></h2>
+<p>Number of days lost to injuries, accidents, fatalities or illness</p>
+</section>
+<section id="title-fr">
+<h2>title_fr<a class="headerlink" href="#title-fr" title="Link to this heading">¶</a></h2>
+<p>Nombre de jours perdus en raison de blessures, d’accidents, de décès ou de maladies</p>
+</section>
+<section id="title-es">
+<h2>title_es<a class="headerlink" href="#title-es" title="Link to this heading">¶</a></h2>
+<p>Número de días perdidos por lesiones, accidentes, fatalidades o enfermedades</p>
+</section>
+<section id="title-nl">
+<h2>title_nl<a class="headerlink" href="#title-nl" title="Link to this heading">¶</a></h2>
+<p>Aantal dagen verloren door letsel, ongevallen, sterfgevallen of ziekte</p>
+</section>
+<section id="title-it">
+<h2>title_it<a class="headerlink" href="#title-it" title="Link to this heading">¶</a></h2>
+<p>Numero di giorni persi per lesioni, incidenti, morti o malattie</p>
+</section>
+<section id="title-ro">
+<h2>title_ro<a class="headerlink" href="#title-ro" title="Link to this heading">¶</a></h2>
+<p>Numărul de zile pierdute din cauza leziunilor, accidentelor, deceselor sau bolilor</p>
+</section>
+<section id="title-pl">
+<h2>title_pl<a class="headerlink" href="#title-pl" title="Link to this heading">¶</a></h2>
+<p>Liczba dni utraconych z powodu obrażeń, wypadków, zgonów lub chorób</p>
+</section>
+<section id="item-type">
+<h2>item_type<a class="headerlink" href="#item-type" title="Link to this heading">¶</a></h2>
+<p>metric</p>
+</section>
+<section id="data-type">
+<h2>data_type<a class="headerlink" href="#data-type" title="Link to this heading">¶</a></h2>
+<p>positive_integer</p>
+</section>
+<section id="default-value">
+<h2>default_value<a class="headerlink" href="#default-value" title="Link to this heading">¶</a></h2>
+<p>0</p>
+</section>
+<section id="enums">
+<h2>enums<a class="headerlink" href="#enums" title="Link to this heading">¶</a></h2>
+</section>
+<section id="unit">
+<h2>unit<a class="headerlink" href="#unit" title="Link to this heading">¶</a></h2>
+<p>Workdays</p>
+</section>
+<section id="category-1">
+<h2>category_1<a class="headerlink" href="#category-1" title="Link to this heading">¶</a></h2>
+<p>social</p>
+</section>
+<section id="category-2">
+<h2>category_2<a class="headerlink" href="#category-2" title="Link to this heading">¶</a></h2>
+<p>health_safety</p>
+</section>
+<section id="description-en">
+<h2>description_en<a class="headerlink" href="#description-en" title="Link to this heading">¶</a></h2>
+<p>Estimates of lost working days are expressed as full-time equivalent (FTE) working days to take
+account of variation in the daily hours worked (for example, part-timers who may work a shorter day
+or people who work particularly long hours). FTE is a unit of measurement used to figure out the
+number of full-time hours worked by all employees in a business.</p>
+<p><strong>Regulatory Definition</strong></p>
+<p>According to the (EU) 2022/1288 of 6 April 2022, the metric is defined as “Number of workdays lost
+to injuries, accidents, fatalities or illness of investee companies expressed as a weighted
+average”.</p>
+</section>
+<section id="description-fr">
+<h2>description_fr<a class="headerlink" href="#description-fr" title="Link to this heading">¶</a></h2>
+<p>Les estimations des jours de travail perdus sont exprimées en jours de travail équivalents temps
+plein (ETP) pour tenir compte des variations des heures travaillées quotidiennement (par exemple,
+les travailleurs à temps partiel qui peuvent travailler une journée plus courte ou les personnes
+qui travaillent des horaires particulièrement longs). L’ETP est une unité de mesure utilisée pour
+déterminer le nombre d’heures à temps plein travaillées par tous les employés d’une entreprise.</p>
+<p><strong>Définition réglementaire</strong></p>
+<p>Selon le (UE) 2022/1288 du 6 avril 2022, la mesure est définie comme le “Nombre de jours de travail
+perdus en raison de blessures, d’accidents, de décès ou de maladies des entreprises dans lesquelles
+nous investissons, exprimé sous forme de moyenne pondérée”.</p>
+</section>
+<section id="description-es">
+<h2>description_es<a class="headerlink" href="#description-es" title="Link to this heading">¶</a></h2>
+<p>Las estimaciones de los días laborables perdidos se expresan en días laborables equivalentes a
+tiempo completo (ETP) para tener en cuenta la variación en las horas trabajadas diariamente (por
+ejemplo, los trabajadores a tiempo parcial que pueden trabajar un día más corto o las personas que
+trabajan horas especialmente largas). ETP es una unidad de medida utilizada para calcular el número
+de horas trabajadas a tiempo completo por todos los empleados de una empresa.</p>
+<p><strong>Definición Reglamentaria</strong></p>
+<p>Según el (UE) 2022/1288 del 6 de abril de 2022, la métrica se define como “Número de días laborables
+perdidos por lesiones, accidentes, fatalidades o enfermedades de las empresas en las que invertimos,
+expresado como un promedio ponderado”.</p>
+</section>
+<section id="description-nl">
+<h2>description_nl<a class="headerlink" href="#description-nl" title="Link to this heading">¶</a></h2>
+<p>Schattingen van verloren werkdagen worden uitgedrukt als voltijdse equivalenten (FTE) werkdagen om
+rekening te houden met variatie in de dagelijkse gewerkte uren (bijvoorbeeld deeltijders die een
+kortere dag werken of mensen die bijzonder lange uren werken). FTE is een meeteenheid die wordt
+gebruikt om het aantal voltijdsuren te berekenen dat door alle werknemers in een bedrijf wordt
+gewerkt.</p>
+<p><strong>Regulerende definitie</strong></p>
+<p>Volgens de (EU) 2022/1288 van 6 april 2022 wordt de metriek gedefinieerd als “Aantal werkdagen
+verloren door letsel, ongevallen, sterfgevallen of ziekte van de bedrijven waarin we investeren,
+uitgedrukt als een gewogen gemiddelde”.</p>
+</section>
+<section id="description-it">
+<h2>description_it<a class="headerlink" href="#description-it" title="Link to this heading">¶</a></h2>
+<p>Le stime dei giorni lavorativi persi sono espressi come giorni lavorativi equivalenti a tempo pieno
+(FTE) per tenere conto della variazione nelle ore lavorate giornalmente (ad esempio, i lavoratori
+part-time che possono lavorare una giornata più corta o le persone che lavorano ore particolarmente
+lunghe). FTE è un’unità di misura utilizzata per calcolare il numero di ore lavorate a tempo pieno
+da tutti i dipendenti di un’azienda.</p>
+<p><strong>Definizione regolamentare</strong></p>
+<p>Secondo il (UE) 2022/1288 del 6 aprile 2022, la metrica è definita come “Numero di giorni lavorativi
+persi per lesioni, incidenti, morti o malattie delle aziende in cui investiamo, espresso come media
+ponderata”.</p>
+</section>
+<section id="description-ro">
+<h2>description_ro<a class="headerlink" href="#description-ro" title="Link to this heading">¶</a></h2>
+<p>Estimările zilelor de lucru pierdute sunt exprimate ca zile echivalente de lucru cu normă întreagă
+(FTE) pentru a ține cont de variația în orele lucrate zilnic (de exemplu, angajații cu normă
+parțială care pot lucra o zi mai scurtă sau persoanele care lucrează ore deosebit de lungi). FTE
+este o unitate de măsură utilizată pentru a calcula numărul de ore lucrate cu normă întreagă de
+toți angajații unei afaceri.</p>
+<p><strong>Definiție Reglementară</strong></p>
+<p>Conform (UE) 2022/1288 din 6 aprilie 2022, metrica este definită ca “Numărul de zile lucrătoare
+pierdute din cauza leziunilor, accidentelor, deceselor sau bolilor din companiile în care investim,
+exprimat ca medie ponderată”.</p>
+</section>
+<section id="description-pl">
+<h2>description_pl<a class="headerlink" href="#description-pl" title="Link to this heading">¶</a></h2>
+<p>Szacunki utraconych dni roboczych są wyrażane jako dni robocze równoważne pełnego etatu (FTE), aby
+uwzględnić zmienność w dziennej liczbie godzin pracy (na przykład pracownicy na część etatu, którzy
+mogą pracować krótszy dzień lub osoby, które pracują szczególnie długo). FTE to jednostka miary
+używana do obliczenia liczby godzin pracy w pełnym wymiarze czasu pracy przez wszystkich pracowników
+w firmie.</p>
+<p><strong>Definicja Regulacyjna</strong></p>
+<p>Zgodnie z (UE) 2022/1288 z 6 kwietnia 2022 r., metryka jest definiowana jako “Liczba dni roboczych
+utraconych z powodu obrażeń, wypadków, zgonów lub chorób w firmach, w które inwestujemy, wyrażona
+jako średnia ważona”.</p>
+</section>
+<section id="value-question-en">
+<h2>value_question_en<a class="headerlink" href="#value-question-en" title="Link to this heading">¶</a></h2>
+<p>How many total equivalent workdays were lost to work-related injuries, accidents, fatalities or
+illness, during the period?</p>
+</section>
+<section id="value-question-fr">
+<h2>value_question_fr<a class="headerlink" href="#value-question-fr" title="Link to this heading">¶</a></h2>
+<p>Combien de journées de travail équivalentes au total ont été perdues à cause de blessures,
+d’accidents, de décès ou de maladies liés au travail, au cours de la période ?</p>
+</section>
+<section id="value-question-es">
+<h2>value_question_es<a class="headerlink" href="#value-question-es" title="Link to this heading">¶</a></h2>
+<p>¿Cuántos días de trabajo equivalentes totales se perdieron debido a lesiones, accidentes, muertes o
+enfermedades relacionadas con el trabajo durante el período?</p>
+</section>
+<section id="value-question-nl">
+<h2>value_question_nl<a class="headerlink" href="#value-question-nl" title="Link to this heading">¶</a></h2>
+<p>Hoeveel totale equivalenten van werkdagen gingen verloren door werkgerelateerde letsels,
+ongevallen, sterfgevallen of ziekte, gedurende de periode?</p>
+</section>
+<section id="value-question-it">
+<h2>value_question_it<a class="headerlink" href="#value-question-it" title="Link to this heading">¶</a></h2>
+<p>Quanti giorni lavorativi equivalenti totali sono stati persi a causa di lesioni, incidenti, morti
+o malattie correlate al lavoro, durante il periodo?</p>
+</section>
+<section id="value-question-ro">
+<h2>value_question_ro<a class="headerlink" href="#value-question-ro" title="Link to this heading">¶</a></h2>
+<p>Câte zile de lucru echivalente au fost pierdute din cauza leziunilor, accidentelor, deceselor sau
+bolilor legate de muncă, pe parcursul perioadei?</p>
+</section>
+<section id="value-question-pl">
+<h2>value_question_pl<a class="headerlink" href="#value-question-pl" title="Link to this heading">¶</a></h2>
+<p>Ile całkowitych równoważników dni roboczych zostało utraconych z powodu obrażeń, wypadków, zgonów
+lub chorób związanych z pracą, w okresie?</p>
+</section>
+<section id="summary-en">
+<h2>summary_en<a class="headerlink" href="#summary-en" title="Link to this heading">¶</a></h2>
+<p>Lost days refer to the total number of work days that are lost (usually scheduled days) as a result
+of a worker’s injury or illness.</p>
+</section>
+<section id="summary-fr">
+<h2>summary_fr<a class="headerlink" href="#summary-fr" title="Link to this heading">¶</a></h2>
+<p>Les jours perdus font référence au nombre total de jours de travail perdus (généralement des jours
+programmés) en raison d’une blessure ou d’une maladie d’un travailleur.</p>
+</section>
+<section id="summary-es">
+<h2>summary_es<a class="headerlink" href="#summary-es" title="Link to this heading">¶</a></h2>
+<p>Los días perdidos se refieren al número total de días laborables que se pierden (generalmente días
+programados) como resultado de una lesión o enfermedad de un trabajador.</p>
+</section>
+<section id="summary-nl">
+<h2>summary_nl<a class="headerlink" href="#summary-nl" title="Link to this heading">¶</a></h2>
+<p>Verloren dagen verwijzen naar het totale aantal werkdagen dat verloren gaat (meestal geplande dagen)
+als gevolg van een blessure of ziekte van een werknemer.</p>
+</section>
+<section id="summary-it">
+<h2>summary_it<a class="headerlink" href="#summary-it" title="Link to this heading">¶</a></h2>
+<p>I giorni persi si riferiscono al numero totale di giorni lavorativi persi (generalmente giorni
+programmati) a seguito di un’infortunio o di una malattia di un lavoratore.</p>
+</section>
+<section id="summary-ro">
+<h2>summary_ro<a class="headerlink" href="#summary-ro" title="Link to this heading">¶</a></h2>
+<p>Zilele pierdute se referă la numărul total de zile lucrătoare pierdute (de obicei zile programate)
+ca urmare a unei leziuni sau bolii unui lucrător.</p>
+</section>
+<section id="summary-pl">
+<h2>summary_pl<a class="headerlink" href="#summary-pl" title="Link to this heading">¶</a></h2>
+<p>Utracone dni odnoszą się do całkowitej liczby dni roboczych, które są tracone (zwykle zaplanowane
+dni) w wyniku obrażeń lub choroby pracownika.</p>
+</section>
+<section id="compute-en">
+<h2>compute_en<a class="headerlink" href="#compute-en" title="Link to this heading">¶</a></h2>
+</section>
+<section id="compute-fr">
+<h2>compute_fr<a class="headerlink" href="#compute-fr" title="Link to this heading">¶</a></h2>
+</section>
+<section id="compute-es">
+<h2>compute_es<a class="headerlink" href="#compute-es" title="Link to this heading">¶</a></h2>
+</section>
+<section id="compute-nl">
+<h2>compute_nl<a class="headerlink" href="#compute-nl" title="Link to this heading">¶</a></h2>
+</section>
+<section id="compute-it">
+<h2>compute_it<a class="headerlink" href="#compute-it" title="Link to this heading">¶</a></h2>
+</section>
+<section id="compute-ro">
+<h2>compute_ro<a class="headerlink" href="#compute-ro" title="Link to this heading">¶</a></h2>
+</section>
+<section id="compute-pl">
+<h2>compute_pl<a class="headerlink" href="#compute-pl" title="Link to this heading">¶</a></h2>
+</section>
+<section id="examples-en">
+<h2>examples_en<a class="headerlink" href="#examples-en" title="Link to this heading">¶</a></h2>
+<p>Days lost due to cases of occupational injury with temporary incapacity for work. Examples of such
+cases include falling from a height, manual mishandling of work-related machinery and faulty
+equipment usage.</p>
+</section>
+<section id="examples-fr">
+<h2>examples_fr<a class="headerlink" href="#examples-fr" title="Link to this heading">¶</a></h2>
+<p>Jours perdus en raison de cas d’accident du travail avec incapacité temporaire de travail. De
+exemples de tels cas incluent les chutes de hauteur, la mauvaise manipulation manuelle des machines
+liées au travail et l’utilisation défectueuse des équipements.</p>
+</section>
+<section id="examples-es">
+<h2>examples_es<a class="headerlink" href="#examples-es" title="Link to this heading">¶</a></h2>
+<p>Días perdidos debido a casos de lesiones laborales con incapacidad temporal para trabajar. Ejemplos
+de tales casos incluyen caídas desde una altura, manipulación manual de maquinaria relacionada co
+el trabajo y uso defectuoso de equipos.</p>
+</section>
+<section id="examples-nl">
+<h2>examples_nl<a class="headerlink" href="#examples-nl" title="Link to this heading">¶</a></h2>
+<p>Dagen verloren als gevolg van gevallen van arbeidsongevallen met tijdelijke arbeidsongeschiktheid.
+Voorbeelden van dergelijke gevallen zijn vallen van een hoogte, hand matige mishandeling van machines
+die verband houden met het werk en foutief gebruik van apparatuur.</p>
+</section>
+<section id="examples-it">
+<h2>examples_it<a class="headerlink" href="#examples-it" title="Link to this heading">¶</a></h2>
+<p>Giorni persi a causa di casi di infortunio sul lavoro con temporanea incapacità lavorativa.
+Esempi di tali casi includono cadute da un’altezza, maneggiamento manuale di macchinari legati al
+lavoro e uso difettoso di attrezzature.</p>
+</section>
+<section id="examples-ro">
+<h2>examples_ro<a class="headerlink" href="#examples-ro" title="Link to this heading">¶</a></h2>
+<p>Zile pierdute din cauza cazurilor de accidente de muncă cu incapacitate temporară de muncă. Exemple
+de astfel de cazuri includ căderi de la înălțime, manipularea manuală a mașinilor legate de muncă și
+utilizarea defectuoasă a echipamentelor.</p>
+</section>
+<section id="examples-pl">
+<h2>examples_pl<a class="headerlink" href="#examples-pl" title="Link to this heading">¶</a></h2>
+<p>Dni utracone z powodu przypadków urazów zawodowych z czasową niezdolnością do pracy. Przykłady
+takich przypadków obejmują upadki z wysokości, ręczne niewłaściwe obchodzenie się z maszynami
+związanymi z pracą i wadliwe użycie sprzętu.</p>
+</section>
+<section id="support-docs-en">
+<h2>support_docs_en<a class="headerlink" href="#support-docs-en" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>Lost Time Injury KPI</p></li>
+<li><p>Lost Time Injury Frequency Rate (LTIFR) KPI</p></li>
+</ul>
+</section>
+<section id="support-docs-fr">
+<h2>support_docs_fr<a class="headerlink" href="#support-docs-fr" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>KPI des accidents avec arrêt de travail</p></li>
+<li><p>KPI du taux de fréquence des accidents avec arrêt de travail (LTIFR)</p></li>
+</ul>
+</section>
+<section id="support-docs-es">
+<h2>support_docs_es<a class="headerlink" href="#support-docs-es" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>KPI de lesiones con tiempo perdido</p></li>
+<li><p>KPI de la tasa de frecuencia de lesiones con tiempo perdido (LTIFR)</p></li>
+</ul>
+</section>
+<section id="support-docs-nl">
+<h2>support_docs_nl<a class="headerlink" href="#support-docs-nl" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>KPI voor verloren werktijd door letsel</p></li>
+<li><p>KPI voor de frequentie van verloren werktijd door letsel (LTIFR)</p></li>
+</ul>
+</section>
+<section id="support-docs-it">
+<h2>support_docs_it<a class="headerlink" href="#support-docs-it" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>KPI delle lesioni con tempo perso</p></li>
+<li><p>KPI del tasso di frequenza delle lesioni con tempo perso (LTIFR)</p></li>
+</ul>
+</section>
+<section id="support-docs-ro">
+<h2>support_docs_ro<a class="headerlink" href="#support-docs-ro" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>KPI pentru leziuni cu timp pierdut</p></li>
+<li><p>KPI pentru rata de frecvență a leziunilor cu timp pierdut (LTIFR)</p></li>
+</ul>
+</section>
+<section id="support-docs-pl">
+<h2>support_docs_pl<a class="headerlink" href="#support-docs-pl" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>KPI strat z powodu urazów</p></li>
+<li><p>KPI wskaźnika częstotliwości strat z powodu urazów (LTIFR)</p></li>
+</ul>
+</section>
+<section id="sources">
+<h2>sources<a class="headerlink" href="#sources" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://eur-lex.europa.eu/eli/reg_del/2022/1288/oj">Commission Delegated Regulation (EU) 2022/1288 of 6 April 2022 supplementing Regulation (EU) 2019/2088 of the European Parliament and of the Council with regard to regulatory technical standards specifying the details of the content and presentation of the information in relation to the principle of do no significant harm</a>.
+ANNEX I (Table 3, Additional indicators for social and employee, respect for human rights,
+anti-corruption and anti-bribery matters, Social and employee matters, Indicator 3</p></li>
+</ul>
+</section>
+<section id="index">
+<h2>index<a class="headerlink" href="#index" title="Link to this heading">¶</a></h2>
+<p>81</p>
+</section>
+<section id="collection-templates">
+<h2>collection_templates<a class="headerlink" href="#collection-templates" title="Link to this heading">¶</a></h2>
+<p>sfdr_v1</p>
+</section>
+<section id="publish">
+<h2>publish<a class="headerlink" href="#publish" title="Link to this heading">¶</a></h2>
+<p>true</p>
+</section>
+</section>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"><ul class="page-nav">
+  <li class="prev">
+    <a href="fatalities_count.html"
+       title="previous chapter">← <span class="xref myst">Work fatalities</span></a>
+  </li>
+  <li class="next">
+    <a href="healthcare_insurance_bool.html"
+       title="next chapter">Healthcare insurance →</a>
+  </li>
+</ul><div class="footer" role="contentinfo">
+    <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+        <a property="dct:title" rel="cc:attributionURL" href="https://greenlang.fingreen.ai"
+            target="_blank">Greenlang</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName"
+            href="https://fingreen.ai" target="_blank">Fingreen AI</a>
+        is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank"
+            rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img
+                style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+                src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a>
+        for this website and its contents and under 3-Clause BSD License for the source code hosted on  <a href="https://github.com/fingreen-ai/greenlang" target="_blank">Github</a>.
+    </p>
+    &#169; Copyright 2024, Fingreen AI.
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 8.1.3 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a> 0.9.1.
+</div>
+
+            </div>
+          </div>
+      </page>
+    </div></div>
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBQ6N7B6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  </body>
+</html>

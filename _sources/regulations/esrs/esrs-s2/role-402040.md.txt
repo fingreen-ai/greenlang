@@ -1,0 +1,55 @@
+## Disclosure Requirement S2-4 – Taking action on material impacts on value chain workers, and approaches to managing material risks and pursuing material opportunities related to value chain workers, and effectiveness of those actions
+
+30. The undertaking shall disclose how it takes action to address material impacts on value chain workers, and to manage material risks and pursue material opportunities related to value chain workers and the effectiveness of those actions.
+
+31. The objective of this Disclosure Requirement is twofold. Firstly, it is to enable an understanding of any actions or initiatives through which the undertaking seeks to:
+
+	- (a) prevent, mitigate and remediate the negative material impacts on value chain workers; and/or
+
+	- (b) achieve positive material impacts for value chain workers.
+
+Secondly, it is to enable an understanding of the ways in which the undertaking is addressing the material risks and pursuing the material opportunities related to workers in the value chain.
+
+The undertaking shall provide a summarised description of the action plans and resources to manage its material impacts, risks, and opportunities related to value chain workers as per ESRS 2 MDR-A Actions and resources in relation to material sustainability matters.
+
+32. In relation to material impacts, the undertaking shall describe:
+
+	- (a) actions taken, planned or underway to prevent or mitigate material negative impacts on value chain workers;
+
+	- (b) whether and how it has taken action to provide or enable remedy in relation to an actual material impact;
+
+	- (c) any additional actions or initiatives it has in place with the primary purpose of delivering positive impacts for value chain workers; and
+
+	- (d) how it tracks and assesses the effectiveness of such actions and initiatives in delivering intended outcomes for value chain workers.
+
+33. In relation to paragraph 30, the undertaking shall describe:
+
+	- (a) the processes through which it identifies what action is needed and appropriate in response to a particular actual or potential negative impact on value chain workers;
+
+	- (b) its approach to taking action in relation to specific material negative impacts on value chain workers, including any action in relation to its own purchasing or other internal practices, as well as capacity-building or other forms of engagement with entities in the value chain, or forms of collaborative action with industry peers or other relevant parties; and
+
+	- (c) how it ensures that processes to provide or enable remedy in the event of material negative impacts are available and effective in their implementation and outcomes.
+
+34. In relation to material risks and opportunities, the undertaking shall describe:
+
+	- (a) what action is planned or underway to mitigate material risks for the undertaking arising from its impacts and dependencies on value chain workers and how it tracks effectiveness in practice; and
+
+	- (b) what action is planned or underway to pursue material opportunities for the undertaking in relation to value chain workers.
+
+35. Disclosure of actions to avoid negative impacts
+
+The undertaking shall disclose whether and how it takes action to avoid causing or contributing to material negative impacts on value chain workers through its own practices, including, where relevant, in relation to procurement, sales, and data use. This may include disclosing what approach is taken when tensions arise between the prevention or mitigation of material negative impacts and other business pressures.
+
+36. Disclosure of severe human rights issues
+
+The undertaking shall also disclose whether severe human rights issues and incidents connected to its upstream and downstream value chain have been reported and, if applicable, disclose these. (111)
+
+37. Consideration of ESRS 2
+
+When disclosing the information required under paragraph 32 	- (c), the undertaking shall consider ESRS 2 (see ESRS 2 MDR-T Tracking effectiveness of policies and actions through targets) if it evaluates the effectiveness of an action by setting a target.
+
+38. Disclosure of allocated resources
+
+The undertaking shall disclose what resources are allocated to the management of its material impacts, with information that enables users to gain an understanding of how the material impacts are managed. 
+
+**(111)  This information supports the information needs of financial market participants subject to Regulation (EU) 2019/2088 because it is derived from an additional indicator related to principal adverse impacts as set out by indicator #14 in Table III of Annex I of Commission Delegated Regulation (EU) 2022/1288 with regard to disclosure rules on sustainable investments (“Number of identified cases of severe human rights issues and incidents”).**
