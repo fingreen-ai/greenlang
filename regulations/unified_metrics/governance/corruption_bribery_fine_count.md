@@ -4,13 +4,33 @@
 
 corruption_bribery_fine_count
 
-### name_en
+### title_en
 
 Convictions and fines for violation of anti-corruption and anti-bribery laws
 
-### name_fr
+### title_fr
 
 Condamnations et amendes pour violation des lois anti-corruption et anti-pots-de-vin
+
+### title_es
+
+Condenas y multas por violación de leyes anticorrupción y antisoborno
+
+### title_nl
+
+Veroordelingen en boetes voor overtreding van anti-corruptie- en anti-omkopingswetten
+
+### title_it
+
+Condanne e multe per violazione delle leggi anticorruzione e anti-corruttela
+
+### title_ro
+
+Condamnări și amenzi pentru încălcarea legilor anticorupție și anti-mită
+
+### title_pl
+
+Wyroki skazujące i kary za naruszenie przepisów antykorupcyjnych i antyprzestępczych
 
 ### item_type
 
@@ -63,6 +83,64 @@ que ce soit par le biais de pots-de-vin ou d'autres moyens.
 Nombre de condamnations et montant des amendes pour violations des lois anti-corruption et
 anti-corruption par les sociétés dans lesquelles nous investissons.
 
+### description_es
+
+El soborno es el acto de dar o recibir algo de valor a cambio de influencia o acción, generalmente
+para obtener un beneficio personal. La corrupción, por otro lado, es un término más amplio que
+se refiere al abuso de poder o posición para obtener un beneficio personal, ya sea a través de
+sobornos u otros medios.
+
+***Definición Reglamentaria***
+
+Número de condenas y monto de multas por violaciones de leyes anticorrupción y antisoborno por
+parte de las empresas en las que invertimos.
+
+### description_nl
+
+Omkoping is het geven of ontvangen van iets van waarde in ruil voor invloed of actie, meestal voor
+persoonlijk gewin. Corruptie daarentegen is een breder begrip dat verwijst naar het misbruik van
+macht of positie voor persoonlijk gewin, of het nu gaat om omkoping of andere middelen.
+
+***Regelgevende definitie***
+
+Aantal veroordelingen en bedragen van boetes voor overtredingen van anti-corruptie- en
+anti-omkopingswetten door bedrijven waarin we investeren.
+
+### description_it
+
+La corruzione è l'atto di dare o ricevere qualcosa di valore in cambio di influenza o azione,
+generalmente per un guadagno personale. La corruzione, d'altra parte, è un termine più ampio
+che si riferisce all'abuso di potere o posizione per un guadagno personale, sia attraverso la
+corruzione che con altri mezzi.
+
+***Definizione normativa***
+
+Numero di condanne e importo delle multe per violazioni delle leggi anticorruzione e anti-corruttela
+da parte delle società in cui investiamo.
+
+### description_ro
+
+Mituirea este actul de a oferi sau primi ceva de valoare în schimbul influenței sau acțiunii,
+de obicei în scop personal. Corupția, pe de altă parte, este un termen mai larg care se referă
+la abuzul de putere sau poziție în scop personal, fie prin mituire, fie prin alte mijloace.
+
+***Definiție reglementară***
+
+Numărul de condamnări și cuantumul amenzilor pentru încălcări ale legilor anticorupție și anti-mită
+de către companiile în care investim.
+
+### description_pl
+
+Przekupstwo to akt dawania lub otrzymywania czegoś wartościowego w zamian za wpływ lub działanie,
+zwykle dla osobistego zysku. Korupcja z kolei to szersze pojęcie, które odnosi się do nadużywania
+władzy lub stanowiska dla osobistego zysku, czy to poprzez przekupstwo, czy inne środki.
+
+***Definicja regulacyjna***
+
+Liczba skazań i kwota kar za naruszenia przepisów antykorupcyjnych i antyprzestępczych przez
+spółki, w które inwestujemy.
+
+
 ### value_question_en
 
 How many convictions and fines for violations of anticorruption and anti-bribery laws did the
@@ -72,6 +150,32 @@ company encounter, during the period?
 
 Combien de condamnations et d'amendes pour violation des lois anti-corruption et anti-pots-de-vin
 l'entreprise a-t-elle rencontrée au cours de la période?
+
+### value_question_es
+
+¿Comien de condenaciones y enmiendas para violar las leyes anticorrupción y anti-pots-de-vin
+l'entreprise a-t-elle rencontrée au cours de la période?
+
+### value_question_nl
+
+Hoeveel veroordelingen en boetes voor overtredingen van anti-corruptie- en anti-omkopingswetten heeft
+het bedrijf in de periode ondervonden?
+
+### value_question_it
+
+Quante condanne e multe per violazioni delle leggi anticorruzione e anti-corruttela ha incontrato
+l'azienda, durante il periodo?
+
+### value_question_ro
+
+Câte condamnări și amenzi pentru încălcări ale legilor anticorupție și anti-mită a întâmpinat
+compania, pe parcursul perioadei?
+
+### value_question_pl
+
+Ile wyroków skazujących i kar za naruszenie przepisów antykorupcyjnych i antyprzestępczych firma
+spotkała w okresie?
+
 
 ### summary_en
 
@@ -83,12 +187,45 @@ or bribery during the reporting period and the related outcomes.
 L’objectif de cet indicateur est d’assurer la transparence sur les incidents liés à la corruption
 ou aux pots-de-vin survenus au cours de la période de référence et les résultats associés.
 
+### summary_es
+
+El objetivo de este indicador es proporcionar transparencia sobre los incidentes relacionados con
+la corrupción o el soborno durante el período del informe y los resultados relacionados.
+
+### summary_nl
+
+Het doel van deze indicator is om transparantie te bieden over de incidenten met betrekking tot
+corruptie of omkoping gedurende de rapportageperiode en de bijbehorende resultaten.
+
+### summary_it
+
+L'obiettivo di questo indicatore è fornire trasparenza sugli incidenti relativi alla corruzione o
+alla corruzione durante il periodo di riferimento e i risultati correlati.
+
+### summary_ro
+
+Scopul acestui indicator este de a oferi transparență cu privire la incidentele legate de corupție
+sau mituire în perioada de raportare și rezultatele aferente.
+
+### summary_pl
+
+Celem tego wskaźnika jest zapewnienie przejrzystości w zakresie incydentów związanych z korupcją
+lub przekupstwem w okresie sprawozdawczym i związanych z nimi wyników.
+
+
 ### compute_en
-
-
 
 ### compute_fr
 
+### compute_es
+
+### compute_nl
+
+### compute_it
+
+### compute_ro
+
+### compute_pl
 
 
 ### examples_en
@@ -105,6 +242,42 @@ l’échange d’informations internes d’une entreprise. L’Office européen 
 (OLAF) enquête sur les manquements de l’entreprise et trouve des preuves de corruption.
 L'entreprise est désormais persécutée et doit payer une lourde amende en guise de sanction.
 
+### examples_es
+
+Un ejemplo de este tipo de casos sería el soborno a un funcionario público para obtener un contrato
+o el intercambio de información interna de una empresa. La Oficina Europea de Lucha contra el Fraude
+(OLAF) investiga la mala conducta de la empresa y encuentra pruebas de corrupción. Ahora la empresa
+está siendo perseguida y tiene que pagar una gran multa como sanción.
+
+### examples_nl
+
+Een voorbeeld van zulke gevallen is het omkopen van een ambtenaar om een ​​contract binnen te halen
+of het verhandelen van interne informatie van een bedrijf. Het Europees Bureau voor fraudebestrijding
+(OLAF) onderzoekt het wangedrag van het bedrijf en vindt bewijs van corruptie. Het bedrijf wordt nu
+vervolgd en moet als straf een hoge boete betalen.
+
+### examples_it
+
+Un esempio di tali casi sarebbe la corruzione di un funzionario pubblico per vincere un contratto o
+lo scambio di informazioni interne da un'azienda. L'Ufficio europeo per la lotta antifrode (OLAF)
+indaga sulla cattiva condotta dell'azienda e trova prove di corruzione. L'azienda è ora perseguita
+e deve pagare una multa elevata come sanzione.
+
+### examples_ro
+
+Un exemplu de astfel de cazuri ar fi mituirea unui funcționar public pentru a câștiga un contract
+sau tranzacționarea informațiilor interne ale unei companii. Oficiul European de Luptă Antifraudă
+(OLAF) investighează neregulile companiei și găsește dovezi de corupție. Compania este acum
+persecutată și trebuie să plătească o amendă mare ca penalizare.
+
+### examples_pl
+
+Przykładem takich przypadków byłoby przekupienie urzędnika publicznego w celu wygrania kontraktu
+lub handel wewnętrznymi informacjami z firmy. Europejski Urząd ds. Zwalczania Nadużyć Finansowych
+(OLAF) prowadzi dochodzenie w sprawie nadużyć firmy i znajduje dowody korupcji. Firma jest teraz
+ścigana i musi zapłacić wysoką karę jako karę.
+
+
 ### support_docs_en
 
 - Incident and/or case-related legal lawsuits
@@ -118,6 +291,42 @@ L'entreprise est désormais persécutée et doit payer une lourde amende en guis
 - Politiques anti-corruption ou anti-corruption conformes à la Convention des Nations Unies contre la corruption
 - Mise en œuvre du Pacte Mondial des Nations Unies
 - Les politiques alignées sur la Convention anti-corruption de l'OCDE
+
+### support_docs_es
+
+- Demandas legales relacionadas con incidentes y/o casos
+- Políticas sobre anticorrupción o anti-soborno coherentes con la Convención de las Naciones Unidas contra la corrupción
+- Implementación del Pacto Mundial de las Naciones Unidas
+- Políticas alineadas con la Convención de la OCDE contra la corrupción
+
+### support_docs_nl
+
+- Incident- en/of zaakgerelateerde juridische procedures
+- Beleid inzake anti-corruptie of anti-omkoping in overeenstemming met het Verdrag van de Verenigde Naties tegen corruptie
+- Implementatie van het Global Compact van de Verenigde Naties
+- Beleid in overeenstemming met het Verdrag inzake omkoping van de OESO
+
+### support_docs_it
+
+- Cause legali relative a incidenti e/o casi
+- Politiche anticorruzione o anti-corruttela conformi alla Convenzione delle Nazioni Unite contro la corruzione
+- Implementazione del Global Compact delle Nazioni Unite
+- Politiche allineate alla Convenzione anticorruzione dell'OCSE
+
+### support_docs_ro
+
+- Procese legale legate de incidente și/sau cauze
+- Politici de combatere a corupției sau antimită în conformitate cu Convenția Națiunilor Unite împotriva corupției
+- Implementarea Pactului Global al ONU
+- Convenția OCDE privind luarea de mită a aliniat politicile
+
+### support_docs_pl
+
+- Incydenty i/lub związane z nimi sprawy sądowe
+- Polityki antykorupcyjne lub antyprzestępcze zgodne z Konwencją Narodów Zjednoczonych przeciwko korupcji
+- Wdrożenie Globalnego Paktu ONZ
+- Polityki zgodne z Konwencją OECD w sprawie przekupstwa
+
 
 ### sources
 
